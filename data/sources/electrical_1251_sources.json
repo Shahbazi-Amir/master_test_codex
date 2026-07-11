@@ -1,0 +1,16 @@
+{
+  "exam_code": "1251",
+  "exam_title": "کارشناسی ارشد مهندسی برق",
+  "policy": "Only extracted_verified records may appear in the exam UI. No sample or synthetic questions are allowed in the main exam.",
+  "years": [
+    {"year": 1404, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1403, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1402, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1401, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1400, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1399, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1398, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1397, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."},
+    {"year": 1396, "source_type": "source_index", "source_status": "needs_pdf_verification", "extraction_status": "not_extracted", "verified_question_count": 0, "notes": "سؤال و کلید باید از PDF واقعی و منبع معتبر استخراج و بعد از کنترل دستی ثبت شود."}
+  ]
+}
