@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for master-test-codex-izggtq on 2026-07-11T14:40:40Z
+# fly.toml app configuration file generated for master-test-codex-kocwza on 2026-07-11T15:18:01Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'master-test-codex-izggtq'
+app = 'master-test-codex-kocwza'
 primary_region = 'ams'
 
 [build]
