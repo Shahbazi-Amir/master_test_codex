@@ -39,9 +39,12 @@ jobs:
         run: |
           python -m py_compile master_exam_ui.py tools/build_computer_exams.py
           test "$(find assets/questions/computer_engineering -type f | wc -l)" -eq 345
+          rm -rf assets/questions/1404
+          rm -f assets/source/arshad_bargh_1404_1251.pdf
+          rm -f data/questions/exam_1404.json data/answer_keys/key_1404.json
+          rm -f tools/build_exam_1404.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/source/computer_engineering assets/questions/computer_engineering data/questions/computer_engineering data/answer_keys/computer_engineering
-          git commit -m "Publish Computer Engineering 1277 exam assets" || exit 0
+          git add -A
+          git commit -m "Keep only Computer Engineering 1277 exams" || exit 0
           git push origin HEAD:1277
-# Triggered through the connected GitHub app.
