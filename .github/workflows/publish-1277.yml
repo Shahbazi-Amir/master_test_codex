@@ -48,3 +48,4 @@ jobs:
           git add -A
           git commit -m "Keep only Computer Engineering 1277 exams" || exit 0
           git push origin HEAD:1277
+          git push origin --delete flyio-new-files || true
