@@ -6,10 +6,9 @@ import streamlit as st
 
 
 ROOT = Path(__file__).parent
-EXAM_PATH = ROOT / "data" / "questions" / "exam_1404.json"
-SOURCE_PDF = ROOT / "assets" / "source" / "arshad_bargh_1404_1251.pdf"
+AVAILABLE_YEARS = [1404, 1403, 1402]
 
-st.set_page_config(page_title="آزمون ارشد برق ۱۴۰۴", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="آزمون ارشد مهندسی برق", page_icon="⚡", layout="wide")
 st.markdown(
     """
     <style>
@@ -23,26 +22,32 @@ st.markdown(
 
 
 @st.cache_data
-def load_exam() -> dict:
-    return json.loads(EXAM_PATH.read_text(encoding="utf-8"))
+def load_exam(year: int) -> dict:
+    exam_path = ROOT / "data" / "questions" / f"exam_{year}.json"
+    return json.loads(exam_path.read_text(encoding="utf-8"))
 
 
-exam = load_exam()
+selected_year = st.sidebar.selectbox("سال آزمون", AVAILABLE_YEARS)
+exam = load_exam(selected_year)
 questions = exam["questions"]
+source_pdf = ROOT / exam["source_pdf"]
 
-if "answers" not in st.session_state:
-    st.session_state.answers = {}
-if "started_at" not in st.session_state:
-    st.session_state.started_at = time.time()
+answers_key = f"answers_{selected_year}"
+started_key = f"started_at_{selected_year}"
+if answers_key not in st.session_state:
+    st.session_state[answers_key] = {}
+if started_key not in st.session_state:
+    st.session_state[started_key] = time.time()
+answers = st.session_state[answers_key]
 
 st.title(exam["title"])
 st.caption(f"کد مجموعه {exam['exam_code']} | کد دفترچه {exam['booklet_code']} | {exam['total_questions']} سؤال")
 
-with SOURCE_PDF.open("rb") as pdf_file:
+with source_pdf.open("rb") as pdf_file:
     st.download_button(
         "دانلود PDF رسمی سؤال‌ها و کلید",
         data=pdf_file,
-        file_name=SOURCE_PDF.name,
+        file_name=source_pdf.name,
         mime="application/pdf",
     )
 
@@ -55,23 +60,23 @@ selected_index = question_numbers.index(requested) if requested in question_numb
 selected_number = st.sidebar.selectbox("شماره سؤال", question_numbers, index=selected_index)
 question = next(q for q in questions if q["number"] == selected_number)
 
-answered = sum(1 for value in st.session_state.answers.values() if value in {1, 2, 3, 4})
+answered = sum(1 for value in answers.values() if value in {1, 2, 3, 4})
 st.sidebar.metric("پاسخ‌داده‌شده", f"{answered} از {len(questions)}")
 
 st.subheader(f"سؤال {question['number']} - {question['subject']}")
 st.image(str(ROOT / question["image"]), use_container_width=True)
 st.caption(f"صفحه {question['source_page']} دفترچه رسمی؛ صفحه کامل نگه‌داری شده تا هیچ فرمول، نمودار یا گزینه‌ای بریده نشود.")
 
-current = st.session_state.answers.get(question["number"])
+current = answers.get(question["number"])
 options = ["نزده", "گزینه ۱", "گزینه ۲", "گزینه ۳", "گزینه ۴"]
 selected = st.radio(
     "پاسخ شما",
     options,
     index=0 if current is None else int(current),
     horizontal=True,
-    key=f"answer_{question['number']}",
+    key=f"answer_{selected_year}_{question['number']}",
 )
-st.session_state.answers[question["number"]] = 0 if selected == "نزده" else options.index(selected)
+answers[question["number"]] = 0 if selected == "نزده" else options.index(selected)
 
 left, right = st.columns(2)
 previous_numbers = [n for n in question_numbers if n < selected_number]
@@ -89,7 +94,7 @@ st.divider()
 if st.button("محاسبه نتیجه فعلی"):
     correct = wrong = empty = 0
     for item in questions:
-        user_answer = st.session_state.answers.get(item["number"], 0)
+        user_answer = answers.get(item["number"], 0)
         if user_answer == 0:
             empty += 1
         elif user_answer == item["correct_answer"]:
