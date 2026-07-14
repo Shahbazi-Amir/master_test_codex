@@ -41,7 +41,7 @@ jobs:
               data = json.loads(path.read_text(encoding='utf-8'))
               for question in data['questions']:
                   image = Image.open(root / question['image'])
-                  assert image.width >= 700 and image.height >= 175
+                  assert image.width >= 700 and image.height >= 175, (path, question['number'], image.size)
                   total += 1
           assert total in {345, 389}, total
           print(f'Validated {total} individual question images')
@@ -53,5 +53,3 @@ jobs:
           git add assets/questions
           git commit -m "Create individual question images" || exit 0
           git push origin HEAD:${GITHUB_REF_NAME}
-
-# Trigger image processing for 1277
