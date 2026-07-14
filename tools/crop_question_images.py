@@ -82,6 +82,7 @@ def crop_exam(path):
                 center = (top + bottom) // 2
                 top = max(0, center - 90)
                 bottom = min(page.height, top + 180)
+                top = max(0, bottom - 180)
             crop = page.crop((pad_x, top, page.width - pad_x, bottom))
             target = ROOT / question["image"]
             temporary = target.with_suffix(".tmp.png")
