@@ -1,0 +1,46 @@
+name: Build and publish Computer Engineering 1277
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["1277"]
+    paths:
+      - ".github/workflows/publish-1277.yml"
+      - "tools/build_computer_exams.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: "1277"
+      - name: Install PDF renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Download verified question and answer PDFs
+        run: |
+          mkdir -p /tmp/computer-exams/pages/{1402,1403,1404}
+          curl -fL https://cshub.ir/wp-content/uploads/2025/03/Q335C.pdf -o /tmp/computer-exams/q1404.pdf
+          curl -fL https://cshub.ir/wp-content/uploads/2025/03/A335C.pdf -o /tmp/computer-exams/a1404.pdf
+          curl -fL https://cshub.ir/wp-content/uploads/2024/08/1403.pdf -o /tmp/computer-exams/q1403.pdf
+          curl -fL https://cshub.ir/wp-content/uploads/2025/01/CE_1403_C_Final_Key.pdf -o /tmp/computer-exams/a1403.pdf
+          curl -fL https://cshub.ir/wp-content/uploads/2024/08/1402.pdf -o /tmp/computer-exams/q1402.pdf
+          curl -fL https://cshub.ir/wp-content/uploads/2025/01/CE_1402_C_Key.pdf -o /tmp/computer-exams/a1402.pdf
+      - name: Render pages and build datasets
+        run: |
+          for year in 1402 1403 1404; do
+            pdftoppm -png -r 130 /tmp/computer-exams/q${year}.pdf /tmp/computer-exams/pages/${year}/page
+          done
+          python tools/build_computer_exams.py /tmp/computer-exams
+      - name: Validate and publish generated files
+        run: |
+          python -m py_compile master_exam_ui.py tools/build_computer_exams.py
+          test "$(find assets/questions/computer_engineering -type f | wc -l)" -eq 345
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/source/computer_engineering assets/questions/computer_engineering data/questions/computer_engineering data/answer_keys/computer_engineering
+          git commit -m "Publish Computer Engineering 1277 exam assets" || exit 0
+          git push origin HEAD:1277
