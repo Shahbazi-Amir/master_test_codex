@@ -53,3 +53,5 @@ jobs:
           git add assets/questions
           git commit -m "Create individual question images" || exit 0
           git push origin HEAD:${GITHUB_REF_NAME}
+
+# Trigger image processing for 1277
