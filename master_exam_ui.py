@@ -11,7 +11,8 @@ st.markdown("""
 html, body, [class*="css"] { direction: rtl; text-align: right; }
 [data-testid="stSidebar"] { left: auto; right: 0; }
 [data-testid="stSidebar"] > div:first-child { right: 0; }
-[data-testid="stImage"] img { border: 1px solid #d9dee8; border-radius: 12px; background: white; }
+[data-testid="stImage"] { padding: .8rem; border: 1px solid #d9dee8; border-radius: 12px; background: white; }
+[data-testid="stImage"] img { border-radius: 8px; background: white; }
 .stButton button { width: 100%; min-height: 2.6rem; }
 .correct { padding: 1rem; border-radius: .7rem; background:#dcfce7; color:#166534; }
 .wrong { padding: 1rem; border-radius: .7rem; background:#fee2e2; color:#991b1b; }
@@ -34,6 +35,16 @@ def load_exams():
         if data.get("questions"):
             result.append((path, data))
     return result
+
+
+def source_pdfs(exam):
+    source = exam.get("source", {})
+    question_value = source.get("questions_pdf") or exam.get("source_pdf")
+    answer_value = source.get("answer_key_pdf")
+    return (
+        ROOT / question_value if question_value else None,
+        ROOT / answer_value if answer_value else None,
+    )
 
 
 exams = load_exams()
@@ -108,6 +119,14 @@ position = subject_questions.index(question)
 
 st.title(exam["title"])
 st.caption(f"کد مجموعه {exam['exam_code']} | {len(questions)} سؤال")
+question_pdf, answer_pdf = source_pdfs(exam)
+download_columns = st.columns(2)
+if question_pdf and question_pdf.exists():
+    with question_pdf.open("rb") as file:
+        download_columns[0].download_button("دانلود PDF سؤال‌ها", file, question_pdf.name, "application/pdf")
+if answer_pdf and answer_pdf.exists():
+    with answer_pdf.open("rb") as file:
+        download_columns[1].download_button("دانلود PDF کلید", file, answer_pdf.name, "application/pdf")
 st.markdown(f"## {subject}")
 st.markdown(f"### سؤال {question['number']} از {subject_questions[-1]['number']}")
 
@@ -117,11 +136,11 @@ if question.get("context"):
 if question.get("context_images"):
     with st.expander("متن مشترک سؤال", expanded=True):
         for context_image in question["context_images"]:
-            st.image(str(ROOT / context_image), use_container_width=True)
+            st.image(str(ROOT / context_image), width="stretch")
 if question.get("text"):
     st.markdown(question["text"])
 else:
-    st.image(str(ROOT / question["image"]), use_container_width=True)
+    st.image(str(ROOT / question["image"]), width="stretch")
 
 choice_values = question.get("choice_texts") or [1, 2, 3, 4]
 current = st.session_state.answers.get(question["number"], 0)
@@ -160,11 +179,18 @@ if question["number"] in st.session_state.checked:
         st.markdown(f'<div class="correct">✅ پاسخ درست است؛ گزینه {correct}</div>', unsafe_allow_html=True)
     else:
         st.markdown(f'<div class="wrong">❌ پاسخ نادرست است؛ پاسخ صحیح گزینه {correct}</div>', unsafe_allow_html=True)
-    st.markdown("#### پاسخ تشریحی")
-    if question.get("explanation_status") == "verified" and question.get("explanation"):
-        st.write(question["explanation"])
-    else:
-        st.info("پاسخ تشریحی هنوز تهیه و بازبینی نشده است.")
+    with st.expander("پاسخ تشریحی", expanded=True):
+        if question.get("explanation_status") == "verified" and question.get("explanation"):
+            st.markdown(question["explanation"])
+            for source in question.get("explanation_sources", []):
+                if isinstance(source, dict):
+                    title = source.get("title") or source.get("url") or "منبع"
+                    url = source.get("url")
+                    st.caption(f"منبع: [{title}]({url})" if url else f"منبع: {title}")
+                else:
+                    st.caption(f"منبع: {source}")
+        else:
+            st.info("پاسخ تشریحی هنوز تهیه و بازبینی نشده است.")
 
 st.divider()
 if st.button("محاسبه نتیجه آزمون"):
