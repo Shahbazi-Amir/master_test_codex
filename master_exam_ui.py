@@ -47,6 +47,12 @@ def source_pdfs(exam):
     )
 
 
+@st.cache_data
+def load_explanation_resources():
+    path = ROOT / "data/explanation_resources.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 exams = load_exams()
 if not exams:
     st.error("داده آزمون پیدا نشد.")
@@ -57,6 +63,7 @@ selected_title = st.sidebar.selectbox("آزمون", labels, index=labels.index(n
 exam_path, exam = exams[labels.index(selected_title)]
 exam_id = str(exam_path.relative_to(ROOT))
 questions = exam["questions"]
+explanation_resources = load_explanation_resources().get(exam_id, [])
 
 if st.session_state.get("exam_id") != exam_id:
     st.session_state.exam_id = exam_id
@@ -191,6 +198,10 @@ if question["number"] in st.session_state.checked:
                     st.caption(f"منبع: {source}")
         else:
             st.info("پاسخ تشریحی هنوز تهیه و بازبینی نشده است.")
+            if explanation_resources:
+                st.markdown("**منابع پیدا‌شده برای بررسی و تکمیل این آزمون:**")
+                for resource in explanation_resources:
+                    st.markdown(f"- [{resource['title']}]({resource['url']}) — {resource['coverage']}")
 
 st.divider()
 if st.button("محاسبه نتیجه آزمون"):
