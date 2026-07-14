@@ -19,11 +19,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Install image dependencies
         run: pip install "Pillow>=10,<12" "numpy>=1.26,<3"
+      - name: Restore original full-page images
+        run: |
+          git ls-files 'assets/questions/**/*.png' | while read -r file; do
+            source_commit=$(git log --diff-filter=A --format=%H -- "$file" | tail -1)
+            git checkout "$source_commit" -- "$file"
+          done
       - name: Create individual question crops
         run: python tools/crop_question_images.py
       - name: Validate datasets and images
