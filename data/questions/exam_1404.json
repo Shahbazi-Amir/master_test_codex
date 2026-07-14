@@ -1,0 +1,2012 @@
+{
+  "exam_code": "1251",
+  "year": 1404,
+  "title": "آزمون کارشناسی ارشد مهندسی برق ۱۴۰۴",
+  "booklet_code": "535C",
+  "total_questions": 125,
+  "duration_minutes": 250,
+  "source_pdf": "assets/source/arshad_bargh_1404_1251.pdf",
+  "image_policy": "Each question has a lossless copy of its complete official source page to avoid cutting formulas, diagrams, passages, or choices.",
+  "questions": [
+    {
+      "number": 1,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_001.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 2,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_002.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 3,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_003.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 4,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_004.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 5,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_005.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 6,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_006.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 7,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_007.png",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 8,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_008.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 9,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_009.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 10,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_010.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 11,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_011.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 12,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_012.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 13,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_013.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 14,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_014.png",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 15,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_015.png",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 16,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_016.png",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 17,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_017.png",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 18,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_018.png",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 19,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_019.png",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 20,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_020.png",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 21,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_021.png",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 22,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_022.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 23,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_023.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 24,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_024.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 25,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "image": "assets/questions/1404/question_025.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 26,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_026.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 27,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_027.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 28,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_028.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 29,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_029.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 30,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_030.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 31,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_031.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 32,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_032.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 33,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_033.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 34,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_034.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 35,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_035.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 36,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_036.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 37,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_037.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 38,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_038.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 39,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_039.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 40,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_040.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 41,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_041.png",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 42,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_042.png",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 43,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_043.png",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 44,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_044.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 45,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_045.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 46,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_046.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 47,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_047.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 48,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_048.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 49,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_049.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 50,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_050.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 51,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_051.png",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 52,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_052.png",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 53,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_053.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 54,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_054.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 55,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_055.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 56,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_056.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 57,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_057.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 58,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_058.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 59,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_059.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 60,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_060.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 61,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_061.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 62,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_062.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 63,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_063.png",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 64,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_064.png",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 65,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_065.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 66,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_066.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 67,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_067.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 68,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_068.png",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 69,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_069.png",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 70,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_070.png",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 71,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_071.png",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 72,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_072.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 73,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_073.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 74,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_074.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 75,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_075.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 76,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_076.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 77,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_077.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 78,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_078.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 79,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_079.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 80,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_080.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 81,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_081.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 82,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_082.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 83,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_083.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 84,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_084.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 85,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_085.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 86,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_086.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 87,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_087.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 88,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_088.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 89,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_089.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 90,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_090.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 91,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_091.png",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 92,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_092.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 93,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_093.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 94,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_094.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 95,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_095.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 96,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_096.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 97,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_097.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 98,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_098.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 99,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_099.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 100,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_100.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 101,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_101.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 102,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_102.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 103,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_103.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 104,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_104.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 105,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_105.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 106,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_106.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 107,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_107.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 108,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_108.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 109,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_109.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 110,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_110.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 111,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_111.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 112,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_112.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 113,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_113.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 114,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_114.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 115,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_115.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 116,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_116.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 117,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_117.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 118,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_118.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 119,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_119.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 120,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_120.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 121,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_121.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 122,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_122.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 123,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_123.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 124,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_124.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 125,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_125.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    }
+  ]
+}
