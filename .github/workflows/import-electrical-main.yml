@@ -1,0 +1,36 @@
+name: Import Electrical Engineering exams to main
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["1277"]
+    paths:
+      - ".transfer/electrical/**"
+      - ".github/workflows/import-electrical-main.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: "1277"
+          fetch-depth: 0
+      - name: Restore and verify exact Git commit
+        run: |
+          cat .transfer/electrical/part-* > /tmp/electrical.bundle
+          git bundle verify /tmp/electrical.bundle
+          git fetch /tmp/electrical.bundle main:refs/remotes/electrical/main
+          test "$(git rev-parse refs/remotes/electrical/main)" = "a6a5779a1d2c498e1d56ce847ccb6962487bca9f"
+      - name: Fast-forward main to electrical exam commit
+        run: git push origin a6a5779a1d2c498e1d56ce847ccb6962487bca9f:main
+      - name: Remove temporary transfer files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r .transfer/electrical .github/workflows/import-electrical-main.yml
+          git commit -m "Remove temporary electrical exam transfer files"
+          git push origin HEAD:1277
