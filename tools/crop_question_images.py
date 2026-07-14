@@ -46,6 +46,9 @@ def choose_boundaries(image, count, first_number):
     for index in range(1, count):
         if first_number == 1:
             first_end = int(image.height * .45)
+            if index == 1:
+                boundaries.append(first_end)
+                continue
             target = first_end if index == 1 else first_end + (bottom - first_end) * (index - 1) / (count - 1)
             window = (bottom - first_end) / (count - 1) * .62
         else:
