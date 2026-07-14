@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install Persian and English OCR
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-fas tesseract-ocr-eng
       - name: Install image dependencies
         run: pip install "Pillow>=10,<12" "numpy>=1.26,<3"
       - name: Restore original full-page images
