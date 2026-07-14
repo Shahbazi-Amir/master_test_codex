@@ -44,3 +44,4 @@ jobs:
           git add assets/source/computer_engineering assets/questions/computer_engineering data/questions/computer_engineering data/answer_keys/computer_engineering
           git commit -m "Publish Computer Engineering 1277 exam assets" || exit 0
           git push origin HEAD:1277
+# Triggered through the connected GitHub app.
