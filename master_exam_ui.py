@@ -15,7 +15,13 @@ html, body, [class*="css"] { direction: rtl; text-align: right; }
 .stButton button { width: 100%; min-height: 2.6rem; }
 .correct { padding: 1rem; border-radius: .7rem; background:#dcfce7; color:#166534; }
 .wrong { padding: 1rem; border-radius: .7rem; background:#fee2e2; color:#991b1b; }
-.legend { font-size:.85rem; line-height:2; }
+.legend { font-size:.82rem; line-height:2; }
+[data-testid="stSidebar"] [data-testid="stHorizontalBlock"] { gap: .18rem; }
+[data-testid="stSidebar"] .stButton button {
+    min-height: 2rem;
+    padding: .1rem .15rem;
+    font-size: .78rem;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -45,6 +51,7 @@ if st.session_state.get("exam_id") != exam_id:
     st.session_state.exam_id = exam_id
     st.session_state.answers = {}
     st.session_state.checked = {}
+    st.session_state.pop("result_summary", None)
     st.session_state.question_number = questions[0]["number"]
 
 subjects = list(dict.fromkeys(item["subject"] for item in questions))
@@ -59,26 +66,37 @@ if current_question["subject"] != subject:
 
 st.sidebar.markdown("### پاسخ‌نامه")
 st.sidebar.markdown(
-    '<div class="legend">□ نزده &nbsp; ■ پاسخ داده &nbsp; 🟩 درست &nbsp; 🟥 غلط</div>',
+    '<div class="legend">□ نزده &nbsp; ■ انتخاب‌شده &nbsp; 🟩 صحیح &nbsp; 🟥 غلط</div>',
     unsafe_allow_html=True,
 )
+header = st.sidebar.columns([1.25, 1, 1, 1, 1])
+header[0].markdown("**سؤال**")
+for option, column in enumerate(header[1:], 1):
+    column.markdown(f"**{option}**")
 
-for start in range(0, len(subject_questions), 5):
-    columns = st.sidebar.columns(5)
-    for column, item in zip(columns, subject_questions[start:start + 5]):
-        number = item["number"]
-        answer = st.session_state.answers.get(number, 0)
-        checked = st.session_state.checked.get(number)
-        if checked is True:
-            label = f"🟩 {number}"
-        elif checked is False:
-            label = f"🟥 {number}"
-        elif answer:
-            label = f"■ {number}"
+for item in subject_questions:
+    number = item["number"]
+    answer = st.session_state.answers.get(number, 0)
+    has_result = number in st.session_state.checked
+    correct = item.get("correct_answer")
+    columns = st.sidebar.columns([1.25, 1, 1, 1, 1])
+    if columns[0].button(str(number), key=f"nav_{exam_id}_{number}"):
+        st.session_state.question_number = number
+        st.rerun()
+    for option, column in enumerate(columns[1:], 1):
+        if has_result and option == correct:
+            label = "🟩"
+        elif has_result and option == answer and answer != correct:
+            label = "🟥"
+        elif option == answer:
+            label = "■"
         else:
-            label = f"□ {number}"
-        if column.button(label, key=f"nav_{exam_id}_{number}"):
+            label = "□"
+        if column.button(label, key=f"sheet_{exam_id}_{number}_{option}"):
+            st.session_state.answers[number] = option
             st.session_state.question_number = number
+            st.session_state.checked.pop(number, None)
+            st.session_state.pop("result_summary", None)
             st.rerun()
 
 answered_total = sum(bool(st.session_state.answers.get(q["number"], 0)) for q in questions)
@@ -116,9 +134,20 @@ selected = st.radio(
     ),
     key=f"answer_{exam_id}_{question['number']}",
 )
+if selected != current:
+    st.session_state.checked.pop(question["number"], None)
+    st.session_state.pop("result_summary", None)
 st.session_state.answers[question["number"]] = selected
 
-if st.button("ثبت و بررسی پاسخ", type="primary", disabled=selected == 0):
+previous_col, next_col = st.columns(2)
+if position > 0 and previous_col.button("سؤال قبلی"):
+    st.session_state.question_number = subject_questions[position - 1]["number"]
+    st.rerun()
+if position + 1 < len(subject_questions) and next_col.button("سؤال بعدی", type="primary"):
+    st.session_state.question_number = subject_questions[position + 1]["number"]
+    st.rerun()
+
+if st.button("ثبت و مشاهده پاسخ درست", disabled=selected == 0):
     correct = question.get("correct_answer")
     st.session_state.checked[question["number"]] = (selected == correct) if correct else None
     st.rerun()
@@ -137,14 +166,6 @@ if question["number"] in st.session_state.checked:
     else:
         st.info("پاسخ تشریحی هنوز تهیه و بازبینی نشده است.")
 
-previous_col, next_col = st.columns(2)
-if position > 0 and previous_col.button("سؤال قبلی"):
-    st.session_state.question_number = subject_questions[position - 1]["number"]
-    st.rerun()
-if position + 1 < len(subject_questions) and next_col.button("سؤال بعدی"):
-    st.session_state.question_number = subject_questions[position + 1]["number"]
-    st.rerun()
-
 st.divider()
 if st.button("محاسبه نتیجه آزمون"):
     graded = [q for q in questions if q.get("correct_answer") in {1, 2, 3, 4}]
@@ -158,6 +179,15 @@ if st.button("محاسبه نتیجه آزمون"):
         else:
             wrong_count += 1
     percent = (correct_count - wrong_count / 3) / len(graded) * 100 if graded else 0
+    for item in graded:
+        answer = st.session_state.answers.get(item["number"], 0)
+        if answer:
+            st.session_state.checked[item["number"]] = answer == item["correct_answer"]
+    st.session_state.result_summary = (correct_count, wrong_count, empty_count, percent)
+    st.rerun()
+
+if st.session_state.get("result_summary"):
+    correct_count, wrong_count, empty_count, percent = st.session_state.result_summary
     a, b, c, d = st.columns(4)
     a.metric("درست", correct_count)
     b.metric("غلط", wrong_count)

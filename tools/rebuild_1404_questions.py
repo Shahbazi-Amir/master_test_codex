@@ -26,18 +26,18 @@ CONTEXT_DIR = ROOT / "assets/contexts/computer_engineering/1404"
 # Format: PDF page number -> {question number: y coordinate at 150 dpi}.
 MANUAL_STARTS = {
     6: {26: 1162, 27: 1371},
-    7: {28: 224, 29: 556, 30: 774},
+    7: {28: 224, 29: 556, 30: 774, 31: 1152},
     8: {32: 198, 33: 479, 34: 681, 35: 964, 36: 1249},
     9: {37: 194, 38: 479, 39: 783, 40: 1107},
     10: {41: 196, 42: 484, 43: 768, 44: 1131, 45: 1343},
     11: {46: 199, 47: 550, 48: 778, 49: 1067, 50: 1307},
-    12: {52: 748, 53: 990, 54: 1197},
-    13: {57: 827, 58: 1044, 59: 1211},
-    14: {62: 768, 63: 1008, 64: 1295},
+    12: {51: 194, 52: 748, 53: 990, 54: 1197},
+    13: {55: 194, 56: 475, 57: 827, 58: 1044, 59: 1211},
+    14: {60: 194, 61: 350, 62: 768, 63: 1008, 64: 1295},
     15: {65: 194, 66: 773, 67: 1080},
-    16: {68: 194, 69: 480, 70: 932},
+    16: {68: 194, 69: 480, 70: 932, 71: 1190},
     17: {72: 196, 73: 520, 74: 1003},
-    18: {76: 811, 77: 1009, 78: 1326},
+    18: {75: 194, 76: 811, 77: 1009, 78: 1326},
     19: {79: 197, 80: 439, 81: 741, 82: 944, 83: 1228},
     20: {84: 197, 85: 599, 86: 1358},
     21: {87: 194, 88: 436, 89: 786, 90: 1140},
@@ -47,8 +47,6 @@ MANUAL_STARTS = {
     25: {108: 196, 109: 682, 110: 1000, 111: 1205, 112: 1407},
     26: {113: 197, 114: 396, 115: 538},
 }
-
-MANUAL_ENDS = {7: 1370, 10: 620, 15: 710, 20: 640, 25: 1015}
 
 CONTEXT_CROPS = {
     "cloze_a": (2, 1490, 1745),
@@ -125,11 +123,14 @@ def main():
         image = Image.open(page_path).convert("RGB")
         ordered = [starts[number] for number in expected]
         for index, question in enumerate(questions):
-            top = max(0, ordered[index] - 18)
-            bottom = ordered[index + 1] - 8 if index + 1 < len(ordered) else MANUAL_ENDS.get(question["number"], image.height - 25)
+            # Keep generous vertical overlap around every question.  A small
+            # amount of neighbouring whitespace is preferable to clipping a
+            # formula, option or the final line of a question.
+            top = max(0, ordered[index] - 42)
+            bottom = ordered[index + 1] + 8 if index + 1 < len(ordered) else image.height - 10
             if bottom <= top + 35:
                 raise RuntimeError(f"Invalid crop for question {question['number']} on page {pdf_page}")
-            crop = image.crop((25, top, image.width - 25, bottom))
+            crop = image.crop((8, top, image.width - 8, min(image.height, bottom)))
             crop.save(OUTPUT_DIR / f"question_{question['number']:03}.png")
 
     CONTEXT_DIR.mkdir(parents=True, exist_ok=True)
@@ -146,9 +147,12 @@ def main():
     for question in exam["questions"]:
         for numbers, names in context_groups.items():
             if question["number"] in numbers:
-                question["context_images"] = [
-                    f"assets/contexts/computer_engineering/1404/{name}.png" for name in names
-                ]
+                if question.get("context"):
+                    question.pop("context_images", None)
+                else:
+                    question["context_images"] = [
+                        f"assets/contexts/computer_engineering/1404/{name}.png" for name in names
+                    ]
                 break
         else:
             question.pop("context_images", None)
