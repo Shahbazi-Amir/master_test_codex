@@ -1,0 +1,55 @@
+name: Polish exam UI and question images
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main", "1277"]
+    paths:
+      - "master_exam_ui.py"
+      - "tools/crop_question_images.py"
+      - ".github/workflows/polish-exam-ui.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  crop-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install image dependencies
+        run: pip install "Pillow>=10,<12" "numpy>=1.26,<3"
+      - name: Create individual question crops
+        run: python tools/crop_question_images.py
+      - name: Validate datasets and images
+        run: |
+          python -m py_compile master_exam_ui.py tools/crop_question_images.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          root = Path('.')
+          exams = sorted((root / 'data/questions').rglob('exam_*.json'))
+          assert len(exams) == 3, f'Expected 3 exams, found {len(exams)}'
+          total = 0
+          for path in exams:
+              data = json.loads(path.read_text(encoding='utf-8'))
+              for question in data['questions']:
+                  image = Image.open(root / question['image'])
+                  assert image.width >= 700 and image.height >= 175
+                  total += 1
+          assert total in {345, 389}, total
+          print(f'Validated {total} individual question images')
+          PY
+      - name: Commit generated question crops
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/questions
+          git commit -m "Create individual question images" || exit 0
+          git push origin HEAD:${GITHUB_REF_NAME}
