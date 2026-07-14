@@ -205,10 +205,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/cloze_a.png",
-        "assets/contexts/computer_engineering/1404/cloze_b.png"
-      ],
       "text": "Choose the best completion for blank (8) in the cloze passage.",
       "choice_texts": [
         "to be opened",
@@ -216,7 +212,8 @@
         "were opened",
         "opening"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Before the 1970s, the Olympic Games were officially limited to competitors with amateur status, but in the 1980s, many events ...........(8) to professional athletes.\n\nCurrently, the Games are open to all, even the top professional athletes in basketball and football. The ancient Olympic Games included several of the sports ...........(9) of the Summer Games program, which at times has included events in as many as 32 different sports. In 1924, the Winter Games were sanctioned for winter sports. ...........(10) regarded as the world’s foremost sports competition."
     },
     {
       "number": 9,
@@ -234,10 +231,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/cloze_a.png",
-        "assets/contexts/computer_engineering/1404/cloze_b.png"
-      ],
       "text": "Choose the best completion for blank (9) in the cloze passage.",
       "choice_texts": [
         "that are now part",
@@ -245,7 +238,8 @@
         "now are parts",
         "had now been parts"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Before the 1970s, the Olympic Games were officially limited to competitors with amateur status, but in the 1980s, many events ...........(8) to professional athletes.\n\nCurrently, the Games are open to all, even the top professional athletes in basketball and football. The ancient Olympic Games included several of the sports ...........(9) of the Summer Games program, which at times has included events in as many as 32 different sports. In 1924, the Winter Games were sanctioned for winter sports. ...........(10) regarded as the world’s foremost sports competition."
     },
     {
       "number": 10,
@@ -263,10 +257,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/cloze_a.png",
-        "assets/contexts/computer_engineering/1404/cloze_b.png"
-      ],
       "text": "Choose the best completion for blank (10) in the cloze passage.",
       "choice_texts": [
         "The Olympic Games came to have been",
@@ -274,7 +264,8 @@
         "The fact is the Olympic Games to be",
         "That the Olympic Games have been"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Before the 1970s, the Olympic Games were officially limited to competitors with amateur status, but in the 1980s, many events ...........(8) to professional athletes.\n\nCurrently, the Games are open to all, even the top professional athletes in basketball and football. The ancient Olympic Games included several of the sports ...........(9) of the Summer Games program, which at times has included events in as many as 32 different sports. In 1924, the Winter Games were sanctioned for winter sports. ...........(10) regarded as the world’s foremost sports competition."
     },
     {
       "number": 11,
@@ -292,9 +283,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_1.png"
-      ],
       "text": "The underlined word ‘utilize’ in paragraph 1 is closest in meaning to ............... .",
       "choice_texts": [
         "produce",
@@ -302,7 +290,8 @@
         "employ",
         "analyze"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The emergence of computers and the Internet is among the most technological advances that has happened in the twentieth century. Individuals have gained greater access to information of all sorts, and the gap that exists between technology and human intellect is getting thinner. As societies utilize the technology in various fields, some new ethical concerns have arisen. Extensive use of the technology has also made possible potentially unethical activities such as violation of individual privacy and other illegal forays into private network spaces. Not all network users are honest individuals, and not all of them adhere to ethical standards of moral behavior.\n\nSome computer users keep a large amount of their personal information on their computer systems or on the network spaces in social media. The use of social media is on the rise. As a result of this, hackers and other intruders have a greater opportunity to access private data, and use them for unlawful purposes. These concerns contributed to the rise of a field known as computer ethics which deals with the procedures, values and practices that govern the process of consuming computing technology and its related disciplines in a way that does not damage or violate the moral values and beliefs of any individual, organization or society."
     },
     {
       "number": 12,
@@ -320,9 +309,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_1.png"
-      ],
       "text": "The underlined word ‘them’ in paragraph 1 refers to ............... .",
       "choice_texts": [
         "standards",
@@ -330,7 +316,8 @@
         "activities",
         "network users"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The emergence of computers and the Internet is among the most technological advances that has happened in the twentieth century. Individuals have gained greater access to information of all sorts, and the gap that exists between technology and human intellect is getting thinner. As societies utilize the technology in various fields, some new ethical concerns have arisen. Extensive use of the technology has also made possible potentially unethical activities such as violation of individual privacy and other illegal forays into private network spaces. Not all network users are honest individuals, and not all of them adhere to ethical standards of moral behavior.\n\nSome computer users keep a large amount of their personal information on their computer systems or on the network spaces in social media. The use of social media is on the rise. As a result of this, hackers and other intruders have a greater opportunity to access private data, and use them for unlawful purposes. These concerns contributed to the rise of a field known as computer ethics which deals with the procedures, values and practices that govern the process of consuming computing technology and its related disciplines in a way that does not damage or violate the moral values and beliefs of any individual, organization or society."
     },
     {
       "number": 13,
@@ -348,9 +335,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_1.png"
-      ],
       "text": "According to paragraph 1, the appearance of computer technology and the Internet in the 20th century ............... .",
       "choice_texts": [
         "fully closed the gap that once existed between technology and human intellect",
@@ -358,7 +342,8 @@
         "increased the gap between ethical and unethical usage of data",
         "prevented any opportunity of unethical usage of private data"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The emergence of computers and the Internet is among the most technological advances that has happened in the twentieth century. Individuals have gained greater access to information of all sorts, and the gap that exists between technology and human intellect is getting thinner. As societies utilize the technology in various fields, some new ethical concerns have arisen. Extensive use of the technology has also made possible potentially unethical activities such as violation of individual privacy and other illegal forays into private network spaces. Not all network users are honest individuals, and not all of them adhere to ethical standards of moral behavior.\n\nSome computer users keep a large amount of their personal information on their computer systems or on the network spaces in social media. The use of social media is on the rise. As a result of this, hackers and other intruders have a greater opportunity to access private data, and use them for unlawful purposes. These concerns contributed to the rise of a field known as computer ethics which deals with the procedures, values and practices that govern the process of consuming computing technology and its related disciplines in a way that does not damage or violate the moral values and beliefs of any individual, organization or society."
     },
     {
       "number": 14,
@@ -376,9 +361,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_1.png"
-      ],
       "text": "All of the following words are mentioned in the passage EXCEPT ............... .",
       "choice_texts": [
         "unlawful",
@@ -386,7 +368,8 @@
         "cutting-edge",
         "honest"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The emergence of computers and the Internet is among the most technological advances that has happened in the twentieth century. Individuals have gained greater access to information of all sorts, and the gap that exists between technology and human intellect is getting thinner. As societies utilize the technology in various fields, some new ethical concerns have arisen. Extensive use of the technology has also made possible potentially unethical activities such as violation of individual privacy and other illegal forays into private network spaces. Not all network users are honest individuals, and not all of them adhere to ethical standards of moral behavior.\n\nSome computer users keep a large amount of their personal information on their computer systems or on the network spaces in social media. The use of social media is on the rise. As a result of this, hackers and other intruders have a greater opportunity to access private data, and use them for unlawful purposes. These concerns contributed to the rise of a field known as computer ethics which deals with the procedures, values and practices that govern the process of consuming computing technology and its related disciplines in a way that does not damage or violate the moral values and beliefs of any individual, organization or society."
     },
     {
       "number": 15,
@@ -404,9 +387,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_1.png"
-      ],
       "text": "According to the passage, which of the following statements is true?",
       "choice_texts": [
         "Computer ethics was in part developed as a response to the threat posed by hackers and other intruders who do not follow ethical standards.",
@@ -414,7 +394,8 @@
         "Hackers utilize computer ethics as an opportunity to employ computing technology and its related disciplines to their own advantage.",
         "Computer ethics concerns the practices that govern the production of computer units in a way that does not damage the best interest either of corporations or consumers."
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The emergence of computers and the Internet is among the most technological advances that has happened in the twentieth century. Individuals have gained greater access to information of all sorts, and the gap that exists between technology and human intellect is getting thinner. As societies utilize the technology in various fields, some new ethical concerns have arisen. Extensive use of the technology has also made possible potentially unethical activities such as violation of individual privacy and other illegal forays into private network spaces. Not all network users are honest individuals, and not all of them adhere to ethical standards of moral behavior.\n\nSome computer users keep a large amount of their personal information on their computer systems or on the network spaces in social media. The use of social media is on the rise. As a result of this, hackers and other intruders have a greater opportunity to access private data, and use them for unlawful purposes. These concerns contributed to the rise of a field known as computer ethics which deals with the procedures, values and practices that govern the process of consuming computing technology and its related disciplines in a way that does not damage or violate the moral values and beliefs of any individual, organization or society."
     },
     {
       "number": 16,
@@ -432,9 +413,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_2.png"
-      ],
       "text": "The underlined word ‘required’ in paragraph 1 is closest in meaning to ............... .",
       "choice_texts": [
         "acted up",
@@ -442,7 +420,8 @@
         "empowered",
         "relied on"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The first “computers” were ancient tools that were used to do addition, subtraction, multiplication, and division. Some early examples of this would be the ancient Chinese invention known as the abacus. These older tools were in a sense computers because they did what modern computers do: take information and turn it into logical operations. Logical operations are instructions that someone gives a computer and tells it what to do. Older tools still required humans to do things to make them work. But modern computers use power and can be programmed to do things automatically.\n\nThe first computer, as we would think of one today, was created in 1823 by a man named Charles Babbage in England. Charles Babbage invented all the parts that are now used for a modern computer. He called the machine he was working on the “Difference Engine” but unfortunately he never finished it. Ten years later, another man named George Scheutz read about the “Difference Engine” and was excited about what Babbage had been working on. Together with his son Edward, Scheutz began to work on a smaller version. Twenty years later, by 1853, the father and son had constructed a machine that could process 15-digit numbers and calculate fourth-order differences. This was very advanced programming for a machine at that time. Their machine won a gold medal at the Exhibition of Paris in 1855, and later they sold it to the Dudley Observatory in Albany, New York. The Dudley Observatory later used it to calculate the path to the planet Mars."
     },
     {
       "number": 17,
@@ -460,9 +439,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_2.png"
-      ],
       "text": "The invention known as the abacus was probably a ............... .",
       "choice_texts": [
         "device",
@@ -470,7 +446,8 @@
         "game",
         "sub-discipline"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The first “computers” were ancient tools that were used to do addition, subtraction, multiplication, and division. Some early examples of this would be the ancient Chinese invention known as the abacus. These older tools were in a sense computers because they did what modern computers do: take information and turn it into logical operations. Logical operations are instructions that someone gives a computer and tells it what to do. Older tools still required humans to do things to make them work. But modern computers use power and can be programmed to do things automatically.\n\nThe first computer, as we would think of one today, was created in 1823 by a man named Charles Babbage in England. Charles Babbage invented all the parts that are now used for a modern computer. He called the machine he was working on the “Difference Engine” but unfortunately he never finished it. Ten years later, another man named George Scheutz read about the “Difference Engine” and was excited about what Babbage had been working on. Together with his son Edward, Scheutz began to work on a smaller version. Twenty years later, by 1853, the father and son had constructed a machine that could process 15-digit numbers and calculate fourth-order differences. This was very advanced programming for a machine at that time. Their machine won a gold medal at the Exhibition of Paris in 1855, and later they sold it to the Dudley Observatory in Albany, New York. The Dudley Observatory later used it to calculate the path to the planet Mars."
     },
     {
       "number": 18,
@@ -488,9 +465,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_2.png"
-      ],
       "text": "According to paragraph 1, ............... .",
       "choice_texts": [
         "the Chinese were the first people to discover mathematical laws",
@@ -498,7 +472,8 @@
         "unlike older tools, modern computers do not require logical operations",
         "logical operations refer to a unique approach to manufacturing computers"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The first “computers” were ancient tools that were used to do addition, subtraction, multiplication, and division. Some early examples of this would be the ancient Chinese invention known as the abacus. These older tools were in a sense computers because they did what modern computers do: take information and turn it into logical operations. Logical operations are instructions that someone gives a computer and tells it what to do. Older tools still required humans to do things to make them work. But modern computers use power and can be programmed to do things automatically.\n\nThe first computer, as we would think of one today, was created in 1823 by a man named Charles Babbage in England. Charles Babbage invented all the parts that are now used for a modern computer. He called the machine he was working on the “Difference Engine” but unfortunately he never finished it. Ten years later, another man named George Scheutz read about the “Difference Engine” and was excited about what Babbage had been working on. Together with his son Edward, Scheutz began to work on a smaller version. Twenty years later, by 1853, the father and son had constructed a machine that could process 15-digit numbers and calculate fourth-order differences. This was very advanced programming for a machine at that time. Their machine won a gold medal at the Exhibition of Paris in 1855, and later they sold it to the Dudley Observatory in Albany, New York. The Dudley Observatory later used it to calculate the path to the planet Mars."
     },
     {
       "number": 19,
@@ -516,9 +491,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_2.png"
-      ],
       "text": "According to paragraph 2, which of the following statements is true?",
       "choice_texts": [
         "George Scheutz coined the term ‘Difference Engine’ in 1853.",
@@ -526,7 +498,8 @@
         "Babbage invented the first modern computer at the beginning of the 18th century.",
         "Babbage won the gold medal at the Exhibition of Paris for his ‘Difference Engine.’"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The first “computers” were ancient tools that were used to do addition, subtraction, multiplication, and division. Some early examples of this would be the ancient Chinese invention known as the abacus. These older tools were in a sense computers because they did what modern computers do: take information and turn it into logical operations. Logical operations are instructions that someone gives a computer and tells it what to do. Older tools still required humans to do things to make them work. But modern computers use power and can be programmed to do things automatically.\n\nThe first computer, as we would think of one today, was created in 1823 by a man named Charles Babbage in England. Charles Babbage invented all the parts that are now used for a modern computer. He called the machine he was working on the “Difference Engine” but unfortunately he never finished it. Ten years later, another man named George Scheutz read about the “Difference Engine” and was excited about what Babbage had been working on. Together with his son Edward, Scheutz began to work on a smaller version. Twenty years later, by 1853, the father and son had constructed a machine that could process 15-digit numbers and calculate fourth-order differences. This was very advanced programming for a machine at that time. Their machine won a gold medal at the Exhibition of Paris in 1855, and later they sold it to the Dudley Observatory in Albany, New York. The Dudley Observatory later used it to calculate the path to the planet Mars."
     },
     {
       "number": 20,
@@ -544,9 +517,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_2.png"
-      ],
       "text": "The passage provides sufficient information to answer which of the following questions? I. In which country was the first computer as we think of it produced? II. In what sense were older tools similar to computers? III. How long is the distance to the planet Mars?",
       "choice_texts": [
         "Only I",
@@ -554,7 +524,8 @@
         "I and III",
         "I and II"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "The first “computers” were ancient tools that were used to do addition, subtraction, multiplication, and division. Some early examples of this would be the ancient Chinese invention known as the abacus. These older tools were in a sense computers because they did what modern computers do: take information and turn it into logical operations. Logical operations are instructions that someone gives a computer and tells it what to do. Older tools still required humans to do things to make them work. But modern computers use power and can be programmed to do things automatically.\n\nThe first computer, as we would think of one today, was created in 1823 by a man named Charles Babbage in England. Charles Babbage invented all the parts that are now used for a modern computer. He called the machine he was working on the “Difference Engine” but unfortunately he never finished it. Ten years later, another man named George Scheutz read about the “Difference Engine” and was excited about what Babbage had been working on. Together with his son Edward, Scheutz began to work on a smaller version. Twenty years later, by 1853, the father and son had constructed a machine that could process 15-digit numbers and calculate fourth-order differences. This was very advanced programming for a machine at that time. Their machine won a gold medal at the Exhibition of Paris in 1855, and later they sold it to the Dudley Observatory in Albany, New York. The Dudley Observatory later used it to calculate the path to the planet Mars."
     },
     {
       "number": 21,
@@ -572,9 +543,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_3.png"
-      ],
       "text": "Which of the following techniques is used in paragraph 1?",
       "choice_texts": [
         "Definition",
@@ -582,7 +550,8 @@
         "Cause and effect",
         "Rhetorical question"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Quantum computation is a field of much interest and activity. Much of the interest was stimulated by Shor’s discovery that there is a quantum computation algorithm for the integer factoring problem that is more efficient than any known classical algorithm. [1] This result has stimulated much work that represents steps in the long-term goal of physical construction of quantum computers. This includes work on quantum error-correction codes and physical models of quantum gates, quantum Hall systems, and nuclear magnetic resonance to carry out parallel quantum computation.\n\nThe optimism about reaching the long-term goal that is implicit in this work is tempered by the work of Landauer. [2] As a critic, Landauer correctly points out the enormous obstacles in the path of construction of efficient quantum computers. These include effects of environmental noise with respect to which quantum computers are exquisitely sensitive, errors in constructing the Hamiltonian, and errors in constructing the initial state. As Landauer notes, these errors can cause unwanted reflections of the computational process that reduce the amplitude of the transmitted component that represents the completed computation. Work in which potential barriers causing reflection are introduced intentionally where the potential distribution is ‘deterministically disordered’, suggests that in some cases, these problems may be less severe than otherwise thought.\n\nBuilding quantum computers is incredibly difficult. Many candidate qubit systems exist on the scale of single atoms, and the physicists, engineers, and materials scientists who are trying to execute quantum operations on these systems constantly deal with two competing requirements. [3] First, qubits need to be protected from the environment because it can destroy the delicate quantum states needed for computation. The longer a qubit survives in its desired state the longer its “coherence time.” From this perspective, isolation is prized. Second, however, for algorithm execution qubits need to be entangled, shuffled around physical architectures, and controllable on demand. The better these operations can be carried out the higher their “fidelity.” [4]"
     },
     {
       "number": 22,
@@ -600,9 +569,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_3.png"
-      ],
       "text": "According to paragraph 2, which of the following is true about Landauer?",
       "choice_texts": [
         "His ideas ultimately led to solutions for many problems of quantum computation.",
@@ -610,7 +576,8 @@
         "He later admitted that the challenges facing quantum computation were negligible.",
         "He drew attention to the impossibility of constructing quantum computers."
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Quantum computation is a field of much interest and activity. Much of the interest was stimulated by Shor’s discovery that there is a quantum computation algorithm for the integer factoring problem that is more efficient than any known classical algorithm. [1] This result has stimulated much work that represents steps in the long-term goal of physical construction of quantum computers. This includes work on quantum error-correction codes and physical models of quantum gates, quantum Hall systems, and nuclear magnetic resonance to carry out parallel quantum computation.\n\nThe optimism about reaching the long-term goal that is implicit in this work is tempered by the work of Landauer. [2] As a critic, Landauer correctly points out the enormous obstacles in the path of construction of efficient quantum computers. These include effects of environmental noise with respect to which quantum computers are exquisitely sensitive, errors in constructing the Hamiltonian, and errors in constructing the initial state. As Landauer notes, these errors can cause unwanted reflections of the computational process that reduce the amplitude of the transmitted component that represents the completed computation. Work in which potential barriers causing reflection are introduced intentionally where the potential distribution is ‘deterministically disordered’, suggests that in some cases, these problems may be less severe than otherwise thought.\n\nBuilding quantum computers is incredibly difficult. Many candidate qubit systems exist on the scale of single atoms, and the physicists, engineers, and materials scientists who are trying to execute quantum operations on these systems constantly deal with two competing requirements. [3] First, qubits need to be protected from the environment because it can destroy the delicate quantum states needed for computation. The longer a qubit survives in its desired state the longer its “coherence time.” From this perspective, isolation is prized. Second, however, for algorithm execution qubits need to be entangled, shuffled around physical architectures, and controllable on demand. The better these operations can be carried out the higher their “fidelity.” [4]"
     },
     {
       "number": 23,
@@ -628,9 +595,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_3.png"
-      ],
       "text": "What does paragraph 3 mainly discuss?",
       "choice_texts": [
         "The difficulty of constructing quantum computers",
@@ -638,7 +602,8 @@
         "The last challenge to overcome in building quantum computers",
         "Qubit efficiency and a ground-breaking solution to its optimum realization"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Quantum computation is a field of much interest and activity. Much of the interest was stimulated by Shor’s discovery that there is a quantum computation algorithm for the integer factoring problem that is more efficient than any known classical algorithm. [1] This result has stimulated much work that represents steps in the long-term goal of physical construction of quantum computers. This includes work on quantum error-correction codes and physical models of quantum gates, quantum Hall systems, and nuclear magnetic resonance to carry out parallel quantum computation.\n\nThe optimism about reaching the long-term goal that is implicit in this work is tempered by the work of Landauer. [2] As a critic, Landauer correctly points out the enormous obstacles in the path of construction of efficient quantum computers. These include effects of environmental noise with respect to which quantum computers are exquisitely sensitive, errors in constructing the Hamiltonian, and errors in constructing the initial state. As Landauer notes, these errors can cause unwanted reflections of the computational process that reduce the amplitude of the transmitted component that represents the completed computation. Work in which potential barriers causing reflection are introduced intentionally where the potential distribution is ‘deterministically disordered’, suggests that in some cases, these problems may be less severe than otherwise thought.\n\nBuilding quantum computers is incredibly difficult. Many candidate qubit systems exist on the scale of single atoms, and the physicists, engineers, and materials scientists who are trying to execute quantum operations on these systems constantly deal with two competing requirements. [3] First, qubits need to be protected from the environment because it can destroy the delicate quantum states needed for computation. The longer a qubit survives in its desired state the longer its “coherence time.” From this perspective, isolation is prized. Second, however, for algorithm execution qubits need to be entangled, shuffled around physical architectures, and controllable on demand. The better these operations can be carried out the higher their “fidelity.” [4]"
     },
     {
       "number": 24,
@@ -656,9 +621,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_3.png"
-      ],
       "text": "According to the passage, which of the following statements is true?",
       "choice_texts": [
         "Quantum computers are particularly versatile because qubits are highly robust and efficient in diverse environmental conditions.",
@@ -666,7 +628,8 @@
         "In quantum computers, qubits must be rearranged across physical architectures, and controllable as needed for algorithms to work.",
         "Landauer was a computer manufacturer who identified many problems in the field, and his ideas paved the way for transition from classical to quantum computation."
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Quantum computation is a field of much interest and activity. Much of the interest was stimulated by Shor’s discovery that there is a quantum computation algorithm for the integer factoring problem that is more efficient than any known classical algorithm. [1] This result has stimulated much work that represents steps in the long-term goal of physical construction of quantum computers. This includes work on quantum error-correction codes and physical models of quantum gates, quantum Hall systems, and nuclear magnetic resonance to carry out parallel quantum computation.\n\nThe optimism about reaching the long-term goal that is implicit in this work is tempered by the work of Landauer. [2] As a critic, Landauer correctly points out the enormous obstacles in the path of construction of efficient quantum computers. These include effects of environmental noise with respect to which quantum computers are exquisitely sensitive, errors in constructing the Hamiltonian, and errors in constructing the initial state. As Landauer notes, these errors can cause unwanted reflections of the computational process that reduce the amplitude of the transmitted component that represents the completed computation. Work in which potential barriers causing reflection are introduced intentionally where the potential distribution is ‘deterministically disordered’, suggests that in some cases, these problems may be less severe than otherwise thought.\n\nBuilding quantum computers is incredibly difficult. Many candidate qubit systems exist on the scale of single atoms, and the physicists, engineers, and materials scientists who are trying to execute quantum operations on these systems constantly deal with two competing requirements. [3] First, qubits need to be protected from the environment because it can destroy the delicate quantum states needed for computation. The longer a qubit survives in its desired state the longer its “coherence time.” From this perspective, isolation is prized. Second, however, for algorithm execution qubits need to be entangled, shuffled around physical architectures, and controllable on demand. The better these operations can be carried out the higher their “fidelity.” [4]"
     },
     {
       "number": 25,
@@ -684,9 +647,6 @@
       "explanation": null,
       "explanation_status": "pending_review",
       "explanation_sources": [],
-      "context_images": [
-        "assets/contexts/computer_engineering/1404/passage_3.png"
-      ],
       "text": "In which position marked by [1], [2], [3] or [4] can the following sentence best be inserted? ‘Balancing the required isolation and interaction is difficult, but after decades of research a few systems are emerging as top candidates for large-scale quantum information processing.’",
       "choice_texts": [
         "[4]",
@@ -694,7 +654,8 @@
         "[2]",
         "[1]"
       ],
-      "content_status": "visually_reviewed"
+      "content_status": "visually_reviewed",
+      "context": "Quantum computation is a field of much interest and activity. Much of the interest was stimulated by Shor’s discovery that there is a quantum computation algorithm for the integer factoring problem that is more efficient than any known classical algorithm. [1] This result has stimulated much work that represents steps in the long-term goal of physical construction of quantum computers. This includes work on quantum error-correction codes and physical models of quantum gates, quantum Hall systems, and nuclear magnetic resonance to carry out parallel quantum computation.\n\nThe optimism about reaching the long-term goal that is implicit in this work is tempered by the work of Landauer. [2] As a critic, Landauer correctly points out the enormous obstacles in the path of construction of efficient quantum computers. These include effects of environmental noise with respect to which quantum computers are exquisitely sensitive, errors in constructing the Hamiltonian, and errors in constructing the initial state. As Landauer notes, these errors can cause unwanted reflections of the computational process that reduce the amplitude of the transmitted component that represents the completed computation. Work in which potential barriers causing reflection are introduced intentionally where the potential distribution is ‘deterministically disordered’, suggests that in some cases, these problems may be less severe than otherwise thought.\n\nBuilding quantum computers is incredibly difficult. Many candidate qubit systems exist on the scale of single atoms, and the physicists, engineers, and materials scientists who are trying to execute quantum operations on these systems constantly deal with two competing requirements. [3] First, qubits need to be protected from the environment because it can destroy the delicate quantum states needed for computation. The longer a qubit survives in its desired state the longer its “coherence time.” From this perspective, isolation is prized. Second, however, for algorithm execution qubits need to be entangled, shuffled around physical architectures, and controllable on demand. The better these operations can be carried out the higher their “fidelity.” [4]"
     },
     {
       "number": 26,
@@ -1272,7 +1233,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "فرض کنید مسئله‌ای به نام انتخاب پروژه‌های با بیشترین سود (Maximum Profit Project Selection) داریم. در این مسئله، تعدادی پروژه وجود دارد که پروژه i دارای سود Pi و مدت‌زمان di است. تنها تعداد مشخصی از پروژه‌ها را می‌توان به‌طور هم‌زمان انجام داد و کل مدت‌زمان انجام پروژه‌ها نباید از T بیشتر شود. هدف، به‌دست‌آوردن بیشترین سود ممکن از پروژه‌های انتخاب‌شده است. برای حل با الگوریتم شاخه و حد (Branch and Bound)، کدام روش برای تعیین حد بالا (Upper Bound) در هر گره مناسب‌تر است تا شاخه‌های غیرممکن یا کم‌بازده سریع‌تر حذف شوند؟",
+      "choice_texts": [
+        "استفاده از میانگین سود پروژه‌های باقی‌مانده و افزودن آن به سود فعلی در گره فعلی به‌عنوان حد بالا",
+        "استفاده از بیشترین سود در پروژه‌های باقی‌مانده و افزودن آن به سود فعلی در گره فعلی به‌عنوان حد بالا",
+        "استفاده از مجموع سود تمامی پروژه‌های باقی‌مانده و افزودن آن به سود فعلی در گره فعلی به‌عنوان حد بالا",
+        "انتخاب پروژه‌ها به‌صورت حریصانه بر اساس بیشترین نسبت سود به مدت‌زمان و افزودن آن‌ها تا زمانی که زمان کل از T فراتر رود و سپس در نظر گرفتن نتیجه به‌عنوان حد بالا"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 60,
@@ -1289,7 +1258,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در الگوریتم مرتب‌سازی درجی (Insertion Sort)، اگر برای جست‌وجوی مکان مناسب عنصر جاری به‌جای جست‌وجوی خطی از جست‌وجوی دودویی استفاده کنیم، کدام مورد دربارهٔ پیچیدگی زمانی آن در بدترین حالت درست است؟",
+      "choice_texts": [
+        "به O(n log n) کاهش می‌یابد.",
+        "همچنان O(n²) باقی می‌ماند.",
+        "به O(log n) کاهش می‌یابد.",
+        "به O(n) کاهش می‌یابد."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 61,
@@ -1306,7 +1283,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "فرض کنید می‌خواهید از میان دنباله‌ای از اعداد صحیح غیرمنفی تعدادی را به‌گونه‌ای انتخاب کنید که به بیشترین مجموع دست یابید، با این شرط که نتوانید دو عنصر متوالی را انتخاب کنید؛ به‌عبارت‌دیگر، هر عددی که انتخاب می‌شود، عدد بعد از آن در دنباله نمی‌تواند انتخاب شود. کدام روش با کمترین پیچیدگی زمانی برای حل این مسئله مناسب‌تر است؟",
+      "choice_texts": [
+        "الگوریتم بازگشتی همراه با حافظه‌گذاری (Memorization) برای ذخیره نتایج زیرمسئله‌ها و جلوگیری از محاسبه مجدد آن‌ها",
+        "الگوریتم برنامه‌ریزی پویا (Dynamic Programming) که مقدار بهینه را به‌صورت تکراری از چپ به راست محاسبه می‌کند",
+        "الگوریتم تقسیم و حل (Divide and Conquer) برای تقسیم مسئله به زیرمسئله‌های کوچک‌تر",
+        "الگوریتم جست‌وجوی کامل (Brute Force) که تمام ترکیب‌های ممکن را بررسی می‌کند"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 62,
@@ -1323,7 +1308,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "فرض کنید برای حل مسئلهٔ پوشش حداکثر (Maximum Coverage)، از الگوریتم حریصانه استفاده می‌کنید که مجموعه‌ای از عناصر را با کمترین هزینه ممکن پوشش می‌دهد. چرا این الگوریتم نمی‌تواند جواب بهینه را تضمین کند؟",
+      "choice_texts": [
+        "الگوریتم حریصانه همیشه انتخاب محلی بهینه دارد، اما ممکن است در سطح کلان بهترین نباشد.",
+        "مسئله پوشش حداکثر یک مسئله NP-کامل است و نیاز به حل دقیق دارد.",
+        "تمام راه‌حل‌های ممکن را بررسی نمی‌کند.",
+        "پیچیدگی زمانی آن بالا است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 63,
@@ -1374,7 +1367,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "ساختار داده‌ای به نام لیست اولویت‌دار پویا (Dynamic Priority List) داریم که از لیستی از گره‌ها تشکیل شده و هر گره دارای یک کلید و یک اولویت است. عملیات Insert(x,p)، Delete Max()، Find Median() و Increase Priority(x,k) باید با کمترین پیچیدگی زمانی ممکن انجام شوند. کدام ساختار دادهٔ ترکیبی مناسب‌تر است؟",
+      "choice_texts": [
+        "یک پشته و یک صف برای مدیریت هم‌زمان ترتیب ورود و خروج عناصر و اولویت آن‌ها",
+        "یک درخت فیبوناچی (Fibonacci Heap) و یک لیست پیوندی ساده برای مدیریت عناصر و اولویت‌ها",
+        "یک هرم دوتایی (Double-ended Heap) برای مدیریت اولویت‌ها و یک ساختار داده مرتب برای دسترسی سریع به میانه",
+        "یک درخت جست‌وجوی دودویی متوازن (Balanced Binary Search Tree) برای ذخیره اولویت‌ها و یک جدول درهم‌سازی (Hash Table) برای دسترسی سریع به عناصر"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 66,
@@ -1391,7 +1392,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در دو الگوریتم مرتب‌سازی سریع (Quick Sort) و مرتب‌سازی ادغامی (Merge Sort)، تعداد مقایسه‌ها و جابه‌جایی‌ها متفاوت است. کدام گزینه درست است؟",
+      "choice_texts": [
+        "همواره تعداد مقایسه‌ها در هر دو الگوریتم برابر است، اما مرتب‌سازی سریع تعداد جابه‌جایی بیشتری دارد.",
+        "همواره مرتب‌سازی ادغامی تعداد مقایسه‌های کمتری نسبت به مرتب‌سازی سریع دارد و تعداد جابه‌جایی‌های آن نیز کمتر است.",
+        "در حالت میانگین، مرتب‌سازی سریع تعداد مقایسه‌های بیشتری نسبت به مرتب‌سازی ادغامی دارد و تعداد جابه‌جایی‌های آن کمتر است.",
+        "در حالت میانگین، مرتب‌سازی سریع تعداد مقایسه‌های برابری با مرتب‌سازی ادغامی دارد، اما مقدار جابه‌جایی‌های آن بیشتر است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 67,
@@ -1425,7 +1434,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام گزاره دربارهٔ الگوریتم جست‌وجوی عمیق‌شوندهٔ تکراری (Iterative Deepening Search) درست است؟",
+      "choice_texts": [
+        "مرتبه زمانی آن به‌دلیل تکرارهای متعدد، بیشتر از BFS است.",
+        "مرتبه زمانی آن به‌دلیل تکرارهای متعدد، بیشتر از DFS است.",
+        "مرتبه مصرف حافظه آن مانند BFS است، اما برخلاف BFS جست‌وجو با این الگوریتم کامل است.",
+        "مرتبه مصرف حافظه آن مانند DFS است، اما برخلاف DFS جست‌وجو با این الگوریتم کامل است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 69,
@@ -1476,7 +1493,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام گزاره درست است؟",
+      "choice_texts": [
+        "اگر تابع هیوریستیک h سازگار (Consistent) باشد، آنگاه مقادیر f(n) در مسیر بهینه از ریشه تا هدف غیرنزولی است و در سایر مسیرها ممکن است صعودی یا نزولی باشد.",
+        "با فرض نامنفی بودن مقادیر توابع هیوریستیک، زمان اجرای حاصل از تابع هیوریستیک صفر (h(n)=0) در الگوریتم A* از هیچ تابع هیوریستیک دیگری کمتر نیست.",
+        "اگر تابع هیوریستیک h سازگار (Consistent) باشد، هم جست‌وجوی درختی و هم جست‌وجوی گرافی A* بهینه خواهند بود.",
+        "اگر تابع هیوریستیک h قابل قبول (Admissible) باشد، جست‌وجوی گرافی A* بهینه خواهد بود."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 72,
@@ -1493,7 +1518,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "از دو الگوریتم تپه‌نوردی استاندارد و پرتو محلی (Local Beam Search) برای حل یک مسئله استفاده می‌کنیم. کدام مورد درست است؟",
+      "choice_texts": [
+        "اگر تپه‌نوردی به جواب بهینه سراسری برسد و حالت اولیه آن یکی از k جواب اولیه پرتو محلی باشد، پرتو محلی نیز حتماً به بهینه سراسری می‌رسد.",
+        "اگر پرتو محلی به جواب بهینه سراسری برسد و حالت اولیه تپه‌نوردی یکی از k جواب اولیه پرتو محلی باشد، تپه‌نوردی نیز حتماً به بهینه سراسری می‌رسد.",
+        "هر دو الگوریتم ممکن است در بهینه محلی (Local) گیر کنند.",
+        "موارد ۱ و ۳"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 73,
@@ -1782,7 +1815,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "تکه‌کد زیر مربوط به کدام معماری است؟\n\n```text\nPush A\nPush B\nAdd\nPop C\n```",
+      "choice_texts": [
+        "مبتنی بر پشته",
+        "مبتنی بر انباشتگر",
+        "مبتنی بر ثبات ـ حافظه",
+        "مبتنی بر ثبات ـ ثبات / بارگذاری ـ ذخیره‌سازی"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 90,
@@ -1901,7 +1942,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "هدف اصلی از مکانیزم حالت دوگانه (Dual Mode)، حفاظت از کدام مورد است و در کجا پیاده‌سازی شده است؟",
+      "choice_texts": [
+        "امنیت سیستم در برابر فرایندهای هک‌شده ـ پردازنده",
+        "سایر فرایندها در برابر فرایند مخرب ـ سیستم‌عامل",
+        "منابع سیستم در برابر عملکرد مخرب فرایندها ـ پردازنده",
+        "سیستم‌عامل در برابر عملکرد مخرب فرایندها ـ سیستم‌عامل"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 97,
@@ -1918,7 +1967,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "چهار فرایند مشابه نیاز به ۲۰ میلی‌ثانیه پردازش دارند که اجرای آن‌ها به‌صورت ۵ میلی‌ثانیه پردازش و ۵ میلی‌ثانیه انتظار برای تکمیل I/O است. اگر سربار تعویض زمینه صفر باشد، اجرای دسته‌ای (Batch) این فرایندها روی یک پردازندهٔ دوهسته‌ای (Dual Core) چند میلی‌ثانیه طول می‌کشد؟",
+      "choice_texts": [
+        "۸۰",
+        "۵۰",
+        "۴۰",
+        "۲۵"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 98,
@@ -1935,7 +1992,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد دربارهٔ همروندی (Concurrency) درست است؟",
+      "choice_texts": [
+        "همروندی لازمهٔ داشتن چندبرنامگی است.",
+        "چندوظیفگی (Multitasking) یک نوع همروندی است.",
+        "چندبرنامگی (Multiprogramming) همان همروندی است.",
+        "چندریسمانی (Multithreading) یک نوع همروندی است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 99,
@@ -1952,7 +2017,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در یک سیستم‌عامل سه فرایند در حافظه بارگذاری شده است. فرایند اول دارای ۲ ریسمان هسته‌ای، فرایند دوم دارای یک ریسمان هسته و ۲ ریسمان کاربری و فرایند سوم دارای ۲ ریسمان سطح کاربری است. در هستهٔ این سیستم‌عامل چند ریسمان برای این سه فرایند وجود دارد؟ (نگاشت چند به یک، حالت پیش‌فرض است.)",
+      "choice_texts": [
+        "۸",
+        "۶",
+        "۵",
+        "۴"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 100,
@@ -1969,7 +2042,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "مانیتور (Monitor) در همگام‌سازی ریسمان‌ها به چه مفهومی است؟",
+      "choice_texts": [
+        "یک مکانیزم همگام‌سازی سطح بالا است که دو ساختار داده مجزا برای انحصار متقابل و متغیرهای شرطی تعریف می‌کند.",
+        "یک مکانیزم انحصار متقابل است که بر استفاده از دستورات سخت‌افزاری و انتظار فعال (Busy Waiting) تأکید دارد.",
+        "یک مکانیزم همگام‌سازی سطح بالا است که انحصار متقابل و متغیرهای شرطی را در یک ساختار داده ادغام می‌کند.",
+        "یک ریسمان خاص برای پایش و نظارت وضعیت همگامی سایر ریسمان‌ها است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 101,
@@ -1986,7 +2067,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام روش زمان‌بندی، از نوع تقدم اکید و غیرقبضه‌ای (Non-preemptive) است؟",
+      "choice_texts": [
+        "کوتاه‌ترین کار (Shortest Job First)",
+        "صف (FIFO)",
+        "نوبتی چرخشی (Round Robin)",
+        "نرخ یکنواخت (Rate Monotonic)"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 102,
@@ -2003,7 +2092,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد درست است؟",
+      "choice_texts": [
+        "اگر در یک سیستم، بهره‌وری پردازنده ۱۵٪ و دیسک ۹۷٪ باشد، این سیستم قطعاً دچار کوبیدگی (Thrashing) شده است.",
+        "زمانی که یک فرایند در حال اجرای یک تابع بازگشتی است، مجموعه کاری (Working Set) می‌تواند بدون تغییر بماند.",
+        "روش مدیریت حافظهٔ سگمنت‌کردن (Segmentation) ممکن است دچار کوبیدگی (Thrashing) شود.",
+        "روش LFU (Least Frequently Used) می‌تواند دچار بی‌هنجاری بلیدی (Belady Anomaly) شود."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 103,
@@ -2020,7 +2117,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در IPv4 اگر اندازه یک بسته IP برابر ۲۰۰۰ بایت و MTU لینکی که قرار است روی آن ارسال شود برابر ۱۵۰۰ بایت و بیت D در سرآیند (Header) این بسته IP صفر باشد، چه اتفاقی برای بسته پیش خواهد آمد؟",
+      "choice_texts": [
+        "بسته دور انداخته می‌شود و یک پیام خطای ICMP برای مبدأ ارسال خواهد شد.",
+        "بسته دور انداخته می‌شود، بدون آنکه هیچ‌گونه پیام خطای ICMP برای مبدأ ارسال شود.",
+        "بسته به ۲ قطعه (Fragment) تقسیم می‌شود، بدون آنکه هیچ‌گونه پیام خطای ICMP برای مبدأ ارسال شود.",
+        "بسته به ۲ قطعه (Fragment) تقسیم می‌شود و قطعات به‌دنبال هم به سمت مقصد در یک مسیر یکسان حرکت خواهند کرد."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 104,
@@ -2037,7 +2142,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد دربارهٔ مزیت اصلی پروتکل مسیریابی OSPF نسبت به پروتکل مسیریابی RIP درست است؟",
+      "choice_texts": [
+        "ادغام مسیریابی داخل AS و بین ASها",
+        "پشتیبانی از مدیریت سلسله‌مراتبی یک AS بزرگ",
+        "امکان تعویض پویا میان حالت زیرساخت و حالت بدون زیرساخت",
+        "امکان تعویض پویا میان رویکردهای بردار فاصله (Distance Vector) و وضعیت پیوند (Link State)"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 105,
@@ -2054,7 +2167,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در کدام مورد همهٔ پروتکل‌ها از قابلیت ذخیره‌سازی موقت (Cache) اطلاعات وضعیت استفاده می‌کنند؟",
+      "choice_texts": [
+        "ARP، OSPF و QUIC",
+        "HTTP، BGP و TCP",
+        "WWW/HTTP، DNS و UDP",
+        "WWW/HTTP، DNS و BGP"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 106,
@@ -2071,7 +2192,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "چنانچه در پروتکل TCP مقدار متغیر ssthresh (آستانه Slow Start) برابر ۸ باشد و هیچ رویداد انقضای زمان‌سنج یا دریافت ۳ ACK تکراری رخ ندهد، اندازه cwnd (پنجره ازدحام) در دوره ششم ارسال چند است؟",
+      "choice_texts": [
+        "۳۴",
+        "۳۲",
+        "۱۰",
+        "۶"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 107,
@@ -2088,7 +2217,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد نادرست است؟",
+      "choice_texts": [
+        "پیغام‌های ICMP از نوع Source Quench با اعلام وقوع ازدحام در صف لایه حمل گره مقصد، منجر به کاهش نرخ ارسال بسته‌ها از مبدأ می‌شوند.",
+        "Ping مبتنی بر پیام‌های ICMP از نوع Echo Request و Echo Reply عمل می‌کند.",
+        "Ping و Traceroute هر دو مبتنی بر پروتکل ICMP عمل می‌کنند.",
+        "بسته‌های ICMP مستقیماً داخل بسته‌های IP کپسوله می‌شوند."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 108,
@@ -2105,7 +2242,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در لایه پیوند داده (Data Link Layer)، مکانیزم‌های کنترل دسترسی به رسانه (MAC) به‌طور مستقیم بر بهره‌وری شبکه و کیفیت ارتباطات تأثیر می‌گذارند. کدام مورد به‌درستی روش‌های دسترسی به رسانه در این لایه را توصیف می‌کند؟",
+      "choice_texts": [
+        "در پروتکل CSMA/CD، بسته‌ها بلافاصله پس از شناسایی برخورد مجدداً ارسال می‌شوند تا از تأخیرهای طولانی جلوگیری شود.",
+        "در پروتکل CSMA/CD، بسته‌ها بلافاصله پس از شناسایی برخورد مجدداً ارسال می‌شوند تا از پهنای باند شبکه استفاده بهتری صورت پذیرد.",
+        "پروتکل‌های مبتنی بر Token Passing، به‌دلیل قابلیت تطبیق‌پذیری بیشتر، برای شبکه‌های بی‌سیم مناسب‌تر از شبکه‌های باسیم هستند.",
+        "پروتکل‌های CSMA/CA برای محیط‌های بی‌سیم مناسب‌تر از CSMA/CD هستند، زیرا به‌طور پیشگیرانه از وقوع برخورد اجتناب می‌کنند."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 109,
@@ -2122,7 +2267,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "جدول کتاب به‌صورت زیر مفروض است. خروجی دستور SELECT چیست؟\n\n```sql\nBooks (ISBN, bName, Price)\nSELECT Price FROM Books\nWHERE Price >= Avg(Price);\n```",
+      "choice_texts": [
+        "کتاب‌هایی که قیمت آن‌ها بیش از میانگین قیمت کتاب‌ها است.",
+        "کل اطلاعات جدول را بازیابی می‌کند.",
+        "میانگین قیمت کتاب‌ها",
+        "خطا دارد."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 110,
@@ -2139,7 +2292,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد نادرست است؟",
+      "choice_texts": [
+        "اگر جدولی 3NF باشد، حتماً BCNF هم است.",
+        "اگر جدولی 3NF باشد، حتماً 2NF هم است.",
+        "ممکن است یک جدول 3NF باشد، ولی شامل وابستگی‌های غیرکلیدی هم باشد.",
+        "3NF بودن، تضمینی برای حفظ وابستگی (Dependency Preservation) تابعی است."
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 111,
@@ -2156,7 +2317,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در طراحی بانک اطلاعاتی رابطه‌ای، کدام‌یک از معیارها مهم‌تر است؟",
+      "choice_texts": [
+        "رعایت شرط Lossless Join",
+        "داشتن کلید اصلی در رابطه‌ها (Relations)",
+        "حفظ وابستگی تابعی (Functional Dependency)",
+        "کاهش در رابطه‌ها (Relations) و تعداد خصیصه‌ها (Attributes)"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 112,
@@ -2207,7 +2376,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "فرض کنید R دارای هشت (۸) صفت است که ترکیب سه صفت، کلید اصلی (اولیه) را تشکیل می‌دهند. تعداد سوپرکلیدهای رابطه کدام است؟",
+      "choice_texts": [
+        "۲۵۶",
+        "۴۰",
+        "۳۲",
+        "۸"
+      ],
+      "content_status": "visually_reviewed"
     },
     {
       "number": 115,
@@ -2224,7 +2401,15 @@
       "answer_status": "official",
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "هدف اصلی نرمال‌سازی در پایگاه داده رابطه‌ای کدام است؟",
+      "choice_texts": [
+        "ساده کردن طراحی پایگاه داده",
+        "فشرده‌سازی داده‌ها",
+        "افزایش کارایی پرس‌وجوها",
+        "کاهش افزونگی داده‌ها"
+      ],
+      "content_status": "visually_reviewed"
     }
   ]
 }
