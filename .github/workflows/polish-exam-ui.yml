@@ -1,64 +1,62 @@
-name: Polish exam UI and question images
+name: Rebuild computer engineering 1404
 
 on:
   workflow_dispatch:
   push:
-    branches: ["main", "1277"]
+    branches: ["1277"]
     paths:
       - "master_exam_ui.py"
-      - "tools/crop_question_images.py"
+      - "tools/rebuild_1404_questions.py"
+      - "tools/add_1404_language_text.py"
       - ".github/workflows/polish-exam-ui.yml"
 
 permissions:
   contents: write
 
 jobs:
-  crop-and-validate:
+  rebuild-and-validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
-          fetch-depth: 0
+          ref: "1277"
+          fetch-depth: 1
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install Persian and English OCR
-        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-fas tesseract-ocr-eng
-      - name: Install image dependencies
-        run: pip install "Pillow>=10,<12" "numpy>=1.26,<3"
-      - name: Restore original full-page images
+      - name: Install PDF, OCR and image tools
         run: |
-          git ls-files 'assets/questions/**/*.png' | while read -r file; do
-            source_commit=$(git log --diff-filter=A --format=%H -- "$file" | tail -1)
-            git checkout "$source_commit" -- "$file"
-          done
-      - name: Create individual question crops
-        run: python tools/crop_question_images.py
-      - name: Validate datasets and images
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-fas tesseract-ocr-eng
+          pip install "Pillow>=10,<12" "streamlit>=1.36,<2"
+      - name: Rebuild 1404 from the original PDF
         run: |
-          python -m py_compile master_exam_ui.py tools/crop_question_images.py
+          python tools/rebuild_1404_questions.py
+          python tools/add_1404_language_text.py
+      - name: Validate application and all 1404 questions
+        run: |
+          python -m py_compile master_exam_ui.py tools/rebuild_1404_questions.py tools/add_1404_language_text.py
           python - <<'PY'
           import json
           from pathlib import Path
           from PIL import Image
-          root = Path('.')
-          exams = sorted((root / 'data/questions').rglob('exam_*.json'))
-          assert len(exams) == 3, f'Expected 3 exams, found {len(exams)}'
-          total = 0
-          for path in exams:
-              data = json.loads(path.read_text(encoding='utf-8'))
-              for question in data['questions']:
-                  image = Image.open(root / question['image'])
-                  assert image.width >= 700 and image.height >= 175, (path, question['number'], image.size)
-                  total += 1
-          assert total in {345, 389}, total
-          print(f'Validated {total} individual question images')
+          path = Path('data/questions/computer_engineering/exam_1404.json')
+          exam = json.loads(path.read_text(encoding='utf-8'))
+          assert len(exam['questions']) == 115
+          assert all(q.get('text') and len(q.get('choice_texts', [])) == 4 for q in exam['questions'][:25])
+          assert all(len(q.get('context_images', [])) in {1, 2} for q in exam['questions'][7:25])
+          for question in exam['questions']:
+              with Image.open(question['image']) as image:
+                  image.verify()
+          for context in Path('assets/contexts/computer_engineering/1404').glob('*.png'):
+              with Image.open(context) as image:
+                  image.verify()
+          print('Validated 115 questions and language text')
           PY
-      - name: Commit generated question crops
+      - name: Commit corrected 1404 assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/questions
-          git commit -m "Create individual question images" || exit 0
-          git push origin HEAD:${GITHUB_REF_NAME}
+          git add assets/questions/computer_engineering/1404 assets/contexts/computer_engineering/1404 data/questions/computer_engineering/exam_1404.json
+          git commit -m "Rebuild computer engineering 1404 questions" || exit 0
+          git push origin HEAD:1277

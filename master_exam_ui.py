@@ -3,137 +3,163 @@ from pathlib import Path
 
 import streamlit as st
 
-ROOT = Path(__file__).parent
 
-st.set_page_config(page_title="سامانه آزمون کارشناسی ارشد", page_icon="🎓", layout="wide")
+ROOT = Path(__file__).parent
+st.set_page_config(page_title="آزمون کارشناسی ارشد", page_icon="🎓", layout="wide")
 st.markdown("""
 <style>
 html, body, [class*="css"] { direction: rtl; text-align: right; }
-[data-testid="stImage"] img { border: 1px solid #d9dee8; border-radius: 14px; background: white; }
-.stButton button { width: 100%; }
-.correct-answer { padding: 1rem; border-radius: .75rem; background: #dcfce7; color: #166534; }
-.wrong-answer { padding: 1rem; border-radius: .75rem; background: #fee2e2; color: #991b1b; }
+[data-testid="stSidebar"] { left: auto; right: 0; }
+[data-testid="stSidebar"] > div:first-child { right: 0; }
+[data-testid="stImage"] img { border: 1px solid #d9dee8; border-radius: 12px; background: white; }
+.stButton button { width: 100%; min-height: 2.6rem; }
+.correct { padding: 1rem; border-radius: .7rem; background:#dcfce7; color:#166534; }
+.wrong { padding: 1rem; border-radius: .7rem; background:#fee2e2; color:#991b1b; }
+.legend { font-size:.85rem; line-height:2; }
 </style>
 """, unsafe_allow_html=True)
 
 
 @st.cache_data
 def load_exams():
-    exams = []
-    for path in sorted((ROOT / "data" / "questions").rglob("exam_*.json")):
+    result = []
+    for path in sorted((ROOT / "data/questions").rglob("exam_*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
-        if isinstance(data, dict) and data.get("questions"):
-            exams.append((path, data))
-    return exams
+        if data.get("questions"):
+            result.append((path, data))
+    return result
 
 
-def source_pdfs(exam):
-    source = exam.get("source", {})
-    question_value = source.get("questions_pdf") or exam.get("source_pdf")
-    answer_value = source.get("answer_key_pdf")
-    return (ROOT / question_value if question_value else None,
-            ROOT / answer_value if answer_value else None)
-
-
-available = load_exams()
-if not available:
-    st.error("هیچ داده آزمونی پیدا نشد.")
+exams = load_exams()
+if not exams:
+    st.error("داده آزمون پیدا نشد.")
     st.stop()
 
-labels = [exam["title"] for _, exam in available]
-selected_label = st.sidebar.selectbox("انتخاب آزمون", labels)
-exam_path, exam = available[labels.index(selected_label)]
-questions = exam["questions"]
+labels = [data["title"] for _, data in exams]
+selected_title = st.sidebar.selectbox("آزمون", labels, index=labels.index(next((x for x in labels if "۱۴۰۴" in x or "1404" in x), labels[0])))
+exam_path, exam = exams[labels.index(selected_title)]
 exam_id = str(exam_path.relative_to(ROOT))
+questions = exam["questions"]
 
-if st.session_state.get("active_exam") != exam_id:
-    st.session_state.active_exam = exam_id
+if st.session_state.get("exam_id") != exam_id:
+    st.session_state.exam_id = exam_id
     st.session_state.answers = {}
-    st.session_state.checked = set()
+    st.session_state.checked = {}
+    st.session_state.question_number = questions[0]["number"]
+
+subjects = list(dict.fromkeys(item["subject"] for item in questions))
+current_number = st.session_state.get("question_number", questions[0]["number"])
+current_question = next((q for q in questions if q["number"] == current_number), questions[0])
+default_subject = subjects.index(current_question["subject"])
+subject = st.sidebar.radio("صفحه درس", subjects, index=default_subject)
+subject_questions = [q for q in questions if q["subject"] == subject]
+if current_question["subject"] != subject:
+    st.session_state.question_number = subject_questions[0]["number"]
+    current_question = subject_questions[0]
+
+st.sidebar.markdown("### پاسخ‌نامه")
+st.sidebar.markdown(
+    '<div class="legend">□ نزده &nbsp; ■ پاسخ داده &nbsp; 🟩 درست &nbsp; 🟥 غلط</div>',
+    unsafe_allow_html=True,
+)
+
+for start in range(0, len(subject_questions), 5):
+    columns = st.sidebar.columns(5)
+    for column, item in zip(columns, subject_questions[start:start + 5]):
+        number = item["number"]
+        answer = st.session_state.answers.get(number, 0)
+        checked = st.session_state.checked.get(number)
+        if checked is True:
+            label = f"🟩 {number}"
+        elif checked is False:
+            label = f"🟥 {number}"
+        elif answer:
+            label = f"■ {number}"
+        else:
+            label = f"□ {number}"
+        if column.button(label, key=f"nav_{exam_id}_{number}"):
+            st.session_state.question_number = number
+            st.rerun()
+
+answered_total = sum(bool(st.session_state.answers.get(q["number"], 0)) for q in questions)
+st.sidebar.metric("پاسخ‌داده‌شده", f"{answered_total} از {len(questions)}")
+st.sidebar.progress(answered_total / len(questions))
+
+question = next(q for q in subject_questions if q["number"] == st.session_state.question_number)
+position = subject_questions.index(question)
 
 st.title(exam["title"])
-st.caption(f"کد مجموعه {exam['exam_code']} | کد دفترچه {exam['booklet_code']} | {exam['total_questions']} سؤال")
+st.caption(f"کد مجموعه {exam['exam_code']} | {len(questions)} سؤال")
+st.markdown(f"## {subject}")
+st.markdown(f"### سؤال {question['number']} از {subject_questions[-1]['number']}")
 
-question_pdf, answer_pdf = source_pdfs(exam)
-download_columns = st.columns(2)
-if question_pdf and question_pdf.exists():
-    with question_pdf.open("rb") as file:
-        download_columns[0].download_button("دانلود PDF سؤال‌ها", file, question_pdf.name, "application/pdf")
-if answer_pdf and answer_pdf.exists():
-    with answer_pdf.open("rb") as file:
-        download_columns[1].download_button("دانلود PDF کلید", file, answer_pdf.name, "application/pdf")
+if question.get("context"):
+    with st.expander("متن مشترک سؤال", expanded=True):
+        st.markdown(question["context"])
+if question.get("context_images"):
+    with st.expander("متن مشترک سؤال", expanded=True):
+        for context_image in question["context_images"]:
+            st.image(str(ROOT / context_image), use_container_width=True)
+if question.get("text"):
+    st.markdown(question["text"])
+else:
+    st.image(str(ROOT / question["image"]), use_container_width=True)
 
-subjects = list(dict.fromkeys(q["subject"] for q in questions))
-selected_subject = st.sidebar.selectbox("درس", ["همه درس‌ها", *subjects])
-visible = questions if selected_subject == "همه درس‌ها" else [q for q in questions if q["subject"] == selected_subject]
-numbers = [q["number"] for q in visible]
-requested = st.session_state.pop("requested_question", None)
-index = numbers.index(requested) if requested in numbers else 0
-selected_number = st.sidebar.selectbox("شماره سؤال", numbers, index=index)
-question = next(q for q in questions if q["number"] == selected_number)
-
-answered = sum(value in {1, 2, 3, 4} for value in st.session_state.answers.values())
-st.sidebar.metric("پاسخ‌داده‌شده", f"{answered} از {len(questions)}")
-st.progress(answered / len(questions))
-
-st.subheader(f"سؤال {question['number']} — {question['subject']}")
-st.image(str(ROOT / question["image"]), use_container_width=True)
-
-answer_key = (exam_id, question["number"])
+choice_values = question.get("choice_texts") or [1, 2, 3, 4]
 current = st.session_state.answers.get(question["number"], 0)
-choice = st.radio(
+selected = st.radio(
     "پاسخ شما",
     [0, 1, 2, 3, 4],
     index=current,
-    format_func=lambda value: "نزده" if value == 0 else f"گزینه {value}",
-    horizontal=True,
-    key=f"choice_{exam_id}_{question['number']}",
+    format_func=lambda value: "نزده" if value == 0 else (
+        f"{value}) {choice_values[value - 1]}" if question.get("choice_texts") else f"گزینه {value}"
+    ),
+    key=f"answer_{exam_id}_{question['number']}",
 )
-st.session_state.answers[question["number"]] = choice
+st.session_state.answers[question["number"]] = selected
 
-if st.button("بررسی پاسخ", type="primary", disabled=choice == 0):
-    st.session_state.checked.add(answer_key)
+if st.button("ثبت و بررسی پاسخ", type="primary", disabled=selected == 0):
+    correct = question.get("correct_answer")
+    st.session_state.checked[question["number"]] = (selected == correct) if correct else None
+    st.rerun()
 
-if answer_key in st.session_state.checked:
+if question["number"] in st.session_state.checked:
     correct = question.get("correct_answer")
     if correct is None:
-        st.warning("این سؤال در کلید نهایی حذف شده و در نمره محاسبه نمی‌شود.")
-    elif choice == correct:
-        st.markdown(f'<div class="correct-answer">✅ پاسخ درست است: گزینه {correct}</div>', unsafe_allow_html=True)
+        st.warning("این سؤال در کلید رسمی حذف شده است.")
+    elif selected == correct:
+        st.markdown(f'<div class="correct">✅ پاسخ درست است؛ گزینه {correct}</div>', unsafe_allow_html=True)
     else:
-        st.markdown(f'<div class="wrong-answer">❌ پاسخ انتخابی نادرست است. پاسخ صحیح: گزینه {correct}</div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="wrong">❌ پاسخ نادرست است؛ پاسخ صحیح گزینه {correct}</div>', unsafe_allow_html=True)
     st.markdown("#### پاسخ تشریحی")
     if question.get("explanation_status") == "verified" and question.get("explanation"):
         st.write(question["explanation"])
-        for source in question.get("explanation_sources", []):
-            st.caption(source)
     else:
-        st.info("پاسخ تشریحی این سؤال هنوز تهیه و بازبینی نشده است.")
+        st.info("پاسخ تشریحی هنوز تهیه و بازبینی نشده است.")
 
-previous = [n for n in numbers if n < selected_number]
-following = [n for n in numbers if n > selected_number]
-left, right = st.columns(2)
-with right:
-    if previous and st.button("سؤال قبلی"):
-        st.session_state.requested_question = previous[-1]
-        st.rerun()
-with left:
-    if following and st.button("سؤال بعدی"):
-        st.session_state.requested_question = following[0]
-        st.rerun()
+previous_col, next_col = st.columns(2)
+if position > 0 and previous_col.button("سؤال قبلی"):
+    st.session_state.question_number = subject_questions[position - 1]["number"]
+    st.rerun()
+if position + 1 < len(subject_questions) and next_col.button("سؤال بعدی"):
+    st.session_state.question_number = subject_questions[position + 1]["number"]
+    st.rerun()
 
 st.divider()
-if st.button("محاسبه نتیجه کل آزمون"):
+if st.button("محاسبه نتیجه آزمون"):
     graded = [q for q in questions if q.get("correct_answer") in {1, 2, 3, 4}]
     correct_count = wrong_count = empty_count = 0
     for item in graded:
-        user_answer = st.session_state.answers.get(item["number"], 0)
-        if user_answer == 0: empty_count += 1
-        elif user_answer == item["correct_answer"]: correct_count += 1
-        else: wrong_count += 1
-    percent = ((correct_count - wrong_count / 3) / len(graded)) * 100 if graded else 0
-    columns = st.columns(4)
-    columns[0].metric("درست", correct_count)
-    columns[1].metric("غلط", wrong_count)
-    columns[2].metric("نزده", empty_count)
-    columns[3].metric("درصد با نمره منفی", f"{percent:.2f}%")
+        answer = st.session_state.answers.get(item["number"], 0)
+        if not answer:
+            empty_count += 1
+        elif answer == item["correct_answer"]:
+            correct_count += 1
+        else:
+            wrong_count += 1
+    percent = (correct_count - wrong_count / 3) / len(graded) * 100 if graded else 0
+    a, b, c, d = st.columns(4)
+    a.metric("درست", correct_count)
+    b.metric("غلط", wrong_count)
+    c.metric("نزده", empty_count)
+    d.metric("درصد", f"{percent:.2f}%")
