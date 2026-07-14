@@ -45,7 +45,7 @@ jobs:
           rm -f tools/build_exam_1404.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git push origin --delete flyio-new-files || true
           git add -A
           git commit -m "Keep only Computer Engineering 1277 exams" || exit 0
           git push origin HEAD:1277
-          git push origin --delete flyio-new-files || true
