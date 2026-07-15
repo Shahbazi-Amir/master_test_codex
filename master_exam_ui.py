@@ -54,6 +54,16 @@ html, body, [class*="css"] { direction: rtl; text-align: right; }
     font-weight:700;
     direction:rtl;
 }
+.result-table-wrap { overflow-x:auto; margin:.75rem 0 1rem; }
+.result-table { width:100%; border-collapse:collapse; min-width:760px; }
+.result-table th, .result-table td {
+    border:1px solid #d9dee8;
+    padding:.55rem .7rem;
+    text-align:right;
+    white-space:nowrap;
+}
+.result-table th { background:#f1f5f9; font-weight:700; }
+.result-table tr:nth-child(even) td { background:#f8fafc; }
 
 </style>
 """, unsafe_allow_html=True)
@@ -147,6 +157,22 @@ def estimate_electrical_rank(percentages, coefficients, coefficient_code):
     estimate = max(1, min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate))
     uncertainty = max(30, round(estimate * 0.30))
     return estimate, max(1, estimate - uncertainty), min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate + uncertainty)
+
+
+def render_result_table(rows):
+    if not rows:
+        return
+    headers = list(rows[0])
+    header_html = "".join(f"<th>{header}</th>" for header in headers)
+    body_html = "".join(
+        "<tr>" + "".join(f"<td>{row[header]}</td>" for header in headers) + "</tr>"
+        for row in rows
+    )
+    st.markdown(
+        f'<div class="result-table-wrap"><table class="result-table"><thead><tr>{header_html}</tr></thead>'
+        f'<tbody>{body_html}</tbody></table></div>',
+        unsafe_allow_html=True,
+    )
 
 
 def source_pdfs(exam):
@@ -418,7 +444,7 @@ if st.session_state.get("result_summary"):
                 weighted_total += result["percent"] * coefficient
                 coefficient_total += coefficient
         weighted_score = weighted_total / coefficient_total if coefficient_total else 0
-        st.table(rows)
+        render_result_table(rows)
         score_column, raw_column = st.columns(2)
         score_column.metric(
             "امتیاز وزنی کد ضریب",
