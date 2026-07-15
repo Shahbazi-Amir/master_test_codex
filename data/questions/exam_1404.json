@@ -2175,7 +2175,6 @@
     {
       "number": 116,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_116.png",
       "source_page": 33,
       "choices": [
         1,
@@ -2186,7 +2185,14 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "به‌خطربودن کاشتنی‌های ارتوپدی در بدن از لحاظ بیولوژیکی در مدت‌زمان عملکرد آن، نشانگر کدام مفهوم است؟",
+      "choice_texts": [
+        "Bio inert",
+        "Bio adhesion",
+        "Blood Compatibility",
+        "Bio Compatibility"
+      ]
     },
     {
       "number": 117,
@@ -2223,7 +2229,6 @@
     {
       "number": 119,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_119.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2234,12 +2239,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در ثبت سیگنال در الکتروانسفالوگرام، تقویت‌کننده باید کدام مشخصات را داشته باشد؟",
+      "choice_texts": [
+        "CMRR بالا ـ بهره زیاد",
+        "CMRR بالا ـ بهره کم",
+        "CMRR کم ـ بهره زیاد",
+        "CMRR کم ـ بهره کم"
+      ]
     },
     {
       "number": 120,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_120.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2250,7 +2261,14 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "استرین گیج براساس کدام مورد کار می‌کند؟",
+      "choice_texts": [
+        "خازن متغیر",
+        "سطح تماس متغیر",
+        "اندوکتانس متغیر",
+        "مقاومت متغیر"
+      ]
     },
     {
       "number": 121,
@@ -2271,7 +2289,6 @@
     {
       "number": 122,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_122.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2282,12 +2299,18 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "تغییر اندوکتانس یک سنسور القایی با کدام عامل رابطه غیرخطی دارد؟",
+      "choice_texts": [
+        "شکل هندسی",
+        "تعداد دور سیم‌پیچ",
+        "نفوذپذیری محیط",
+        "عایق‌کاری سیم‌ها"
+      ]
     },
     {
       "number": 123,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_123.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2298,7 +2321,14 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "مهم‌ترین دلیل استفاده از تقویت‌کننده‌های با CMRR بالا کدام است؟",
+      "choice_texts": [
+        "بهره بالا",
+        "حذف نویز مشترک",
+        "حذف کلیه نویزها",
+        "امپدانس ورودی تفاضلی بالا"
+      ]
     },
     {
       "number": 124,
@@ -2319,7 +2349,6 @@
     {
       "number": 125,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1404/question_125.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2330,7 +2359,14 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "امپدانس تماسی در الکترودهای مکشی چه وضعیتی دارد؟",
+      "choice_texts": [
+        "بالا",
+        "پایین",
+        "صفر",
+        "قابل صرف‌نظرکردن"
+      ]
     }
   ]
 }
