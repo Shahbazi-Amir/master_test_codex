@@ -20,6 +20,7 @@ DATA = ROOT / "data/questions/exam_1403.json"
 # The first mathematics page follows an English question, which confuses the
 # mixed-margin detector. These starts were checked against the official page.
 MANUAL_PAGE_6 = {26: 430, 27: 790, 28: 1030, 29: 1270}
+MANUAL_PAGE_19 = {71: 210, 72: 665, 73: 1120}
 
 
 def render_page(number, directory):
@@ -55,6 +56,8 @@ def main():
             page = Image.open(page_path).convert("RGB")
             if page_number == 6:
                 starts = [MANUAL_PAGE_6[q["number"]] for q in questions]
+            elif page_number == 19:
+                starts = [MANUAL_PAGE_19[q["number"]] for q in questions]
             else:
                 starts = marker_starts(page, len(questions), questions[0]["number"])
                 if not starts or len(starts) != len(questions):
