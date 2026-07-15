@@ -73,6 +73,50 @@ def to_persian_digits(value):
     return str(value).translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
 
 
+ELECTRICAL_SUBJECTS = [
+    "زبان عمومی و تخصصی (انگلیسی)",
+    "ریاضیات",
+    "مدارهای الکتریکی ۱ و ۲",
+    "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+    "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+    "سیستم‌های کنترل خطی",
+    "سیگنال‌ها و سیستم‌ها",
+    "الکترومغناطیس",
+]
+BIOMEDICAL_SUBJECT = "مقدمه‌ای بر مهندسی زیست‌پزشکی"
+ELECTRICAL_COEFFICIENT_CODES = {
+    "کد ضریب ۱ — الکترونیک": [2, 3, 3, 4, 1, 1, 2, 2],
+    "کد ضریب ۲ — قدرت": [2, 3, 3, 1, 4, 2, 1, 1],
+    "کد ضریب ۳": [2, 3, 3, 2, 1, 1, 2, 4],
+    "کد ضریب ۴": [2, 3, 3, 2, 1, 1, 4, 2],
+    "کد ضریب ۵ — کنترل": [2, 3, 3, 1, 2, 4, 2, 1],
+    "کد ضریب ۶ — زیست‌پزشکی": [2, 3, 3, 3, 1, 4, 4, 1],
+    "کد ضریب ۷": [2, 3, 3, 4, 4, 4, 1, 1],
+    "کد ضریب ۸": [2, 3, 3, 2, 1, 2, 1, 4],
+    "کد ضریب ۹": [2, 4, 3, 3, 0, 0, 4, 4],
+    "کد ضریب ۱۰": [2, 3, 3, 3, 1, 4, 4, 1],
+}
+
+
+def calculate_subject_result(subject_name, all_questions, answers):
+    graded = [
+        question for question in all_questions
+        if question.get("subject") == subject_name and question.get("correct_answer") in {1, 2, 3, 4}
+    ]
+    correct = wrong = empty = 0
+    for question in graded:
+        answer = answers.get(question["number"], 0)
+        if not answer:
+            empty += 1
+        elif answer == question["correct_answer"]:
+            correct += 1
+        else:
+            wrong += 1
+    raw_score = 3 * correct - wrong
+    percent = raw_score / (3 * len(graded)) * 100 if graded else 0
+    return {"correct": correct, "wrong": wrong, "empty": empty, "raw": raw_score, "percent": percent}
+
+
 def source_pdfs(exam):
     source = exam.get("source", {})
     question_value = source.get("questions_pdf") or exam.get("source_pdf")
@@ -268,7 +312,7 @@ if question["number"] in st.session_state.checked:
                     st.markdown(f"- [{resource['title']}]({resource['url']}) — {resource['coverage']}")
 
 st.divider()
-if st.button("محاسبه نتیجه آزمون"):
+if st.button("مشاهده نتایج"):
     graded = [q for q in questions if q.get("correct_answer") in {1, 2, 3, 4}]
     correct_count = wrong_count = empty_count = 0
     for item in graded:
@@ -284,13 +328,71 @@ if st.button("محاسبه نتیجه آزمون"):
         answer = st.session_state.answers.get(item["number"], 0)
         if answer:
             st.session_state.checked[item["number"]] = answer == item["correct_answer"]
-    st.session_state.result_summary = (correct_count, wrong_count, empty_count, percent)
+    st.session_state.result_summary = True
     st.rerun()
 
 if st.session_state.get("result_summary"):
-    correct_count, wrong_count, empty_count, percent = st.session_state.result_summary
+    graded = [q for q in questions if q.get("correct_answer") in {1, 2, 3, 4}]
+    correct_count = sum(st.session_state.answers.get(q["number"], 0) == q["correct_answer"] for q in graded)
+    wrong_count = sum(
+        bool(st.session_state.answers.get(q["number"], 0))
+        and st.session_state.answers.get(q["number"], 0) != q["correct_answer"]
+        for q in graded
+    )
+    empty_count = len(graded) - correct_count - wrong_count
+    percent = (3 * correct_count - wrong_count) / (3 * len(graded)) * 100 if graded else 0
     a, b, c, d = st.columns(4)
-    a.metric("درست", correct_count)
-    b.metric("غلط", wrong_count)
-    c.metric("نزده", empty_count)
-    d.metric("درصد", f"{percent:.2f}%")
+    a.metric("درست", to_persian_digits(correct_count))
+    b.metric("غلط", to_persian_digits(wrong_count))
+    c.metric("نزده", to_persian_digits(empty_count))
+    d.metric("درصد کل ساده", f"{to_persian_digits(f'{percent:.2f}')}٪")
+
+    is_electrical_exam = str(exam.get("exam_code")) == "1251" or "برق" in exam.get("title", "")
+    if is_electrical_exam:
+        st.markdown("### کارنامه درس‌ها")
+        selected_code = st.selectbox(
+            "کد ضریب / گرایش",
+            list(ELECTRICAL_COEFFICIENT_CODES),
+            key=f"coefficient_code_{exam_id}",
+        )
+        selected_subjects = list(ELECTRICAL_SUBJECTS)
+        if selected_code.startswith("کد ضریب ۶"):
+            final_subject = st.radio(
+                "درس انتخابی کد ضریب ۶",
+                ["الکترومغناطیس", BIOMEDICAL_SUBJECT],
+                horizontal=True,
+                key=f"coefficient_6_subject_{exam_id}",
+            )
+            selected_subjects[-1] = final_subject
+
+        coefficients = ELECTRICAL_COEFFICIENT_CODES[selected_code]
+        rows = []
+        weighted_total = 0
+        coefficient_total = 0
+        for subject_name, coefficient in zip(selected_subjects, coefficients):
+            result = calculate_subject_result(subject_name, questions, st.session_state.answers)
+            rows.append({
+                "درس": subject_name,
+                "صحیح": to_persian_digits(result["correct"]),
+                "غلط": to_persian_digits(result["wrong"]),
+                "نزده": to_persian_digits(result["empty"]),
+                "امتیاز خام": to_persian_digits(result["raw"]),
+                "درصد": f"{to_persian_digits(f'{result['percent']:.2f}')}٪",
+                "ضریب": to_persian_digits(coefficient),
+            })
+            if coefficient:
+                weighted_total += result["percent"] * coefficient
+                coefficient_total += coefficient
+        weighted_score = weighted_total / coefficient_total if coefficient_total else 0
+        st.table(rows)
+        score_column, raw_column = st.columns(2)
+        score_column.metric(
+            "امتیاز وزنی کد ضریب",
+            f"{to_persian_digits(f'{weighted_score:.2f}')} از ۱۰۰",
+        )
+        raw_column.metric("امتیاز خام پاسخ‌ها", to_persian_digits(3 * correct_count - wrong_count))
+        st.caption("در هر درس، پاسخ صحیح ۳ امتیاز و پاسخ غلط ۱ امتیاز منفی دارد؛ سؤال نزده بدون امتیاز است.")
+        st.info(
+            "امتیاز نمایش‌داده‌شده بر پایه درصد درس‌ها و ضرایب رسمی محاسبه شده است، اما تراز یا رتبه رسمی نیست. "
+            "تخمین رتبه پس از افزودن بانک کارنامه‌های تاریخی معتبر فعال می‌شود."
+        )
