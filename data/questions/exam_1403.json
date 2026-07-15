@@ -2115,7 +2115,6 @@
     {
       "number": 122,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_122.png",
       "source_page": 33,
       "choices": [
         1,
@@ -2126,12 +2125,18 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "با کدام ابزار، اندازه‌گیری بهتری از درصد اشباع خون از اکسیژن انجام می‌شود؟",
+      "choice_texts": [
+        "گلوکومتر",
+        "پالس اکسی‌متر",
+        "الکترومایوگرام",
+        "الکتروکاردیوگرام"
+      ]
     },
     {
       "number": 123,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_123.png",
       "source_page": 33,
       "choices": [
         1,
@@ -2142,12 +2147,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام مورد، در خصوص ولتاژ ترانس‌ممبرین یک یون درست است؟",
+      "choice_texts": [
+        "اگر مقدار بار یک یون دو برابر شود، قدر مطلق ولتاژ ترانس‌ممبرین نصف می‌شود.",
+        "افزایش دمای محیط موجب کاهش قدر مطلق ولتاژ ترانس‌ممبرین می‌شود.",
+        "ولتاژ ترانس‌ممبرین یک یون، ولتاژی است که در آن گردهمی غشا نسبت به یون صفر می‌شود.",
+        "افزودن مقدار مساوی از یک یون به داخل و خارج سلول موجب تغییر ولتاژ ترانس‌ممبرین سلول نمی‌شود."
+      ]
     },
     {
       "number": 124,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_124.png",
       "source_page": 33,
       "choices": [
         1,
@@ -2158,7 +2169,14 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "اگر رگ صلب فرض شود، تغییر در کدام عامل تأثیر بیشتری در افزایش اختلاف فشار خون دارد؟",
+      "choice_texts": [
+        "هماتوکریت",
+        "ویسکوزیته خون",
+        "قطر رگ",
+        "طول رگ"
+      ]
     },
     {
       "number": 125,
@@ -2195,7 +2213,6 @@
     {
       "number": 127,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_127.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2206,7 +2223,14 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "در سیستم استاندار ۱۰–۲۰ برای ثبت EEG، اعداد زوج نشان‌دهنده کدام قسمت مغز هستند؟",
+      "choice_texts": [
+        "راست",
+        "چپ",
+        "بالا",
+        "پایین"
+      ]
     },
     {
       "number": 128,
@@ -2227,7 +2251,6 @@
     {
       "number": 129,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_129.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2238,7 +2261,14 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "افزایش کدام عامل، موجب کاهش خون‌سازگاری سطح بیومتریال‌ها می‌شود؟",
+      "choice_texts": [
+        "ضدحساسیت",
+        "صیقلی بودن",
+        "بار الکتریکی منفی",
+        "بار الکتریکی مثبت"
+      ]
     },
     {
       "number": 130,
@@ -2259,7 +2289,6 @@
     {
       "number": 131,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1403/question_131.png",
       "source_page": 34,
       "choices": [
         1,
@@ -2270,7 +2299,14 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "اگر جریان نقطه‌ای با مقدار I₀ به داخل یک آکسون بی‌نهایت بلند تزریق شود، ولتاژی که در نقطه تزریق در حالت پایدار ایجاد می‌شود، ............... .",
+      "choice_texts": [
+        "با افزایش ثابت مکانی آکسون کاهش می‌یابد.",
+        "با افزایش ثابت زمانی آکسون کاهش می‌یابد.",
+        "با مقاومت طولی خارج آکسون، در شرایطی که ثابت مکانی ثابت بماند، رابطه مستقیم دارد.",
+        "با مقاومت طولی داخل آکسون، در شرایطی که ثابت مکانی ثابت بماند، رابطه مستقیم دارد."
+      ]
     }
   ]
 }
