@@ -97,7 +97,10 @@ def main():
                 if index + 1 < len(entries):
                     bottom = max(top + 180, entries[index + 1][0] - 8)
                 else:
-                    bottom = MANUAL_ENDS.get(question["number"], page.height)
+                    bottom = MANUAL_ENDS.get(
+                        question["number"],
+                        min(page.height, matched_top + old_height + 60),
+                    )
                 crop = page.crop((0, top, page.width, bottom))
                 target = ROOT / question["image"]
                 temporary = target.with_suffix(".tmp.png")
