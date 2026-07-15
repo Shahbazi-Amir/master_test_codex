@@ -22,7 +22,15 @@ MANUAL_STARTS = {
     47: (12, 160), 48: (12, 455), 49: (12, 695), 50: (12, 1135),
     51: (13, 150), 52: (13, 940),
     53: (14, 148), 54: (14, 897), 55: (14, 1261),
+    56: (15, 175), 57: (15, 615), 58: (15, 1115),
+    59: (16, 165), 60: (16, 570), 61: (16, 1030),
+    62: (17, 160), 63: (17, 650), 64: (17, 1120),
+    65: (18, 150), 66: (18, 485), 67: (18, 1040),
+    68: (19, 145), 69: (19, 1030),
+    70: (20, 145),
 }
+
+MANUAL_ENDS = {70: 930}
 
 
 def render_pages(directory, first=6, last=34):
@@ -89,7 +97,7 @@ def main():
                 if index + 1 < len(entries):
                     bottom = max(top + 180, entries[index + 1][0] - 8)
                 else:
-                    bottom = page.height
+                    bottom = MANUAL_ENDS.get(question["number"], page.height)
                 crop = page.crop((0, top, page.width, bottom))
                 target = ROOT / question["image"]
                 temporary = target.with_suffix(".tmp.png")
