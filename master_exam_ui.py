@@ -96,6 +96,17 @@ ELECTRICAL_COEFFICIENT_CODES = {
     "کد ضریب ۹": [2, 4, 3, 3, 0, 0, 4, 4],
     "کد ضریب ۱۰": [2, 3, 3, 3, 1, 4, 4, 1],
 }
+ELECTRICAL_ESTIMATED_CANDIDATES = 8000
+ELECTRICAL_RANK_PROFILES = [
+    # Percentages are ordered like ELECTRICAL_SUBJECTS. Ranks are keyed by coefficient code.
+    ([100, 55.56, 75.56, 20, 0, 0, 100, 73.33], {1: 1, 2: 4, 3: 1, 4: 1, 5: 1, 6: 1, 7: 8, 8: 2, 10: 1}),
+    ([50, 62.85, 56.32, 70.67, 0, 20.28, 63.35, 0], {1: 9, 2: 20, 3: 11, 4: 8, 5: 10, 6: 6, 7: 7, 8: 13, 10: 5}),
+    ([33.96, 12.29, 25.96, 52.96, 0, 60.84, 40.25, 0], {1: 78, 2: 170, 3: 152, 4: 116, 5: 48, 6: 33, 7: 36, 8: 119, 10: 11}),
+    ([20.66, 23.20, 40.25, 14.16, 22.22, 52.57, 15.71, 0], {1: 238, 2: 100, 3: 258, 4: 266, 5: 60, 6: 112, 7: 64}),
+    ([0, 0, 25.99, 49.70, 23.06, 5.79, 15.71, 18.19], {1: 277, 2: 559, 3: 408, 4: 516, 5: 711, 6: 496, 7: 240, 8: 434, 10: 227}),
+    ([-3.53, 0, 26.24, 34.76, 0, 0, 6.28, 0], {1: 930, 2: 2279, 3: 1536, 4: 1531, 6: 1481, 7: 1195, 8: 1664}),
+    ([0, 0, 0, 0, 0, 0, 0, 0], {1: 8000, 2: 8000, 3: 8000, 4: 8000, 5: 8000, 6: 8000, 7: 8000, 8: 8000, 10: 8000}),
+]
 
 
 def calculate_subject_result(subject_name, all_questions, answers):
@@ -115,6 +126,27 @@ def calculate_subject_result(subject_name, all_questions, answers):
     raw_score = 3 * correct - wrong
     percent = raw_score / (3 * len(graded)) * 100 if graded else 0
     return {"correct": correct, "wrong": wrong, "empty": empty, "raw": raw_score, "percent": percent}
+
+
+def estimate_electrical_rank(percentages, coefficients, coefficient_code):
+    candidates = []
+    for profile, ranks in ELECTRICAL_RANK_PROFILES:
+        if coefficient_code not in ranks:
+            continue
+        coefficient_sum = sum(coefficients) or 1
+        distance = (
+            sum(weight * (actual - historical) ** 2 for actual, historical, weight in zip(percentages, profile, coefficients))
+            / coefficient_sum
+        ) ** 0.5
+        candidates.append((distance, ranks[coefficient_code]))
+    if not candidates:
+        return None
+    nearest = sorted(candidates)[:3]
+    weights = [1 / (distance + 3) ** 2 for distance, _ in nearest]
+    estimate = round(sum(weight * rank for weight, (_, rank) in zip(weights, nearest)) / sum(weights))
+    estimate = max(1, min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate))
+    uncertainty = max(30, round(estimate * 0.30))
+    return estimate, max(1, estimate - uncertainty), min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate + uncertainty)
 
 
 def source_pdfs(exam):
@@ -367,10 +399,12 @@ if st.session_state.get("result_summary"):
 
         coefficients = ELECTRICAL_COEFFICIENT_CODES[selected_code]
         rows = []
+        subject_percentages = []
         weighted_total = 0
         coefficient_total = 0
         for subject_name, coefficient in zip(selected_subjects, coefficients):
             result = calculate_subject_result(subject_name, questions, st.session_state.answers)
+            subject_percentages.append(result["percent"])
             rows.append({
                 "درس": subject_name,
                 "صحیح": to_persian_digits(result["correct"]),
@@ -392,7 +426,18 @@ if st.session_state.get("result_summary"):
         )
         raw_column.metric("امتیاز خام پاسخ‌ها", to_persian_digits(3 * correct_count - wrong_count))
         st.caption("در هر درس، پاسخ صحیح ۳ امتیاز و پاسخ غلط ۱ امتیاز منفی دارد؛ سؤال نزده بدون امتیاز است.")
-        st.info(
-            "امتیاز نمایش‌داده‌شده بر پایه درصد درس‌ها و ضرایب رسمی محاسبه شده است، اما تراز یا رتبه رسمی نیست. "
-            "تخمین رتبه پس از افزودن بانک کارنامه‌های تاریخی معتبر فعال می‌شود."
-        )
+        coefficient_code = int(selected_code.split()[2].translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")))
+        rank_estimate = estimate_electrical_rank(subject_percentages, coefficients, coefficient_code)
+        st.markdown("### تخمین رتبه")
+        if rank_estimate:
+            central_rank, low_rank, high_rank = rank_estimate
+            rank_column, range_column, population_column = st.columns(3)
+            rank_column.metric("رتبه تخمینی", to_persian_digits(central_rank))
+            range_column.metric("بازه محتمل", f"{to_persian_digits(low_rank)} تا {to_persian_digits(high_rank)}")
+            population_column.metric("جمعیت مبنا", f"حدود {to_persian_digits(ELECTRICAL_ESTIMATED_CANDIDATES)} نفر")
+            st.info(
+                "این بازه از مقایسه درصد تک‌تک درس‌ها با نزدیک‌ترین کارنامه‌های واقعی ۱۴۰۳ و ۱۴۰۴ محاسبه شده است. "
+                "سختی آزمون، سهمیه و تراز سازمان سنجش می‌تواند رتبه نهایی را جابه‌جا کند."
+            )
+        else:
+            st.warning("برای این کد ضریب، هنوز تعداد کارنامه واقعی به حد کافی نرسیده است.")
