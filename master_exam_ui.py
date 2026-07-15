@@ -214,18 +214,33 @@ if selected != current:
     st.session_state.pop("result_summary", None)
 st.session_state.answers[question["number"]] = selected
 
-previous_col, next_col = st.columns(2)
-if position > 0 and previous_col.button("سؤال قبلی"):
-    st.session_state.question_number = subject_questions[position - 1]["number"]
-    st.rerun()
-if position + 1 < len(subject_questions) and next_col.button("سؤال بعدی", type="primary"):
+if st.button(
+    "سؤال بعدی",
+    type="primary",
+    disabled=position + 1 >= len(subject_questions),
+    key=f"next_{exam_id}_{question['number']}",
+):
     st.session_state.question_number = subject_questions[position + 1]["number"]
     st.rerun()
 
-if st.button("ثبت و مشاهده پاسخ درست", disabled=selected == 0):
-    correct = question.get("correct_answer")
-    st.session_state.checked[question["number"]] = (selected == correct) if correct else None
+if st.button(
+    "سؤال قبلی",
+    disabled=position == 0,
+    key=f"previous_{exam_id}_{question['number']}",
+):
+    st.session_state.question_number = subject_questions[position - 1]["number"]
     st.rerun()
+
+answer_left, answer_center, answer_right = st.columns([1, 2, 1])
+with answer_center:
+    if st.button(
+        "ثبت و مشاهده پاسخ درست",
+        disabled=selected == 0,
+        key=f"check_{exam_id}_{question['number']}",
+    ):
+        correct = question.get("correct_answer")
+        st.session_state.checked[question["number"]] = (selected == correct) if correct else None
+        st.rerun()
 
 if question["number"] in st.session_state.checked:
     correct = question.get("correct_answer")
