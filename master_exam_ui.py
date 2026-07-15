@@ -377,7 +377,7 @@ if st.session_state.get("result_summary"):
     a.metric("درست", to_persian_digits(correct_count))
     b.metric("غلط", to_persian_digits(wrong_count))
     c.metric("نزده", to_persian_digits(empty_count))
-    d.metric("درصد کل ساده", f"{to_persian_digits(f'{percent:.2f}')}٪")
+    d.metric("درصد کل ساده", f"{to_persian_digits(format(percent, '.2f'))}٪")
 
     is_electrical_exam = str(exam.get("exam_code")) == "1251" or "برق" in exam.get("title", "")
     if is_electrical_exam:
@@ -411,7 +411,7 @@ if st.session_state.get("result_summary"):
                 "غلط": to_persian_digits(result["wrong"]),
                 "نزده": to_persian_digits(result["empty"]),
                 "امتیاز خام": to_persian_digits(result["raw"]),
-                "درصد": f"{to_persian_digits(f'{result['percent']:.2f}')}٪",
+                "درصد": f"{to_persian_digits(format(result['percent'], '.2f'))}٪",
                 "ضریب": to_persian_digits(coefficient),
             })
             if coefficient:
@@ -422,7 +422,7 @@ if st.session_state.get("result_summary"):
         score_column, raw_column = st.columns(2)
         score_column.metric(
             "امتیاز وزنی کد ضریب",
-            f"{to_persian_digits(f'{weighted_score:.2f}')} از ۱۰۰",
+            f"{to_persian_digits(format(weighted_score, '.2f'))} از ۱۰۰",
         )
         raw_column.metric("امتیاز خام پاسخ‌ها", to_persian_digits(3 * correct_count - wrong_count))
         st.caption("در هر درس، پاسخ صحیح ۳ امتیاز و پاسخ غلط ۱ امتیاز منفی دارد؛ سؤال نزده بدون امتیاز است.")
