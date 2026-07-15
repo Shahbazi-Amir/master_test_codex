@@ -16,13 +16,45 @@ html, body, [class*="css"] { direction: rtl; text-align: right; }
 .stButton button { width: 100%; min-height: 2.6rem; }
 .correct { padding: 1rem; border-radius: .7rem; background:#dcfce7; color:#166534; }
 .wrong { padding: 1rem; border-radius: .7rem; background:#fee2e2; color:#991b1b; }
-.legend { font-size:.82rem; line-height:2; }
-[data-testid="stSidebar"] [data-testid="stHorizontalBlock"] { gap: .18rem; }
-[data-testid="stSidebar"] .stButton button {
-    min-height: 2rem;
-    padding: .1rem .15rem;
-    font-size: .78rem;
+.legend {
+    display:flex;
+    flex-wrap:wrap;
+    gap:.35rem .65rem;
+    align-items:center;
+    font-size:.78rem;
+    line-height:1.8;
 }
+.legend-item { display:inline-flex; align-items:center; gap:.2rem; white-space:nowrap; }
+.legend-square {
+    display:inline-block;
+    width:.82rem;
+    height:.82rem;
+    border:1px solid #94a3b8;
+    border-radius:2px;
+    box-sizing:border-box;
+}
+.legend-square.empty { background:#fff; }
+.legend-square.selected { background:#2563eb; border-color:#2563eb; }
+.legend-square.correct { background:#22c55e; border-color:#22c55e; padding:0; }
+.legend-square.wrong { background:#ef4444; border-color:#ef4444; padding:0; }
+[data-testid="stSidebar"] [data-testid="stHorizontalBlock"] { gap: .12rem; align-items:center; }
+[data-testid="stSidebar"] [data-testid="stHorizontalBlock"] .stButton button {
+    width:2rem;
+    height:2rem;
+    min-height:2rem;
+    padding:0;
+    font-size:.78rem;
+    line-height:1;
+}
+.answer-number {
+    height:2rem;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    direction:rtl;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
@@ -35,6 +67,10 @@ def load_exams():
         if data.get("questions"):
             result.append((path, data))
     return result
+
+
+def to_persian_digits(value):
+    return str(value).translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
 
 
 def source_pdfs(exam):
@@ -84,33 +120,46 @@ if current_question["subject"] != subject:
 
 st.sidebar.markdown("### پاسخ‌نامه")
 st.sidebar.markdown(
-    '<div class="legend">□ نزده &nbsp; ■ انتخاب‌شده &nbsp; 🟩 صحیح &nbsp; 🟥 غلط</div>',
+    """
+    <div class="legend">
+      <span class="legend-item"><span class="legend-square empty"></span>نزده</span>
+      <span class="legend-item"><span class="legend-square selected"></span>انتخاب‌شده</span>
+      <span class="legend-item"><span class="legend-square correct"></span>صحیح</span>
+      <span class="legend-item"><span class="legend-square wrong"></span>غلط</span>
+    </div>
+    """,
     unsafe_allow_html=True,
 )
-header = st.sidebar.columns([1.25, 1, 1, 1, 1])
-header[0].markdown("**سؤال**")
-for option, column in enumerate(header[1:], 1):
-    column.markdown(f"**{option}**")
+header = st.sidebar.columns([1.15, .72, 1, 1, 1, 1])
+header[0].markdown("**شماره**")
+header[1].markdown("")
+for option, column in enumerate(header[2:], 1):
+    column.markdown(f"**{to_persian_digits(option)}**")
 
 for item in subject_questions:
     number = item["number"]
     answer = st.session_state.answers.get(number, 0)
     has_result = number in st.session_state.checked
     correct = item.get("correct_answer")
-    columns = st.sidebar.columns([1.25, 1, 1, 1, 1])
-    if columns[0].button(str(number), key=f"nav_{exam_id}_{number}"):
+    columns = st.sidebar.columns([1.15, .72, 1, 1, 1, 1])
+    columns[0].markdown(
+        f'<div class="answer-number">{to_persian_digits(number)}</div>',
+        unsafe_allow_html=True,
+    )
+    switch_label = "●" if number == st.session_state.question_number else "○"
+    if columns[1].button(switch_label, key=f"nav_{exam_id}_{number}", help=f"رفتن به سؤال {to_persian_digits(number)}"):
         st.session_state.question_number = number
         st.rerun()
-    for option, column in enumerate(columns[1:], 1):
+    for option, column in enumerate(columns[2:], 1):
         if has_result and option == correct:
             label = "🟩"
         elif has_result and option == answer and answer != correct:
             label = "🟥"
         elif option == answer:
-            label = "■"
+            label = "🟦"
         else:
-            label = "□"
-        if column.button(label, key=f"sheet_{exam_id}_{number}_{option}"):
+            label = "⬜"
+        if column.button(label, key=f"sheet_{exam_id}_{number}_{option}", help=f"گزینه {to_persian_digits(option)}"):
             st.session_state.answers[number] = option
             st.session_state.question_number = number
             st.session_state.checked.pop(number, None)
@@ -135,7 +184,7 @@ if answer_pdf and answer_pdf.exists():
     with answer_pdf.open("rb") as file:
         download_columns[1].download_button("دانلود PDF کلید", file, answer_pdf.name, "application/pdf")
 st.markdown(f"## {subject}")
-st.markdown(f"### سؤال {question['number']} از {subject_questions[-1]['number']}")
+st.markdown(f"### سؤال {to_persian_digits(question['number'])} از {to_persian_digits(subject_questions[-1]['number'])}")
 
 if question.get("context"):
     with st.expander("متن مشترک سؤال", expanded=True):
@@ -156,7 +205,7 @@ selected = st.radio(
     [0, 1, 2, 3, 4],
     index=current,
     format_func=lambda value: "نزده" if value == 0 else (
-        f"{value}) {choice_values[value - 1]}" if question.get("choice_texts") else f"گزینه {value}"
+        f"{to_persian_digits(value)}) {choice_values[value - 1]}" if question.get("choice_texts") else f"گزینه {to_persian_digits(value)}"
     ),
     key=f"answer_{exam_id}_{question['number']}",
 )
@@ -183,9 +232,9 @@ if question["number"] in st.session_state.checked:
     if correct is None:
         st.warning("این سؤال در کلید رسمی حذف شده است.")
     elif selected == correct:
-        st.markdown(f'<div class="correct">✅ پاسخ درست است؛ گزینه {correct}</div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="correct">✅ پاسخ درست است؛ گزینه {to_persian_digits(correct)}</div>', unsafe_allow_html=True)
     else:
-        st.markdown(f'<div class="wrong">❌ پاسخ نادرست است؛ پاسخ صحیح گزینه {correct}</div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="wrong">❌ پاسخ نادرست است؛ پاسخ صحیح گزینه {to_persian_digits(correct)}</div>', unsafe_allow_html=True)
     with st.expander("پاسخ تشریحی", expanded=True):
         if question.get("explanation_status") == "verified" and question.get("explanation"):
             st.markdown(question["explanation"])
