@@ -889,7 +889,6 @@
     {
       "number": 36,
       "subject": "ریاضیات",
-      "image": "assets/questions/1404/question_036.png",
       "source_page": 8,
       "choices": [
         1,
@@ -900,7 +899,14 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "یک تاس چهارطرفه پرتاب می‌شود. اگر نتیجه پرتاب یک یا دو باشد، تاس دوباره پرتاب می‌شود. در غیر این صورت، پرتاب تاس متوقف می‌شود. اگر مجموع اعداد روی تاس در دو پرتاب حداقل چهار باشد، با چه احتمالی نتیجه پرتاب اول تاس، یک بوده است؟",
+      "choice_texts": [
+        "۲/۹",
+        "۴/۹",
+        "۵/۹",
+        "۷/۹"
+      ]
     },
     {
       "number": 37,
