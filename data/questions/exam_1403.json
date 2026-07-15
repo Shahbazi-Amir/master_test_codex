@@ -6,12 +6,11 @@
   "total_questions": 131,
   "duration_minutes": 250,
   "source_pdf": "assets/source/arshad_bargh_1403_1251.pdf",
-  "image_policy": "Each question has a lossless copy of its complete official source page to avoid cutting formulas, diagrams, passages, or choices.",
+  "image_policy": "English questions are accessible text; technical questions retain contextual official-source crops where needed.",
   "questions": [
     {
       "number": 1,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_001.png",
       "source_page": 2,
       "choices": [
         1,
@@ -22,12 +21,18 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "But at this point, it’s pretty hard to hurt my ............... . I’ve heard it all, and I’m still here.",
+      "choice_texts": [
+        "characterization",
+        "feelings",
+        "sentimentality",
+        "pain"
+      ]
     },
     {
       "number": 2,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_002.png",
       "source_page": 2,
       "choices": [
         1,
@@ -38,12 +43,18 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Be sure your child wears sunscreen whenever she’s ............... to the sun.",
+      "choice_texts": [
+        "demonstrated",
+        "confronted",
+        "invulnerable",
+        "exposed"
+      ]
     },
     {
       "number": 3,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_003.png",
       "source_page": 2,
       "choices": [
         1,
@@ -54,12 +65,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Many of these popular best-sellers will soon become dated and ..............., and will eventually go out of print.",
+      "choice_texts": [
+        "irrelevant",
+        "permanent",
+        "fascinating",
+        "paramount"
+      ]
     },
     {
       "number": 4,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_004.png",
       "source_page": 2,
       "choices": [
         1,
@@ -70,12 +87,18 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The men who arrived in the ............... of criminals were actually undercover police officers.",
+      "choice_texts": [
+        "uniform",
+        "job",
+        "guise",
+        "distance"
+      ]
     },
     {
       "number": 5,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_005.png",
       "source_page": 2,
       "choices": [
         1,
@@ -86,12 +109,18 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "It was more ............... to take my meals in bed, where all I had to do was push away my tray with its uneaten food and fall back upon my pillows.",
+      "choice_texts": [
+        "haphazard",
+        "reckless",
+        "convenient",
+        "vigorous"
+      ]
     },
     {
       "number": 6,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_006.png",
       "source_page": 2,
       "choices": [
         1,
@@ -102,12 +131,18 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "His victory sparked a rare wave of ............... in his home country. Nicaraguans poured into the streets, honking car-horns and waving the national flag.",
+      "choice_texts": [
+        "serendipity",
+        "tranquility",
+        "aspersion",
+        "euphoria"
+      ]
     },
     {
       "number": 7,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_007.png",
       "source_page": 2,
       "choices": [
         1,
@@ -118,12 +153,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "He liked the ease and glitter of the life, and the luster ............... on him by being a member of this group of rich and conspicuous people.",
+      "choice_texts": [
+        "conferred",
+        "equivocated",
+        "attained",
+        "fabricated"
+      ]
     },
     {
       "number": 8,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_008.png",
       "source_page": 3,
       "choices": [
         1,
@@ -134,12 +175,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (8).",
+      "choice_texts": [
+        "which depending",
+        "and depended",
+        "for depended",
+        "that depended"
+      ],
+      "context": "Roman education had its first “primary schools” in the 3rd century BCE, but they were not compulsory **(8)** entirely on tuition fees. There were no official schools in Rome, nor were there buildings used specifically for the purpose. Wealthy families **(9)** private tutors to teach their children at home, while less well-off children were taught in groups. Teaching conditions for teachers could differ greatly. Tutors who taught in a wealthy family did so in comfort and with facilities; **(10)** been brought to Rome as slaves, and they may have been highly educated."
     },
     {
       "number": 9,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_009.png",
       "source_page": 3,
       "choices": [
         1,
@@ -150,12 +198,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (9).",
+      "choice_texts": [
+        "have employed",
+        "employed",
+        "were employed",
+        "employing"
+      ],
+      "context": "Roman education had its first “primary schools” in the 3rd century BCE, but they were not compulsory **(8)** entirely on tuition fees. There were no official schools in Rome, nor were there buildings used specifically for the purpose. Wealthy families **(9)** private tutors to teach their children at home, while less well-off children were taught in groups. Teaching conditions for teachers could differ greatly. Tutors who taught in a wealthy family did so in comfort and with facilities; **(10)** been brought to Rome as slaves, and they may have been highly educated."
     },
     {
       "number": 10,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_010.png",
       "source_page": 3,
       "choices": [
         1,
@@ -166,12 +221,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (10).",
+      "choice_texts": [
+        "some of these tutors could have",
+        "because of these tutors who have",
+        "that some of them could have",
+        "some of they should have"
+      ],
+      "context": "Roman education had its first “primary schools” in the 3rd century BCE, but they were not compulsory **(8)** entirely on tuition fees. There were no official schools in Rome, nor were there buildings used specifically for the purpose. Wealthy families **(9)** private tutors to teach their children at home, while less well-off children were taught in groups. Teaching conditions for teachers could differ greatly. Tutors who taught in a wealthy family did so in comfort and with facilities; **(10)** been brought to Rome as slaves, and they may have been highly educated."
     },
     {
       "number": 11,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_011.png",
       "source_page": 3,
       "choices": [
         1,
@@ -182,12 +244,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “promise” in the passage is closest in meaning to ............... .",
+      "choice_texts": [
+        "good prospect",
+        "long history",
+        "obligation",
+        "obstacle"
+      ],
+      "context": "Superconducting materials have always shown promise for electrical machines. By suppressing the Joule losses and by allowing very high current densities, superconductors improve the performance of electrical machines in terms of weight, volume and efficiency. So as soon as superconducting wires were available in the 1960s, superconducting machines have been constructed and tested. Nevertheless, the use of superconductors was restricted. Despite a zero electrical resistivity, losses appear in a superconducting composite submitted to a time variable electromagnetic environment. These ac losses may be related to the Maxwell Faraday law. This indicates the presence of an electric field as soon as the magnetic field varies with time. Combined with the current density, the electric field induces ac losses. The high cooling costs have forbidden the use of superconductors under ac conditions up to the emergence of ultra low ac loss NbTi composites in the 1980s. The number of Watts required to produce 1 W of cooling at the operation temperature is called the specific work. As an order of magnitude it amounts to about 500–1000 W/W at 4.2 K in the refrigeration mode. It is 7 to 14 times higher than the minimum value given by the Carnot formula."
     },
     {
       "number": 12,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_012.png",
       "source_page": 3,
       "choices": [
         1,
@@ -198,12 +267,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “It” in the passage refers to ............... .",
+      "choice_texts": [
+        "magnitude",
+        "temperature",
+        "specific work",
+        "refrigeration mode"
+      ],
+      "context": "Superconducting materials have always shown promise for electrical machines. By suppressing the Joule losses and by allowing very high current densities, superconductors improve the performance of electrical machines in terms of weight, volume and efficiency. So as soon as superconducting wires were available in the 1960s, superconducting machines have been constructed and tested. Nevertheless, the use of superconductors was restricted. Despite a zero electrical resistivity, losses appear in a superconducting composite submitted to a time variable electromagnetic environment. These ac losses may be related to the Maxwell Faraday law. This indicates the presence of an electric field as soon as the magnetic field varies with time. Combined with the current density, the electric field induces ac losses. The high cooling costs have forbidden the use of superconductors under ac conditions up to the emergence of ultra low ac loss NbTi composites in the 1980s. The number of Watts required to produce 1 W of cooling at the operation temperature is called the specific work. As an order of magnitude it amounts to about 500–1000 W/W at 4.2 K in the refrigeration mode. It is 7 to 14 times higher than the minimum value given by the Carnot formula."
     },
     {
       "number": 13,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_013.png",
       "source_page": 3,
       "choices": [
         1,
@@ -214,12 +290,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "According to the passage, superconductors enhance the performance of electrical machines by ............... .",
+      "choice_texts": [
+        "assessing the Joule losses",
+        "allowing very high current densities",
+        "redirecting the movement of electrons",
+        "calculating the weight of the alloys used"
+      ],
+      "context": "Superconducting materials have always shown promise for electrical machines. By suppressing the Joule losses and by allowing very high current densities, superconductors improve the performance of electrical machines in terms of weight, volume and efficiency. So as soon as superconducting wires were available in the 1960s, superconducting machines have been constructed and tested. Nevertheless, the use of superconductors was restricted. Despite a zero electrical resistivity, losses appear in a superconducting composite submitted to a time variable electromagnetic environment. These ac losses may be related to the Maxwell Faraday law. This indicates the presence of an electric field as soon as the magnetic field varies with time. Combined with the current density, the electric field induces ac losses. The high cooling costs have forbidden the use of superconductors under ac conditions up to the emergence of ultra low ac loss NbTi composites in the 1980s. The number of Watts required to produce 1 W of cooling at the operation temperature is called the specific work. As an order of magnitude it amounts to about 500–1000 W/W at 4.2 K in the refrigeration mode. It is 7 to 14 times higher than the minimum value given by the Carnot formula."
     },
     {
       "number": 14,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_014.png",
       "source_page": 4,
       "choices": [
         1,
@@ -230,12 +313,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The passage mentions all of the following terms EXCEPT ............... .",
+      "choice_texts": [
+        "resistivity",
+        "Newton law",
+        "Carnot formula",
+        "Maxwell Faraday law"
+      ],
+      "context": "Superconducting materials have always shown promise for electrical machines. By suppressing the Joule losses and by allowing very high current densities, superconductors improve the performance of electrical machines in terms of weight, volume and efficiency. So as soon as superconducting wires were available in the 1960s, superconducting machines have been constructed and tested. Nevertheless, the use of superconductors was restricted. Despite a zero electrical resistivity, losses appear in a superconducting composite submitted to a time variable electromagnetic environment. These ac losses may be related to the Maxwell Faraday law. This indicates the presence of an electric field as soon as the magnetic field varies with time. Combined with the current density, the electric field induces ac losses. The high cooling costs have forbidden the use of superconductors under ac conditions up to the emergence of ultra low ac loss NbTi composites in the 1980s. The number of Watts required to produce 1 W of cooling at the operation temperature is called the specific work. As an order of magnitude it amounts to about 500–1000 W/W at 4.2 K in the refrigeration mode. It is 7 to 14 times higher than the minimum value given by the Carnot formula."
     },
     {
       "number": 15,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_015.png",
       "source_page": 4,
       "choices": [
         1,
@@ -246,12 +336,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "According to the passage, which of the following statements is true?",
+      "choice_texts": [
+        "The cooling expenses of superconductors are low.",
+        "Ultra low ac loss NbTi composites emerged in the 1960s.",
+        "The electric field, together with the current density, causes ac losses.",
+        "Despite having increased electrical resistivity, superconductors transfer more electricity."
+      ],
+      "context": "Superconducting materials have always shown promise for electrical machines. By suppressing the Joule losses and by allowing very high current densities, superconductors improve the performance of electrical machines in terms of weight, volume and efficiency. So as soon as superconducting wires were available in the 1960s, superconducting machines have been constructed and tested. Nevertheless, the use of superconductors was restricted. Despite a zero electrical resistivity, losses appear in a superconducting composite submitted to a time variable electromagnetic environment. These ac losses may be related to the Maxwell Faraday law. This indicates the presence of an electric field as soon as the magnetic field varies with time. Combined with the current density, the electric field induces ac losses. The high cooling costs have forbidden the use of superconductors under ac conditions up to the emergence of ultra low ac loss NbTi composites in the 1980s. The number of Watts required to produce 1 W of cooling at the operation temperature is called the specific work. As an order of magnitude it amounts to about 500–1000 W/W at 4.2 K in the refrigeration mode. It is 7 to 14 times higher than the minimum value given by the Carnot formula."
     },
     {
       "number": 16,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_016.png",
       "source_page": 4,
       "choices": [
         1,
@@ -262,12 +359,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “its” in paragraph 1 refers to ............... .",
+      "choice_texts": [
+        "engineering",
+        "electricity",
+        "branch",
+        "field"
+      ],
+      "context": "Electrical and electronics engineering is the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors.\n\nIn engineering practice, the distinction between electrical engineering and electronics is usually based on the comparative strength of the electric currents used. In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems.\n\nThe distinction between the fields has become less sharp with technical progress. For example, in the high-voltage transmission of electric power, large arrays of electronic devices are used to convert transmission-line current at power levels in the tens of megawatts. Moreover, in the regulation and control of interconnected power systems, electronic computers are used to compute requirements much more rapidly and accurately than is possible by manual methods."
     },
     {
       "number": 17,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_017.png",
       "source_page": 4,
       "choices": [
         1,
@@ -278,12 +382,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “array” in paragraph 3 is closest in meaning to ............... .",
+      "choice_texts": [
+        "currents",
+        "brands",
+        "number",
+        "range"
+      ],
+      "context": "Electrical and electronics engineering is the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors.\n\nIn engineering practice, the distinction between electrical engineering and electronics is usually based on the comparative strength of the electric currents used. In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems.\n\nThe distinction between the fields has become less sharp with technical progress. For example, in the high-voltage transmission of electric power, large arrays of electronic devices are used to convert transmission-line current at power levels in the tens of megawatts. Moreover, in the regulation and control of interconnected power systems, electronic computers are used to compute requirements much more rapidly and accurately than is possible by manual methods."
     },
     {
       "number": 18,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_018.png",
       "source_page": 4,
       "choices": [
         1,
@@ -294,12 +405,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "According to the passage, electronics engineering is related to all of the following EXCEPT ............... .",
+      "choice_texts": [
+        "electromagnetic spectrum",
+        "automatic control systems",
+        "lightening currents",
+        "transistors"
+      ],
+      "context": "Electrical and electronics engineering is the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors.\n\nIn engineering practice, the distinction between electrical engineering and electronics is usually based on the comparative strength of the electric currents used. In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems.\n\nThe distinction between the fields has become less sharp with technical progress. For example, in the high-voltage transmission of electric power, large arrays of electronic devices are used to convert transmission-line current at power levels in the tens of megawatts. Moreover, in the regulation and control of interconnected power systems, electronic computers are used to compute requirements much more rapidly and accurately than is possible by manual methods."
     },
     {
       "number": 19,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_019.png",
       "source_page": 4,
       "choices": [
         1,
@@ -310,12 +428,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Which of the following techniques is mainly used to develop paragraph 2?",
+      "choice_texts": [
+        "comparison",
+        "analogy",
+        "statistics",
+        "appeal to authority"
+      ],
+      "context": "Electrical and electronics engineering is the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors.\n\nIn engineering practice, the distinction between electrical engineering and electronics is usually based on the comparative strength of the electric currents used. In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems.\n\nThe distinction between the fields has become less sharp with technical progress. For example, in the high-voltage transmission of electric power, large arrays of electronic devices are used to convert transmission-line current at power levels in the tens of megawatts. Moreover, in the regulation and control of interconnected power systems, electronic computers are used to compute requirements much more rapidly and accurately than is possible by manual methods."
     },
     {
       "number": 20,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_020.png",
       "source_page": 4,
       "choices": [
         1,
@@ -326,12 +451,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The passage provides sufficient information to answer which of the following questions?\n\nI. Since when have electronic computers replaced manual methods in computing?\n\nII. What is the factor usually used in engineering practice to distinguish between electrical engineering and electronics?\n\nIII. What types of transistors are more frequently used in electronics engineering?",
+      "choice_texts": [
+        "Only I",
+        "Only II",
+        "Only III",
+        "II and III"
+      ],
+      "context": "Electrical and electronics engineering is the branch of engineering concerned with the practical applications of electricity in all its forms, including those of the field of electronics. Electronics engineering is that branch of electrical engineering concerned with the uses of the electromagnetic spectrum and with the application of such electronic devices as integrated circuits and transistors.\n\nIn engineering practice, the distinction between electrical engineering and electronics is usually based on the comparative strength of the electric currents used. In this sense, electrical engineering is the branch dealing with “heavy current”—that is, electric light and power systems and apparatuses—whereas electronics engineering deals with such “light current” applications as telephone and radio communication, computers, radar, and automatic control systems.\n\nThe distinction between the fields has become less sharp with technical progress. For example, in the high-voltage transmission of electric power, large arrays of electronic devices are used to convert transmission-line current at power levels in the tens of megawatts. Moreover, in the regulation and control of interconnected power systems, electronic computers are used to compute requirements much more rapidly and accurately than is possible by manual methods."
     },
     {
       "number": 21,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_021.png",
       "source_page": 5,
       "choices": [
         1,
@@ -342,12 +474,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "What does the author mean by “with less publicity” in paragraph 1?",
+      "choice_texts": [
+        "with less public visibility or awareness",
+        "with less publications and documents produced",
+        "with few academic journals confirming their work",
+        "with few public figures being involved in the process"
+      ],
+      "context": "With the publication of C. P. Snow’s essay *The Two Cultures* in 1959, science faculty members in higher education became especially aware of their obligation to educate students majoring in the liberal arts in the principles, techniques, and history of the pure sciences. **[1]** During the 1960’s and 1970’s most schools developed some courses to meet this need. Sometimes referred to facetiously as “Physics for Poets,” they remain important in the college curriculum. **[2]** In the past 15 years, with less publicity, many colleges of engineering have begun to fulfill their obligation to educate these same liberal arts majors in the methods of the engineer, the physical principles underlying engineering, and the history of the consequences of engineering, i.e., the history of technology.\n\nIn 1995, at the University of Massachusetts, Lowell, the author taught the College of Engineering’s first course directed at students majoring in the liberal arts. **[3]** The course could be used in partial fulfillment of the University’s science/technology requirement. Because of the author’s interest in the history of radio it was decided to construct a course around this theme—using the history of wireless communication as a vehicle for teaching the fundamentals of electric circuit theory, electronics and electromagnetic theory. The societal impact as well as legal questions attached to radio would be dealt with as well. One inspiration for the content of the course was the popularity of the documentary film made for television, *Empire of the Air*, dealing with the history of the technical development of radio. **[4]** The film has proved so successful that it is stocked by many video stores."
     },
     {
       "number": 22,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_022.png",
       "source_page": 5,
       "choices": [
         1,
@@ -358,12 +497,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “facetiously” in paragraph 1 is closest in meaning to ............... .",
+      "choice_texts": [
+        "casually",
+        "disparaging",
+        "academically",
+        "humorously"
+      ],
+      "context": "With the publication of C. P. Snow’s essay *The Two Cultures* in 1959, science faculty members in higher education became especially aware of their obligation to educate students majoring in the liberal arts in the principles, techniques, and history of the pure sciences. **[1]** During the 1960’s and 1970’s most schools developed some courses to meet this need. Sometimes referred to facetiously as “Physics for Poets,” they remain important in the college curriculum. **[2]** In the past 15 years, with less publicity, many colleges of engineering have begun to fulfill their obligation to educate these same liberal arts majors in the methods of the engineer, the physical principles underlying engineering, and the history of the consequences of engineering, i.e., the history of technology.\n\nIn 1995, at the University of Massachusetts, Lowell, the author taught the College of Engineering’s first course directed at students majoring in the liberal arts. **[3]** The course could be used in partial fulfillment of the University’s science/technology requirement. Because of the author’s interest in the history of radio it was decided to construct a course around this theme—using the history of wireless communication as a vehicle for teaching the fundamentals of electric circuit theory, electronics and electromagnetic theory. The societal impact as well as legal questions attached to radio would be dealt with as well. One inspiration for the content of the course was the popularity of the documentary film made for television, *Empire of the Air*, dealing with the history of the technical development of radio. **[4]** The film has proved so successful that it is stocked by many video stores."
     },
     {
       "number": 23,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_023.png",
       "source_page": 5,
       "choices": [
         1,
@@ -374,12 +520,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "According to the passage, which of the following statements is true?",
+      "choice_texts": [
+        "Empire of the Air was the name given to the course produced by Lowell.",
+        "With the emergence of the so-called “Physics for Poets” in the late 1950’s, science teaching gained momentum.",
+        "Science faculty members in higher education realized their obligation to educate students about liberal arts in 1959.",
+        "Lowell, who was interested in the history of radio, taught the College of Engineering’s first course directed at students majoring in the liberal arts."
+      ],
+      "context": "With the publication of C. P. Snow’s essay *The Two Cultures* in 1959, science faculty members in higher education became especially aware of their obligation to educate students majoring in the liberal arts in the principles, techniques, and history of the pure sciences. **[1]** During the 1960’s and 1970’s most schools developed some courses to meet this need. Sometimes referred to facetiously as “Physics for Poets,” they remain important in the college curriculum. **[2]** In the past 15 years, with less publicity, many colleges of engineering have begun to fulfill their obligation to educate these same liberal arts majors in the methods of the engineer, the physical principles underlying engineering, and the history of the consequences of engineering, i.e., the history of technology.\n\nIn 1995, at the University of Massachusetts, Lowell, the author taught the College of Engineering’s first course directed at students majoring in the liberal arts. **[3]** The course could be used in partial fulfillment of the University’s science/technology requirement. Because of the author’s interest in the history of radio it was decided to construct a course around this theme—using the history of wireless communication as a vehicle for teaching the fundamentals of electric circuit theory, electronics and electromagnetic theory. The societal impact as well as legal questions attached to radio would be dealt with as well. One inspiration for the content of the course was the popularity of the documentary film made for television, *Empire of the Air*, dealing with the history of the technical development of radio. **[4]** The film has proved so successful that it is stocked by many video stores."
     },
     {
       "number": 24,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_024.png",
       "source_page": 5,
       "choices": [
         1,
@@ -390,12 +543,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The passage provides sufficient information to answer which of the following questions?\n\nI. Who first introduced the courses sometimes referred to as “Physics for Poets”?\n\nII. Which field of study was C. P. Snow associated with?\n\nIII. What was one inspiration for the content of the course mentioned in paragraph 2?",
+      "choice_texts": [
+        "Only I",
+        "Only II",
+        "Only III",
+        "II and III"
+      ],
+      "context": "With the publication of C. P. Snow’s essay *The Two Cultures* in 1959, science faculty members in higher education became especially aware of their obligation to educate students majoring in the liberal arts in the principles, techniques, and history of the pure sciences. **[1]** During the 1960’s and 1970’s most schools developed some courses to meet this need. Sometimes referred to facetiously as “Physics for Poets,” they remain important in the college curriculum. **[2]** In the past 15 years, with less publicity, many colleges of engineering have begun to fulfill their obligation to educate these same liberal arts majors in the methods of the engineer, the physical principles underlying engineering, and the history of the consequences of engineering, i.e., the history of technology.\n\nIn 1995, at the University of Massachusetts, Lowell, the author taught the College of Engineering’s first course directed at students majoring in the liberal arts. **[3]** The course could be used in partial fulfillment of the University’s science/technology requirement. Because of the author’s interest in the history of radio it was decided to construct a course around this theme—using the history of wireless communication as a vehicle for teaching the fundamentals of electric circuit theory, electronics and electromagnetic theory. The societal impact as well as legal questions attached to radio would be dealt with as well. One inspiration for the content of the course was the popularity of the documentary film made for television, *Empire of the Air*, dealing with the history of the technical development of radio. **[4]** The film has proved so successful that it is stocked by many video stores."
     },
     {
       "number": 25,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1403/question_025.png",
       "source_page": 6,
       "choices": [
         1,
@@ -406,7 +566,15 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "In which position marked by [1], [2], [3] or [4] can the following sentence best be inserted in the passage?\n\n*Carrying three credits, and closed to science and engineering majors, it was conceived as a pilot for other such ventures and would accustom students to taking classes in a college often found to be forbidding.*",
+      "choice_texts": [
+        "[4]",
+        "[3]",
+        "[2]",
+        "[1]"
+      ],
+      "context": "With the publication of C. P. Snow’s essay *The Two Cultures* in 1959, science faculty members in higher education became especially aware of their obligation to educate students majoring in the liberal arts in the principles, techniques, and history of the pure sciences. **[1]** During the 1960’s and 1970’s most schools developed some courses to meet this need. Sometimes referred to facetiously as “Physics for Poets,” they remain important in the college curriculum. **[2]** In the past 15 years, with less publicity, many colleges of engineering have begun to fulfill their obligation to educate these same liberal arts majors in the methods of the engineer, the physical principles underlying engineering, and the history of the consequences of engineering, i.e., the history of technology.\n\nIn 1995, at the University of Massachusetts, Lowell, the author taught the College of Engineering’s first course directed at students majoring in the liberal arts. **[3]** The course could be used in partial fulfillment of the University’s science/technology requirement. Because of the author’s interest in the history of radio it was decided to construct a course around this theme—using the history of wireless communication as a vehicle for teaching the fundamentals of electric circuit theory, electronics and electromagnetic theory. The societal impact as well as legal questions attached to radio would be dealt with as well. One inspiration for the content of the course was the popularity of the documentary film made for television, *Empire of the Air*, dealing with the history of the technical development of radio. **[4]** The film has proved so successful that it is stocked by many video stores."
     },
     {
       "number": 26,
