@@ -6,12 +6,11 @@
   "total_questions": 133,
   "duration_minutes": 250,
   "source_pdf": "assets/source/arshad_bargh_1402_1251.pdf",
-  "image_policy": "Each question has a lossless copy of its complete official source page to avoid cutting formulas, diagrams, passages, or choices.",
+  "image_policy": "English questions are accessible text; technical questions retain contextual official-source crops where needed.",
   "questions": [
     {
       "number": 1,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_001.png",
       "source_page": 2,
       "choices": [
         1,
@@ -22,12 +21,18 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Despite the fact that Gross Domestic Product (GDP) has increased substantially in the industrialized West, the levels of human contentment have remained ............... .",
+      "choice_texts": [
+        "apposite",
+        "interwoven",
+        "static",
+        "implicit"
+      ]
     },
     {
       "number": 2,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_002.png",
       "source_page": 2,
       "choices": [
         1,
@@ -38,12 +43,18 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Immigration ............... from the Latin word migration and means the act of a foreigner entering a country in the aim of obtaining the right of permanent residence.",
+      "choice_texts": [
+        "gathers",
+        "obtains",
+        "arises",
+        "derives"
+      ]
     },
     {
       "number": 3,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_003.png",
       "source_page": 2,
       "choices": [
         1,
@@ -54,12 +65,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Not speaking the same language as your customers can lead to communication ............... .",
+      "choice_texts": [
+        "breakdown",
+        "brevity",
+        "gesture",
+        "imitation"
+      ]
     },
     {
       "number": 4,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_004.png",
       "source_page": 2,
       "choices": [
         1,
@@ -70,12 +87,18 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The factory’s workforce has ............... from over 4,000 to a few hundred.",
+      "choice_texts": [
+        "withdrawn",
+        "dwindled",
+        "undercut",
+        "forecasted"
+      ]
     },
     {
       "number": 5,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_005.png",
       "source_page": 2,
       "choices": [
         1,
@@ -86,12 +109,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The police came up empty-handed despite an ............... exploration of the suspect’s home.",
+      "choice_texts": [
+        "exhaustive",
+        "inescapable",
+        "ephemeral",
+        "inevitable"
+      ]
     },
     {
       "number": 6,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_006.png",
       "source_page": 2,
       "choices": [
         1,
@@ -102,12 +131,18 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "When the old man married a woman in her thirties, all everyone talked about was the ............... in the couple’s ages.",
+      "choice_texts": [
+        "diversity",
+        "disparity",
+        "longevity",
+        "extension"
+      ]
     },
     {
       "number": 7,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_007.png",
       "source_page": 2,
       "choices": [
         1,
@@ -118,12 +153,18 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "One local factory will ............... the town’s job shortage by providing 250 more jobs.",
+      "choice_texts": [
+        "overlook",
+        "adjust",
+        "displace",
+        "alleviate"
+      ]
     },
     {
       "number": 8,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_008.png",
       "source_page": 3,
       "choices": [
         1,
@@ -134,12 +175,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (8).",
+      "choice_texts": [
+        "that is",
+        "it is in",
+        "but in",
+        "is"
+      ],
+      "context": "One commentator argues that the success of private schools is not in their money, **(8)** their organization. State schools fail their pupils because, under government control, they lack options. But if head teachers at state schools **(9)** given the same freedom as those at private schools, namely **(10)** poor teachers and pay more to good ones, parents would not need to send their children to private schools any more."
     },
     {
       "number": 9,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_009.png",
       "source_page": 3,
       "choices": [
         1,
@@ -150,12 +198,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (9).",
+      "choice_texts": [
+        "had",
+        "were",
+        "to be",
+        "be"
+      ],
+      "context": "One commentator argues that the success of private schools is not in their money, **(8)** their organization. State schools fail their pupils because, under government control, they lack options. But if head teachers at state schools **(9)** given the same freedom as those at private schools, namely **(10)** poor teachers and pay more to good ones, parents would not need to send their children to private schools any more."
     },
     {
       "number": 10,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_010.png",
       "source_page": 3,
       "choices": [
         1,
@@ -166,12 +221,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Choose the best completion for blank (10).",
+      "choice_texts": [
+        "by sacking",
+        "sacking",
+        "sacked",
+        "to sack"
+      ],
+      "context": "One commentator argues that the success of private schools is not in their money, **(8)** their organization. State schools fail their pupils because, under government control, they lack options. But if head teachers at state schools **(9)** given the same freedom as those at private schools, namely **(10)** poor teachers and pay more to good ones, parents would not need to send their children to private schools any more."
     },
     {
       "number": 11,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_011.png",
       "source_page": 3,
       "choices": [
         1,
@@ -182,12 +244,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "This passage is mainly about ............... .",
+      "choice_texts": [
+        "energy efficiency",
+        "electric motors",
+        "stored chemical energy",
+        "gear optimization"
+      ],
+      "context": "Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles have efficiencies of 69–72%, when counted against stored chemical energy, or around 59–62%, when counted against required energy to recharge.\n\nElectric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimized for city speeds and the second electric motor with a gear optimized for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking."
     },
     {
       "number": 12,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_012.png",
       "source_page": 3,
       "choices": [
         1,
@@ -198,12 +267,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "In paragraph 1, the author ............... .",
+      "choice_texts": [
+        "counts the energy required to charge an engine",
+        "advises drivers not to use internal combustion engines",
+        "compares a fraction of energy moving a car to energy produced by burning fuel",
+        "shows how stored chemical energy converts to energy driving a car in different motors"
+      ],
+      "context": "Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles have efficiencies of 69–72%, when counted against stored chemical energy, or around 59–62%, when counted against required energy to recharge.\n\nElectric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimized for city speeds and the second electric motor with a gear optimized for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking."
     },
     {
       "number": 13,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_013.png",
       "source_page": 3,
       "choices": [
         1,
@@ -214,12 +290,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "It is stated in the passage that ............... .",
+      "choice_texts": [
+        "the gear systems in electric motors should be optimized",
+        "electric motors do not have the same efficiency at all speeds",
+        "current motors have the best efficiency for speed and acceleration",
+        "electric cars have speed limits compared to internal combustion engines"
+      ],
+      "context": "Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles have efficiencies of 69–72%, when counted against stored chemical energy, or around 59–62%, when counted against required energy to recharge.\n\nElectric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimized for city speeds and the second electric motor with a gear optimized for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking."
     },
     {
       "number": 14,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_014.png",
       "source_page": 3,
       "choices": [
         1,
@@ -230,12 +313,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "You can infer from the passage, in a conventional braking system, ............... .",
+      "choice_texts": [
+        "the braking system should be regenerated",
+        "20% of the energy is lost during braking",
+        "recovering energy is most common",
+        "there is a lot of wasted energy"
+      ],
+      "context": "Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles have efficiencies of 69–72%, when counted against stored chemical energy, or around 59–62%, when counted against required energy to recharge.\n\nElectric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimized for city speeds and the second electric motor with a gear optimized for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking."
     },
     {
       "number": 15,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_015.png",
       "source_page": 3,
       "choices": [
         1,
@@ -246,12 +336,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The writer’s tone in this passage is ............... .",
+      "choice_texts": [
+        "critical",
+        "illuminating",
+        "subjective",
+        "supportive"
+      ],
+      "context": "Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles have efficiencies of 69–72%, when counted against stored chemical energy, or around 59–62%, when counted against required energy to recharge.\n\nElectric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimized for city speeds and the second electric motor with a gear optimized for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking."
     },
     {
       "number": 16,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_016.png",
       "source_page": 4,
       "choices": [
         1,
@@ -262,12 +359,19 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The best title for this passage is ............... .",
+      "choice_texts": [
+        "Potentials of human tissues",
+        "The science of bioelectricity",
+        "Atoms or molecules carrying an electric charge",
+        "Bioelectric current flow versus electrical current"
+      ],
+      "context": "Electrical flow in the body (i.e., bioelectricity), plays a significant role in many physiological and pathophysiological conditions (health and disease). Nerves relay information and mediate body functions by transmitting electrical impulses: bioelectrical signals.\n\nBioelectricity refers to electrical currents occurring within or produced by the human body. Bioelectric currents are generated by a number of different biological processes, and are used by cells to conduct impulses along nerve fibers, to regulate tissue and organ functions, and to govern metabolism.\n\nBioelectrical currents (and potentials) of human tissue, recorded from the skin surface by electrocardiograph (E.C.G.), electroencephalograph (E.E.G.), electromyography (E.M.G.) and similar sensitive devices, are widely used in medicine to diagnose the condition of various vital organs.\n\nThe most important difference between bioelectric current flow in living organisms and the type of electrical current used to produce light, heat, or power is that bioelectrical current is a flow of ions (atoms or molecules carrying an electric charge), while standard electricity is a movement of electrons."
     },
     {
       "number": 17,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_017.png",
       "source_page": 4,
       "choices": [
         1,
@@ -278,12 +382,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “relay” in paragraph 1 is similar in meaning to ............... .",
+      "choice_texts": [
+        "transfer",
+        "store",
+        "produce",
+        "process"
+      ],
+      "context": "Electrical flow in the body (i.e., bioelectricity), plays a significant role in many physiological and pathophysiological conditions (health and disease). Nerves relay information and mediate body functions by transmitting electrical impulses: bioelectrical signals.\n\nBioelectricity refers to electrical currents occurring within or produced by the human body. Bioelectric currents are generated by a number of different biological processes, and are used by cells to conduct impulses along nerve fibers, to regulate tissue and organ functions, and to govern metabolism.\n\nBioelectrical currents (and potentials) of human tissue, recorded from the skin surface by electrocardiograph (E.C.G.), electroencephalograph (E.E.G.), electromyography (E.M.G.) and similar sensitive devices, are widely used in medicine to diagnose the condition of various vital organs.\n\nThe most important difference between bioelectric current flow in living organisms and the type of electrical current used to produce light, heat, or power is that bioelectrical current is a flow of ions (atoms or molecules carrying an electric charge), while standard electricity is a movement of electrons."
     },
     {
       "number": 18,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_018.png",
       "source_page": 4,
       "choices": [
         1,
@@ -294,12 +405,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Bioelectric currents are utilized by cells to do all of the following EXCEPT ............... .",
+      "choice_texts": [
+        "regulation of the chemical changes occurring in a cell",
+        "transmission of a nerve impulse along a neuron",
+        "regeneration of different biological processes",
+        "control of body tissues and organs activities"
+      ],
+      "context": "Electrical flow in the body (i.e., bioelectricity), plays a significant role in many physiological and pathophysiological conditions (health and disease). Nerves relay information and mediate body functions by transmitting electrical impulses: bioelectrical signals.\n\nBioelectricity refers to electrical currents occurring within or produced by the human body. Bioelectric currents are generated by a number of different biological processes, and are used by cells to conduct impulses along nerve fibers, to regulate tissue and organ functions, and to govern metabolism.\n\nBioelectrical currents (and potentials) of human tissue, recorded from the skin surface by electrocardiograph (E.C.G.), electroencephalograph (E.E.G.), electromyography (E.M.G.) and similar sensitive devices, are widely used in medicine to diagnose the condition of various vital organs.\n\nThe most important difference between bioelectric current flow in living organisms and the type of electrical current used to produce light, heat, or power is that bioelectrical current is a flow of ions (atoms or molecules carrying an electric charge), while standard electricity is a movement of electrons."
     },
     {
       "number": 19,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_019.png",
       "source_page": 4,
       "choices": [
         1,
@@ -310,12 +428,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The conditions of main human organs, according to the passage, are assessed through ............... .",
+      "choice_texts": [
+        "medicines injected into body by recording devices",
+        "sensitive devices being widely designed by physicians",
+        "various physiological and pathophysiological methods",
+        "bioelectrical currents recorded from the skin surface"
+      ],
+      "context": "Electrical flow in the body (i.e., bioelectricity), plays a significant role in many physiological and pathophysiological conditions (health and disease). Nerves relay information and mediate body functions by transmitting electrical impulses: bioelectrical signals.\n\nBioelectricity refers to electrical currents occurring within or produced by the human body. Bioelectric currents are generated by a number of different biological processes, and are used by cells to conduct impulses along nerve fibers, to regulate tissue and organ functions, and to govern metabolism.\n\nBioelectrical currents (and potentials) of human tissue, recorded from the skin surface by electrocardiograph (E.C.G.), electroencephalograph (E.E.G.), electromyography (E.M.G.) and similar sensitive devices, are widely used in medicine to diagnose the condition of various vital organs.\n\nThe most important difference between bioelectric current flow in living organisms and the type of electrical current used to produce light, heat, or power is that bioelectrical current is a flow of ions (atoms or molecules carrying an electric charge), while standard electricity is a movement of electrons."
     },
     {
       "number": 20,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_020.png",
       "source_page": 4,
       "choices": [
         1,
@@ -326,12 +451,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Electrical power is ............... .",
+      "choice_texts": [
+        "generated whenever a net ion flux occurs",
+        "the interface of an electrode and solution",
+        "the flow and current of electrically charged atoms and molecules",
+        "energy harnessed from the flow or movement of electrons"
+      ],
+      "context": "Electrical flow in the body (i.e., bioelectricity), plays a significant role in many physiological and pathophysiological conditions (health and disease). Nerves relay information and mediate body functions by transmitting electrical impulses: bioelectrical signals.\n\nBioelectricity refers to electrical currents occurring within or produced by the human body. Bioelectric currents are generated by a number of different biological processes, and are used by cells to conduct impulses along nerve fibers, to regulate tissue and organ functions, and to govern metabolism.\n\nBioelectrical currents (and potentials) of human tissue, recorded from the skin surface by electrocardiograph (E.C.G.), electroencephalograph (E.E.G.), electromyography (E.M.G.) and similar sensitive devices, are widely used in medicine to diagnose the condition of various vital organs.\n\nThe most important difference between bioelectric current flow in living organisms and the type of electrical current used to produce light, heat, or power is that bioelectrical current is a flow of ions (atoms or molecules carrying an electric charge), while standard electricity is a movement of electrons."
     },
     {
       "number": 21,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_021.png",
       "source_page": 5,
       "choices": [
         1,
@@ -342,12 +474,19 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "According to the passage, small-scale wind power can be a good choice for all of the following EXCEPT ............... .",
+      "choice_texts": [
+        "eliminating dependence on electric power",
+        "reducing the amount of greenhouse gases",
+        "using as a low-priced energy source",
+        "remote and isolated areas"
+      ],
+      "context": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. Isolated communities, which may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.\n\nGrid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic micro-generators can, in some jurisdictions, be fed into the network and sold, producing a retail credit for the micro-generators’ owners to offset their energy costs.\n\nOff-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine. Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, which charges a small battery replacing the need for a connection to the power grid.\n\nDistributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.\n\nAirborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance."
     },
     {
       "number": 22,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_022.png",
       "source_page": 5,
       "choices": [
         1,
@@ -358,12 +497,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The micro-generators’ owners, as stated in the passage, can ............... .",
+      "choice_texts": [
+        "help a utility company to offset its costs",
+        "produce a retail credit in some jurisdictions",
+        "sell the extra energy to a company supplying electricity",
+        "enforce purchased electric power with locally produced power"
+      ],
+      "context": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. Isolated communities, which may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.\n\nGrid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic micro-generators can, in some jurisdictions, be fed into the network and sold, producing a retail credit for the micro-generators’ owners to offset their energy costs.\n\nOff-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine. Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, which charges a small battery replacing the need for a connection to the power grid.\n\nDistributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.\n\nAirborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance."
     },
     {
       "number": 23,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_023.png",
       "source_page": 5,
       "choices": [
         1,
@@ -374,12 +520,19 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "The word “intermittent” in paragraph 3 can be replaced by ............... .",
+      "choice_texts": [
+        "indirect",
+        "strong",
+        "discontinuous",
+        "regular"
+      ],
+      "context": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. Isolated communities, which may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.\n\nGrid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic micro-generators can, in some jurisdictions, be fed into the network and sold, producing a retail credit for the micro-generators’ owners to offset their energy costs.\n\nOff-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine. Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, which charges a small battery replacing the need for a connection to the power grid.\n\nDistributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.\n\nAirborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance."
     },
     {
       "number": 24,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_024.png",
       "source_page": 5,
       "choices": [
         1,
@@ -390,12 +543,19 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Raising awareness on climate change ............... .",
+      "choice_texts": [
+        "contributes to enhancing the power quality",
+        "makes it necessary to connect the electronic interfaces",
+        "causes the use of small batteries common",
+        "leads to more power generation from renewable resources"
+      ],
+      "context": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. Isolated communities, which may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.\n\nGrid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic micro-generators can, in some jurisdictions, be fed into the network and sold, producing a retail credit for the micro-generators’ owners to offset their energy costs.\n\nOff-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine. Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, which charges a small battery replacing the need for a connection to the power grid.\n\nDistributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.\n\nAirborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance."
     },
     {
       "number": 25,
       "subject": "زبان عمومی و تخصصی (انگلیسی)",
-      "image": "assets/questions/1402/question_025.png",
       "source_page": 5,
       "choices": [
         1,
@@ -406,7 +566,15 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "Airborne wind turbines are suitable in places being at risk of hurricanes because ............... .",
+      "choice_texts": [
+        "we can take them apart and remove them before a hurricane occurs",
+        "they are equipped with additional devices in advance",
+        "they are already connected to some holder kites",
+        "they are resistant to hurricanes"
+      ],
+      "context": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. Isolated communities, which may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.\n\nGrid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic micro-generators can, in some jurisdictions, be fed into the network and sold, producing a retail credit for the micro-generators’ owners to offset their energy costs.\n\nOff-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine. Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, which charges a small battery replacing the need for a connection to the power grid.\n\nDistributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.\n\nAirborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance."
     },
     {
       "number": 26,
