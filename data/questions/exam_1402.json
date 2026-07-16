@@ -2163,7 +2163,6 @@
     {
       "number": 125,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_125.png",
       "source_page": 35,
       "choices": [
         1,
@@ -2174,12 +2173,18 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "اگر الکتروکاردیوگرافی موج R را در ۲ ثانیه نشان دهد و حجم ضربه ۷۵ میلی‌لیتر باشد، برون‌ده قلبی کدام است؟ (برحسب لیتر بر دقیقه)",
+      "choice_texts": [
+        "۹",
+        "۸٫۴",
+        "۶٫۷۵",
+        "۳٫۷۵"
+      ]
     },
     {
       "number": 126,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_126.png",
       "source_page": 35,
       "choices": [
         1,
@@ -2190,12 +2195,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "کدام عامل تأثیر بیشتری در حفظ اختلاف غلظت یونی طرفین غشای سلول در حالت تعادل دارد؟",
+      "choice_texts": [
+        "پمپ‌های یونی",
+        "میدان الکتریکی طرفین غشاء",
+        "تراوندگی نسبی یون‌های مختلف",
+        "میدان مغناطیسی طرفین غشاء"
+      ]
     },
     {
       "number": 127,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_127.png",
       "source_page": 35,
       "choices": [
         1,
@@ -2206,7 +2217,14 @@
       "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "فردی با ضربان ۱۰۰ BPM، حجم پایان دیاستولی EDV = ۱۲۰ mL و حجم پایان سیستولی ESV = ۵۰ mL، در حالی که شریان کاروتیدی ۱۰ درصد خون را حمل می‌کند، چند دقیقه طول می‌کشد این فرد ۳ لیتر خون از دست داده و بمیرد؟",
+      "choice_texts": [
+        "۸٫۵۶",
+        "۴٫۳",
+        "۲٫۱",
+        "۱٫۴"
+      ]
     },
     {
       "number": 128,
@@ -2243,7 +2261,6 @@
     {
       "number": 130,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_130.png",
       "source_page": 36,
       "choices": [
         1,
@@ -2254,12 +2271,18 @@
       "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "با توجه به اینکه نسبت بهره وجه تفاضلی به بهره وجه مشترک، نسبت حذف وجه مشترک نامیده می‌شود، این معیار بیانگر میزان مطلوب بودن عملکرد تقویت‌کننده در حذف کدام ولتاژ است؟",
+      "choice_texts": [
+        "وجه مشترک",
+        "نویز محیط",
+        "وجه تفاضلی",
+        "نویز سیستم"
+      ]
     },
     {
       "number": 131,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_131.png",
       "source_page": 36,
       "choices": [
         1,
@@ -2270,12 +2293,18 @@
       "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "اگر یک پروتون دارای نسبت ژیرو‌مغناطیسی ۵۲ MHz باشد، فرکانس لارمور آن در ۲ تسلا کدام است؟",
+      "choice_texts": [
+        "۱۳",
+        "۲۶",
+        "۱۰۴",
+        "۲۰۸"
+      ]
     },
     {
       "number": 132,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_132.png",
       "source_page": 36,
       "choices": [
         1,
@@ -2286,12 +2315,18 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "افزایش کدام عامل در خون تأثیر بیشتری در گسترش آبشار انعقاد دارد؟",
+      "choice_texts": [
+        "تنش محوری لایه‌ها",
+        "ویسکوزیته",
+        "هماتوکریت",
+        "تنش برشی لایه‌ها"
+      ]
     },
     {
       "number": 133,
       "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
-      "image": "assets/questions/1402/question_133.png",
       "source_page": 36,
       "choices": [
         1,
@@ -2302,7 +2337,14 @@
       "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "text": "تحلیل پتانسیل الکتریکی عضلات جزو کدام حوزه محسوب می‌شود؟",
+      "choice_texts": [
+        "سینتیک",
+        "سینماتیک",
+        "بیومکانیک",
+        "کرنش‌سنجی"
+      ]
     }
   ]
 }
