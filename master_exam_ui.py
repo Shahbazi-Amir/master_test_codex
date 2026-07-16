@@ -106,7 +106,8 @@ ELECTRICAL_COEFFICIENT_CODES = {
     "کد ضریب ۹": [2, 4, 3, 3, 0, 0, 4, 4],
     "کد ضریب ۱۰": [2, 3, 3, 3, 1, 4, 4, 1],
 }
-ELECTRICAL_ESTIMATED_CANDIDATES = 8000
+ELECTRICAL_RANK_REFERENCE_POPULATION = 8000
+ELECTRICAL_ESTIMATED_CANDIDATES = 100000
 ELECTRICAL_RANK_PROFILES = [
     # Percentages are ordered like ELECTRICAL_SUBJECTS. Ranks are keyed by coefficient code.
     ([100, 55.56, 75.56, 20, 0, 0, 100, 73.33], {1: 1, 2: 4, 3: 1, 4: 1, 5: 1, 6: 1, 7: 8, 8: 2, 10: 1}),
@@ -153,7 +154,12 @@ def estimate_electrical_rank(percentages, coefficients, coefficient_code):
         return None
     nearest = sorted(candidates)[:3]
     weights = [1 / (distance + 3) ** 2 for distance, _ in nearest]
-    estimate = round(sum(weight * rank for weight, (_, rank) in zip(weights, nearest)) / sum(weights))
+    reference_rank = sum(weight * rank for weight, (_, rank) in zip(weights, nearest)) / sum(weights)
+    estimate = round(
+        reference_rank
+        * ELECTRICAL_ESTIMATED_CANDIDATES
+        / ELECTRICAL_RANK_REFERENCE_POPULATION
+    )
     estimate = max(1, min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate))
     uncertainty = max(30, round(estimate * 0.30))
     return estimate, max(1, estimate - uncertainty), min(ELECTRICAL_ESTIMATED_CANDIDATES, estimate + uncertainty)
@@ -462,8 +468,9 @@ if st.session_state.get("result_summary"):
             range_column.metric("بازه محتمل", f"{to_persian_digits(low_rank)} تا {to_persian_digits(high_rank)}")
             population_column.metric("جمعیت مبنا", f"حدود {to_persian_digits(ELECTRICAL_ESTIMATED_CANDIDATES)} نفر")
             st.info(
-                "این بازه از مقایسه درصد تک‌تک درس‌ها با نزدیک‌ترین کارنامه‌های واقعی ۱۴۰۳ و ۱۴۰۴ محاسبه شده است. "
-                "سختی آزمون، سهمیه و تراز سازمان سنجش می‌تواند رتبه نهایی را جابه‌جا کند."
+                "این بازه از مقایسه درصد تک‌تک درس‌ها با نزدیک‌ترین کارنامه‌های واقعی ۱۴۰۳ و ۱۴۰۴ و سپس "
+                "تبدیل جایگاه نسبی به جامعه ۱۰۰٬۰۰۰ نفری محاسبه شده است. سختی آزمون، سهمیه و تراز سازمان "
+                "سنجش می‌تواند رتبه نهایی را جابه‌جا کند."
             )
         else:
             st.warning("برای این کد ضریب، هنوز تعداد کارنامه واقعی به حد کافی نرسیده است.")
