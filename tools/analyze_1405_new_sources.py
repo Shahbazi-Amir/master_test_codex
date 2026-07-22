@@ -2,6 +2,7 @@ import csv
 import io
 import json
 import re
+import shutil
 import subprocess
 import tempfile
 from collections import defaultdict
@@ -125,7 +126,7 @@ def analyze(name: str, pdf: Path) -> dict:
         visual_pages = range(1, count + 1) if "key" in name else range(1, min(count, 4) + 1)
         for page in visual_pages:
             rendered = render_page(pdf, page, work, 150)
-            rendered.replace(target / f"page-{page:02d}.png")
+            shutil.copy2(rendered, target / f"page-{page:02d}.png")
 
         markers = scan_question_markers(pdf, count, target, work) if name == "computer_questions" else []
 
