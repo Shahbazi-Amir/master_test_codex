@@ -1,0 +1,77 @@
+PAGE: 5
+METHOD: ocr_fas_eng
+CANDIDATES: [1, 2, 3, 4, 6, 22, 23, 25]
+
+مهندسی برق (کد ۱۲۵۱) ‎335A‏ صفحه ۵
+
+forces decrease with the square of the distance between the objects, and both forces act
+along a line between them. In Coulomb’s law, however, the magnitude and sign of the
+electric force are determined by the charge, rather than the mass, of an object. Thus,
+charge determines how electromagnetism influences the motion of charged objects.
+Charge is a basic property of matter. Every constituent of matter has an electric charge
+with a value that can be positive, negative, or zero. [4] Most bulk matter has an equal
+amount of positive and negative charge and thus has zero net.
+
+Devices for producing all of the following are mentioned in paragraph 1 EXCEPT
+
+1) movement 2) light 3) coolness 4) image
+
+Why does the writer refer to Newton’s law in paragraph 2?
+
+1) To demonstrate the single root of two apparently different disciplines
+
+2) To facilitate appreciation of a point mentioned in the same paragraph
+
+3) To prove that two phenomena in different fields can be in fact identical
+
+4) To undermine a point mentioned earlier in the previous paragraph
+
+What does the passage mainly discuss?
+
+1) A phenomenon, its functions and one of its basic laws
+
+2) The relevance of electromagnetism to our routine life
+
+3) The historical roots of a fundamental scientific law
+
+4) The behavior of electromagnetic waves through the air
+
+According to the passage, which of the following is true?
+
+1) The sign of the electric force is determined by the mass rather than the charge in
+Coulomb’s law.
+
+2) In radio devices, the current flows through a thin filament to produce the heat
+necessary for the filament to be electromagnetic.
+
+3) Like electric forces, the gravitational force diminishes with the square of the distance
+between objects.
+
+4) Coulomb’s law was formulated by a French scientists sometime in the 1800s,
+centuries after Newton’s law.
+
+In which position marked by [1], [2], [3] or [4], can the following sentence best be
+
+inserted in the passage?
+
+For example, electrons are negatively charged, and atomic nuclei are positively charged.
+
+I) (1 2) [2] 3) [3] 4) [4]
+
+رباضیات (معادلات دیفرانسیل, ریاضیات مهندسی. آمار و احتمال):
+
+۶- یک ‎pole‏ انتگرال‌ساز برای معادله دبفرانسیل ‎plas ۲ (vydx+ xdy)—(dydx + Vxdy)=0‏ است؟
+
+7G) 2)
+۳ ‏ام ال‎ ۳
+(xy) y wr
+
+۱ ۹ ۳
+= yo 2
+(xy) Vy oi x
+
+22-
+
+23-
+
+25-
