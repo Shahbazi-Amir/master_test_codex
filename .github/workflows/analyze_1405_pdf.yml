@@ -20,8 +20,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install PDF tools
-        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Install PDF and OCR tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-fas
 
       - name: Analyze PDF
         run: python tools/analyze_exam_1405_pdf.py
@@ -34,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No diagnostic changes"
           else
-            git commit -m "Analyze 1405 exam PDF"
+            git commit -m "Analyze 1405 exam PDF with OCR"
             git push
           fi
