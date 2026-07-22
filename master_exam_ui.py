@@ -121,9 +121,13 @@ ELECTRICAL_RANK_PROFILES = [
 
 
 def calculate_subject_result(subject_name, all_questions, answers):
+    subject_aliases = {
+        "سیگنال‌ها و سیستم‌ها": {"سیگنال‌ها و سیستم‌ها", "سیگنال‌ها و سیستم‌ها و مخابرات"},
+    }
+    accepted_subjects = subject_aliases.get(subject_name, {subject_name})
     graded = [
         question for question in all_questions
-        if question.get("subject") == subject_name and question.get("correct_answer") in {1, 2, 3, 4}
+        if question.get("subject") in accepted_subjects and question.get("correct_answer") in {1, 2, 3, 4}
     ]
     correct = wrong = empty = 0
     for question in graded:
@@ -203,10 +207,12 @@ if not exams:
     st.stop()
 
 labels = [data["title"] for _, data in exams]
-selected_title = st.sidebar.selectbox("آزمون", labels, index=labels.index(next((x for x in labels if "۱۴۰۴" in x or "1404" in x), labels[0])))
+default_exam_index = max(range(len(exams)), key=lambda index: int(exams[index][1].get("year", 0)))
+selected_title = st.sidebar.selectbox("آزمون", labels, index=default_exam_index)
 exam_path, exam = exams[labels.index(selected_title)]
 exam_id = str(exam_path.relative_to(ROOT))
 questions = exam["questions"]
+has_official_key = any(question.get("correct_answer") in {1, 2, 3, 4} for question in questions)
 explanation_resources = load_explanation_resources().get(exam_id, [])
 
 if st.session_state.get("exam_id") != exam_id:
@@ -343,12 +349,15 @@ answer_left, answer_center, answer_right = st.columns([1, 2, 1])
 with answer_center:
     if st.button(
         "ثبت و مشاهده پاسخ درست",
-        disabled=selected == 0,
+        disabled=selected == 0 or question.get("correct_answer") not in {1, 2, 3, 4},
         key=f"check_{exam_id}_{question['number']}",
     ):
         correct = question.get("correct_answer")
         st.session_state.checked[question["number"]] = (selected == correct) if correct else None
         st.rerun()
+
+if question.get("correct_answer") not in {1, 2, 3, 4}:
+    st.info("کلید رسمی این آزمون هنوز اضافه نشده است.")
 
 if question["number"] in st.session_state.checked:
     correct = question.get("correct_answer")
@@ -376,7 +385,7 @@ if question["number"] in st.session_state.checked:
                     st.markdown(f"- [{resource['title']}]({resource['url']}) — {resource['coverage']}")
 
 st.divider()
-if st.button("مشاهده نتایج"):
+if st.button("مشاهده نتایج", disabled=not has_official_key):
     graded = [q for q in questions if q.get("correct_answer") in {1, 2, 3, 4}]
     correct_count = wrong_count = empty_count = 0
     for item in graded:
