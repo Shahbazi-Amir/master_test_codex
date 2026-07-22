@@ -12,6 +12,18 @@ on:
       - tools/build_1405_exams.py
       - tools/build_1405_exams_v2.py
       - .github/workflows/analyze_1405_new_sources.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - assets/source/arshad_computer_1405.pdf
+      - assets/source/answer_key_computer_1405.pdf
+      - assets/source/answer_key_electrical_1405.pdf
+      - tools/analyze_1405_new_sources.py
+      - tools/scan_1405_key_tables.py
+      - tools/build_1405_exams.py
+      - tools/build_1405_exams_v2.py
+      - .github/workflows/analyze_1405_new_sources.yml
+      - data/diagnostics/1405_new_sources/.trigger
   workflow_dispatch:
 
 permissions:
@@ -25,6 +37,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
 
       - name: Install tools
         run: |
@@ -77,7 +90,7 @@ jobs:
             echo "No generated changes"
           else
             git commit -m "Complete 1405 computer exam and official keys"
-            git push
+            git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
           fi
 
       - name: Fail when build failed
