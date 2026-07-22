@@ -1,0 +1,85 @@
+name: Build 1405 exam questions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - assets/source/arshad_bargh_1405_1251.pdf
+      - tools/build_exam_1405.py
+      - .github/workflows/build_exam_1405.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          python -m pip install Pillow
+
+      - name: Build complete 1405 question set
+        run: python tools/build_exam_1405.py
+
+      - name: Validate generated files
+        run: |
+          python -m py_compile master_exam_ui.py tools/build_exam_1405.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+
+          root = Path('.')
+          exam_path = root / 'data/questions/exam_1405.json'
+          exam = json.loads(exam_path.read_text(encoding='utf-8'))
+          questions = exam['questions']
+
+          assert exam['year'] == 1405
+          assert exam['booklet_code'] == '335A'
+          assert exam['total_questions'] == 140
+          assert len(questions) == 140
+          assert [q['number'] for q in questions] == list(range(1, 141))
+          assert all(q['correct_answer'] is None for q in questions)
+          assert questions[0]['source_page'] == 2
+          assert questions[-1]['source_page'] == 33
+
+          image_paths = [root / q['image'] for q in questions]
+          assert len(set(image_paths)) == 140
+          for image_path in image_paths:
+              assert image_path.exists() and image_path.stat().st_size > 0
+              with Image.open(image_path) as image:
+                  image.verify()
+
+          assert not (root / 'data/answer_keys/key_1405.json').exists()
+          print('Validated 140 questions and 140 images; official key remains pending.')
+          PY
+
+      - name: Remove temporary diagnostics
+        run: |
+          rm -rf data/diagnostics
+          rm -f tools/analyze_exam_1405_pdf.py
+          rm -f tools/export_1405_ocr_pages.py
+          rm -f tools/scan_1405_question_markers.py
+          rm -f .github/workflows/analyze_1405_pdf.yml
+          rm -f .github/workflows/export_1405_ocr_pages.yml
+          rm -f .github/workflows/scan_1405_question_markers.yml
+
+      - name: Commit generated question data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Add complete 1405 electrical exam questions"
+            git push
+          fi
