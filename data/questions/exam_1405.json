@@ -5,7 +5,7 @@
   "booklet_code": "335A",
   "total_questions": 140,
   "duration_minutes": 250,
-  "answer_key_status": "pending_official_key",
+  "answer_key_status": "official",
   "source_pdf": "assets/source/arshad_bargh_1405_1251.pdf",
   "image_policy": "Each question has a lossless PNG copy of its complete official source page to avoid cutting formulas, diagrams, passages, or choices.",
   "questions": [
@@ -20,10 +20,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 2,
@@ -36,10 +37,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 3,
@@ -52,10 +54,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 4,
@@ -68,10 +71,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 5,
@@ -84,10 +88,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 6,
@@ -100,10 +105,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 7,
@@ -116,10 +122,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 8,
@@ -132,10 +139,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 9,
@@ -148,10 +156,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 10,
@@ -164,10 +173,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 11,
@@ -180,10 +190,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 12,
@@ -196,10 +207,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 13,
@@ -212,10 +224,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 14,
@@ -228,10 +241,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 15,
@@ -244,10 +258,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 16,
@@ -260,10 +275,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 17,
@@ -276,10 +292,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 18,
@@ -292,10 +309,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 19,
@@ -308,10 +326,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 20,
@@ -324,10 +343,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 21,
@@ -340,10 +360,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 22,
@@ -356,10 +377,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 23,
@@ -372,10 +394,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 24,
@@ -388,10 +411,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 25,
@@ -404,10 +428,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 26,
@@ -420,10 +445,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 27,
@@ -436,10 +462,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 28,
@@ -452,10 +479,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 29,
@@ -468,10 +496,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 30,
@@ -484,10 +513,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 31,
@@ -500,10 +530,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 32,
@@ -516,10 +547,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 33,
@@ -532,10 +564,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 34,
@@ -548,10 +581,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 35,
@@ -564,10 +598,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 36,
@@ -580,10 +615,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 37,
@@ -596,10 +632,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 38,
@@ -612,10 +649,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 39,
@@ -628,10 +666,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 40,
@@ -644,10 +683,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 41,
@@ -660,10 +700,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 42,
@@ -676,10 +717,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 43,
@@ -692,10 +734,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 44,
@@ -708,10 +751,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 45,
@@ -724,10 +768,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 46,
@@ -740,10 +785,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 47,
@@ -756,10 +802,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 48,
@@ -772,10 +819,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 49,
@@ -788,10 +836,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 50,
@@ -804,10 +853,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 51,
@@ -820,10 +870,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 52,
@@ -836,10 +887,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 53,
@@ -852,10 +904,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 54,
@@ -868,10 +921,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 55,
@@ -884,10 +938,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 56,
@@ -900,10 +955,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 57,
@@ -916,10 +972,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 58,
@@ -932,10 +989,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 59,
@@ -948,10 +1006,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 60,
@@ -964,10 +1023,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 61,
@@ -980,10 +1040,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 62,
@@ -996,10 +1057,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 63,
@@ -1012,10 +1074,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 64,
@@ -1028,10 +1091,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 65,
@@ -1044,10 +1108,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 66,
@@ -1060,10 +1125,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 67,
@@ -1076,10 +1142,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 68,
@@ -1092,10 +1159,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 69,
@@ -1108,10 +1176,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 70,
@@ -1124,10 +1193,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 71,
@@ -1140,10 +1210,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 72,
@@ -1156,10 +1227,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 73,
@@ -1172,10 +1244,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 74,
@@ -1188,10 +1261,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 75,
@@ -1204,10 +1278,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 76,
@@ -1220,10 +1295,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 77,
@@ -1236,10 +1312,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 78,
@@ -1252,10 +1329,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 79,
@@ -1268,10 +1346,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 80,
@@ -1284,10 +1363,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 81,
@@ -1300,10 +1380,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 82,
@@ -1316,10 +1397,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 83,
@@ -1332,10 +1414,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 84,
@@ -1348,10 +1431,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 85,
@@ -1364,10 +1448,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 86,
@@ -1380,10 +1465,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 87,
@@ -1396,10 +1482,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 88,
@@ -1412,10 +1499,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 89,
@@ -1428,10 +1516,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 90,
@@ -1444,10 +1533,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 91,
@@ -1460,10 +1550,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 92,
@@ -1476,10 +1567,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 93,
@@ -1492,10 +1584,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 94,
@@ -1508,10 +1601,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 95,
@@ -1524,10 +1618,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 96,
@@ -1540,10 +1635,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 97,
@@ -1556,10 +1652,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 98,
@@ -1572,10 +1669,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 99,
@@ -1588,10 +1686,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 100,
@@ -1604,10 +1703,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 101,
@@ -1620,10 +1720,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 102,
@@ -1636,10 +1737,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 103,
@@ -1652,10 +1754,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 104,
@@ -1668,10 +1771,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 105,
@@ -1684,10 +1788,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 106,
@@ -1700,10 +1805,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 107,
@@ -1716,10 +1822,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 108,
@@ -1732,10 +1839,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 109,
@@ -1748,10 +1856,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 110,
@@ -1764,10 +1873,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 111,
@@ -1780,10 +1890,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 112,
@@ -1796,10 +1907,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 113,
@@ -1812,10 +1924,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 114,
@@ -1828,10 +1941,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 115,
@@ -1844,10 +1958,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 116,
@@ -1860,10 +1975,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 117,
@@ -1876,10 +1992,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 118,
@@ -1892,10 +2009,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 119,
@@ -1908,10 +2026,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 120,
@@ -1924,10 +2043,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 121,
@@ -1940,10 +2060,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 122,
@@ -1956,10 +2077,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 123,
@@ -1972,10 +2094,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 124,
@@ -1988,10 +2111,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 125,
@@ -2004,10 +2128,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 126,
@@ -2020,10 +2145,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 127,
@@ -2036,10 +2162,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 128,
@@ -2052,10 +2179,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 129,
@@ -2068,10 +2196,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 130,
@@ -2084,10 +2213,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 131,
@@ -2100,10 +2230,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 3,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 132,
@@ -2116,10 +2247,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 133,
@@ -2132,10 +2264,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 134,
@@ -2148,10 +2281,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 135,
@@ -2164,10 +2298,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 136,
@@ -2180,10 +2315,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 137,
@@ -2196,10 +2332,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 138,
@@ -2212,10 +2349,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 1,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 139,
@@ -2228,10 +2366,11 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 2,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     },
     {
       "number": 140,
@@ -2244,10 +2383,16 @@
         3,
         4
       ],
-      "correct_answer": null,
+      "correct_answer": 4,
       "explanation": null,
       "explanation_status": "pending_review",
-      "explanation_sources": []
+      "explanation_sources": [],
+      "answer_status": "official"
     }
-  ]
+  ],
+  "source": {
+    "questions_pdf": "assets/source/arshad_bargh_1405_1251.pdf",
+    "answer_key_pdf": "assets/source/answer_key_electrical_1405.pdf",
+    "key_status": "official"
+  }
 }
