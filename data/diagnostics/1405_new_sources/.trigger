@@ -1,2 +1,2 @@
 # trigger analysis workflow
-run: diagnostics-v2
+run: key-table-v3
