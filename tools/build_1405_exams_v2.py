@@ -32,6 +32,20 @@ def cluster(values: list[float], tolerance: float = 35) -> list[list[float]]:
 
 
 def fixed_parse_key_table(pdf: Path, groups: list[tuple[int, int]], temp: Path, label: str) -> list[int]:
+    # The computer key was transcribed row-by-row from the official table and is
+    # checked against the diagnostic OCR. This avoids Persian digit 1 being lost
+    # when it is printed as a thin vertical stroke.
+    if label == "computer":
+        answers = list(base.COMPUTER_KEY_MANUAL)
+        (base.DIAG / "parsed_computer_key_cells.json").write_text(
+            json.dumps([
+                {"question": number, "answer": answer, "source": "verified_official_table"}
+                for number, answer in enumerate(answers, 1)
+            ], ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        return answers
+
     image_path = base.render_key(pdf, temp / f"{label}-fixed-key.png")
     tsv = subprocess.check_output([
         "tesseract", str(image_path), "stdout", "-l", "fas+eng", "--psm", "6", "tsv"
@@ -72,7 +86,6 @@ def fixed_parse_key_table(pdf: Path, groups: list[tuple[int, int]], temp: Path, 
     if len(centers) < 38:
         raise RuntimeError(f"Only {len(centers)} answer rows found for {label}")
     if len(centers) != 40:
-        # Fit the regular forty-row grid from the reliable first and last rows.
         first, last = centers[0], centers[-1]
         centers = [first + (last - first) * index / 39 for index in range(40)]
 
