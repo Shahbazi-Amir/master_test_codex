@@ -1,0 +1,39 @@
+name: Restore 1405 OCR diagnostics
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/restore_1405_ocr.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore deleted OCR diagnostics and tools
+        run: |
+          git checkout ebd80381bc37210efa36970d110953f436bc037d -- \
+            data/diagnostics \
+            tools/analyze_exam_1405_pdf.py \
+            tools/export_1405_ocr_pages.py \
+            tools/scan_1405_question_markers.py \
+            .github/workflows/analyze_1405_pdf.yml \
+            .github/workflows/export_1405_ocr_pages.yml \
+            .github/workflows/scan_1405_question_markers.yml
+          rm .github/workflows/restore_1405_ocr.yml
+
+      - name: Commit restoration
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/diagnostics tools .github/workflows
+          git commit -m "Restore 1405 OCR diagnostics and tools"
+          git push
