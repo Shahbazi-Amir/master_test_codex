@@ -1,0 +1,43 @@
+PAGE: 2
+METHOD: ocr_fas_eng
+
+* داوطلب گرامی. عدم درج مشخصات و امضا در مندرجات کادر زین به‌منزله عدم حضور شما در جلسه آزمون است.
+اینجانب ............................. با شماره داوطلبی ......................... با آگاهی کامل. یکسان بودن شماره صندلی خود
+با شماره داوطلبی مندرج در بالای کارت ورود به جلسه. بالای پاسخ‌نامه و دفترچه سوالات. نوع و ‎J SUS‏ درج‌شده
+بر روی جلد دفترچه سوّالات و پایین پاسخ‌نامه‌ام را ‎anti‏ می‌نمايم.
+امضا:
+زبان عمومی و تعصصی (انکلیسی):
+‎PART A: Vocabulary‏
+‎Directions: Choose the word (1), (2), (3), or (4) that best completes each sentence. Then‏
+‎mark the answer on your answer sheet.‏
+‎His words should be understood in .................... in order to be correctly interpreted.‏ -1
+‎direction 2) context 3) expert 4) interest‏ )1
+‎She told her friends about her intention to go abroad, changing her first decision to keep it‏ -2
+‎secret 2) familiar 3) final 4) positive‏ )1
+‎She has.................. in her library the complete works of many Persian poets such as‏ -3
+‎Hafez, Mowlana, Sa’di, Nezami and Ferdowsi.‏
+‎defended 2) arrived 3) collected 4) caused‏ )1
+‎A defining .................... of online art is that it can be seen anywhere by anyone with‏ -4
+‎an Internet-connected computer.‏
+‎characteristic 2) inspiration 3) spectator 4) artifact‏ )1
+‎For decades, the hygiene hypothesis has posited that the germs we are exposed to in‏ -5
+‎early childhood can .................... uS from developing allergies.‏
+‎desist 2) prescribe 3) cease 4) prevent‏ )1
+‎‘I was in need of money and not at all .................... about experiments, so I concurred‏ -6
+‎and received the new medicine at the local hospital.‏
+‎affluent 2) plausible 3) respective 4) apprehensive‏ )1
+‎Some people suffer from a chronic case of rabid chauvinism; they brandish the banners‏ -7
+‎and shields of their own tribe and .................... those of the others.‏
+‎exculpate 2) excoriate 3) extrapolate 4) expatiate‏ )1
+‎PART B: Cloze Test‏
+‎Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best‏
+‎fits each space. Then mark the correct choice on your answer sheet.‏
+‎Cognitive psychology focuses on how people perceive, store, and interpret information,‏
+‎seteseseseeeseeeee(8) processes like perception, reasoning, and problem _ solving.‏
+‎behaviorists, cognitive psychologists believe it is necessary to look at‏ (0)...............
+‎internal mental processes in order to understand behavior. Cognitive psychology has been‏
+‎extremely influential, and much contemporary research ..................(10)‏
+‎that studies 2) studies 3) studying 4) and study‏ )1 -8
+‎Unlike 2) Although 3) However 4) Even‏ )9-1
+‎is cognitive with nature 2) being in cognitive nature‏ )10-1
+‎is cognitive in nature 4) being naturally cognitive‏ )3

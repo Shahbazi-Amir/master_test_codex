@@ -1,0 +1,76 @@
+PAGE: 5
+METHOD: ocr_fas_eng
+
+مهندسی کامپیوتر (کد ‎135A (YVY‏ صفحه ۵
+
+the concept of stored-program computers, where both instructions and data are stored in
+
+the same memory, allowing for flexible program execution.
+
+Unlike the Von Neumann architecture where instructions and data share the same
+memory and data paths, Harvard architecture is a type of computer architecture that has
+separate storage units and dedicated pathways for instructions and data. [3] By having
+separate pathways, the CPU can fetch instructions and access data at the same time,
+without waiting for each other, leading to faster program execution, especially for tasks
+that involve a lot of data movement. Separate memory units can be optimized for their
+specific purposes. For example, instruction memory might be read-only, while data
+memory might be optimized for fast read/write operations. Still, implementing separate
+storage and pathways can be more complex than the simpler Von Neumann architecture
+and having separate memory units can increase the overall cost of the system. [4]
+
+21- Which of the following is NOT mentioned with reference to the Von Neumann
+
+architecture in paragraph 1?
+
+1) A limitation observed in its function 2) A development associated with it
+
+3) One of the features that it enjoys 4) The century when it was designed
+
+22- Which of the following best expresses the writer’s opinion about the inclusion of
+dedicated pathways for instructions and data in Harvard architecture, mentioned in
+
+paragraph 2?
+
+1) He completely confirms this solution unequivocally.
+
+2) He acknowledges its efficacy with some reservations.
+
+3) He rejects its suitability entirely.
+
+4) He remains silent on this point.
+
+23- What does the passage mainly discuss?
+
+1) Two different computer architectures
+
+2) The function of memory in computers
+
+3) Von Neumann’s role in the development of computers
+
+4) The influence of mathematics on computer technology
+
+24- According to the passage, which of the following is true?
+
+1) The Harvard computer architecture is widely regarded as being more cost-effective
+than the alternative architectural designs used in computing systems.
+
+2) In the Von Neumann architecture, instructions and data are stored in separate memory
+spaces, a design that enables flexible and adaptable program execution.
+
+3) The Von Neumann architecture has lost its significance in computer system design due
+to the emergence of more modern and efficient alternatives and is no longer relevant.
+
+4) In Harvard computer architecture, the CPU can simultaneously fetch instructions and
+access data, thereby eliminating the need for sequential waiting between these
+processes.
+
+25- In which position marked by [1], [2], [3] or [4], can the following sentence best be
+inserted in the passage?
+
+This allows for simultaneous access to instructions and data, potentially improving
+
+performance.
+
+1) [1] 2) [2]
+
+3) [3] 4) [4]
