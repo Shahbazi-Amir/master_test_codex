@@ -1,7 +1,12 @@
+import csv
+import io
 import json
 import re
+import shutil
 import subprocess
 import tempfile
+import traceback
+from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -11,6 +16,7 @@ SOURCES = {
     "electrical_key": ROOT / "assets/source/answer_key_electrical_1405.pdf",
 }
 OUT = ROOT / "data/diagnostics/1405_new_sources"
+DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
 
 
 def run(*args: str) -> str:
@@ -25,6 +31,18 @@ def page_count(pdf: Path) -> int:
     return int(match.group(1))
 
 
+def render_page(pdf: Path, page: int, work: Path, dpi: int = 220) -> Path:
+    prefix = work / f"render-{page}-{dpi}"
+    subprocess.run([
+        "pdftoppm", "-f", str(page), "-l", str(page), "-r", str(dpi), "-png",
+        str(pdf), str(prefix),
+    ], check=True)
+    images = sorted(work.glob(f"render-{page}-{dpi}-*.png")) or sorted(work.glob(f"render-{page}-{dpi}.png"))
+    if not images:
+        raise RuntimeError(f"No rendered image for {pdf} page {page}")
+    return images[0]
+
+
 def extract_page_text(pdf: Path, page: int, work: Path) -> tuple[str, str]:
     native = work / f"native-{page}.txt"
     subprocess.run([
@@ -35,22 +53,58 @@ def extract_page_text(pdf: Path, page: int, work: Path) -> tuple[str, str]:
     if len(re.sub(r"\s+", "", text)) >= 80:
         return text, "pdftotext"
 
-    prefix = work / f"render-{page}"
-    subprocess.run([
-        "pdftoppm", "-f", str(page), "-l", str(page), "-r", "220", "-png",
-        str(pdf), str(prefix),
-    ], check=True)
-    images = sorted(work.glob(f"render-{page}-*.png"))
-    if not images:
-        images = sorted(work.glob(f"render-{page}.png"))
-    if not images:
-        raise RuntimeError(f"No rendered image for {pdf} page {page}")
-    image = images[0]
+    image = render_page(pdf, page, work)
     ocr_base = work / f"ocr-{page}"
     subprocess.run([
         "tesseract", str(image), str(ocr_base), "-l", "fas+eng", "--psm", "6"
     ], check=True)
     return ocr_base.with_suffix(".txt").read_text(encoding="utf-8", errors="replace").strip(), "ocr_fas_eng"
+
+
+def normalize_digits(text: str) -> str:
+    return text.translate(DIGITS).replace("–", "-").replace("—", "-")
+
+
+def scan_question_markers(pdf: Path, count: int, target: Path, work: Path) -> list[dict]:
+    reports = []
+    for page in range(2, count + 1):
+        image = render_page(pdf, page, work, 240)
+        tsv = subprocess.check_output([
+            "tesseract", str(image), "stdout", "-l", "fas+eng", "--psm", "6", "tsv"
+        ], text=True, errors="replace")
+        grouped: dict[tuple[str, str, str], list[dict]] = defaultdict(list)
+        for row in csv.DictReader(io.StringIO(tsv), delimiter="\t"):
+            if not row.get("text", "").strip() or row.get("level") != "5":
+                continue
+            grouped[(row["block_num"], row["par_num"], row["line_num"])].append(row)
+
+        lines = []
+        for words in grouped.values():
+            words.sort(key=lambda item: int(item["left"]))
+            text = " ".join(item["text"].strip() for item in words)
+            normalized = normalize_digits(text)
+            top = min(int(item["top"]) for item in words)
+            left = min(int(item["left"]) for item in words)
+            right = max(int(item["left"]) + int(item["width"]) for item in words)
+            candidates = []
+            for pattern in [r"(?:^|\s)(\d{1,3})\s*-", r"-\s*(\d{1,3})(?:\s|$)"]:
+                candidates.extend(int(value) for value in re.findall(pattern, normalized))
+            if candidates or "مجموعه دروس" in text or "ریاضیات" in text or "زبان عمومی" in text:
+                lines.append({
+                    "top": top,
+                    "left": left,
+                    "right": right,
+                    "text": text,
+                    "normalized": normalized,
+                    "candidates": candidates,
+                })
+        lines.sort(key=lambda item: item["top"])
+        report = {"page": page, "markers": lines}
+        reports.append(report)
+        (target / f"markers-page-{page:02d}.json").write_text(
+            json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
+    return reports
 
 
 def analyze(name: str, pdf: Path) -> dict:
@@ -72,14 +126,10 @@ def analyze(name: str, pdf: Path) -> dict:
 
         visual_pages = range(1, count + 1) if "key" in name else range(1, min(count, 4) + 1)
         for page in visual_pages:
-            prefix = target / f"page-{page:02d}"
-            subprocess.run([
-                "pdftoppm", "-f", str(page), "-l", str(page), "-r", "150", "-png",
-                str(pdf), str(prefix),
-            ], check=True)
-            generated = sorted(target.glob(f"page-{page:02d}-*.png"))
-            if generated:
-                generated[0].rename(target / f"page-{page:02d}.png")
+            rendered = render_page(pdf, page, work, 150)
+            shutil.copy2(rendered, target / f"page-{page:02d}.png")
+
+        markers = scan_question_markers(pdf, count, target, work) if name == "computer_questions" else []
 
     return {
         "name": name,
@@ -87,17 +137,29 @@ def analyze(name: str, pdf: Path) -> dict:
         "size_bytes": pdf.stat().st_size,
         "page_count": count,
         "pages": pages,
+        "marker_pages": markers,
     }
 
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
-    results = {name: analyze(name, path) for name, path in SOURCES.items()}
+    results = {}
+    errors = {}
+    for name, path in SOURCES.items():
+        try:
+            results[name] = analyze(name, path)
+        except Exception:
+            errors[name] = traceback.format_exc()
+    payload = {"results": results, "errors": errors}
     (OUT / "analysis.json").write_text(
-        json.dumps(results, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(json.dumps({name: item["page_count"] for name, item in results.items()}))
+    (OUT / "errors.txt").write_text(
+        "\n\n".join(f"[{name}]\n{error}" for name, error in errors.items()) or "No errors\n",
+        encoding="utf-8",
+    )
+    print(json.dumps({"results": list(results), "errors": list(errors)}))
 
 
 if __name__ == "__main__":
