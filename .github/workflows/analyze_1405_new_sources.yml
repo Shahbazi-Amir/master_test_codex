@@ -1,4 +1,4 @@
-name: Analyze 1405 computer exam and keys
+name: Build 1405 computer exam and official keys
 
 on:
   push:
@@ -9,50 +9,78 @@ on:
       - assets/source/answer_key_electrical_1405.pdf
       - tools/analyze_1405_new_sources.py
       - tools/scan_1405_key_tables.py
+      - tools/build_1405_exams.py
       - .github/workflows/analyze_1405_new_sources.yml
-  pull_request:
-    branches: [main]
-    paths:
-      - assets/source/arshad_computer_1405.pdf
-      - assets/source/answer_key_computer_1405.pdf
-      - assets/source/answer_key_electrical_1405.pdf
-      - tools/analyze_1405_new_sources.py
-      - tools/scan_1405_key_tables.py
-      - .github/workflows/analyze_1405_new_sources.yml
-      - data/diagnostics/1405_new_sources/.trigger
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  analyze:
+  build:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
 
-      - name: Install PDF and OCR tools
+      - name: Install tools
         run: |
           sudo apt-get update
           sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-fas
+          python -m pip install Pillow
 
-      - name: Analyze sources
+      - name: Analyze and build
+        id: build
+        shell: bash
         run: |
+          set +e
           python tools/analyze_1405_new_sources.py
           python tools/scan_1405_key_tables.py
+          python tools/build_1405_exams.py
+          echo "status=$?" >> "$GITHUB_OUTPUT"
+          exit 0
 
-      - name: Commit diagnostics
+      - name: Validate Python and JSON
+        if: steps.build.outputs.status == '0'
+        run: |
+          python -m py_compile master_exam_ui.py tools/build_1405_exams.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          files = [
+              Path('data/questions/computer_engineering/exam_1405.json'),
+              Path('data/questions/exam_1405.json'),
+              Path('data/answer_keys/computer_engineering/key_1405.json'),
+              Path('data/answer_keys/key_1405.json'),
+          ]
+          for path in files:
+              json.loads(path.read_text(encoding='utf-8'))
+          print('validated', len(files), 'JSON files')
+          PY
+
+      - name: Commit generated outputs and diagnostics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/diagnostics/1405_new_sources
-          if git diff --cached --quiet; then
-            echo "No diagnostic changes"
-          else
-            git commit -m "Analyze 1405 computer exam and answer keys"
-            git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
+          if [ "${{ steps.build.outputs.status }}" = "0" ]; then
+            git add assets/questions/computer_engineering/1405 \
+              data/questions/computer_engineering/exam_1405.json \
+              data/questions/exam_1405.json \
+              data/answer_keys/computer_engineering/key_1405.json \
+              data/answer_keys/key_1405.json
           fi
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Complete 1405 computer exam and official keys"
+            git push
+          fi
+
+      - name: Fail when build failed
+        if: steps.build.outputs.status != '0'
+        run: |
+          cat data/diagnostics/1405_new_sources/build_status.json
+          exit 1
