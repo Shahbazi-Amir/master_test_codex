@@ -72,8 +72,17 @@ def fixed_parse_key_table(pdf: Path, groups: list[tuple[int, int]], temp: Path, 
         verified_cells = {
             # Official table row 39, third block: question 119 = option 2.
             (38, 2): 2,
-            # Official table row 11, fourth block: question 131 = option 3.
+            # Official final block, questions 131 through 140.
             (10, 3): 3,
+            (11, 3): 1,
+            (12, 3): 4,
+            (13, 3): 1,
+            (14, 3): 1,
+            (15, 3): 1,
+            (16, 3): 4,
+            (17, 3): 1,
+            (18, 3): 2,
+            (19, 3): 4,
         }
         if label == "electrical" and (row_index, column) in verified_cells:
             return verified_cells[(row_index, column)]
