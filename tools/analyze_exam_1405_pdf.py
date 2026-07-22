@@ -1,6 +1,7 @@
 import json
 import re
 import subprocess
+import tempfile
 from pathlib import Path
 
 
@@ -26,7 +27,7 @@ def normalize_digits(text: str) -> str:
     return text.translate(table)
 
 
-def extract_page(page: int) -> str:
+def embedded_text(page: int) -> str:
     return run(
         "pdftotext",
         "-f", str(page),
@@ -38,16 +39,45 @@ def extract_page(page: int) -> str:
     ).replace("\x0c", "").strip()
 
 
+def ocr_page(page: int, work_dir: Path) -> str:
+    prefix = work_dir / f"page-{page:02d}"
+    subprocess.check_call([
+        "pdftoppm",
+        "-f", str(page),
+        "-l", str(page),
+        "-singlefile",
+        "-r", "200",
+        "-png",
+        str(PDF),
+        str(prefix),
+    ])
+    image = prefix.with_suffix(".png")
+    try:
+        return run(
+            "tesseract",
+            str(image),
+            "stdout",
+            "-l", "fas+eng",
+            "--psm", "3",
+            "preserve_interword_spaces=1",
+        ).strip()
+    finally:
+        image.unlink(missing_ok=True)
+
+
 def likely_question_numbers(text: str) -> list[int]:
     normalized = normalize_digits(text)
     numbers = []
+    patterns = [
+        r"^\s*(\d{1,3})(?:\s|[.)\-:])",
+        r"(?:^|\s)(\d{1,3})\s*[-.)]\s*",
+    ]
     for line in normalized.splitlines():
-        stripped = line.strip()
-        match = re.match(r"^(\d{1,3})(?:\s|[.)\-:])", stripped)
-        if match:
-            value = int(match.group(1))
-            if 1 <= value <= 200:
-                numbers.append(value)
+        for pattern in patterns:
+            for match in re.finditer(pattern, line):
+                value = int(match.group(1))
+                if 1 <= value <= 200:
+                    numbers.append(value)
     return sorted(set(numbers))
 
 
@@ -57,13 +87,21 @@ def main() -> None:
 
     count = page_count()
     pages = []
-    for page in range(1, count + 1):
-        text = extract_page(page)
-        pages.append({
-            "page": page,
-            "text": text,
-            "likely_question_numbers": likely_question_numbers(text),
-        })
+    with tempfile.TemporaryDirectory(prefix="exam-1405-ocr-") as temp:
+        work_dir = Path(temp)
+        for page in range(1, count + 1):
+            text = embedded_text(page)
+            method = "embedded"
+            if not text:
+                text = ocr_page(page, work_dir)
+                method = "ocr_fas_eng"
+            pages.append({
+                "page": page,
+                "method": method,
+                "text": text,
+                "likely_question_numbers": likely_question_numbers(text),
+            })
+            print(f"Processed page {page}/{count}: {pages[-1]['likely_question_numbers']}")
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(
