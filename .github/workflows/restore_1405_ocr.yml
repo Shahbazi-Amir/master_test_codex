@@ -37,3 +37,5 @@ jobs:
           git add data/diagnostics tools .github/workflows
           git commit -m "Restore 1405 OCR diagnostics and tools"
           git push
+
+# Trigger restoration after workflow registration.
