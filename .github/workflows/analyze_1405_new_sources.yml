@@ -10,6 +10,7 @@ on:
       - tools/analyze_1405_new_sources.py
       - tools/scan_1405_key_tables.py
       - tools/build_1405_exams.py
+      - tools/build_1405_exams_v2.py
       - .github/workflows/analyze_1405_new_sources.yml
   workflow_dispatch:
 
@@ -38,14 +39,14 @@ jobs:
           set +e
           python tools/analyze_1405_new_sources.py
           python tools/scan_1405_key_tables.py
-          python tools/build_1405_exams.py
+          python tools/build_1405_exams_v2.py
           echo "status=$?" >> "$GITHUB_OUTPUT"
           exit 0
 
       - name: Validate Python and JSON
         if: steps.build.outputs.status == '0'
         run: |
-          python -m py_compile master_exam_ui.py tools/build_1405_exams.py
+          python -m py_compile master_exam_ui.py tools/build_1405_exams.py tools/build_1405_exams_v2.py
           python - <<'PY'
           import json
           from pathlib import Path
