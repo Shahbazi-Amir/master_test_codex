@@ -16,7 +16,7 @@ SOURCES = {
     "electrical_key": ROOT / "assets/source/answer_key_electrical_1405.pdf",
 }
 OUT = ROOT / "data/diagnostics/1405_new_sources"
-DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹١٢٣٤٥٦٧٨٩", "01234567890123456789")
+DIGITS = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
 
 
 def run(*args: str) -> str:
