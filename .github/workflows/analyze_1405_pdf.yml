@@ -28,14 +28,21 @@ jobs:
       - name: Analyze PDF
         run: python tools/analyze_exam_1405_pdf.py
 
+      - name: Split ending pages for visual review
+        run: |
+          mkdir -p data/diagnostics/pages
+          pdfseparate -f 29 -l 33 \
+            assets/source/arshad_bargh_1405_1251.pdf \
+            data/diagnostics/pages/page-%d.pdf
+
       - name: Commit diagnostic output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/diagnostics/exam_1405_pdf_analysis.json
+          git add data/diagnostics/exam_1405_pdf_analysis.json data/diagnostics/pages
           if git diff --cached --quiet; then
             echo "No diagnostic changes"
           else
-            git commit -m "Analyze 1405 exam PDF with OCR"
+            git commit -m "Add 1405 PDF visual diagnostics"
             git push
           fi
