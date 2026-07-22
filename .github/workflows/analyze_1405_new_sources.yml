@@ -9,6 +9,15 @@ on:
       - assets/source/answer_key_electrical_1405.pdf
       - tools/analyze_1405_new_sources.py
       - .github/workflows/analyze_1405_new_sources.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - assets/source/arshad_computer_1405.pdf
+      - assets/source/answer_key_computer_1405.pdf
+      - assets/source/answer_key_electrical_1405.pdf
+      - tools/analyze_1405_new_sources.py
+      - .github/workflows/analyze_1405_new_sources.yml
+      - data/diagnostics/1405_new_sources/.trigger
   workflow_dispatch:
 
 permissions:
@@ -16,11 +25,13 @@ permissions:
 
 jobs:
   analyze:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref || github.ref_name }}
 
       - name: Install PDF and OCR tools
         run: |
@@ -39,5 +50,5 @@ jobs:
             echo "No diagnostic changes"
           else
             git commit -m "Analyze 1405 computer exam and answer keys"
-            git push
+            git push origin HEAD:${{ github.event.pull_request.head.ref || github.ref_name }}
           fi
