@@ -1,0 +1,43 @@
+name: Analyze 1405 computer exam and keys
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - assets/source/arshad_computer_1405.pdf
+      - assets/source/answer_key_computer_1405.pdf
+      - assets/source/answer_key_electrical_1405.pdf
+      - tools/analyze_1405_new_sources.py
+      - .github/workflows/analyze_1405_new_sources.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install PDF and OCR tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-fas
+
+      - name: Analyze sources
+        run: python tools/analyze_1405_new_sources.py
+
+      - name: Commit diagnostics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/diagnostics/1405_new_sources
+          if git diff --cached --quiet; then
+            echo "No diagnostic changes"
+          else
+            git commit -m "Analyze 1405 computer exam and answer keys"
+            git push
+          fi
