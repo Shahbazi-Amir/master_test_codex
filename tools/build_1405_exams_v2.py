@@ -69,11 +69,14 @@ def fixed_parse_key_table(pdf: Path, groups: list[tuple[int, int]], temp: Path, 
     image = Image.open(image_path).convert("L")
 
     def read_cell(row_index: int, column: int) -> int:
-        # Official table row 39, third block: question 119 = option 2.
-        # The glyph was read as Latin "P" by OCR, so it is recorded explicitly
-        # after verification against the full-page OCR row.
-        if label == "electrical" and row_index == 38 and column == 2:
-            return 2
+        verified_cells = {
+            # Official table row 39, third block: question 119 = option 2.
+            (38, 2): 2,
+            # Official table row 11, fourth block: question 131 = option 3.
+            (10, 3): 3,
+        }
+        if label == "electrical" and (row_index, column) in verified_cells:
+            return verified_cells[(row_index, column)]
 
         y = centers[row_index]
         candidates = [
