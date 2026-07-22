@@ -1,2 +1,2 @@
 # trigger analysis workflow
-run: key-table-v3
+run: final-key-scan-v4
