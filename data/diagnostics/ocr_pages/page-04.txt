@@ -1,0 +1,74 @@
+PAGE: 4
+METHOD: ocr_fas_eng
+CANDIDATES: [1, 2, 3, 4, 16, 17, 18, 20]
+
+مهندسی برق (کد ۱۲۵۱) ‎335A‏ صفحه ۴
+
+container of water. The flow of current through the water produced hydrogen and
+oxygen.
+
+The first widespread application of electric circuits for practical use was for electric
+lighting. Shortly after Thomas Edison invented his incandescent light bulb, he sought
+practical applications for it by developing an entire power generation and distribution
+system. The first such system in the United States was the Pearl Street Station in
+downtown Manhattan. It provided a few square blocks of the city with electric power,
+primarily for illumination.
+
+Which of the following is NOT mentioned in paragraph 1?
+
+1) The person who invented the battery 2) A turning point related to electricity
+
+3) The person who made the first circuit 4) An example showing static electricity
+The underlined word “distribution” in paragraph 2 is closest in meaning to ...............6+
+1) conversion 2) preservation 3) measurement 4) spread
+According to paragraph 2, what was the main function of Pearl Street Station in
+downtown Manhattan?
+
+1) To bring light to some areas
+
+2) To power kitchen appliances
+
+3) To save the extra electricity generated
+
+4) To replace the city’s previous power plant
+
+Which of the following techniques is used in the passage?
+1) Statistics 2) Cause & effect
+3) Direct quotation 4) Appeal to authority
+
+The passage provides sufficient information to answer which of the following questions?
+I. What was the incident leading to the discovery of electricity?
+
+II. What were some parts used in the early circuits?
+
+III. In which decade did Edison invent the light bulb?
+
+1) Land 1 2) Only II 3) Land II 4) Only II
+
+PASSAGE 3:
+
+Everyday modern life is pervaded by electromagnetic phenomena. [1] When a
+lightbulb is switched on, a current flows through a thin filament in the bulb, and the
+current heats the filament to such a high temperature that it glows, illuminating its
+surroundings. Electric clocks and connections link simple devices of this kind into
+complex systems such as traffic lights that are timed and synchronized with the speed
+of vehicular flow. Radio and television sets receive information carried by
+electromagnetic waves traveling through space at the speed of light. To start an
+automobile, currents in an electric starter motor generate magnetic fields that rotate the
+motor shaft and drive engine pistons to compress an explosive mixture of gasoline and
+air; the spark initiating the combustion is an electric discharge, which makes up a
+momentary current flow. [2]
+
+Many of these devices and phenomena are complex, but they derive from the same
+fundamental laws of electromagnetism. [3] One of the most important of these is
+Coulomb’s law, which describes the electric force between charged objects.
+Formulated by the 18"-century French physicist Charles-Augustin de Coulomb, it is
+analogous to Newton’s law for the gravitational force. Both gravitational and electric
+
+16-
+
+17-
+
+18-
+
+20-

@@ -1,0 +1,9 @@
+PAGE: 34
+METHOD: ocr_fas_eng
+CANDIDATES: []
+
+مهندسی برق (کد ۱۲۵۱)
+
+335A
+
+صفحه ۲۴
