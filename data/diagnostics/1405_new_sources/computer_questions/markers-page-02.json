@@ -1,0 +1,105 @@
+{
+  "page": 2,
+  "markers": [
+    {
+      "top": 1016,
+      "left": 192,
+      "right": 1764,
+      "text": "1- His words should be understood in .................... in order to be correctly interpreted.",
+      "normalized": "1- His words should be understood in .................... in order to be correctly interpreted.",
+      "candidates": [
+        1
+      ]
+    },
+    {
+      "top": 1103,
+      "left": 190,
+      "right": 1796,
+      "text": "2- She told her friends about her intention to go abroad, changing her first decision to keep it",
+      "normalized": "2- She told her friends about her intention to go abroad, changing her first decision to keep it",
+      "candidates": [
+        2
+      ]
+    },
+    {
+      "top": 1232,
+      "left": 190,
+      "right": 1795,
+      "text": "3- She has .................. in her library the complete works of many Persian poets such as",
+      "normalized": "3- She has .................. in her library the complete works of many Persian poets such as",
+      "candidates": [
+        3
+      ]
+    },
+    {
+      "top": 1357,
+      "left": 191,
+      "right": 1795,
+      "text": "4- A defining .................... of online art is that it can be seen anywhere by anyone with",
+      "normalized": "4- A defining .................... of online art is that it can be seen anywhere by anyone with",
+      "candidates": [
+        4
+      ]
+    },
+    {
+      "top": 1490,
+      "left": 191,
+      "right": 1795,
+      "text": "5- For decades, the hygiene hypothesis has posited that the germs we are exposed to in",
+      "normalized": "5- For decades, the hygiene hypothesis has posited that the germs we are exposed to in",
+      "candidates": [
+        5
+      ]
+    },
+    {
+      "top": 1619,
+      "left": 191,
+      "right": 1796,
+      "text": "6- I was in need of money and not at all .................... about experiments, so I concurred",
+      "normalized": "6- I was in need of money and not at all .................... about experiments, so I concurred",
+      "candidates": [
+        6
+      ]
+    },
+    {
+      "top": 1747,
+      "left": 191,
+      "right": 1795,
+      "text": "7- Some people suffer from a chronic case of rabid chauvinism; they brandish the banners",
+      "normalized": "7- Some people suffer from a chronic case of rabid chauvinism; they brandish the banners",
+      "candidates": [
+        7
+      ]
+    },
+    {
+      "top": 2438,
+      "left": 191,
+      "right": 1631,
+      "text": "8- 1) that studies 2) studies 3) studying 4) and study",
+      "normalized": "8- 1) that studies 2) studies 3) studying 4) and study",
+      "candidates": [
+        8
+      ]
+    },
+    {
+      "top": 2483,
+      "left": 191,
+      "right": 1554,
+      "text": "9-1) Unlike 2) Although 3) However 4) Even",
+      "normalized": "9-1) Unlike 2) Although 3) However 4) Even",
+      "candidates": [
+        9
+      ]
+    },
+    {
+      "top": 2528,
+      "left": 192,
+      "right": 1518,
+      "text": "10- 1) is cognitive with nature 2) being in cognitive nature",
+      "normalized": "10- 1) is cognitive with nature 2) being in cognitive nature",
+      "candidates": [
+        10
+      ]
+    }
+  ]
+}

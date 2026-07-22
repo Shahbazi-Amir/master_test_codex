@@ -1,176 +1,1666 @@
 {
-  "computer_questions": {
-    "name": "computer_questions",
-    "path": "assets/source/arshad_computer_1405.pdf",
-    "size_bytes": 25620551,
-    "page_count": 28,
-    "pages": [
-      {
-        "page": 1,
-        "method": "ocr_fas_eng",
-        "text": "1 ۳\n۱\nبها سح\n<<\n5\n00ات۳۳\n۳ وم\n«علم و تحقیق. کلید پیشرفت کشور است.» + ‎As‏\n‏مقام معظم رهبری(ره) ‎NK‏ صبح پنج‌شنبه\n#موری ‎WAS‏\n‏وزارت نوم ‎GMA‏\n‎Z, A‏\n‎PLING it‏\n۰ ۰ کت ۷1 3\nآزمون ورودی دوره‌های کار شناسی‌ار شد ناپیوسته سال ۱۴۰۵\nمهندسی کامپیوتر (کد ۱۳۷۷)\nتعداد سوّال: ۱۱۵ سوال مدت‌زمان پاسخگویی: ۲۵۰ دقبقه\nعنوان مواد امتحانی تعداد و شماره سوّال‌ها\nان عممی و نخسمی کلیس\n۲ ریاضیات (رباضی عمومی (۱ و ۲). آمار و احتمال مهندسی. ریاضیات .۳ ۵\nگسسته)\n۳ . | مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌هاء سیگنال‌هاو ۳ ‎ee‏\n‏سیستم‌ها)\n‏۴ مجموعه دروس تخصصی ۲ (ساختمان داده‌ها.؛ طراحی الک‌وربتم 9 ‎ae y‏ ۷۵\nهوش مصنوعی)\nمجموعه دروس تخصصی ۳ ‎fio)‏ منطقی. معماری ک‌امپیوتر و ‎ve‏\n‏الکترونیک دیجیتال)\n۶ | مجموعه دروس تخصصی ۴ (سیستم‌های عامل. شبکه‌های ک‌امپیوتری و 1 ‎ae‏ 1\nپایگاه داده‌ها)\nاستفاده از ماشین حساب مجاز نیست. این آزمون نمره منفی دارد.\n‎Ge‏ چاپ, تکثیر 9 انتشار سوالات به هر روش (الکنرونیکی ‎bg‏ پس از برگزاری آزمون, برای تمامی اشخاص حقیقی و حقوقی تنها با مجوز این سازمان مجاز می‌باسد وبا متخلفین برابر مقررات رفتار می‌ود."
-      },
-      {
-        "page": 2,
-        "method": "ocr_fas_eng",
-        "text": "* داوطلب گرامی. عدم درج مشخصات و امضا در مندرجات کادر زین به‌منزله عدم حضور شما در جلسه آزمون است.\nاینجانب ............................. با شماره داوطلبی ......................... با آگاهی کامل. یکسان بودن شماره صندلی خود\nبا شماره داوطلبی مندرج در بالای کارت ورود به جلسه. بالای پاسخ‌نامه و دفترچه سوالات. نوع و ‎J SUS‏ درج‌شده\nبر روی جلد دفترچه سوّالات و پایین پاسخ‌نامه‌ام را ‎anti‏ می‌نمايم.\nامضا:\nزبان عمومی و تعصصی (انکلیسی):\n‎PART A: Vocabulary‏\n‎Directions: Choose the word (1), (2), (3), or (4) that best completes each sentence. Then‏\n‎mark the answer on your answer sheet.‏\n‎His words should be understood in .................... in order to be correctly interpreted.‏ -1\n‎direction 2) context 3) expert 4) interest‏ )1\n‎She told her friends about her intention to go abroad, changing her first decision to keep it‏ -2\n‎secret 2) familiar 3) final 4) positive‏ )1\n‎She has.................. in her library the complete works of many Persian poets such as‏ -3\n‎Hafez, Mowlana, Sa’di, Nezami and Ferdowsi.‏\n‎defended 2) arrived 3) collected 4) caused‏ )1\n‎A defining .................... of online art is that it can be seen anywhere by anyone with‏ -4\n‎an Internet-connected computer.‏\n‎characteristic 2) inspiration 3) spectator 4) artifact‏ )1\n‎For decades, the hygiene hypothesis has posited that the germs we are exposed to in‏ -5\n‎early childhood can .................... uS from developing allergies.‏\n‎desist 2) prescribe 3) cease 4) prevent‏ )1\n‎‘I was in need of money and not at all .................... about experiments, so I concurred‏ -6\n‎and received the new medicine at the local hospital.‏\n‎affluent 2) plausible 3) respective 4) apprehensive‏ )1\n‎Some people suffer from a chronic case of rabid chauvinism; they brandish the banners‏ -7\n‎and shields of their own tribe and .................... those of the others.‏\n‎exculpate 2) excoriate 3) extrapolate 4) expatiate‏ )1\n‎PART B: Cloze Test‏\n‎Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best‏\n‎fits each space. Then mark the correct choice on your answer sheet.‏\n‎Cognitive psychology focuses on how people perceive, store, and interpret information,‏\n‎seteseseseeeseeeee(8) processes like perception, reasoning, and problem _ solving.‏\n‎behaviorists, cognitive psychologists believe it is necessary to look at‏ (0)...............\n‎internal mental processes in order to understand behavior. Cognitive psychology has been‏\n‎extremely influential, and much contemporary research ..................(10)‏\n‎that studies 2) studies 3) studying 4) and study‏ )1 -8\n‎Unlike 2) Although 3) However 4) Even‏ )9-1\n‎is cognitive with nature 2) being in cognitive nature‏ )10-1\n‎is cognitive in nature 4) being naturally cognitive‏ )3"
-      },
-      {
-        "page": 3,
-        "method": "ocr_fas_eng",
-        "text": "۳ ‏صفحه‎ 135A (YVY ‏مهندسی کامپیوتر (کد‎\nPART C: Reading Comprehension\n\nDirections: Read the following three passages and answer the questions by choosing\n\nPASSAGE 1:\nBased on exponentially increasing computing power and big data availability, artificial\nintelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep\nreinforcement learning algorithm developed by Google, was able to beat Lee Sedol,\narguably one of the most renowned players of the board game “Go”, which is considered\nto be multiple times more complex than chess. With the introduction of ChatGPT, AI has\nmade its way to a broad common perception, raising promising expectations about\nimpactful AI use cases in business research and practice.\n\nAlthough Al-related literature is rich, we currently lack a comprehensive\nunderstanding of the use of AI algorithms. The absence of a concise AI definition and\ntaxonomy in business results in a dispersed knowledge base, which has two critical\nimplications. First, it currently seems challenging to assess the extent to which\nmanagement research has exploited the potential of AI algorithms. Second, an overview\nof current trends as well as future potentials of applied AI remains vague.\n\n11- The underlined word “substantial” in paragraph 1 is closest in meaning to ..............000+ +\n1) minimal 2) new 3) original 4) significant\n12- The underlined word “its” in paragraph 1 refers to ..................\n1) AI 2) ChatGPT 3) introduction 4) way\n13- According to paragraph 1, which of the following is true about the game known as “Go”?\n1) It was first created by AlphaGo. 2) It was developed by Google.\n3) Al is good at playing it. 4) It is simpler than chess.\n14- All of the following words are mentioned in the passage EXCEPT ................0000-\n1) circuit 2) dispersed 3) exponentially 4) reinforcement\n15- According to the passage, which of the following is true?\n1) It is difficult now to evaluate how much management research has employed the\npotentials offered by AI algorithms.\n2) Our understanding of the use of AI algorithms is currently limited, primarily\nbecause of a lack of Al-related literature.\n3) Current evaluations show that there are no optimistic prospects regarding the\napplication of AI in business research.\n4) A comprehensive overview of present trends and future possibilities in applied AI is\ncurrently made available.\nPASSAGE 2:\nThe operating system (OS) operates and controls the various units of a computer,\nmanaging how software uses hardware to ensure the computer functions as intended in a\nsystematic, reliable, and efficient manner. The kernel, the controlling part of the OS,\nremains in the main storage permanently during the computer’s operation. Principal\nfunctions of an OS include scheduling and loading programs, controlling hardware"
-      },
-      {
-        "page": 4,
-        "method": "ocr_fas_eng",
-        "text": "۴ ‏صفحه‎ 135A (YVY ‏مهندسی کامپیوتر (کد‎\nresources, protecting hardware, software, and data from improper use, loading programs\nand functions into main storage as required, passing control from one job to another under\npriority systems, providing error correction routines, maintaining a complete record of all\nprocess activities, and communicating with the computer operator.\n\nOperating systems have evolved over time, driven by hardware advancements and\napplication needs. Initially, computers were programmed directly with machine\ninstructions or assembly code, with no controls over system use. The first OS challenge\nwas to enable transitioning from one job to another without stopping the machine,\nentering a new program, and restarting. The batch operating system concept provided a\nsolution by allowing operators to load several jobs at once, which the system then\nexecuted sequentially, taking control between jobs to set up hardware and release control\nto the next job.\n\n16- The underlined word “improper” in paragraph 1 is closest in meaning to ..............seeee0e\n1) potential 2) peripheral 3) consequent 4) inappropriate\n17- Which of the following best describes the function of paragraph 2?\n1) It explains a fact which in a way undermines the main argument of the previous\nparagraph.\n2) It elaborates on the potential of a computer system to pave the way for future\nadvancements.\n3) It refers to the historical development of a computer system mentioned in paragraph 1.\n4) It demonstrates the initial steps taken for the manufacturing of computer hardwares.\n18- Which of the following techniques is used in the passage?\n1) Cause and effect 2) Irony\n3) Direct quotation 4) Statistics\n19- The passage provides sufficient information to answer which of the following questions?\nI. In which country was the first computer introduced?\nII. What is the name of the most common error in computer systems?\nIII. What was among the first problems operating systems needed to solve?\n1) Land II 2) ] and III\n3) Only I 4) Only II\n20- Which of the following best describes the overall tone of the passage?\n1) Passionate 2) Objective\n3) Humorous 4) Ambivalent\nPASSAGE 3:\nNamed after mathematician and computer scientist John von Neumann, the Von\nNeumann architecture features a single memory space for both data and instructions,\nwhich are fetched and executed sequentially. This means that programs and data are\nstored in the same memory, allowing for flexible and easy modification of programs. But\ninstructions are also fetched and executed one at a time, which creates a bottleneck where\nthe CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von\nNeumann bottleneck. To address this, modern CPUs employ techniques like caching and\npipelining to improve efficiency. Still, the Von Neumann architecture remains highly\nrelevant and influential in computer design. [2] Von Neumann’s architecture introduced"
-      },
-      {
-        "page": 5,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ‎135A (YVY‏ صفحه ۵\n\nthe concept of stored-program computers, where both instructions and data are stored in\n\nthe same memory, allowing for flexible program execution.\n\nUnlike the Von Neumann architecture where instructions and data share the same\nmemory and data paths, Harvard architecture is a type of computer architecture that has\nseparate storage units and dedicated pathways for instructions and data. [3] By having\nseparate pathways, the CPU can fetch instructions and access data at the same time,\nwithout waiting for each other, leading to faster program execution, especially for tasks\nthat involve a lot of data movement. Separate memory units can be optimized for their\nspecific purposes. For example, instruction memory might be read-only, while data\nmemory might be optimized for fast read/write operations. Still, implementing separate\nstorage and pathways can be more complex than the simpler Von Neumann architecture\nand having separate memory units can increase the overall cost of the system. [4]\n\n21- Which of the following is NOT mentioned with reference to the Von Neumann\n\narchitecture in paragraph 1?\n\n1) A limitation observed in its function 2) A development associated with it\n\n3) One of the features that it enjoys 4) The century when it was designed\n\n22- Which of the following best expresses the writer’s opinion about the inclusion of\ndedicated pathways for instructions and data in Harvard architecture, mentioned in\n\nparagraph 2?\n\n1) He completely confirms this solution unequivocally.\n\n2) He acknowledges its efficacy with some reservations.\n\n3) He rejects its suitability entirely.\n\n4) He remains silent on this point.\n\n23- What does the passage mainly discuss?\n\n1) Two different computer architectures\n\n2) The function of memory in computers\n\n3) Von Neumann’s role in the development of computers\n\n4) The influence of mathematics on computer technology\n\n24- According to the passage, which of the following is true?\n\n1) The Harvard computer architecture is widely regarded as being more cost-effective\nthan the alternative architectural designs used in computing systems.\n\n2) In the Von Neumann architecture, instructions and data are stored in separate memory\nspaces, a design that enables flexible and adaptable program execution.\n\n3) The Von Neumann architecture has lost its significance in computer system design due\nto the emergence of more modern and efficient alternatives and is no longer relevant.\n\n4) In Harvard computer architecture, the CPU can simultaneously fetch instructions and\naccess data, thereby eliminating the need for sequential waiting between these\nprocesses.\n\n25- In which position marked by [1], [2], [3] or [4], can the following sentence best be\ninserted in the passage?\n\nThis allows for simultaneous access to instructions and data, potentially improving\n\nperformance.\n\n1) [1] 2) [2]\n\n3) [3] 4) [4]"
-      },
-      {
-        "page": 6,
-        "method": "ocr_fas_eng",
-        "text": "ریاضیات (ریاضی عمومی (۱ و ۳). آمار و احتمال مهندسی,ء ریاضیات گسسته):\n۳۶ مقدار ‎plas max{|z—w|:2\" =) swe =-F,2,w eC}‏ است؟\n0 ۲\n‎Vy wv‏\n۳ ۷۵\n۴ ۷۶\n۷- فرض کنید ‎f(x) =[x]+(x—[x])”‏ مجموعه نقاط ناپیوستگی تابع ] ‎plas‏ است؟\n0 6\n‎Z‏\n‏۳ 40 - 16\n‎R-Z ۴‏\n۸\n۸- مساحت ناحیه محصور به منحنی‌های ۴۲ < ‎x\"‏ و ‎Y=‏ در بازه | ۱۲۷۳ ‎elas [rr‏ است؟\n‎x ۴‏\n۲ ۳7\n\\( )-+ )۴ +\n۳ 0\n۲ ۳7\n6۲ )-- ۴0/۳ +\n۳ ۳\n۳ 2\n۳ + لگ\n۳ ۶\n۲ ۵\n‎oF + ۳-1‏\n۳ ۶\n‎x al‏ ۳ ۱\n‎FO) = ] e- dt 51 -¥4‏ آنگاه مقدار ‎f F(x) dx‏ کدام است؟\n۱ °\n0 ۱-۵\n۱-6\n۲\n6-۱\n۲\n‎Gi‏ ۱- 6\n‎ -۰‏ کمترین مقدار تابع ۳2 +۲۷ + ‎F(X, YZ)‏ روی خم فصل مشترک رویه‌های )= 2۲+ ‎gx’ Fy\"‏ ۱ 2 + +\n‎plas‏ است؟\n)( صفر\n۱\n۲ =—-\\\n‎Ve‏\n‏۲\n‏۴ سب ۲۷\n‎i‏\n‏۳\n‏۴ سب ۳\n‎Ve‏"
-      },
-      {
-        "page": 7,
-        "method": "ocr_fas_eng",
-        "text": "۱ x dvd vy x dvd ۳ ۴-۲ dvd\n‏ود ] کدام است؟‎ dydx+[\" | ‏جد‎ ayax+ |] | xy 0۷0 ‏مقدار‎ -۱\n۳ ‏لا‎ ۱ do Vrdo ۱\n۷۲\n۱۵\n—()\n۶\n۱۵\n—= (6\nA\n۱۵\n۳\n۱۵\n— ۴\n۳۲\n‏باشد. اندازه کار انجام‌شده توسط‎ 5۳ ty’ -27 2۱-۱ > 2 > ۳ ‏فرض کنید ) مرز هذلولی‌گون یک‌پارچه‎ -۳۲\n‏است؟‎ plas ) ‏در امتداه منحنی‎ F(x,y »Z)=(xt+zy »¥x+z\" —y*, sin(y’)+cos(y’)) ‏نیروی‎\n‎۴۳7 (\\\n۶7۲ ۲\njon ۳\n۱۶ nm ۴\n‏تعداد راه‌های چیدمان ۵ کتاب مختلف در ۲ قفسه. به‌طوری که هیچ قفسه‌ای خالی نماند. کدام است؟‎ -۳\n۱۵ ۰ (\\\n۲۴۰\n۳۶ ۰ ۳\n۵۴۰ ۴\n‏نفری که شامل ۱۰ دانشجوی دختر و ۱۰ دانشجوی پسر است را به دو گروه بااندازه مساوی‎ Yo ‏یک کلاس‎ ۴\n‏افراد گروه‌ها از یک جنس باشند. جقدر است؟‎ oli ‏تقسیم م ی کنيم. احتمال این که‎\n۱۰!(\nQo\nYo!\n۲۵۰\nQe)\"\nYo!\n\\o!\nYo!\n\\\n— (F\n1"
-      },
-      {
-        "page": 8,
-        "method": "ocr_fas_eng",
-        "text": "۳۵- چهار سکه سالم پرتاب می‌شوند و هر سکه‌ای که شیر آمده باشد. دوباره پرتاب می‌شود. اگر ۷ نشان‌دهنده تعداه\nشبرها در پرتاب دوم باشد. (۲ < ‎elas POY‏ است؟\n۱\n۲\n۳\n۴\n۱۷\n۱۳۸\n۳۷\n۱۳۸\n۶- یک الگوریتم جستجو به‌طور متوسط در 1087 مرحله پاسخ را پیدا می‌کند. اگر 2۱۰۲۴ 1 و واربانس مراحل\nجستجو ۴ باشد. احتمال این که الگوربتم در حداکثر ۱۲ مرحله پاسخ دهد. کدام است؟ (فرض کنید مراحل از توزیبع\nنرمال پیروی می‌کنند.)\n۵(\n۲ (۱-)\n(0 2\n۴ (۱-) ۱-۲۵\n‎ali -۷‏ چگالی احتمال توأم متغیرهای تصادفی 26 و ۷ به‌صورت زیر است. (۲ > ‎P(XY‏ کدام است؟\n(۱+)۷-\n‎e X>0,y>o‏\n‎fy yQy)= y 2 ۱‏\n‎ple 0‏ نقاط °\n۲\n۱\n۴\n‎ev‏\n‎ef‏\n‏۸ فرض کنید هدف انجام آزمون ۰ = ‎Hot‏ در مقابل ‎Hy p=)‏ از جامعه (۹, )۲۷ باشد. اگر ناحیه بحرانی به‌صورت\n‎x2k‏ تعریف شود. براساس نمونه ۴ تابی. ۰/۷۵ 1/۵ ‎Oy Yd‏ سح ۷۵ مقدار ‎plas‏ است؟\n\\\n‎O(—) 0‏\n۳۴\n6 )@-\\\n۶\n۱\n‎\\-D(—) ۳‏\n۳۴\n۱\n¢ () 5\n۶"
-      },
-      {
-        "page": 9,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر )35 ۱۲۷۷) ‎135A‏ صفحه ‎٩‏\n‏۹- در بک سیستم بادگیری ماشین. دقت مدل روی ‎FOO‏ نمونه تست. ۰,۸ است. فاصله اطمینان ۹۵ درصدی برای\nدقت واقعی مدل ‎elas‏ است؟ (۲ < ‎(Zo jaya‏\n0 (0,۷۹۰۰,۸۱)\n‎(0/YA, 0/AY) ۲‏\n۳ ۰۰/۸۲ 0,۷۷)\n‎,0/A¥) ۴‏ %¥,0(\n۰- چند تا از اعداد ۲ تا ۱۰۰۰ مربع کامل با مکعب کامل با ... با به‌صورت توانی بزرگ‌تر از یک از یک عدد طبیعی است؟\n‎Fo 0‏\n‎vay‏\n‎Yo‏\n‎af‏\n‏۱- فرض کنید ‎G‏ یک گراف ساده 0 ‎oul,‏ باشد و به‌علاوه ۸ ماتریس مجاورت. ‎B‏ ماتربس وقوع و ) ماتریس قطری\nدرجات رئوس ‎G‏ باشد. دراین‌صورت کدام‌یک از روابط زیر همواره برقرار است؟\n‎=A+C 0‏ 8+3\n‎B.A - 6۲‏\n‎BB! =AC 6۲‏\n‎BB'=A+C ¢‏\n‎-FY‏ تابع مولد معمولی مربوط به تعداد جواب‌های صحیح و نامنفی معادله 0 < 10 +۰۰۰+ ,۲ +۲۱ کدام است؟\n00+ 00+ 00+\n0 اس 2\n‎i=o i=o i=o‏\n00+ 00+ 00+\n‎EH EHE le‏\n۳5 5 =\n‎ay VAY +e +k‏\n‎e} ۰‏\n5\nز 1۱۱5+\n‎k=) ۳ (F‏\n‎-FY‏ اگر ‎gp‏ 4 دو گزاره دلخواه باشند. کدام‌یک از گزاره‌های زیر همواره درست است؟\n‎p>(~paq a‏\n‎p>~(pvq) 6۲‏\n‎p>(pvq) ¢‏\n‎p>(~p)rA(-q) &‏"
-      },
-      {
-        "page": 10,
-        "method": "ocr_fas_eng",
-        "text": "‎a ۴‏ منطقی ‎f < )۳, ۵ py ۵ py Op) Vv (Py ۵ 0۶ Spy Opy)‏ از ۸ گزاره ‎coil‏ مستقل ‎Py‏ تا ‎Py‏ تشکیل\nشده است. چند تابع مثل ‎F‏ می‌توان با این ۸ گزاره اتمی ساخت به‌نحوی که ‎f DE‏ تاتولوژی باشد؟\n۳۴\n‎Ya‏\n‏۲ ۶۴۱\n‎A) (‏ ,0۶۴\n۵- تعداد رشته‌های 0 بیتی ارقام صفر و یک که دقيقاً ۷ تا صفر دارند و در آنها هیچ دوصفری متوالی نیستند برابر\n‎ploy‏ مورد است؟\n‎C(n—k,k) 0‏\n‎C(n—k-+\\,k) 6۲‏\n‎C(in+k+\\,k) ۳‏\n‎C(n+k,k) ۴‏\nمجموعه دروس تحصصی | (نظربه زبان‌ها و ماشین‌ها. سیکنال‌ها و سیستم‌ها):\n۶- برای پذیرش زبان [۲<۰ رز ‎L={a'blei+k=j, i,‏ ماشین پذیرنده پشته‌ای ‎PDA‏ زیر طراحی شده است.\nبرای آنکه این ‎PDA‏ به درستی پذ برنده زبان ‎L‏ باشد. کدام‌یک از شرایط زیر لازم 9 کافی است؟\n‎b,a/e‏\n‎a,e/a b,¢/b e,b/e‏\n85/5 5 55/5 5\n1( حداقل یکی از مسیرهای محاسبه در این ماشین پس از خواندن تمام ورودی به حالت نهایی و پشته خالی برسد.\n۲ حداقل یکی از مسیرهای محاسبه در این ماشین پس از خواندن تمام ورودی به حالت نهایی برسد.\n۳ تمام مسیرهای محاسبه در اين ماشین پس از خواندن ‎pled‏ ورودی به حالت نهایی برسد.\n‎(F‏ حداقل یکی از مسیرهای محاسبه در این ماشین به حالتی با پشته خالی برسد.\n۷- زبان‌های ‎Ly‏ و ‎Ly‏ زیر را در نظر بگیرید. کدام مورد درست است؟\n‎Ly ={1\" 2۳ 3\"|n>o}‏\n‎Ly ={1\" 2۳ 3۳ 4\" In>o}‏\n‎Log Ly (1‏ هر دو زبان نوع صفر (بدون محدودیت) هستند اما حساس به متن نیستند.\n‎Ly ۲‏ زبان حساس ‎ay‏ متن است اما رن زبان حساس به متن نیست.\n۳ بآ و درآ هر دو زبان حساس به متن هستند.\n‎L, ۴‏ و ‎Lo‏ هر دو زبان مستقل از متن هستند."
-      },
-      {
-        "page": 11,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) 135۸ صفحه ۱۱\n‎-FA‏ از میان چهار ادعای زیر چند مورد درست است؟\nالف - حداقل یک ‎NFA‏ بدون گذار ع و با فقط یک حالت نهایی وجود دارد که زبان مجموعه (۱۲<«: ‎{a}U{b\"‏\n‏را بپذیرد.\nب -اگر ‎Ly‏ و ‎Ly‏ دو زبان باشند به‌گونه‌ای که ‎LyLy «Ly‏ و ‎LyLy‏ منظم باشند. آنگاه ‎Ly‏ نیز منظم است.\nج - 0۸های ‎My‏ و ‎My‏ معادل یکدیگرند اگر و فقط اگر & = (1.)۷1(۲۱۲//۷۲۷.\nد -اگر ۷ یک ‎DFA‏ کمینه برای زبان ‎L‏ باشد. با تغییر حالت‌های نهایی به غیرنهایی و بالعکس یک ‎DFA‏ برای\nزبان بآ به دست می‌آید ولی این ‎DFA‏ لزوماً کمینه نیست.\n۱0\n۲ را\n‎yi”‏\n‏۴( ۳\n‎-F4‏ کدام‌یک از مسائل زیر برای بک ماشین تورینگ دلخواه تصمیم‌پذبر ‎(decidable)‏ هستند؟\n) رشته ‎JE‏ ۶ را می‌پذیرد.\n۲ زبانی که می‌پذیرد یک زبان منظم است.\n‎a ۳‏ تعداد کمتر از ۱۴۰۵ رشته ورودی را می‌پذیرد.\n۴ بر روی تمامی رشته‌های ورودی بیشتر از ۱۴۰۵ حرکت انجام می‌دهد.\n۵۰- درخصوص کلاس زبان‌های مستقل از متن قطعی ‎Deterministic Context Free Languages (DCFL)‏\n‎plas”‏ مورد درست است؟\n1( این کلاس تحت عمل اشتراک بسته است اما تحت عمل مکملگیری بسته نیست.\n۲ این کلاس تحت عمل مکمل‌گیری بسته است اما تحت عمل اشتراک بسته نیست.\n‎(Fr‏ این کلاس تحت عمل‌های مکملگیری و اشتراک بسته نیست.\n۴ این کلاس تحت عمل‌های مکمل‌گیری و اشتراک بسته است.\nاه اگر ‎x[n]=sin =n‏ و « و۲ +۵-[۱]0 9 ‎z[n]=x{n].yin]‏ باشد. سری فوریه سیگنال ‎AIM]‏ با دوره\nتناوب ۶ ‎N=‏ چند ضریب غیرصفر دارد؟\n‎YQ‏\n‎Y(y‏\n‎FY‏\n‏۴ ۵\n۲۳- کدام‌یک از جملات زیر نادرست است؟\n) سیستم ‎y[n] = x[Yn]‏ یک سیستم پایدار است.\n۲) سیستم (۱- ]۱6۳ + ‎y(t) =X (Yt)‏ خطی است.\n‎(Y‏ سیستم \" نف 1 \"{- ‎y[n]‏ تغییرپذیر با زمان است.\n0 فرد [۱- هید بیرپذیر 2\n۴ یک سیستم خطی تغییرناپذیر با زمان با تابع ‎bas‏ (0[-)۳1 2 (11)[0 و پاسخ ضربه حقیقی ‎W(t)‏ و با فرض\n‎le h(a) > ۰‏ است."
-      },
-      {
-        "page": 12,
-        "method": "ocr_fas_eng",
-        "text": "‎aol -۳‏ همگرابی سیگنال ‎plas oe)‏ است؟\n۲0-۰۲۲۰۱0۲۵\n‎Re(s) > -۱ 0‏ > 00-\n6۲ >( 6 > ۲-\n‎Re(s) > +00 ۳‏ > ۲-\n۴ ۲ > (8) 6 >۱\n۳ ۲ ۱ ۲ ۱ ۱ رو +۲\n۴- پاسخ ‎pd‏ به یک سیستم 1 علی برابر ‎h[n]‏ و تب‌دیل ‎Z‏ ان ‎H(z)‏ است. اگر )11\n7۸ ۴-۲7\nباشد. [0]۱برابر با کدام مورد است؟\n۳\n0\n۲\n۱\n۲\n۲\n7\n۸\n۴ —\n۱۵\n00\n۵- اگر تبدیل فوریه سیگنال (0) در شکل زیر را ‎ )0(‏ بنمیم, مقدار 40 ‎(jo)‏ \"1 سب ‎plas‏ است؟\nم0 له ‎T‏\n‏0ص\n‏تک ‎x(t)‏\n‎mes‏\n‎a ۳‏\n۳ ۳\n‎rf‏\n‎t‏\n‎-Y ۶‏\nمجموعه دروس تخحصصی ۲ (ساختمان داده‌هاء طراح یالکو ریتم و هوش مصنوعی):\n۶- می‌خواهیم »1 لیست مرتب. هر کدام با ۳ ‎pars‏ را در هم ادغام کنیم و لیست مرتب تابی ابجاد کنیم. برای این\nکار ابتدا لیست ا را با لیست ۲ ادغام ‎go‏ کنيم. سپس لیست حاصل را با ‎Com‏ ۳ و به همین روند ادامه می‌دهيم.\nزمان اجرای این الگوربتم در بدترین حالت. کدام است؟\n‎O(n) (v O(klogn) 0‏\n‎O(nk) ۴ O(nlogk) ۳‏\n۷- آرایه ‎A‏ به طول \" به‌صورت حلقوی مرتب است. بعنی اگر ابتدا و انتهای ۸ را به هم بچسبانيم از یک درایه به بعد\nآرایه مرتب است. برای مثال آرایه [۰ ۸0,۷۰,۶,ه!و۴0,۳۰,۲۵ ,۵0] به‌صورت حلقوی مرتب است. بهترین الگوربتم\nبرای یافتن کوچک‌ترین عنصر ۸ از چه مرتبه‌ای است؟\n‎O(log(logn)) ۲ O(log’ n) ۵‏\n‎O(n) ۴ O(logn) ۲‏"
-      },
-      {
-        "page": 13,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۱۳\n‎plas -۸‏ گزینه مرتبه رابطه بازگشتی «وما +| ‎T(n) = ۲ Vn‏ را نشان می‌دهد؟\n\nO(lognloglogn) ۵\n\nO(nlognlogn) (\n\nO(nloglogn) ۳\n\nO(loglogn) ۴\n\n04 در گونه‌ای از مرتب‌سازی سریع. برای انتخاب محور از میان 9 عنصر ۱+ ۲۹/1 عنصر اول آرایه را انتخاب می‌کنیم\nو با یک الگوربتم ساده مانند مرتب‌سازی درجی آن را مرتب می‌کنیم. عنصر میانه ابن تعداد عنصر مرتب را\nبه‌عنوان محور انتخاب می‌کنیم. بقیه الگوریتم مانند مرتب‌سازی ‎ay pw‏ معمولی عمل می‌کند. بدترین زمان اجرای\nاين الگوریتم با ‎play‏ رابطه بازگشتی نشان داده می‌شود؟\n\nT(n) =YT(n-\\)+n 0\nT(n)=rT(Vn)+n ۲\n\nT(n) =yT(n—Vn)+n ۳\nT(n)=T(n—Vn)+ Tn) +n ۴\n\n۰- در یک متن. 9 کاراکتر وجود دارد که فراوانی آن‌ها از تصاعد هندسی با جمله اول ۸ و قدر نسبت ۲ < پیروی\nمی‌کند. در مورد هزینه ‎UT‏ پیشوندی هافمن کدام مورد درست است؟\n\n2)۲۲-۵-۳( ۲ a(y\" +n-¥) 0\n20۲۳۲ -0+۳( ۴ a(v\"*’—yn-y) ۳\n\n۶۱- فرض کنید یک ساختار درخت ,۸۷ با ویژگی‌های زیر داریم:\n‎:insert(x) -‏ یک عنصر ۲ به درخت اضافه می‌کند.\n- (601666600(]: یک ‎parc‏ را از درخت حذف می‌کند.\n— درخت همیشه متوازن باقی می‌ماند (بعنی بعد از هر عملیات ویژگی درخت ‎AVL‏ برقرار است)\nهزینه سرشکن هر عملیات ‎Insert‏ و ‎Delete‏ چقدر است؟\n\nO(n) ۲ 00(\nO(nlogn) ۶ O(logn) ۳\n\n۲- در یک گراف همبند بدون جهت و وزن‌دار کدام‌یک از گزینه‌های زیر در مورد درخت پوشای کمینه ایجادشده\nتوسط الگوریتم ‎Prim‏ و ‎Kruskal‏ درست است؟\n\n۱ اگر وزن یال‌ها متمایز باشند. درخت‌های تولیدشده توسط این دو الگوریتم یکسان هستند.\n۲) درخت تولیدی توسط الگوریتم ‎Prim‏ مستقل از رس شروع در آن الگوریتم است.\n\n۳ اگر وزن همه ‎ply JL‏ باشند. این دو الگوریتم درخت یکسان تولید می‌کنند.\n\n۴ با هر وزنی این دو الگوریتم درخت‌های یکسان تولید می‌کنند.\n\n۳- کاوشگری روی سیاره‌ای ناشناخته. سطح را به ۱۶ بخش تقسیم می‌کند. او می‌خواهد بداند کدام بخش بیشترین میزان\nماده معدنی دارد. الگوربتم او ابتدا هر بخش را به دو نیمه تقسیم می‌کند. مقدار هر نیمه را می‌سنجد و سپس نیمه\nبزرگ‌تر را دوباره نصف می‌کند تا ناحیه حاوی بیشترین ماده پیدا شود. اگر تعداد مقایسه‌ها برای یافتن ناحیه حاوی\nبیشترین ماده طبق روش تقسیم و حل ‎(Divide and Conquer)‏ باشد. چند مقایسه انجام می‌شود؟\n\nay 7(\\\n۳ (۴ FY"
-      },
-      {
-        "page": 14,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷ ‎135A‏ صفحه ۱۴\n۴- فرض کنید آرایه | هه ] ع ۸ یک 1010-1362۳ دودوبی ‎ous Yo fold‏ صحیح مجزا را نشان می‌دهد.\nچهارمین کوچکتربن عنصر در کدام‌یک از مکان‌های زیر می‌تواند قرار داشته باشد؟ (کامل‌ترین پاسخ را انتخاب کنید.)\n‎AyysAyprAyprAyy (1‏ 8و2و2 ور 3\n‎(V‏ 0\nی\n۴ ۲2۱۳۰8۶8۵ 8و8 م8 و و8 و8 و8۷ ‎Ay,‏ و8 :2۴ و2۳ ‎Ay‏\n‏۵- یک جدول درهم‌سازی ‎ML‏ خانه (اسلات) را در نظر بگیربدکه در آن تصادم‌ها با روش زنجیره‌ای حل می‌شوند.\nفرض کنید 7 کلید در جدول وارد می‌کنیم. به‌طوری که هر کلید به‌طور مساوی احتمال دارد به هر خانه درهم‌سازی\nشود. احتمال اينکه خانه‌ای که بیشترین تعداد کلید را دارد. دقیقاً شامل 16 کلید باشد. کدام است؟\n‎k-\\ ree n-k‏ ۱ ۳\n‎n-k)\\n n‏\n2۱/۱۱۳/۵۰۴\n‎k)\\n n‏\n‎VK (n-1)\"*‏\n‎n n‏\n‎k‏\n‏۱\n‎n‏\n‏۶- تیمی از نجاتگران ‎WL‏ کوه بزرگی را برای بافتن گمشدگان جست‌وجو کنند. رهبر گروه منطقه را به چند بخضش\nتقسیم می‌کند. هر تیم بخشی را جست‌وجو می‌کند. سپس گزارش‌ها جمع آوری می‌شوند تا تصمیم گرفته شود که\nدر ‎aol plus‏ احتمال وجود گمشده بیشتر است. این شیوه حل مسئله از چه روبکردی پیروی می‌کند؟\n۱) بهینه‌سازی محلی ۲ تقسیم و غلبه\n‎io -۷‏ شامل ۷۰۰۰ حرف از حروف ‎cb a‏ . 0 6 و ]با دفعات تکرار به‌ترتیب ۱۰۰۰ و ۰۱۲۰۰ ۸۰۰ ۱۵00\n۰ و ۷۰۰ موجود است. چنانچه بخواهیم کدی بهینه برای حروف ‎YL‏ انتخاب کنیم تعداد کل بیست‌های لازم\nبرای تبدیل متن مزبور به مجموعه‌ای از بیت‌ها چقدر است؟\n0 ۳۳۰۰\n‎Yooo ۲‏\n۱۷۷۰۰\n۴ ۱۲۷۰۰\n۸- کدام مورد جزو وبژگی‌های روش ‎SVM.‏ نیست؟\n۱) غیرپارامتری بودن با مقاومت در برابر بیش‌برازش ‏ ۲ استفاده از همه نمونه‌های آموزشی در تصمیم‌گیری\n۳ قابلیت جداسازی در فضاهای با بعد بالاتر ۴ ایجاد جداکننده با بیشترین حاشیه"
-      },
-      {
-        "page": 15,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۱۵\n۹- کدام‌یک از الگوربتم‌های زبر زمانی مناسب است که تعداد زیادی ویژگی دسته‌ای ‎(Categorical)‏ وجود داشته\nباشد و فکر می‌کنید بسیاری از آنها ممکن است بی‌اهمیت باشند؟\n۵ جنگل تصادفی ۲) رگرسیون لجستیک\n‎(f‏ ماشین بردار پشتیبان ۴ 6 نزدیک‌ترین همسایه\n۰- کدام مورد جزو کاستی‌های مدل‌های زبانی توالی به توالی ‎(Sequence — to — sequence)‏ نیست؟\n۱) پردازش ترتیبی کندتر ‎(Slower sequential processing)‏\n۲ محدودیت اندازه متن ثابت ‎(Fixed context size limit)‏\n۲ سوگیری زمینه نزدیک ‎(Nearby context bias)‏\n۴ بیش‌برازش سریع ‎(Quick Overfitting)‏\n۱- این که کارگزار چه اندازه بتواند خوب رفتار کند. به چه عاملی بستگی دارد؟\n6 طراح ‎dele‏ ۲) حسگرهای ‎dale‏\n‏۲) ماهیت محیط ۴ اقدام‌گرهای عامل\n‎-VY‏ برای یک کارگزار *۸ بی‌درنگ یادگیرنده ‎(LRTA*)‏ در بدترین حالت می‌تواند یک محیط با 9 حالت را در چند\nگام پردازش کند؟\n‎O(log n) 6۲ O(n log n) 0‏\n‎O(n) 6 O(n\") ۲‏\n۳- چه تعداد از موارد زیر درخصوص الگوربتم ‎A*‏ درست است؟\nالف - هر تابع اروین سازگار ‎n(n)‏ لزوماًقابل قبول نیست.\nب - \"ای که از جستجوی گرافی ‎(Search Graph)‏ استفاده می‌کند. بهینه است درصور تی که ‎h(n)‏ سازگار باشد.\nج -اگر ‎h(n)‏ سازگار باشد. آنگاه مقدار )(£ در طول هر مسیری. غیرنزولی است.\n0 صفر\n‎Vy‏\n‎yr‏\n‎YF‏\n‏۴- در ‎Jo‏ مسئله ‎CSP‏ با اجزای وارسی سازگاری کمان به‌صورت معکوس که در آن هر یک از 9 متغیر می‌تواند ‎٩‏\n‏مقدار به خود اختصاص دهد. الگوریتم کامل دارای چه مرتبه زمانی است؟\n‎O(nd) ۲ O(n®) ۵‏\n‎O(nd\") ۴ O(n+d) ۳‏\n۷۵- هر بخش از یک برنامه عامل ‎(Agent Program)‏ می‌تواند با استفاده از یادگیری ماشین بهبود یابد. نوع این\nبهبودها و روش‌هایی که برای ایجاد آنها به کار می‌رود. به کدام‌یک از عوامل زیر بستگی ندارد؟\n1( دانشی که عامل از قبل در اختیار دارد.\n۲ فقط ‎a)‏ مقدار داده‌های در دسترس بستگی دارد.\n۳ این که ‎plas‏ بخش از عامل قرار است بهبود داده شود.\n۴ داده‌هایی که در دسترس هستند و همچنین بازخوردی که درباره آن داده‌ها دریافت می‌شود."
-      },
-      {
-        "page": 16,
-        "method": "ocr_fas_eng",
-        "text": "مجموعه دروس تخصصی ۴ (مدار منطقی» معمار یکامپیوتر و الکترودیک دیجیتال):\n۶- کدام‌یک از نمودارهای حالت. متناظر با ساده‌شده جدول حالت زیر است؟\n= حا ۰\nخروجی احالت بعدی حالت فعلی\n‎x=0 21 20 x=1‏\n‎a ۱۶ efi o0|‏ |\n‎b |f efi 07‏ |\n‎ec |b eli 07‏ |\n‎|f gli ۱‏ 4 |\n‎e [a elo 1|‏ |\n‎A 1/0 = a /0‏\n0 ها ‎Cy‏\n‎Keo) aC ۲‏\n۱( 00 0 ]40 ۳ ۱0/۸ ۰ ۲\n110 - _ 1/0 1/1\n‎on —_ 1/1 (Ges‏\n( 10{ مس( ) و 00\n۳ 00 : 0(\n‎(F én ۹۱۱ ۲۱0۵ ۳‏ 1/۳ > 10\n‎on 0/0 010 90‏\n/ 1/1 5\n‎Co}‏ را . «ل\n۷- با این فرض که هر متغیر و نقیض آن موجود است. برای ساخت رابطه زیر به حداقل چه تعداد گیت ‎NOR‏ نیاز است؟\n‎x.(y XOR 7( +7‏\n) چهار گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n۲ پنج گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n¥( سه گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n۴ دو گیت ‎NOR‏ دو ورودی و دو گیت ‎NOR‏ سه ورودی\n‎-VA‏ کدام مورد ‎cp pool‏ عبارت جمع حاصل‌ضرب‌ها ‎(SOP)‏ برای رابطه زیر ‎Cowl‏ به نوی که مخاطره (هازارد)\nنداشته باشد؟\n‎[M(r,¥, F100, 1F).d(0,1)‏ [ - (۵ی,طره)؟\n0 0+00 +000 +2۳90 - ۲\n۲ + 2/00 +200 - ۲\n۳ 0+ 060 +۵۳06 +2۳90 < ۶\n‎=a'bd+a'be+ bed + b’c’+a'c'd ۴‏ ۲"
-      },
-      {
-        "page": 17,
-        "method": "ocr_fas_eng",
-        "text": "‎JO -V4‏ زیر بک جمع‌کننده ترکیبی چهاربینی را نشان می‌دهد که بر مبنای روش ‎Carry-Look Ahead‏ ساخته\nشده است. با فرض این که تأخیر گیت‌های ‎OR AND‏ و ‎XOR‏ به‌ترتبب ۳. ۴ و ۵ نانوانیه باشد. نتبجه نهایی\nبعد از چند نانوثانیه حاضر خواهد بود؟ ۱\n‎G car‏\n‎Yo‏\n‏۳ 1 > —\n‎ei | oft) Os oe‏\n‎Gy‏\n‏۱۳ | ۳9\n‎Dat‏ / اسر لایر\n‎OH‏\n‎Carry‏\n‎Cone‏\n‎pL\" ۱‏\n‎E= | qb”‏\n‎GC;‏\n‎B‏\n‎Po 3‏ 2\nرو\n‎G C‏\n۰- مدار متناظر با نمودار حالت زیر را با دو ‎D-FF‏ می‌سازيم. اگر * ورودی مدار. ‎Qh‏ و ,40 به‌ترتیب خروجی\nفلیپ‌فلاپ‌های پرارزش و کم‌ارزش و .7 خروجی مدار باشد. کدام مورد روابط درست ورودی فلیپ‌فلاپ‌ها و\nخروجی مدار را نشان می‌دهد؟\n‎r 1 +‏\n‎‘ese’ D, = 0 = Ona‏\n1\n‎D, = Q? = Q\\x 0‏ | 0\n‎C Gi) 2 7-0‏\n0 +\n‎a 0 ۲ 200, 2‏ 1\n‎na!‏ ها\n‎oy Z= Q.Q,‏ 1\n‎ror‏ +\n‎Dy = Qy =Q\\x‏\n۳ 2 2007 .1\n000 < .7\n2 1-0۲\n‎D, 2007 2 0 ۴‏\n‎Z=QVQ)‏"
-      },
-      {
-        "page": 18,
-        "method": "ocr_fas_eng",
-        "text": "۱- مدار زین دو حدول جستجو ‎(LUT:Look-Up Table)‏ را نشان می‌دهد. می‌توانید فرض کنید که جدول\nجستجو یک ‎ROM‏ است. ورودی ‎A‏ پرارزش‌ترین ورودی است و مقدار حافظه ‎LUT»‏ در داخل آن نوشته\nشده است. خروجی 1 چه تابعی است؟ ‎LUTI LUT2‏\n0 12+ ۷ + ۷ < ] 99 00\n‎a ۱ Ba f t+vx+yz' 6۲‏ |\n‎VX‏ = : 5\n‎we 8] lop 8 eee‏\n‎sede é f=vwivxt+yz ۲‏ & ۳ 7\n‎t‏ 5 7:1\n‎ou ۳ 1 < ۷۷۷ + ۷۷۷۰+ yz ۶‏\n‎f‏\n‎-AY‏ نمودار حالت زیر برای یک ماشین ‎Mealy‏ داده شده است. خروجی این مدار در چه صورتی ۱ می‌شود؟\n1/0 1/0\n0/0\n1( یک رشته ۱5۱ مشاهده شده باشد. .- )\n‎(Y‏ یک رشته فرد از صفرها مشاهده شده ‎CB 0 WEL‏ 6<\n۴ تعداد کل صفرهایی که تاکنون دیده. صفر باشد. ‎ON‏\n‏۴) یک رشته زوج از ‎LD‏ مشاهده شده باشد که به صفر ختم شده‌اند.\n‎plas -۲۳‏ گزینه ارتباط بین ‎ISA Microarchitecture‏ و ‎Architecture‏ 550070 را به‌درستی در سامانه‌های\nکامپیوتری براساس سطوح انتزاع نشان می‌دهد؟\n‎Software Software‏\n۱( ۱ ۱ ( ۱ ۱\n‎Microarchitecture Microarchitecture‏\n‎System Architecture‏\n‎System Architecture Hardware‏\n‎Software ISA‏\n‎System Architecture Microarchitecture‏\n۳( ۳ ۳( ۱ ۱\n‎Microarchitecture System Architecture‏\n‎Hardware Hardware‏\n۴- پردازن ده ‎A‏ دارای فرک انس کاری ‎GHz‏ ۴/۲ و ‎IPC=)‏ و بردازن ده ‎B‏ دارای فرک انس کاری ۲۸۱6۳2 و\n۲ است. در صورت فرض بر اجرای مجموعه دستورات ‎Col‏ و بکسان بودن ‎plu‏ بخش‌های دو پردازنده.\nکدام مورد درخصوص کارابی پردازنده‌ها درست است؟\n0 کارایی پردازنده ‎A‏ بیشتر ات\n‎(on‏ کارایی هر دو پردازنده برابر است.\n۴ با توجه به فرضیات مسئله نمی‌توان درخصوص کارایی پردازنده‌ها نظر داد."
-      },
-      {
-        "page": 19,
-        "method": "ocr_fas_eng",
-        "text": "۵- کدام مورد درخصوص روش‌های ‎Vo‏ درست است؟\n\n0 در روش ‎(Direct Memory Access) DMA‏ پردازنده اصلی به‌صورت واسط دستگاه 1/0 و حافظه جهت\nتبادل داده استفاده می‌شود.\n\n۲ در روش 1/0 ‎Interrupted‏ پردازنده اصلی درگیر مرحله «وارسی آماده بودن دستگاه 1/0 برای تبادل داده»\nنمی‌شود اما درگیر مرحله «تبادل داده» می‌شود.\n\n۳) در روش ‎Programmed I/O‏ فقط در داخل برنامه‌ها و توسط کاربران و برنامه‌سازان کاربردی قابل استفاده است.\n\n۴ روش ‎Interrupted I/O‏ کندترین روش 1/0 است.\n\n۶- در یک پردازنده پایپ‌لاین پنج مرحله‌ای شامل واکشی دستور ‎(IF)‏ واکشی عملوندها ‎(ID)‏ اجرا در ‎(EX) ALU‏\nمراجعه به حافظه ‎(DM)‏ و ذخیره نتایج در ثبات مقصد ‎(WB)‏ مطابق جدول زیر دستوراتی اجرا می‌شوند. با فرض\nاین که پردازنده هیچ‌گونه امکان رفع مخاطرات ‎(Hazard)‏ وابستگی به‌صورت نرم‌افزاری و با ‎forwarding‏\n‏نداشته و ‎Bye‏ اضافه کردن ‎(Stall) peu‏ امکان‌پذبر باشد. تعداد پالس‌های ساعت مورد نیاز برای اجرای این\nدستورات چقدر است؟ (هر مرحله در یک پالس ساعت انجام می‌شود. ‎LD‏ و ‎STR‏ دستورات خواندن و نوشتن\nحاقظه ‎LD ۱۵,10 (x1) dite‏\n۱۵\n\nADD 72, X1, XO\nwor\nSTR 20(X1), 2 ۱۱\nvo (fF\n‏کدام مورد درخصوص معماری حافظه درست است؟‎ -۷\n‏تأثیری در پهنای باند و تحمل‌پذیری اشکال حافظه ندارد.‎ (interleaving) ‏روش برگ‌برگ‌سازی‎ )۱\n‏پهنای باند حافظه‎ (high-order interleaving) ‏در یک حافظه برگ‌برگ‌شده براساس بیت‌های پرارزش‎ ۲\n‏تحمل‌پذیر اشکال است.‎ (low-order interleaving) ‏یک حافظه برگبرگ‌شده براساس بیت‌های کم‌ارزش‎ )۲\n‏به کمک پیمانه‌های حافظه ۲۳ واحدی می‌تواند‎ sol, ۳۳ ‏یک حافظه با حجم‎ (interleaving) ‏برگ برگ‌سازی‎ ۴\n= ۳ 5 ۹ M\n‏روش مختلف صورت گیرد.‎ od\nM-m\n\n۸- در یک پردازنده با ظرفیت حافظه ۱6 از حافظه نهان انجمنی ‎P— way‏ استفاده شده که ظرفیت آن 11 ۲۵۶\nاست. اگر اندازه هر ‎Sob‏ حافظه نهان ۳۲ بایت باشد. به‌تر تیب. هر کدام از فیلدهای ‎index .byte offset‏ و ‎Tag‏\n‏0 )5. 12و 13)\n\n6۲ (۰7 9و 14)\n۳ (5. 11و 14)\n۴ )5. 13و 12)"
-      },
-      {
-        "page": 20,
-        "method": "ocr_fas_eng",
-        "text": "۹- مدار روبه‌رو چه عملی را انجام می‌دهد؟ ‎B,-\\ B, B, Ap) Ay A,‏\n۱) تفریق دو عدد به روش پیش‌بینی رقم قرضی 5 ۰\n‎(T‏ جمع دو عدد به روش پیش‌بینی رقم قرضی\n۴ تفریق دو عدد به روش پیش‌بینی رقم نقلی پیب .۰\n۴ جمع دو عدد به روش پیش‌بینی رقم نقلی 1 ‎G, P, ~ G,‏\n‎C-G t‏\nسس\n‎Cy 61 Ie.‏\n‎A‏ '\n‎XOR Generator or‏\n‎n‏ و5 5۱ ‎Sn-y on‏\n‎P.,G; Generator C-— Generator‏\n‎P = Aj + B;-Aj ca = G, + P.Cin‏\n‎Gj = Aj Bi C,=G,+P,G, +P\\Py Cin‏\n‎XORG t ۲‏\n‎C, =G,+P,G,_,+P,P,_,G;_y+..+ II 6‏ نتب\n‎i=)‏\n‎S; = Aj OB; ® C._,‏\n‎ -۰‏ کدام‌یک از موارذ زیر برای دروازه‌های منطقی در فناوری 05 ایستا درست است؟\n) افزایش ولتاز تغذیه ‎(vdd)‏ باعث افزایش تأخیر دروازه می‌شود.\n۲) یکی از عوامل اصلی محدودکننده ‎jb‏ خروجی ‎(fanout)‏ تأخیر مطلوب طراح است.\n۲ توان مصرفی پویا در این فناوری با خازن بار و دوره تناوب سیگنال ‎SUS‏ نسبت مستقیم دارد.\n‎ons, ۴‏ مدولاسیون طول کانال باعث کاهش جریان درین - سورس در زمان روشن بودن ترانزیستورها می‌شود.\n۱- با صرف‌نظر از اثر بدنه و با فرض م۲۷ < م۲۷ > ‎«Vp‏ ولتاژ نهابی گره ‎Out‏ چقدر می‌شود؟ (فرض کنید ولناژ\nآستانه ترانزبستورهای ‎NMOS‏ و ‎PMOS‏ به‌تر تیب برابر با ‎Vin‏ و ‎Vin‏ باشد.)\n‎Ne | max(VDD ~ Viq, VDD =|Vip)) 0‏ ۳\n‎out min(VDD ~ Vin. VDD =|Vip}) 6‏\n‎vo FLT SL wo ee‏\n‎Cc, VDD (f‏\n۱ 5"
-      },
-      {
-        "page": 21,
-        "method": "ocr_fas_eng",
-        "text": "۲۳- ساختار ترانزیستوری زیر چه تابع منطقی را پیاده‌سازی می‌کند؟ ‎A A‏\n(فرض کنید زمان صعود و نشست ورودی‌هاء صفر است.) 4 ۳\n‎B B‏\n‎Out‏\n‎A A out=A 2B 0‏\n‎T 7 out = AB ۲‏\n‎B B out = AB+ AB (۳‏\n۴ به‌ازای برخی ورودی‌هاء ممکن است خروجی به دو منطق متفاوت متصل شود و خروجی مقدار درستی نمی‌گیرد.\n‎phe .‏ ۱ و ۱ ‎ee‏\n‏۳- در ساختار زو او 7 ترانزیستورهای ‎NMOS‏ دو برابر شود. بیشینه تأخیر صفر به یک شدن خروجی گیت چگونه تغییر\nمی‌کند؟ (برای محاسبه تأخیر. از تقریب المور استفاده کنید و زمان صعود و نزول (نشست)» و ورودی‌ها را صفر در نظر بگیربد.)\n0 کمتر از نصف می‌شود. و۷\n‎(Y‏ نصف می‌شود.\n۲ تغییری نمی کند.\nبر نمی 4 8\n۴ افزايش می‌یابد. 0-۸\n‎c-q‏\n‎out‏\n‏»- ل 8\n‎a4‏\n‏۴- با صرف‌نظر از انرژی مصرفی برای شارژ و دشارژ خازن‌های ورودی‌های گیت. به ازای کدام‌یک از دنباله ورودی‌های\nزیر انرژی مصرفی پویای گیت بزرگتر است؟\n(فرض کنید زمان صعود و نزول ورودی‌های گیت. برابر صفر باشد و به مدار. زمان کافی برای تثبیت ولتاژ نودهای\nمختلف آن داده شود.) و۷\n1( ورودی‌های ‎(A,B,C)‏ به‌ترتیب از (۱,۱وه) به )1,151( تغییر يابند.\n۲) ورودی‌های ‎(A,B,C)‏ به‌ترتیب از )2,951( به )0,959( تغییر پابند. ۳۸ ‎Bad‏\n‏۳( ورودی‌های ‎{A > B > C)‏ به‌ترتیب از (۰ ,۱,۱) به (۰ ,۰ ,۱) تغییر پابند. 4\n‎(F‏ ورودی‌های ‎(A,B,C)‏ به‌ترتیب از )1,151( & )0,059( تغییر یابند. ‎out‏\n‎a4‏\n‎Kc‏\n‏و"
-      },
-      {
-        "page": 22,
-        "method": "ocr_fas_eng",
-        "text": "۲ 7 oa ye ow ne\n‏(رقابت بین صفر و‎ fight ‏چیست و ابا‎ (atch) a ‏فرض کنید ) ترانزیستورها به‌شوح زیر باشد. نوع این‎ -۵\nvpD ‏یک) در آن وجود دارد؟‎\n4\n(<0 ۹\nL ۱\nWw. ۷ ۷ CLK IF Q;\n—)- =(—)» =(—)e = Y ۷\nGr Gr Gr ۳ at 1 7\n۱۸ ‏سل‎ ۱ Qi\n(Fa = (Ge = CLK-~4E 23 0\nQ! =\n‏وجود دارد. ۲) ایستا - وجود ندارد.‎ - be )۱\n‏وجود ندارد.‎ - Lg (F ‏ایستا - وجود دارد.‎ )۲\n‏شبکه‌ها ی کامپیونری و بایگاه داده‌ها):‎ « fole ‏(سیستم‌های‎ F ‏مجموعه دروس تخحصصی‎\n‏براساس تعربف. کدام‌یک از موارد زیر از وظایف بنیادین یک سیستم عامل نمی‌باشد؟‎ -۶\n‏اتصال و ارتباط بین سخت‌افزارها و سرویس‌های سطح سیستم‎ )۱\n‏مناسب برای ارتباط با سخت‌افزار‎ API ‏ارائه‎ ۲\n‏منایع فیزیکی و منطقی‎ Ce pte ۳\n‏مجازی‌سازی سخت‌فزار‎ ۴\n‏هدف اصلی زبان‌های برنامه‌نوبسی از روش برنامه‌نویسی ناهمگام چیست؟‎ -۷\n‏پشتیبانی سطح بالا از چندریسمانی ۲ پشتیبانی سطح بالا از اجرای همروندی‎ )\n10 ‏موازی‌سازی موثر ۴ همپوشانی‎ ۴\n‏پیاده‌سازی محافظت از فضای آدرس فرایندها چگونه میسر می‌شود؟‎ -۸\n‏اعمال می‌شود.‎ ale ‏صورت نرم‌افزاری توسط سیستم‎ dy ‏ترجمه آدرس است و محافظت‎ gine MMU ‏واحد‎ )۱\n‏می‌شود.‎ eles] MMU ‏کمک یک واحد سخت‌افزاری داخل تراشه پردازنده به نام‎ L(Y\n‏می‌شود.‎ alos] MMU ‏نام‎ a ‏توسط بخشی از سیستم عامل‎ )۲\n‏اعمال می‌شود.‎ RAM als ‏توسط واحد ]1۷1۷ داخل‎ ۴\n‏در یک سیستم تک‌هسته تک‌پردازنده پیاده‌سازی چندریسمانی برنامه‌ها با ربسمان‌های سطح کاربری چه مزبتی دارد؟‎ -9۹\n‏می‌تواند پیاده‌سازی ماجولار برنامه را تسهیل کند.‎ )۱\n‏امکان پیاده‌سازی همروندی در سیستم عامل را تسهیل می‌کند.‎ )۲\n‏ممکن است اجرای موازی بخش‌های مختلف برنامه را در پی داشته باشد.‎ ۳\n‏باشد.‎ Spe COTO ‏زمانی که یک ریسمان معطل‎ (contex switch) aio; ‏می‌تواند در کاهش زمان تعویض‎ ۴"
-      },
-      {
-        "page": 23,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۲۳\n۰- در صورتیکه یک ربسمان تابع زیر را اجرا نماید. مقدار نهایی متغیر ‎shared‏ کدام گزینه زیر خواهد بود؟\n‎volatile int lock = 0;‏\n‎volatile int shared = 0;‏\n‎void run() {‏\n‎int expected = 0;‏\n‎if (compare_and_swap(&shared, expected, 10))‏\n‎shared += 2;‏\n‎else‏\n‎shared *= 5;‏\n}\n‎rr ۱۳( bo 0‏ ۴ صفر\n۰۱- روش زمان‌بندی با بازخورد مقابل بهترین تقربب. برای کدام روش زمان‌بندی است؟\n۲ روش صف در بهترین حالت\n۳ کوتاه‌ترین کار ‎(Shortest Job First) Jo!‏\n‎(F‏ کمترین کار باقی‌مانده ‎[quantum =16 [ (Shortest Remaining First)‏\n72\n۲۳-- در یک پردازنده با معماری ۱۶ بیتی و مکانیزم ‎Cu pro‏ حافظه دو سطحی قطعه‌بندی ‎(segmentation)‏ و صفحه‌بندی\n‎(paging)‏ اگر بدانیم فرایندها نهایتاً دارای ۶ بخش ‎(Section)‏ بوده و ۴ ‎gly Cay‏ آدرس‌دهی صفحه دارند. حداکثر\nتعداد سطرهای جداول ترجمه چقدر است؟\n\\( ۶۸\n۲( ۱۳۸\n۳ ۱۳۶\n۴ ۱۹۲۴\n۳- در یک اتصال ‎TCP‏ اندازهُ ‎Window‏ 00۵650107) اولیه برابر ۱16۶ و مقدار آستانه شروع آهسته\n‎(Slow Start Threshold)‏ برابر ‎cowl 1 < ۱۶ KB‏ فرض کنید:\n- هیچ بسته‌ای گم نمی‌شود.\n- محدودیت پنجره گیرنده وجود ندارد.\n- در فاز ‎Slow Start‏ اندازه پنجره تراکم در هر ‎RTT‏ دو ‎ply‏ می‌شود.\n- پس از رسیدن ‎a‏ آستانه 1 پروتکل ‎TCP‏ وارد فاز ‎Congestion Avoidance‏ شده و اندازه پنجره تراکم در\nهر 1+11 ‎bis‏ ]۱16 افزایش ‎whoo‏\n‏اگر فرستنده بخواهد فایلی با اندازةٌ ‎KB‏ ۸۵ < 17 ارسال کند. ارسال فایل در ‎RTT plas‏ کامل می‌شود؟\n‎a‏ پایان ‎RTT‏ ششم ۲ پایان ‎RTT‏ هفتم\n۳ پایان ‎RTT‏ هشتم ۴ پایان ‎RTT‏ نهم"
-      },
-      {
-        "page": 24,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۲۴\n۴- فرض کنید در سامانة ‎DNS‏ رکوردهای زیر موجود باشند:\n‎(cs.example.edu,ns1.cs - dns.net, Type ۱5۱600(‏\n‎(ns1.cs - dns.net, 198.51.100.53, Type A, 600)‏\n‎(www.cs.example.edu, webhost.cloud.net, Type CNAME, 600)‏\n‎(webhost.cloud.net, 203, 0,113.8, Type A, 600)‏\nاگر یک ‎resolve‏ بخواهد نشانی ‎IP‏ مربوط به ‎WwW.cs.example.edu‏ را به دست آورد. کدام گزینه درست است؟\n\\( رکورد ۸ مربوط به )105.16 - 1251.65 برای بافتن ‎name server‏ لازم است. اما نشانی 1۳ نهایی\n‎www.cs.example.edu‏ از دنبال کردن رکورد ‎CNAME‏ 9 سپس رکورد ۸ به دست می‌آید.\n۲ رکورد ‎CNAME‏ مستقیماً ناشی از 17 نهایی میزبان را مشخص می‌کند.\n۳) رکورد ‎NS‏ مستقیماً نشانی ‎IP‏ نهایی میزبان را مشخص می‌کند.\n۴ چون )9555 ‎NS‏ وجود دارد. دیگر نیازی به رکورد ‎A‏ نیست.\n۵-- بک مسیرباب جدول ارسال زير را دارد. فرض کنید در فرایند ‎Routing‏ 1۳ از قاعده ‎Match Prefix Longest‏\nاستفاده می‌شود.\n| 0 | 30023.16020~\n‎[oterviee [4‏\n51 بسته‌هایی با مقصدهای زیر به ‎cpl‏ مسیرباب برسند. ترتیب صحیح رابط‌های خروجی (به‌ترتیب از راست به چپ)\n‎plas‏ است؟\n0 200.25.23.200 100.25.23.200 200.24.23.200\n۴ ,۲ ۷ ۱۷ ۲ ۴ ,۲ ۷ ,۲\n‎TA a CG tye (Or‏\n۶- کاربری برای نخستین بار در مرورگر خود نشانی ‎WWW.example.com‏ را وارد می‌کند. فرض کنید در مرورگر\nهیچ کشی وجود ندارد. اما نشانی ‎IP‏ مربوط به ‎www.example.com‏ قبلاً در ‎DNS cache‏ سیستم عامل\n‎ood‏ شده است. همچنین فرض کنید صفحه ‎cols hol‏ فقط ‎fold‏ یک فایل ‎HTML‏ ساده است و هیچ شیء\nدیگری مانند تصویر ‎CSS‏ با ‎Javascript‏ ندارد. ‎plas‏ گزینه درست است؟\n۱) چون نشانی ‎IP‏ در ‎DNS cache‏ موجود است. دیگر نیازی به برقراری ارتباط ‎TCP‏ با خدمت گزار وب نیست.\n۲ اگر ‎DNS cache‏ موجود باشد. دیگر پروتکل ‎HTTP‏ لازم نیست. زیرا ‎silico DNS‏ خود محتوای صفحه را\nنیز برگرداند.\n1( چون صفحه فقط شامل یک فایل ‎eel HTML‏ در این حالت ‎DNS‏ و ‎HTTP‏ هر دو حذف می‌شوند و مرورگر\nمستقیماً محتوا را نمایش می‌دهد.\n‎(F‏ وجود نشانی ‎IP‏ در ‎ss DNS cache‏ مرحلة ‎name resolution‏ را حذف می‌کند. اما مرورگر همچنان باید\nبرای دریافت فایل ‎L HTML‏ خدمت‌گزار وب ارتباط مناسب برقرار کند."
-      },
-      {
-        "page": 25,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۲۷۷) ‎135A‏ صفحه ۲۵\n۷- در یک اتصال ‎TCP‏ فرستنده یک ‎ply‏ ۳۰۰۰ بایتی را به شش ‎Segment‏ به صورت زير تقسیم کرده است:\n‎:Segment \\ —‏ بایت‌های ۰ تا ۴۹۹\n‎:Segment ۲ —‏ بابت‌های ‎doo‏ تا ‎۹۹٩‏\n‎:Segment ۲ -‏ بابت‌های ۱۰۰۰ تا ۱۴۹۹\n‎:Segmentf —‏ بابت‌های ۱۵۰۰ تا ۱۹۹۹\n‎:Segment ۵ -‏ بایت‌های ۲۰۰۰ تا ۲۴۹۹\n— 56270601۶: بایت‌های ۲۵۰۰ تا ۲۹۹۹\nفرض کنید گیرنده ابتدا ‎claSegment‏ ۱ و ۲ را دریافت می‌کند. سپس ‎cLeSegment‏ ۴ ۵ و ۶ نیز پیش از\nرسیدن ‎Segment‏ شماره ۳ دریافت می‌شوند. ‎od pF‏ داده‌های خارج از ترتیب را در ‎buffer‏ نگه می‌دارد و\n‎TCP‏ نیز از ‎cola! Cumulative ACK‏ می‌کند. اگر بلافاصله پس از آن ‎Segment‏ شماره ۳ نیز دربافت شود.\nگیرنده چه عددی را در فیلد ‎Acknowledgment Number‏ قرار می‌دهد؟\n۳۰۰۰0\n‎Ydoo (¥‏\n¥( ۱۵9۰۰\n‎(F‏ ۱:۰۰\n۸- در صف ‎router Sy‏ فرض کنید ۵ کاربر . هر کدام با نرخ ۱۰ درخواست در ثانیه. بسته‌های خود را به این صف\nارسال می‌کنند. همچنین اندازه هر بسته درخواست ‎ply‏ ۱۰۰60 و ظرفیت پیوند ‎Yo Mbps‏ است. مقدار شدت\nترافیک سامانه (0) ‎plas‏ است؟\n‎p=o/¥o 0‏ ۲ 0-۰۲۵\n‎p=o/¥d ۴ p=oto‏\n4-- کدام‌یک از قابلیت ویژه‌سازی ‎(specialization)‏ در مدل ‎ER‏ نیست؟\n۱) تناسب طراحی پابگاه داده با وضعیت دنیای واقعی. ۲ تعریف ارتباط خاص از نوع 15-۸\n۳ کاهش افزونگی ( با وجود ‎(generalition‏ ۴ ارائه عملگر تجزیه ‎(decomposition)‏\n‏۰- دستور زیر معادل ترکیب چند عملگر جبر رابطه‌ای. است؟\n‎Select A,B,C‏\n‎From T1,T2 as N 20‏\n‎Where 11.10 = 12.10 and N.D > 17 fo‏\n۳( ۳\n۱\n۱- اگر ‎clad‏ رابطه‌های ,۲ و ب5 را متناظراً با ,18 و ‎Ry‏ نمایش دهیم و رابطه ‎RyRy =D‏ برقرار باشد. در این‌صورت\nکدام مورد درست است؟\n0 2155 3 محر 1\n6۲ ]25 ب مم 1\n‎=n Ln. 7۲‏ بط بط\n‎nxt 21۱۱ ۴‏"
-      },
-      {
-        "page": 26,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷) 135۸ صفحه ۲۶\n۲- با توجه به مجموعه وابستگی‌های تابعی داده‌شده برای جدول ‎F)‏ ون و( ‎(A, B,C,‏ کدام مورد درست است؟\n‎A— BCD‏\n‎BC DE‏\n‎B>D‏\n‎DOA‏\n‎(Jy col 3NF )‏ ۳[ نیست. ¥( ‎BCNF‏ نیست ولی 31۳ است.\n۲ 31۳ نیست. ۴ ‎BCNE‏ است.\n۳- با توجه به وابستگی‌های تابعی داده‌شده. کدام مورد درست است؟\n‎R: R= {Al, ۸2, ۸3, A4}‏ شمای رابطه مفروض ۲ است. ابر کلید : ‎super key‏ کلید نامزد: ‎candidate key‏\nو مجموعه وابستگی‌ها: ‎{A4}‏ - ۸3-1 و ۵3-۸4 و1 — ۸4\n\\( فقط ۸4 اب رکلید است.\n۲ ۸4 ابر کلید و ۸3 کلید نامزد است.\n‎AZ ۳‏ ابرکلید و ۸4 کلید نامزد است.\n۴ ۸3 و۸4 هر دو ابرکلید و هر دو ‎WS‏ نامزد هستند.\n۴- کدام‌یک در مورد شاخص ‎(Index)‏ در پابگاه ‎colo‏ رابطه‌ای درست است؟\n)( در سطح پیاده‌سازی تعریف می‌شود و بخشی از مدل رابطه‌ای نیست.\n۲) در سطح مفهومی تعریف می‌شود و جزئی از مدل رابطه‌ای است.\n۳ به روزرسانی داده‌ها در پایگاه داده. تأثیری در کارایی آن ندارد.\n۴ حاوی داده‌های اصلی پایگاه داده به‌صورت کدشده است.\n۵- باقی‌مانده تقسیم جدول ‎Tr‏ بر حدول 12 با داده‌های زير کدام است؟\n‎T, )9#, ۲#( T,(P#)‏\n‎oO‏\n‎Sl P2 Fz‏\n‎Sl P3‏\n‎Pl‏ 82\n‎P2‏ 82\n‎Pl‏ 83\n‎P,P, ۲ 5. 0‏\n‎SP, ,S\\Py ۴ Sy 5S, ۲‏"
-      },
-      {
-        "page": 27,
-        "method": "ocr_fas_eng",
-        "text": "مهندسی کامپیوتر (کد ۱۲۷۷ 135۸ صفحه ۲۷"
-      },
-      {
-        "page": 28,
-        "method": "ocr_fas_eng",
-        "text": ""
-      }
-    ]
+  "results": {
+    "computer_questions": {
+      "name": "computer_questions",
+      "path": "assets/source/arshad_computer_1405.pdf",
+      "size_bytes": 25620551,
+      "page_count": 28,
+      "pages": [
+        {
+          "page": 1,
+          "method": "ocr_fas_eng",
+          "text": "1 ۳\n۱\nبها سح\n<<\n5\n00ات۳۳\n۳ وم\n«علم و تحقیق. کلید پیشرفت کشور است.» + ‎As‏\n‏مقام معظم رهبری(ره) ‎NK‏ صبح پنج‌شنبه\n#موری ‎WAS‏\n‏وزارت نوم ‎GMA‏\n‎Z, A‏\n‎PLING it‏\n۰ ۰ کت ۷1 3\nآزمون ورودی دوره‌های کار شناسی‌ار شد ناپیوسته سال ۱۴۰۵\nمهندسی کامپیوتر (کد ۱۳۷۷)\nتعداد سوّال: ۱۱۵ سوال مدت‌زمان پاسخگویی: ۲۵۰ دقبقه\nعنوان مواد امتحانی تعداد و شماره سوّال‌ها\nان عممی و نخسمی کلیس\n۲ ریاضیات (رباضی عمومی (۱ و ۲). آمار و احتمال مهندسی. ریاضیات .۳ ۵\nگسسته)\n۳ . | مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌هاء سیگنال‌هاو ۳ ‎ee‏\n‏سیستم‌ها)\n‏۴ مجموعه دروس تخصصی ۲ (ساختمان داده‌ها.؛ طراحی الک‌وربتم 9 ‎ae y‏ ۷۵\nهوش مصنوعی)\nمجموعه دروس تخصصی ۳ ‎fio)‏ منطقی. معماری ک‌امپیوتر و ‎ve‏\n‏الکترونیک دیجیتال)\n۶ | مجموعه دروس تخصصی ۴ (سیستم‌های عامل. شبکه‌های ک‌امپیوتری و 1 ‎ae‏ 1\nپایگاه داده‌ها)\nاستفاده از ماشین حساب مجاز نیست. این آزمون نمره منفی دارد.\n‎Ge‏ چاپ, تکثیر 9 انتشار سوالات به هر روش (الکنرونیکی ‎bg‏ پس از برگزاری آزمون, برای تمامی اشخاص حقیقی و حقوقی تنها با مجوز این سازمان مجاز می‌باسد وبا متخلفین برابر مقررات رفتار می‌ود."
+        },
+        {
+          "page": 2,
+          "method": "ocr_fas_eng",
+          "text": "* داوطلب گرامی. عدم درج مشخصات و امضا در مندرجات کادر زین به‌منزله عدم حضور شما در جلسه آزمون است.\nاینجانب ............................. با شماره داوطلبی ......................... با آگاهی کامل. یکسان بودن شماره صندلی خود\nبا شماره داوطلبی مندرج در بالای کارت ورود به جلسه. بالای پاسخ‌نامه و دفترچه سوالات. نوع و ‎J SUS‏ درج‌شده\nبر روی جلد دفترچه سوّالات و پایین پاسخ‌نامه‌ام را ‎anti‏ می‌نمايم.\nامضا:\nزبان عمومی و تعصصی (انکلیسی):\n‎PART A: Vocabulary‏\n‎Directions: Choose the word (1), (2), (3), or (4) that best completes each sentence. Then‏\n‎mark the answer on your answer sheet.‏\n‎His words should be understood in .................... in order to be correctly interpreted.‏ -1\n‎direction 2) context 3) expert 4) interest‏ )1\n‎She told her friends about her intention to go abroad, changing her first decision to keep it‏ -2\n‎secret 2) familiar 3) final 4) positive‏ )1\n‎She has.................. in her library the complete works of many Persian poets such as‏ -3\n‎Hafez, Mowlana, Sa’di, Nezami and Ferdowsi.‏\n‎defended 2) arrived 3) collected 4) caused‏ )1\n‎A defining .................... of online art is that it can be seen anywhere by anyone with‏ -4\n‎an Internet-connected computer.‏\n‎characteristic 2) inspiration 3) spectator 4) artifact‏ )1\n‎For decades, the hygiene hypothesis has posited that the germs we are exposed to in‏ -5\n‎early childhood can .................... uS from developing allergies.‏\n‎desist 2) prescribe 3) cease 4) prevent‏ )1\n‎‘I was in need of money and not at all .................... about experiments, so I concurred‏ -6\n‎and received the new medicine at the local hospital.‏\n‎affluent 2) plausible 3) respective 4) apprehensive‏ )1\n‎Some people suffer from a chronic case of rabid chauvinism; they brandish the banners‏ -7\n‎and shields of their own tribe and .................... those of the others.‏\n‎exculpate 2) excoriate 3) extrapolate 4) expatiate‏ )1\n‎PART B: Cloze Test‏\n‎Directions: Read the following passage and decide which choice (1), (2), (3), or (4) best‏\n‎fits each space. Then mark the correct choice on your answer sheet.‏\n‎Cognitive psychology focuses on how people perceive, store, and interpret information,‏\n‎seteseseseeeseeeee(8) processes like perception, reasoning, and problem _ solving.‏\n‎behaviorists, cognitive psychologists believe it is necessary to look at‏ (0)...............\n‎internal mental processes in order to understand behavior. Cognitive psychology has been‏\n‎extremely influential, and much contemporary research ..................(10)‏\n‎that studies 2) studies 3) studying 4) and study‏ )1 -8\n‎Unlike 2) Although 3) However 4) Even‏ )9-1\n‎is cognitive with nature 2) being in cognitive nature‏ )10-1\n‎is cognitive in nature 4) being naturally cognitive‏ )3"
+        },
+        {
+          "page": 3,
+          "method": "ocr_fas_eng",
+          "text": "۳ ‏صفحه‎ 135A (YVY ‏مهندسی کامپیوتر (کد‎\nPART C: Reading Comprehension\n\nDirections: Read the following three passages and answer the questions by choosing\n\nPASSAGE 1:\nBased on exponentially increasing computing power and big data availability, artificial\nintelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep\nreinforcement learning algorithm developed by Google, was able to beat Lee Sedol,\narguably one of the most renowned players of the board game “Go”, which is considered\nto be multiple times more complex than chess. With the introduction of ChatGPT, AI has\nmade its way to a broad common perception, raising promising expectations about\nimpactful AI use cases in business research and practice.\n\nAlthough Al-related literature is rich, we currently lack a comprehensive\nunderstanding of the use of AI algorithms. The absence of a concise AI definition and\ntaxonomy in business results in a dispersed knowledge base, which has two critical\nimplications. First, it currently seems challenging to assess the extent to which\nmanagement research has exploited the potential of AI algorithms. Second, an overview\nof current trends as well as future potentials of applied AI remains vague.\n\n11- The underlined word “substantial” in paragraph 1 is closest in meaning to ..............000+ +\n1) minimal 2) new 3) original 4) significant\n12- The underlined word “its” in paragraph 1 refers to ..................\n1) AI 2) ChatGPT 3) introduction 4) way\n13- According to paragraph 1, which of the following is true about the game known as “Go”?\n1) It was first created by AlphaGo. 2) It was developed by Google.\n3) Al is good at playing it. 4) It is simpler than chess.\n14- All of the following words are mentioned in the passage EXCEPT ................0000-\n1) circuit 2) dispersed 3) exponentially 4) reinforcement\n15- According to the passage, which of the following is true?\n1) It is difficult now to evaluate how much management research has employed the\npotentials offered by AI algorithms.\n2) Our understanding of the use of AI algorithms is currently limited, primarily\nbecause of a lack of Al-related literature.\n3) Current evaluations show that there are no optimistic prospects regarding the\napplication of AI in business research.\n4) A comprehensive overview of present trends and future possibilities in applied AI is\ncurrently made available.\nPASSAGE 2:\nThe operating system (OS) operates and controls the various units of a computer,\nmanaging how software uses hardware to ensure the computer functions as intended in a\nsystematic, reliable, and efficient manner. The kernel, the controlling part of the OS,\nremains in the main storage permanently during the computer’s operation. Principal\nfunctions of an OS include scheduling and loading programs, controlling hardware"
+        },
+        {
+          "page": 4,
+          "method": "ocr_fas_eng",
+          "text": "۴ ‏صفحه‎ 135A (YVY ‏مهندسی کامپیوتر (کد‎\nresources, protecting hardware, software, and data from improper use, loading programs\nand functions into main storage as required, passing control from one job to another under\npriority systems, providing error correction routines, maintaining a complete record of all\nprocess activities, and communicating with the computer operator.\n\nOperating systems have evolved over time, driven by hardware advancements and\napplication needs. Initially, computers were programmed directly with machine\ninstructions or assembly code, with no controls over system use. The first OS challenge\nwas to enable transitioning from one job to another without stopping the machine,\nentering a new program, and restarting. The batch operating system concept provided a\nsolution by allowing operators to load several jobs at once, which the system then\nexecuted sequentially, taking control between jobs to set up hardware and release control\nto the next job.\n\n16- The underlined word “improper” in paragraph 1 is closest in meaning to ..............seeee0e\n1) potential 2) peripheral 3) consequent 4) inappropriate\n17- Which of the following best describes the function of paragraph 2?\n1) It explains a fact which in a way undermines the main argument of the previous\nparagraph.\n2) It elaborates on the potential of a computer system to pave the way for future\nadvancements.\n3) It refers to the historical development of a computer system mentioned in paragraph 1.\n4) It demonstrates the initial steps taken for the manufacturing of computer hardwares.\n18- Which of the following techniques is used in the passage?\n1) Cause and effect 2) Irony\n3) Direct quotation 4) Statistics\n19- The passage provides sufficient information to answer which of the following questions?\nI. In which country was the first computer introduced?\nII. What is the name of the most common error in computer systems?\nIII. What was among the first problems operating systems needed to solve?\n1) Land II 2) ] and III\n3) Only I 4) Only II\n20- Which of the following best describes the overall tone of the passage?\n1) Passionate 2) Objective\n3) Humorous 4) Ambivalent\nPASSAGE 3:\nNamed after mathematician and computer scientist John von Neumann, the Von\nNeumann architecture features a single memory space for both data and instructions,\nwhich are fetched and executed sequentially. This means that programs and data are\nstored in the same memory, allowing for flexible and easy modification of programs. But\ninstructions are also fetched and executed one at a time, which creates a bottleneck where\nthe CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von\nNeumann bottleneck. To address this, modern CPUs employ techniques like caching and\npipelining to improve efficiency. Still, the Von Neumann architecture remains highly\nrelevant and influential in computer design. [2] Von Neumann’s architecture introduced"
+        },
+        {
+          "page": 5,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ‎135A (YVY‏ صفحه ۵\n\nthe concept of stored-program computers, where both instructions and data are stored in\n\nthe same memory, allowing for flexible program execution.\n\nUnlike the Von Neumann architecture where instructions and data share the same\nmemory and data paths, Harvard architecture is a type of computer architecture that has\nseparate storage units and dedicated pathways for instructions and data. [3] By having\nseparate pathways, the CPU can fetch instructions and access data at the same time,\nwithout waiting for each other, leading to faster program execution, especially for tasks\nthat involve a lot of data movement. Separate memory units can be optimized for their\nspecific purposes. For example, instruction memory might be read-only, while data\nmemory might be optimized for fast read/write operations. Still, implementing separate\nstorage and pathways can be more complex than the simpler Von Neumann architecture\nand having separate memory units can increase the overall cost of the system. [4]\n\n21- Which of the following is NOT mentioned with reference to the Von Neumann\n\narchitecture in paragraph 1?\n\n1) A limitation observed in its function 2) A development associated with it\n\n3) One of the features that it enjoys 4) The century when it was designed\n\n22- Which of the following best expresses the writer’s opinion about the inclusion of\ndedicated pathways for instructions and data in Harvard architecture, mentioned in\n\nparagraph 2?\n\n1) He completely confirms this solution unequivocally.\n\n2) He acknowledges its efficacy with some reservations.\n\n3) He rejects its suitability entirely.\n\n4) He remains silent on this point.\n\n23- What does the passage mainly discuss?\n\n1) Two different computer architectures\n\n2) The function of memory in computers\n\n3) Von Neumann’s role in the development of computers\n\n4) The influence of mathematics on computer technology\n\n24- According to the passage, which of the following is true?\n\n1) The Harvard computer architecture is widely regarded as being more cost-effective\nthan the alternative architectural designs used in computing systems.\n\n2) In the Von Neumann architecture, instructions and data are stored in separate memory\nspaces, a design that enables flexible and adaptable program execution.\n\n3) The Von Neumann architecture has lost its significance in computer system design due\nto the emergence of more modern and efficient alternatives and is no longer relevant.\n\n4) In Harvard computer architecture, the CPU can simultaneously fetch instructions and\naccess data, thereby eliminating the need for sequential waiting between these\nprocesses.\n\n25- In which position marked by [1], [2], [3] or [4], can the following sentence best be\ninserted in the passage?\n\nThis allows for simultaneous access to instructions and data, potentially improving\n\nperformance.\n\n1) [1] 2) [2]\n\n3) [3] 4) [4]"
+        },
+        {
+          "page": 6,
+          "method": "ocr_fas_eng",
+          "text": "ریاضیات (ریاضی عمومی (۱ و ۳). آمار و احتمال مهندسی,ء ریاضیات گسسته):\n۳۶ مقدار ‎plas max{|z—w|:2\" =) swe =-F,2,w eC}‏ است؟\n0 ۲\n‎Vy wv‏\n۳ ۷۵\n۴ ۷۶\n۷- فرض کنید ‎f(x) =[x]+(x—[x])”‏ مجموعه نقاط ناپیوستگی تابع ] ‎plas‏ است؟\n0 6\n‎Z‏\n‏۳ 40 - 16\n‎R-Z ۴‏\n۸\n۸- مساحت ناحیه محصور به منحنی‌های ۴۲ < ‎x\"‏ و ‎Y=‏ در بازه | ۱۲۷۳ ‎elas [rr‏ است؟\n‎x ۴‏\n۲ ۳7\n\\( )-+ )۴ +\n۳ 0\n۲ ۳7\n6۲ )-- ۴0/۳ +\n۳ ۳\n۳ 2\n۳ + لگ\n۳ ۶\n۲ ۵\n‎oF + ۳-1‏\n۳ ۶\n‎x al‏ ۳ ۱\n‎FO) = ] e- dt 51 -¥4‏ آنگاه مقدار ‎f F(x) dx‏ کدام است؟\n۱ °\n0 ۱-۵\n۱-6\n۲\n6-۱\n۲\n‎Gi‏ ۱- 6\n‎ -۰‏ کمترین مقدار تابع ۳2 +۲۷ + ‎F(X, YZ)‏ روی خم فصل مشترک رویه‌های )= 2۲+ ‎gx’ Fy\"‏ ۱ 2 + +\n‎plas‏ است؟\n)( صفر\n۱\n۲ =—-\\\n‎Ve‏\n‏۲\n‏۴ سب ۲۷\n‎i‏\n‏۳\n‏۴ سب ۳\n‎Ve‏"
+        },
+        {
+          "page": 7,
+          "method": "ocr_fas_eng",
+          "text": "۱ x dvd vy x dvd ۳ ۴-۲ dvd\n‏ود ] کدام است؟‎ dydx+[\" | ‏جد‎ ayax+ |] | xy 0۷0 ‏مقدار‎ -۱\n۳ ‏لا‎ ۱ do Vrdo ۱\n۷۲\n۱۵\n—()\n۶\n۱۵\n—= (6\nA\n۱۵\n۳\n۱۵\n— ۴\n۳۲\n‏باشد. اندازه کار انجام‌شده توسط‎ 5۳ ty’ -27 2۱-۱ > 2 > ۳ ‏فرض کنید ) مرز هذلولی‌گون یک‌پارچه‎ -۳۲\n‏است؟‎ plas ) ‏در امتداه منحنی‎ F(x,y »Z)=(xt+zy »¥x+z\" —y*, sin(y’)+cos(y’)) ‏نیروی‎\n‎۴۳7 (\\\n۶7۲ ۲\njon ۳\n۱۶ nm ۴\n‏تعداد راه‌های چیدمان ۵ کتاب مختلف در ۲ قفسه. به‌طوری که هیچ قفسه‌ای خالی نماند. کدام است؟‎ -۳\n۱۵ ۰ (\\\n۲۴۰\n۳۶ ۰ ۳\n۵۴۰ ۴\n‏نفری که شامل ۱۰ دانشجوی دختر و ۱۰ دانشجوی پسر است را به دو گروه بااندازه مساوی‎ Yo ‏یک کلاس‎ ۴\n‏افراد گروه‌ها از یک جنس باشند. جقدر است؟‎ oli ‏تقسیم م ی کنيم. احتمال این که‎\n۱۰!(\nQo\nYo!\n۲۵۰\nQe)\"\nYo!\n\\o!\nYo!\n\\\n— (F\n1"
+        },
+        {
+          "page": 8,
+          "method": "ocr_fas_eng",
+          "text": "۳۵- چهار سکه سالم پرتاب می‌شوند و هر سکه‌ای که شیر آمده باشد. دوباره پرتاب می‌شود. اگر ۷ نشان‌دهنده تعداه\nشبرها در پرتاب دوم باشد. (۲ < ‎elas POY‏ است؟\n۱\n۲\n۳\n۴\n۱۷\n۱۳۸\n۳۷\n۱۳۸\n۶- یک الگوریتم جستجو به‌طور متوسط در 1087 مرحله پاسخ را پیدا می‌کند. اگر 2۱۰۲۴ 1 و واربانس مراحل\nجستجو ۴ باشد. احتمال این که الگوربتم در حداکثر ۱۲ مرحله پاسخ دهد. کدام است؟ (فرض کنید مراحل از توزیبع\nنرمال پیروی می‌کنند.)\n۵(\n۲ (۱-)\n(0 2\n۴ (۱-) ۱-۲۵\n‎ali -۷‏ چگالی احتمال توأم متغیرهای تصادفی 26 و ۷ به‌صورت زیر است. (۲ > ‎P(XY‏ کدام است؟\n(۱+)۷-\n‎e X>0,y>o‏\n‎fy yQy)= y 2 ۱‏\n‎ple 0‏ نقاط °\n۲\n۱\n۴\n‎ev‏\n‎ef‏\n‏۸ فرض کنید هدف انجام آزمون ۰ = ‎Hot‏ در مقابل ‎Hy p=)‏ از جامعه (۹, )۲۷ باشد. اگر ناحیه بحرانی به‌صورت\n‎x2k‏ تعریف شود. براساس نمونه ۴ تابی. ۰/۷۵ 1/۵ ‎Oy Yd‏ سح ۷۵ مقدار ‎plas‏ است؟\n\\\n‎O(—) 0‏\n۳۴\n6 )@-\\\n۶\n۱\n‎\\-D(—) ۳‏\n۳۴\n۱\n¢ () 5\n۶"
+        },
+        {
+          "page": 9,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر )35 ۱۲۷۷) ‎135A‏ صفحه ‎٩‏\n‏۹- در بک سیستم بادگیری ماشین. دقت مدل روی ‎FOO‏ نمونه تست. ۰,۸ است. فاصله اطمینان ۹۵ درصدی برای\nدقت واقعی مدل ‎elas‏ است؟ (۲ < ‎(Zo jaya‏\n0 (0,۷۹۰۰,۸۱)\n‎(0/YA, 0/AY) ۲‏\n۳ ۰۰/۸۲ 0,۷۷)\n‎,0/A¥) ۴‏ %¥,0(\n۰- چند تا از اعداد ۲ تا ۱۰۰۰ مربع کامل با مکعب کامل با ... با به‌صورت توانی بزرگ‌تر از یک از یک عدد طبیعی است؟\n‎Fo 0‏\n‎vay‏\n‎Yo‏\n‎af‏\n‏۱- فرض کنید ‎G‏ یک گراف ساده 0 ‎oul,‏ باشد و به‌علاوه ۸ ماتریس مجاورت. ‎B‏ ماتربس وقوع و ) ماتریس قطری\nدرجات رئوس ‎G‏ باشد. دراین‌صورت کدام‌یک از روابط زیر همواره برقرار است؟\n‎=A+C 0‏ 8+3\n‎B.A - 6۲‏\n‎BB! =AC 6۲‏\n‎BB'=A+C ¢‏\n‎-FY‏ تابع مولد معمولی مربوط به تعداد جواب‌های صحیح و نامنفی معادله 0 < 10 +۰۰۰+ ,۲ +۲۱ کدام است؟\n00+ 00+ 00+\n0 اس 2\n‎i=o i=o i=o‏\n00+ 00+ 00+\n‎EH EHE le‏\n۳5 5 =\n‎ay VAY +e +k‏\n‎e} ۰‏\n5\nز 1۱۱5+\n‎k=) ۳ (F‏\n‎-FY‏ اگر ‎gp‏ 4 دو گزاره دلخواه باشند. کدام‌یک از گزاره‌های زیر همواره درست است؟\n‎p>(~paq a‏\n‎p>~(pvq) 6۲‏\n‎p>(pvq) ¢‏\n‎p>(~p)rA(-q) &‏"
+        },
+        {
+          "page": 10,
+          "method": "ocr_fas_eng",
+          "text": "‎a ۴‏ منطقی ‎f < )۳, ۵ py ۵ py Op) Vv (Py ۵ 0۶ Spy Opy)‏ از ۸ گزاره ‎coil‏ مستقل ‎Py‏ تا ‎Py‏ تشکیل\nشده است. چند تابع مثل ‎F‏ می‌توان با این ۸ گزاره اتمی ساخت به‌نحوی که ‎f DE‏ تاتولوژی باشد؟\n۳۴\n‎Ya‏\n‏۲ ۶۴۱\n‎A) (‏ ,0۶۴\n۵- تعداد رشته‌های 0 بیتی ارقام صفر و یک که دقيقاً ۷ تا صفر دارند و در آنها هیچ دوصفری متوالی نیستند برابر\n‎ploy‏ مورد است؟\n‎C(n—k,k) 0‏\n‎C(n—k-+\\,k) 6۲‏\n‎C(in+k+\\,k) ۳‏\n‎C(n+k,k) ۴‏\nمجموعه دروس تحصصی | (نظربه زبان‌ها و ماشین‌ها. سیکنال‌ها و سیستم‌ها):\n۶- برای پذیرش زبان [۲<۰ رز ‎L={a'blei+k=j, i,‏ ماشین پذیرنده پشته‌ای ‎PDA‏ زیر طراحی شده است.\nبرای آنکه این ‎PDA‏ به درستی پذ برنده زبان ‎L‏ باشد. کدام‌یک از شرایط زیر لازم 9 کافی است؟\n‎b,a/e‏\n‎a,e/a b,¢/b e,b/e‏\n85/5 5 55/5 5\n1( حداقل یکی از مسیرهای محاسبه در این ماشین پس از خواندن تمام ورودی به حالت نهایی و پشته خالی برسد.\n۲ حداقل یکی از مسیرهای محاسبه در این ماشین پس از خواندن تمام ورودی به حالت نهایی برسد.\n۳ تمام مسیرهای محاسبه در اين ماشین پس از خواندن ‎pled‏ ورودی به حالت نهایی برسد.\n‎(F‏ حداقل یکی از مسیرهای محاسبه در این ماشین به حالتی با پشته خالی برسد.\n۷- زبان‌های ‎Ly‏ و ‎Ly‏ زیر را در نظر بگیرید. کدام مورد درست است؟\n‎Ly ={1\" 2۳ 3\"|n>o}‏\n‎Ly ={1\" 2۳ 3۳ 4\" In>o}‏\n‎Log Ly (1‏ هر دو زبان نوع صفر (بدون محدودیت) هستند اما حساس به متن نیستند.\n‎Ly ۲‏ زبان حساس ‎ay‏ متن است اما رن زبان حساس به متن نیست.\n۳ بآ و درآ هر دو زبان حساس به متن هستند.\n‎L, ۴‏ و ‎Lo‏ هر دو زبان مستقل از متن هستند."
+        },
+        {
+          "page": 11,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) 135۸ صفحه ۱۱\n‎-FA‏ از میان چهار ادعای زیر چند مورد درست است؟\nالف - حداقل یک ‎NFA‏ بدون گذار ع و با فقط یک حالت نهایی وجود دارد که زبان مجموعه (۱۲<«: ‎{a}U{b\"‏\n‏را بپذیرد.\nب -اگر ‎Ly‏ و ‎Ly‏ دو زبان باشند به‌گونه‌ای که ‎LyLy «Ly‏ و ‎LyLy‏ منظم باشند. آنگاه ‎Ly‏ نیز منظم است.\nج - 0۸های ‎My‏ و ‎My‏ معادل یکدیگرند اگر و فقط اگر & = (1.)۷1(۲۱۲//۷۲۷.\nد -اگر ۷ یک ‎DFA‏ کمینه برای زبان ‎L‏ باشد. با تغییر حالت‌های نهایی به غیرنهایی و بالعکس یک ‎DFA‏ برای\nزبان بآ به دست می‌آید ولی این ‎DFA‏ لزوماً کمینه نیست.\n۱0\n۲ را\n‎yi”‏\n‏۴( ۳\n‎-F4‏ کدام‌یک از مسائل زیر برای بک ماشین تورینگ دلخواه تصمیم‌پذبر ‎(decidable)‏ هستند؟\n) رشته ‎JE‏ ۶ را می‌پذیرد.\n۲ زبانی که می‌پذیرد یک زبان منظم است.\n‎a ۳‏ تعداد کمتر از ۱۴۰۵ رشته ورودی را می‌پذیرد.\n۴ بر روی تمامی رشته‌های ورودی بیشتر از ۱۴۰۵ حرکت انجام می‌دهد.\n۵۰- درخصوص کلاس زبان‌های مستقل از متن قطعی ‎Deterministic Context Free Languages (DCFL)‏\n‎plas”‏ مورد درست است؟\n1( این کلاس تحت عمل اشتراک بسته است اما تحت عمل مکملگیری بسته نیست.\n۲ این کلاس تحت عمل مکمل‌گیری بسته است اما تحت عمل اشتراک بسته نیست.\n‎(Fr‏ این کلاس تحت عمل‌های مکملگیری و اشتراک بسته نیست.\n۴ این کلاس تحت عمل‌های مکمل‌گیری و اشتراک بسته است.\nاه اگر ‎x[n]=sin =n‏ و « و۲ +۵-[۱]0 9 ‎z[n]=x{n].yin]‏ باشد. سری فوریه سیگنال ‎AIM]‏ با دوره\nتناوب ۶ ‎N=‏ چند ضریب غیرصفر دارد؟\n‎YQ‏\n‎Y(y‏\n‎FY‏\n‏۴ ۵\n۲۳- کدام‌یک از جملات زیر نادرست است؟\n) سیستم ‎y[n] = x[Yn]‏ یک سیستم پایدار است.\n۲) سیستم (۱- ]۱6۳ + ‎y(t) =X (Yt)‏ خطی است.\n‎(Y‏ سیستم \" نف 1 \"{- ‎y[n]‏ تغییرپذیر با زمان است.\n0 فرد [۱- هید بیرپذیر 2\n۴ یک سیستم خطی تغییرناپذیر با زمان با تابع ‎bas‏ (0[-)۳1 2 (11)[0 و پاسخ ضربه حقیقی ‎W(t)‏ و با فرض\n‎le h(a) > ۰‏ است."
+        },
+        {
+          "page": 12,
+          "method": "ocr_fas_eng",
+          "text": "‎aol -۳‏ همگرابی سیگنال ‎plas oe)‏ است؟\n۲0-۰۲۲۰۱0۲۵\n‎Re(s) > -۱ 0‏ > 00-\n6۲ >( 6 > ۲-\n‎Re(s) > +00 ۳‏ > ۲-\n۴ ۲ > (8) 6 >۱\n۳ ۲ ۱ ۲ ۱ ۱ رو +۲\n۴- پاسخ ‎pd‏ به یک سیستم 1 علی برابر ‎h[n]‏ و تب‌دیل ‎Z‏ ان ‎H(z)‏ است. اگر )11\n7۸ ۴-۲7\nباشد. [0]۱برابر با کدام مورد است؟\n۳\n0\n۲\n۱\n۲\n۲\n7\n۸\n۴ —\n۱۵\n00\n۵- اگر تبدیل فوریه سیگنال (0) در شکل زیر را ‎ )0(‏ بنمیم, مقدار 40 ‎(jo)‏ \"1 سب ‎plas‏ است؟\nم0 له ‎T‏\n‏0ص\n‏تک ‎x(t)‏\n‎mes‏\n‎a ۳‏\n۳ ۳\n‎rf‏\n‎t‏\n‎-Y ۶‏\nمجموعه دروس تخحصصی ۲ (ساختمان داده‌هاء طراح یالکو ریتم و هوش مصنوعی):\n۶- می‌خواهیم »1 لیست مرتب. هر کدام با ۳ ‎pars‏ را در هم ادغام کنیم و لیست مرتب تابی ابجاد کنیم. برای این\nکار ابتدا لیست ا را با لیست ۲ ادغام ‎go‏ کنيم. سپس لیست حاصل را با ‎Com‏ ۳ و به همین روند ادامه می‌دهيم.\nزمان اجرای این الگوربتم در بدترین حالت. کدام است؟\n‎O(n) (v O(klogn) 0‏\n‎O(nk) ۴ O(nlogk) ۳‏\n۷- آرایه ‎A‏ به طول \" به‌صورت حلقوی مرتب است. بعنی اگر ابتدا و انتهای ۸ را به هم بچسبانيم از یک درایه به بعد\nآرایه مرتب است. برای مثال آرایه [۰ ۸0,۷۰,۶,ه!و۴0,۳۰,۲۵ ,۵0] به‌صورت حلقوی مرتب است. بهترین الگوربتم\nبرای یافتن کوچک‌ترین عنصر ۸ از چه مرتبه‌ای است؟\n‎O(log(logn)) ۲ O(log’ n) ۵‏\n‎O(n) ۴ O(logn) ۲‏"
+        },
+        {
+          "page": 13,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۱۳\n‎plas -۸‏ گزینه مرتبه رابطه بازگشتی «وما +| ‎T(n) = ۲ Vn‏ را نشان می‌دهد؟\n\nO(lognloglogn) ۵\n\nO(nlognlogn) (\n\nO(nloglogn) ۳\n\nO(loglogn) ۴\n\n04 در گونه‌ای از مرتب‌سازی سریع. برای انتخاب محور از میان 9 عنصر ۱+ ۲۹/1 عنصر اول آرایه را انتخاب می‌کنیم\nو با یک الگوربتم ساده مانند مرتب‌سازی درجی آن را مرتب می‌کنیم. عنصر میانه ابن تعداد عنصر مرتب را\nبه‌عنوان محور انتخاب می‌کنیم. بقیه الگوریتم مانند مرتب‌سازی ‎ay pw‏ معمولی عمل می‌کند. بدترین زمان اجرای\nاين الگوریتم با ‎play‏ رابطه بازگشتی نشان داده می‌شود؟\n\nT(n) =YT(n-\\)+n 0\nT(n)=rT(Vn)+n ۲\n\nT(n) =yT(n—Vn)+n ۳\nT(n)=T(n—Vn)+ Tn) +n ۴\n\n۰- در یک متن. 9 کاراکتر وجود دارد که فراوانی آن‌ها از تصاعد هندسی با جمله اول ۸ و قدر نسبت ۲ < پیروی\nمی‌کند. در مورد هزینه ‎UT‏ پیشوندی هافمن کدام مورد درست است؟\n\n2)۲۲-۵-۳( ۲ a(y\" +n-¥) 0\n20۲۳۲ -0+۳( ۴ a(v\"*’—yn-y) ۳\n\n۶۱- فرض کنید یک ساختار درخت ,۸۷ با ویژگی‌های زیر داریم:\n‎:insert(x) -‏ یک عنصر ۲ به درخت اضافه می‌کند.\n- (601666600(]: یک ‎parc‏ را از درخت حذف می‌کند.\n— درخت همیشه متوازن باقی می‌ماند (بعنی بعد از هر عملیات ویژگی درخت ‎AVL‏ برقرار است)\nهزینه سرشکن هر عملیات ‎Insert‏ و ‎Delete‏ چقدر است؟\n\nO(n) ۲ 00(\nO(nlogn) ۶ O(logn) ۳\n\n۲- در یک گراف همبند بدون جهت و وزن‌دار کدام‌یک از گزینه‌های زیر در مورد درخت پوشای کمینه ایجادشده\nتوسط الگوریتم ‎Prim‏ و ‎Kruskal‏ درست است؟\n\n۱ اگر وزن یال‌ها متمایز باشند. درخت‌های تولیدشده توسط این دو الگوریتم یکسان هستند.\n۲) درخت تولیدی توسط الگوریتم ‎Prim‏ مستقل از رس شروع در آن الگوریتم است.\n\n۳ اگر وزن همه ‎ply JL‏ باشند. این دو الگوریتم درخت یکسان تولید می‌کنند.\n\n۴ با هر وزنی این دو الگوریتم درخت‌های یکسان تولید می‌کنند.\n\n۳- کاوشگری روی سیاره‌ای ناشناخته. سطح را به ۱۶ بخش تقسیم می‌کند. او می‌خواهد بداند کدام بخش بیشترین میزان\nماده معدنی دارد. الگوربتم او ابتدا هر بخش را به دو نیمه تقسیم می‌کند. مقدار هر نیمه را می‌سنجد و سپس نیمه\nبزرگ‌تر را دوباره نصف می‌کند تا ناحیه حاوی بیشترین ماده پیدا شود. اگر تعداد مقایسه‌ها برای یافتن ناحیه حاوی\nبیشترین ماده طبق روش تقسیم و حل ‎(Divide and Conquer)‏ باشد. چند مقایسه انجام می‌شود؟\n\nay 7(\\\n۳ (۴ FY"
+        },
+        {
+          "page": 14,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷ ‎135A‏ صفحه ۱۴\n۴- فرض کنید آرایه | هه ] ع ۸ یک 1010-1362۳ دودوبی ‎ous Yo fold‏ صحیح مجزا را نشان می‌دهد.\nچهارمین کوچکتربن عنصر در کدام‌یک از مکان‌های زیر می‌تواند قرار داشته باشد؟ (کامل‌ترین پاسخ را انتخاب کنید.)\n‎AyysAyprAyprAyy (1‏ 8و2و2 ور 3\n‎(V‏ 0\nی\n۴ ۲2۱۳۰8۶8۵ 8و8 م8 و و8 و8 و8۷ ‎Ay,‏ و8 :2۴ و2۳ ‎Ay‏\n‏۵- یک جدول درهم‌سازی ‎ML‏ خانه (اسلات) را در نظر بگیربدکه در آن تصادم‌ها با روش زنجیره‌ای حل می‌شوند.\nفرض کنید 7 کلید در جدول وارد می‌کنیم. به‌طوری که هر کلید به‌طور مساوی احتمال دارد به هر خانه درهم‌سازی\nشود. احتمال اينکه خانه‌ای که بیشترین تعداد کلید را دارد. دقیقاً شامل 16 کلید باشد. کدام است؟\n‎k-\\ ree n-k‏ ۱ ۳\n‎n-k)\\n n‏\n2۱/۱۱۳/۵۰۴\n‎k)\\n n‏\n‎VK (n-1)\"*‏\n‎n n‏\n‎k‏\n‏۱\n‎n‏\n‏۶- تیمی از نجاتگران ‎WL‏ کوه بزرگی را برای بافتن گمشدگان جست‌وجو کنند. رهبر گروه منطقه را به چند بخضش\nتقسیم می‌کند. هر تیم بخشی را جست‌وجو می‌کند. سپس گزارش‌ها جمع آوری می‌شوند تا تصمیم گرفته شود که\nدر ‎aol plus‏ احتمال وجود گمشده بیشتر است. این شیوه حل مسئله از چه روبکردی پیروی می‌کند؟\n۱) بهینه‌سازی محلی ۲ تقسیم و غلبه\n‎io -۷‏ شامل ۷۰۰۰ حرف از حروف ‎cb a‏ . 0 6 و ]با دفعات تکرار به‌ترتیب ۱۰۰۰ و ۰۱۲۰۰ ۸۰۰ ۱۵00\n۰ و ۷۰۰ موجود است. چنانچه بخواهیم کدی بهینه برای حروف ‎YL‏ انتخاب کنیم تعداد کل بیست‌های لازم\nبرای تبدیل متن مزبور به مجموعه‌ای از بیت‌ها چقدر است؟\n0 ۳۳۰۰\n‎Yooo ۲‏\n۱۷۷۰۰\n۴ ۱۲۷۰۰\n۸- کدام مورد جزو وبژگی‌های روش ‎SVM.‏ نیست؟\n۱) غیرپارامتری بودن با مقاومت در برابر بیش‌برازش ‏ ۲ استفاده از همه نمونه‌های آموزشی در تصمیم‌گیری\n۳ قابلیت جداسازی در فضاهای با بعد بالاتر ۴ ایجاد جداکننده با بیشترین حاشیه"
+        },
+        {
+          "page": 15,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۱۵\n۹- کدام‌یک از الگوربتم‌های زبر زمانی مناسب است که تعداد زیادی ویژگی دسته‌ای ‎(Categorical)‏ وجود داشته\nباشد و فکر می‌کنید بسیاری از آنها ممکن است بی‌اهمیت باشند؟\n۵ جنگل تصادفی ۲) رگرسیون لجستیک\n‎(f‏ ماشین بردار پشتیبان ۴ 6 نزدیک‌ترین همسایه\n۰- کدام مورد جزو کاستی‌های مدل‌های زبانی توالی به توالی ‎(Sequence — to — sequence)‏ نیست؟\n۱) پردازش ترتیبی کندتر ‎(Slower sequential processing)‏\n۲ محدودیت اندازه متن ثابت ‎(Fixed context size limit)‏\n۲ سوگیری زمینه نزدیک ‎(Nearby context bias)‏\n۴ بیش‌برازش سریع ‎(Quick Overfitting)‏\n۱- این که کارگزار چه اندازه بتواند خوب رفتار کند. به چه عاملی بستگی دارد؟\n6 طراح ‎dele‏ ۲) حسگرهای ‎dale‏\n‏۲) ماهیت محیط ۴ اقدام‌گرهای عامل\n‎-VY‏ برای یک کارگزار *۸ بی‌درنگ یادگیرنده ‎(LRTA*)‏ در بدترین حالت می‌تواند یک محیط با 9 حالت را در چند\nگام پردازش کند؟\n‎O(log n) 6۲ O(n log n) 0‏\n‎O(n) 6 O(n\") ۲‏\n۳- چه تعداد از موارد زیر درخصوص الگوربتم ‎A*‏ درست است؟\nالف - هر تابع اروین سازگار ‎n(n)‏ لزوماًقابل قبول نیست.\nب - \"ای که از جستجوی گرافی ‎(Search Graph)‏ استفاده می‌کند. بهینه است درصور تی که ‎h(n)‏ سازگار باشد.\nج -اگر ‎h(n)‏ سازگار باشد. آنگاه مقدار )(£ در طول هر مسیری. غیرنزولی است.\n0 صفر\n‎Vy‏\n‎yr‏\n‎YF‏\n‏۴- در ‎Jo‏ مسئله ‎CSP‏ با اجزای وارسی سازگاری کمان به‌صورت معکوس که در آن هر یک از 9 متغیر می‌تواند ‎٩‏\n‏مقدار به خود اختصاص دهد. الگوریتم کامل دارای چه مرتبه زمانی است؟\n‎O(nd) ۲ O(n®) ۵‏\n‎O(nd\") ۴ O(n+d) ۳‏\n۷۵- هر بخش از یک برنامه عامل ‎(Agent Program)‏ می‌تواند با استفاده از یادگیری ماشین بهبود یابد. نوع این\nبهبودها و روش‌هایی که برای ایجاد آنها به کار می‌رود. به کدام‌یک از عوامل زیر بستگی ندارد؟\n1( دانشی که عامل از قبل در اختیار دارد.\n۲ فقط ‎a)‏ مقدار داده‌های در دسترس بستگی دارد.\n۳ این که ‎plas‏ بخش از عامل قرار است بهبود داده شود.\n۴ داده‌هایی که در دسترس هستند و همچنین بازخوردی که درباره آن داده‌ها دریافت می‌شود."
+        },
+        {
+          "page": 16,
+          "method": "ocr_fas_eng",
+          "text": "مجموعه دروس تخصصی ۴ (مدار منطقی» معمار یکامپیوتر و الکترودیک دیجیتال):\n۶- کدام‌یک از نمودارهای حالت. متناظر با ساده‌شده جدول حالت زیر است؟\n= حا ۰\nخروجی احالت بعدی حالت فعلی\n‎x=0 21 20 x=1‏\n‎a ۱۶ efi o0|‏ |\n‎b |f efi 07‏ |\n‎ec |b eli 07‏ |\n‎|f gli ۱‏ 4 |\n‎e [a elo 1|‏ |\n‎A 1/0 = a /0‏\n0 ها ‎Cy‏\n‎Keo) aC ۲‏\n۱( 00 0 ]40 ۳ ۱0/۸ ۰ ۲\n110 - _ 1/0 1/1\n‎on —_ 1/1 (Ges‏\n( 10{ مس( ) و 00\n۳ 00 : 0(\n‎(F én ۹۱۱ ۲۱0۵ ۳‏ 1/۳ > 10\n‎on 0/0 010 90‏\n/ 1/1 5\n‎Co}‏ را . «ل\n۷- با این فرض که هر متغیر و نقیض آن موجود است. برای ساخت رابطه زیر به حداقل چه تعداد گیت ‎NOR‏ نیاز است؟\n‎x.(y XOR 7( +7‏\n) چهار گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n۲ پنج گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n¥( سه گیت ‎NOR‏ دو ورودی و یک گیت ‎NOR‏ سه ورودی\n۴ دو گیت ‎NOR‏ دو ورودی و دو گیت ‎NOR‏ سه ورودی\n‎-VA‏ کدام مورد ‎cp pool‏ عبارت جمع حاصل‌ضرب‌ها ‎(SOP)‏ برای رابطه زیر ‎Cowl‏ به نوی که مخاطره (هازارد)\nنداشته باشد؟\n‎[M(r,¥, F100, 1F).d(0,1)‏ [ - (۵ی,طره)؟\n0 0+00 +000 +2۳90 - ۲\n۲ + 2/00 +200 - ۲\n۳ 0+ 060 +۵۳06 +2۳90 < ۶\n‎=a'bd+a'be+ bed + b’c’+a'c'd ۴‏ ۲"
+        },
+        {
+          "page": 17,
+          "method": "ocr_fas_eng",
+          "text": "‎JO -V4‏ زیر بک جمع‌کننده ترکیبی چهاربینی را نشان می‌دهد که بر مبنای روش ‎Carry-Look Ahead‏ ساخته\nشده است. با فرض این که تأخیر گیت‌های ‎OR AND‏ و ‎XOR‏ به‌ترتبب ۳. ۴ و ۵ نانوانیه باشد. نتبجه نهایی\nبعد از چند نانوثانیه حاضر خواهد بود؟ ۱\n‎G car‏\n‎Yo‏\n‏۳ 1 > —\n‎ei | oft) Os oe‏\n‎Gy‏\n‏۱۳ | ۳9\n‎Dat‏ / اسر لایر\n‎OH‏\n‎Carry‏\n‎Cone‏\n‎pL\" ۱‏\n‎E= | qb”‏\n‎GC;‏\n‎B‏\n‎Po 3‏ 2\nرو\n‎G C‏\n۰- مدار متناظر با نمودار حالت زیر را با دو ‎D-FF‏ می‌سازيم. اگر * ورودی مدار. ‎Qh‏ و ,40 به‌ترتیب خروجی\nفلیپ‌فلاپ‌های پرارزش و کم‌ارزش و .7 خروجی مدار باشد. کدام مورد روابط درست ورودی فلیپ‌فلاپ‌ها و\nخروجی مدار را نشان می‌دهد؟\n‎r 1 +‏\n‎‘ese’ D, = 0 = Ona‏\n1\n‎D, = Q? = Q\\x 0‏ | 0\n‎C Gi) 2 7-0‏\n0 +\n‎a 0 ۲ 200, 2‏ 1\n‎na!‏ ها\n‎oy Z= Q.Q,‏ 1\n‎ror‏ +\n‎Dy = Qy =Q\\x‏\n۳ 2 2007 .1\n000 < .7\n2 1-0۲\n‎D, 2007 2 0 ۴‏\n‎Z=QVQ)‏"
+        },
+        {
+          "page": 18,
+          "method": "ocr_fas_eng",
+          "text": "۱- مدار زین دو حدول جستجو ‎(LUT:Look-Up Table)‏ را نشان می‌دهد. می‌توانید فرض کنید که جدول\nجستجو یک ‎ROM‏ است. ورودی ‎A‏ پرارزش‌ترین ورودی است و مقدار حافظه ‎LUT»‏ در داخل آن نوشته\nشده است. خروجی 1 چه تابعی است؟ ‎LUTI LUT2‏\n0 12+ ۷ + ۷ < ] 99 00\n‎a ۱ Ba f t+vx+yz' 6۲‏ |\n‎VX‏ = : 5\n‎we 8] lop 8 eee‏\n‎sede é f=vwivxt+yz ۲‏ & ۳ 7\n‎t‏ 5 7:1\n‎ou ۳ 1 < ۷۷۷ + ۷۷۷۰+ yz ۶‏\n‎f‏\n‎-AY‏ نمودار حالت زیر برای یک ماشین ‎Mealy‏ داده شده است. خروجی این مدار در چه صورتی ۱ می‌شود؟\n1/0 1/0\n0/0\n1( یک رشته ۱5۱ مشاهده شده باشد. .- )\n‎(Y‏ یک رشته فرد از صفرها مشاهده شده ‎CB 0 WEL‏ 6<\n۴ تعداد کل صفرهایی که تاکنون دیده. صفر باشد. ‎ON‏\n‏۴) یک رشته زوج از ‎LD‏ مشاهده شده باشد که به صفر ختم شده‌اند.\n‎plas -۲۳‏ گزینه ارتباط بین ‎ISA Microarchitecture‏ و ‎Architecture‏ 550070 را به‌درستی در سامانه‌های\nکامپیوتری براساس سطوح انتزاع نشان می‌دهد؟\n‎Software Software‏\n۱( ۱ ۱ ( ۱ ۱\n‎Microarchitecture Microarchitecture‏\n‎System Architecture‏\n‎System Architecture Hardware‏\n‎Software ISA‏\n‎System Architecture Microarchitecture‏\n۳( ۳ ۳( ۱ ۱\n‎Microarchitecture System Architecture‏\n‎Hardware Hardware‏\n۴- پردازن ده ‎A‏ دارای فرک انس کاری ‎GHz‏ ۴/۲ و ‎IPC=)‏ و بردازن ده ‎B‏ دارای فرک انس کاری ۲۸۱6۳2 و\n۲ است. در صورت فرض بر اجرای مجموعه دستورات ‎Col‏ و بکسان بودن ‎plu‏ بخش‌های دو پردازنده.\nکدام مورد درخصوص کارابی پردازنده‌ها درست است؟\n0 کارایی پردازنده ‎A‏ بیشتر ات\n‎(on‏ کارایی هر دو پردازنده برابر است.\n۴ با توجه به فرضیات مسئله نمی‌توان درخصوص کارایی پردازنده‌ها نظر داد."
+        },
+        {
+          "page": 19,
+          "method": "ocr_fas_eng",
+          "text": "۵- کدام مورد درخصوص روش‌های ‎Vo‏ درست است؟\n\n0 در روش ‎(Direct Memory Access) DMA‏ پردازنده اصلی به‌صورت واسط دستگاه 1/0 و حافظه جهت\nتبادل داده استفاده می‌شود.\n\n۲ در روش 1/0 ‎Interrupted‏ پردازنده اصلی درگیر مرحله «وارسی آماده بودن دستگاه 1/0 برای تبادل داده»\nنمی‌شود اما درگیر مرحله «تبادل داده» می‌شود.\n\n۳) در روش ‎Programmed I/O‏ فقط در داخل برنامه‌ها و توسط کاربران و برنامه‌سازان کاربردی قابل استفاده است.\n\n۴ روش ‎Interrupted I/O‏ کندترین روش 1/0 است.\n\n۶- در یک پردازنده پایپ‌لاین پنج مرحله‌ای شامل واکشی دستور ‎(IF)‏ واکشی عملوندها ‎(ID)‏ اجرا در ‎(EX) ALU‏\nمراجعه به حافظه ‎(DM)‏ و ذخیره نتایج در ثبات مقصد ‎(WB)‏ مطابق جدول زیر دستوراتی اجرا می‌شوند. با فرض\nاین که پردازنده هیچ‌گونه امکان رفع مخاطرات ‎(Hazard)‏ وابستگی به‌صورت نرم‌افزاری و با ‎forwarding‏\n‏نداشته و ‎Bye‏ اضافه کردن ‎(Stall) peu‏ امکان‌پذبر باشد. تعداد پالس‌های ساعت مورد نیاز برای اجرای این\nدستورات چقدر است؟ (هر مرحله در یک پالس ساعت انجام می‌شود. ‎LD‏ و ‎STR‏ دستورات خواندن و نوشتن\nحاقظه ‎LD ۱۵,10 (x1) dite‏\n۱۵\n\nADD 72, X1, XO\nwor\nSTR 20(X1), 2 ۱۱\nvo (fF\n‏کدام مورد درخصوص معماری حافظه درست است؟‎ -۷\n‏تأثیری در پهنای باند و تحمل‌پذیری اشکال حافظه ندارد.‎ (interleaving) ‏روش برگ‌برگ‌سازی‎ )۱\n‏پهنای باند حافظه‎ (high-order interleaving) ‏در یک حافظه برگ‌برگ‌شده براساس بیت‌های پرارزش‎ ۲\n‏تحمل‌پذیر اشکال است.‎ (low-order interleaving) ‏یک حافظه برگبرگ‌شده براساس بیت‌های کم‌ارزش‎ )۲\n‏به کمک پیمانه‌های حافظه ۲۳ واحدی می‌تواند‎ sol, ۳۳ ‏یک حافظه با حجم‎ (interleaving) ‏برگ برگ‌سازی‎ ۴\n= ۳ 5 ۹ M\n‏روش مختلف صورت گیرد.‎ od\nM-m\n\n۸- در یک پردازنده با ظرفیت حافظه ۱6 از حافظه نهان انجمنی ‎P— way‏ استفاده شده که ظرفیت آن 11 ۲۵۶\nاست. اگر اندازه هر ‎Sob‏ حافظه نهان ۳۲ بایت باشد. به‌تر تیب. هر کدام از فیلدهای ‎index .byte offset‏ و ‎Tag‏\n‏0 )5. 12و 13)\n\n6۲ (۰7 9و 14)\n۳ (5. 11و 14)\n۴ )5. 13و 12)"
+        },
+        {
+          "page": 20,
+          "method": "ocr_fas_eng",
+          "text": "۹- مدار روبه‌رو چه عملی را انجام می‌دهد؟ ‎B,-\\ B, B, Ap) Ay A,‏\n۱) تفریق دو عدد به روش پیش‌بینی رقم قرضی 5 ۰\n‎(T‏ جمع دو عدد به روش پیش‌بینی رقم قرضی\n۴ تفریق دو عدد به روش پیش‌بینی رقم نقلی پیب .۰\n۴ جمع دو عدد به روش پیش‌بینی رقم نقلی 1 ‎G, P, ~ G,‏\n‎C-G t‏\nسس\n‎Cy 61 Ie.‏\n‎A‏ '\n‎XOR Generator or‏\n‎n‏ و5 5۱ ‎Sn-y on‏\n‎P.,G; Generator C-— Generator‏\n‎P = Aj + B;-Aj ca = G, + P.Cin‏\n‎Gj = Aj Bi C,=G,+P,G, +P\\Py Cin‏\n‎XORG t ۲‏\n‎C, =G,+P,G,_,+P,P,_,G;_y+..+ II 6‏ نتب\n‎i=)‏\n‎S; = Aj OB; ® C._,‏\n‎ -۰‏ کدام‌یک از موارذ زیر برای دروازه‌های منطقی در فناوری 05 ایستا درست است؟\n) افزایش ولتاز تغذیه ‎(vdd)‏ باعث افزایش تأخیر دروازه می‌شود.\n۲) یکی از عوامل اصلی محدودکننده ‎jb‏ خروجی ‎(fanout)‏ تأخیر مطلوب طراح است.\n۲ توان مصرفی پویا در این فناوری با خازن بار و دوره تناوب سیگنال ‎SUS‏ نسبت مستقیم دارد.\n‎ons, ۴‏ مدولاسیون طول کانال باعث کاهش جریان درین - سورس در زمان روشن بودن ترانزیستورها می‌شود.\n۱- با صرف‌نظر از اثر بدنه و با فرض م۲۷ < م۲۷ > ‎«Vp‏ ولتاژ نهابی گره ‎Out‏ چقدر می‌شود؟ (فرض کنید ولناژ\nآستانه ترانزبستورهای ‎NMOS‏ و ‎PMOS‏ به‌تر تیب برابر با ‎Vin‏ و ‎Vin‏ باشد.)\n‎Ne | max(VDD ~ Viq, VDD =|Vip)) 0‏ ۳\n‎out min(VDD ~ Vin. VDD =|Vip}) 6‏\n‎vo FLT SL wo ee‏\n‎Cc, VDD (f‏\n۱ 5"
+        },
+        {
+          "page": 21,
+          "method": "ocr_fas_eng",
+          "text": "۲۳- ساختار ترانزیستوری زیر چه تابع منطقی را پیاده‌سازی می‌کند؟ ‎A A‏\n(فرض کنید زمان صعود و نشست ورودی‌هاء صفر است.) 4 ۳\n‎B B‏\n‎Out‏\n‎A A out=A 2B 0‏\n‎T 7 out = AB ۲‏\n‎B B out = AB+ AB (۳‏\n۴ به‌ازای برخی ورودی‌هاء ممکن است خروجی به دو منطق متفاوت متصل شود و خروجی مقدار درستی نمی‌گیرد.\n‎phe .‏ ۱ و ۱ ‎ee‏\n‏۳- در ساختار زو او 7 ترانزیستورهای ‎NMOS‏ دو برابر شود. بیشینه تأخیر صفر به یک شدن خروجی گیت چگونه تغییر\nمی‌کند؟ (برای محاسبه تأخیر. از تقریب المور استفاده کنید و زمان صعود و نزول (نشست)» و ورودی‌ها را صفر در نظر بگیربد.)\n0 کمتر از نصف می‌شود. و۷\n‎(Y‏ نصف می‌شود.\n۲ تغییری نمی کند.\nبر نمی 4 8\n۴ افزايش می‌یابد. 0-۸\n‎c-q‏\n‎out‏\n‏»- ل 8\n‎a4‏\n‏۴- با صرف‌نظر از انرژی مصرفی برای شارژ و دشارژ خازن‌های ورودی‌های گیت. به ازای کدام‌یک از دنباله ورودی‌های\nزیر انرژی مصرفی پویای گیت بزرگتر است؟\n(فرض کنید زمان صعود و نزول ورودی‌های گیت. برابر صفر باشد و به مدار. زمان کافی برای تثبیت ولتاژ نودهای\nمختلف آن داده شود.) و۷\n1( ورودی‌های ‎(A,B,C)‏ به‌ترتیب از (۱,۱وه) به )1,151( تغییر يابند.\n۲) ورودی‌های ‎(A,B,C)‏ به‌ترتیب از )2,951( به )0,959( تغییر پابند. ۳۸ ‎Bad‏\n‏۳( ورودی‌های ‎{A > B > C)‏ به‌ترتیب از (۰ ,۱,۱) به (۰ ,۰ ,۱) تغییر پابند. 4\n‎(F‏ ورودی‌های ‎(A,B,C)‏ به‌ترتیب از )1,151( & )0,059( تغییر یابند. ‎out‏\n‎a4‏\n‎Kc‏\n‏و"
+        },
+        {
+          "page": 22,
+          "method": "ocr_fas_eng",
+          "text": "۲ 7 oa ye ow ne\n‏(رقابت بین صفر و‎ fight ‏چیست و ابا‎ (atch) a ‏فرض کنید ) ترانزیستورها به‌شوح زیر باشد. نوع این‎ -۵\nvpD ‏یک) در آن وجود دارد؟‎\n4\n(<0 ۹\nL ۱\nWw. ۷ ۷ CLK IF Q;\n—)- =(—)» =(—)e = Y ۷\nGr Gr Gr ۳ at 1 7\n۱۸ ‏سل‎ ۱ Qi\n(Fa = (Ge = CLK-~4E 23 0\nQ! =\n‏وجود دارد. ۲) ایستا - وجود ندارد.‎ - be )۱\n‏وجود ندارد.‎ - Lg (F ‏ایستا - وجود دارد.‎ )۲\n‏شبکه‌ها ی کامپیونری و بایگاه داده‌ها):‎ « fole ‏(سیستم‌های‎ F ‏مجموعه دروس تخحصصی‎\n‏براساس تعربف. کدام‌یک از موارد زیر از وظایف بنیادین یک سیستم عامل نمی‌باشد؟‎ -۶\n‏اتصال و ارتباط بین سخت‌افزارها و سرویس‌های سطح سیستم‎ )۱\n‏مناسب برای ارتباط با سخت‌افزار‎ API ‏ارائه‎ ۲\n‏منایع فیزیکی و منطقی‎ Ce pte ۳\n‏مجازی‌سازی سخت‌فزار‎ ۴\n‏هدف اصلی زبان‌های برنامه‌نوبسی از روش برنامه‌نویسی ناهمگام چیست؟‎ -۷\n‏پشتیبانی سطح بالا از چندریسمانی ۲ پشتیبانی سطح بالا از اجرای همروندی‎ )\n10 ‏موازی‌سازی موثر ۴ همپوشانی‎ ۴\n‏پیاده‌سازی محافظت از فضای آدرس فرایندها چگونه میسر می‌شود؟‎ -۸\n‏اعمال می‌شود.‎ ale ‏صورت نرم‌افزاری توسط سیستم‎ dy ‏ترجمه آدرس است و محافظت‎ gine MMU ‏واحد‎ )۱\n‏می‌شود.‎ eles] MMU ‏کمک یک واحد سخت‌افزاری داخل تراشه پردازنده به نام‎ L(Y\n‏می‌شود.‎ alos] MMU ‏نام‎ a ‏توسط بخشی از سیستم عامل‎ )۲\n‏اعمال می‌شود.‎ RAM als ‏توسط واحد ]1۷1۷ داخل‎ ۴\n‏در یک سیستم تک‌هسته تک‌پردازنده پیاده‌سازی چندریسمانی برنامه‌ها با ربسمان‌های سطح کاربری چه مزبتی دارد؟‎ -9۹\n‏می‌تواند پیاده‌سازی ماجولار برنامه را تسهیل کند.‎ )۱\n‏امکان پیاده‌سازی همروندی در سیستم عامل را تسهیل می‌کند.‎ )۲\n‏ممکن است اجرای موازی بخش‌های مختلف برنامه را در پی داشته باشد.‎ ۳\n‏باشد.‎ Spe COTO ‏زمانی که یک ریسمان معطل‎ (contex switch) aio; ‏می‌تواند در کاهش زمان تعویض‎ ۴"
+        },
+        {
+          "page": 23,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۲۳\n۰- در صورتیکه یک ربسمان تابع زیر را اجرا نماید. مقدار نهایی متغیر ‎shared‏ کدام گزینه زیر خواهد بود؟\n‎volatile int lock = 0;‏\n‎volatile int shared = 0;‏\n‎void run() {‏\n‎int expected = 0;‏\n‎if (compare_and_swap(&shared, expected, 10))‏\n‎shared += 2;‏\n‎else‏\n‎shared *= 5;‏\n}\n‎rr ۱۳( bo 0‏ ۴ صفر\n۰۱- روش زمان‌بندی با بازخورد مقابل بهترین تقربب. برای کدام روش زمان‌بندی است؟\n۲ روش صف در بهترین حالت\n۳ کوتاه‌ترین کار ‎(Shortest Job First) Jo!‏\n‎(F‏ کمترین کار باقی‌مانده ‎[quantum =16 [ (Shortest Remaining First)‏\n72\n۲۳-- در یک پردازنده با معماری ۱۶ بیتی و مکانیزم ‎Cu pro‏ حافظه دو سطحی قطعه‌بندی ‎(segmentation)‏ و صفحه‌بندی\n‎(paging)‏ اگر بدانیم فرایندها نهایتاً دارای ۶ بخش ‎(Section)‏ بوده و ۴ ‎gly Cay‏ آدرس‌دهی صفحه دارند. حداکثر\nتعداد سطرهای جداول ترجمه چقدر است؟\n\\( ۶۸\n۲( ۱۳۸\n۳ ۱۳۶\n۴ ۱۹۲۴\n۳- در یک اتصال ‎TCP‏ اندازهُ ‎Window‏ 00۵650107) اولیه برابر ۱16۶ و مقدار آستانه شروع آهسته\n‎(Slow Start Threshold)‏ برابر ‎cowl 1 < ۱۶ KB‏ فرض کنید:\n- هیچ بسته‌ای گم نمی‌شود.\n- محدودیت پنجره گیرنده وجود ندارد.\n- در فاز ‎Slow Start‏ اندازه پنجره تراکم در هر ‎RTT‏ دو ‎ply‏ می‌شود.\n- پس از رسیدن ‎a‏ آستانه 1 پروتکل ‎TCP‏ وارد فاز ‎Congestion Avoidance‏ شده و اندازه پنجره تراکم در\nهر 1+11 ‎bis‏ ]۱16 افزایش ‎whoo‏\n‏اگر فرستنده بخواهد فایلی با اندازةٌ ‎KB‏ ۸۵ < 17 ارسال کند. ارسال فایل در ‎RTT plas‏ کامل می‌شود؟\n‎a‏ پایان ‎RTT‏ ششم ۲ پایان ‎RTT‏ هفتم\n۳ پایان ‎RTT‏ هشتم ۴ پایان ‎RTT‏ نهم"
+        },
+        {
+          "page": 24,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) ‎135A‏ صفحه ۲۴\n۴- فرض کنید در سامانة ‎DNS‏ رکوردهای زیر موجود باشند:\n‎(cs.example.edu,ns1.cs - dns.net, Type ۱5۱600(‏\n‎(ns1.cs - dns.net, 198.51.100.53, Type A, 600)‏\n‎(www.cs.example.edu, webhost.cloud.net, Type CNAME, 600)‏\n‎(webhost.cloud.net, 203, 0,113.8, Type A, 600)‏\nاگر یک ‎resolve‏ بخواهد نشانی ‎IP‏ مربوط به ‎WwW.cs.example.edu‏ را به دست آورد. کدام گزینه درست است؟\n\\( رکورد ۸ مربوط به )105.16 - 1251.65 برای بافتن ‎name server‏ لازم است. اما نشانی 1۳ نهایی\n‎www.cs.example.edu‏ از دنبال کردن رکورد ‎CNAME‏ 9 سپس رکورد ۸ به دست می‌آید.\n۲ رکورد ‎CNAME‏ مستقیماً ناشی از 17 نهایی میزبان را مشخص می‌کند.\n۳) رکورد ‎NS‏ مستقیماً نشانی ‎IP‏ نهایی میزبان را مشخص می‌کند.\n۴ چون )9555 ‎NS‏ وجود دارد. دیگر نیازی به رکورد ‎A‏ نیست.\n۵-- بک مسیرباب جدول ارسال زير را دارد. فرض کنید در فرایند ‎Routing‏ 1۳ از قاعده ‎Match Prefix Longest‏\nاستفاده می‌شود.\n| 0 | 30023.16020~\n‎[oterviee [4‏\n51 بسته‌هایی با مقصدهای زیر به ‎cpl‏ مسیرباب برسند. ترتیب صحیح رابط‌های خروجی (به‌ترتیب از راست به چپ)\n‎plas‏ است؟\n0 200.25.23.200 100.25.23.200 200.24.23.200\n۴ ,۲ ۷ ۱۷ ۲ ۴ ,۲ ۷ ,۲\n‎TA a CG tye (Or‏\n۶- کاربری برای نخستین بار در مرورگر خود نشانی ‎WWW.example.com‏ را وارد می‌کند. فرض کنید در مرورگر\nهیچ کشی وجود ندارد. اما نشانی ‎IP‏ مربوط به ‎www.example.com‏ قبلاً در ‎DNS cache‏ سیستم عامل\n‎ood‏ شده است. همچنین فرض کنید صفحه ‎cols hol‏ فقط ‎fold‏ یک فایل ‎HTML‏ ساده است و هیچ شیء\nدیگری مانند تصویر ‎CSS‏ با ‎Javascript‏ ندارد. ‎plas‏ گزینه درست است؟\n۱) چون نشانی ‎IP‏ در ‎DNS cache‏ موجود است. دیگر نیازی به برقراری ارتباط ‎TCP‏ با خدمت گزار وب نیست.\n۲ اگر ‎DNS cache‏ موجود باشد. دیگر پروتکل ‎HTTP‏ لازم نیست. زیرا ‎silico DNS‏ خود محتوای صفحه را\nنیز برگرداند.\n1( چون صفحه فقط شامل یک فایل ‎eel HTML‏ در این حالت ‎DNS‏ و ‎HTTP‏ هر دو حذف می‌شوند و مرورگر\nمستقیماً محتوا را نمایش می‌دهد.\n‎(F‏ وجود نشانی ‎IP‏ در ‎ss DNS cache‏ مرحلة ‎name resolution‏ را حذف می‌کند. اما مرورگر همچنان باید\nبرای دریافت فایل ‎L HTML‏ خدمت‌گزار وب ارتباط مناسب برقرار کند."
+        },
+        {
+          "page": 25,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۲۷۷) ‎135A‏ صفحه ۲۵\n۷- در یک اتصال ‎TCP‏ فرستنده یک ‎ply‏ ۳۰۰۰ بایتی را به شش ‎Segment‏ به صورت زير تقسیم کرده است:\n‎:Segment \\ —‏ بایت‌های ۰ تا ۴۹۹\n‎:Segment ۲ —‏ بابت‌های ‎doo‏ تا ‎۹۹٩‏\n‎:Segment ۲ -‏ بابت‌های ۱۰۰۰ تا ۱۴۹۹\n‎:Segmentf —‏ بابت‌های ۱۵۰۰ تا ۱۹۹۹\n‎:Segment ۵ -‏ بایت‌های ۲۰۰۰ تا ۲۴۹۹\n— 56270601۶: بایت‌های ۲۵۰۰ تا ۲۹۹۹\nفرض کنید گیرنده ابتدا ‎claSegment‏ ۱ و ۲ را دریافت می‌کند. سپس ‎cLeSegment‏ ۴ ۵ و ۶ نیز پیش از\nرسیدن ‎Segment‏ شماره ۳ دریافت می‌شوند. ‎od pF‏ داده‌های خارج از ترتیب را در ‎buffer‏ نگه می‌دارد و\n‎TCP‏ نیز از ‎cola! Cumulative ACK‏ می‌کند. اگر بلافاصله پس از آن ‎Segment‏ شماره ۳ نیز دربافت شود.\nگیرنده چه عددی را در فیلد ‎Acknowledgment Number‏ قرار می‌دهد؟\n۳۰۰۰0\n‎Ydoo (¥‏\n¥( ۱۵9۰۰\n‎(F‏ ۱:۰۰\n۸- در صف ‎router Sy‏ فرض کنید ۵ کاربر . هر کدام با نرخ ۱۰ درخواست در ثانیه. بسته‌های خود را به این صف\nارسال می‌کنند. همچنین اندازه هر بسته درخواست ‎ply‏ ۱۰۰60 و ظرفیت پیوند ‎Yo Mbps‏ است. مقدار شدت\nترافیک سامانه (0) ‎plas‏ است؟\n‎p=o/¥o 0‏ ۲ 0-۰۲۵\n‎p=o/¥d ۴ p=oto‏\n4-- کدام‌یک از قابلیت ویژه‌سازی ‎(specialization)‏ در مدل ‎ER‏ نیست؟\n۱) تناسب طراحی پابگاه داده با وضعیت دنیای واقعی. ۲ تعریف ارتباط خاص از نوع 15-۸\n۳ کاهش افزونگی ( با وجود ‎(generalition‏ ۴ ارائه عملگر تجزیه ‎(decomposition)‏\n‏۰- دستور زیر معادل ترکیب چند عملگر جبر رابطه‌ای. است؟\n‎Select A,B,C‏\n‎From T1,T2 as N 20‏\n‎Where 11.10 = 12.10 and N.D > 17 fo‏\n۳( ۳\n۱\n۱- اگر ‎clad‏ رابطه‌های ,۲ و ب5 را متناظراً با ,18 و ‎Ry‏ نمایش دهیم و رابطه ‎RyRy =D‏ برقرار باشد. در این‌صورت\nکدام مورد درست است؟\n0 2155 3 محر 1\n6۲ ]25 ب مم 1\n‎=n Ln. 7۲‏ بط بط\n‎nxt 21۱۱ ۴‏"
+        },
+        {
+          "page": 26,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷) 135۸ صفحه ۲۶\n۲- با توجه به مجموعه وابستگی‌های تابعی داده‌شده برای جدول ‎F)‏ ون و( ‎(A, B,C,‏ کدام مورد درست است؟\n‎A— BCD‏\n‎BC DE‏\n‎B>D‏\n‎DOA‏\n‎(Jy col 3NF )‏ ۳[ نیست. ¥( ‎BCNF‏ نیست ولی 31۳ است.\n۲ 31۳ نیست. ۴ ‎BCNE‏ است.\n۳- با توجه به وابستگی‌های تابعی داده‌شده. کدام مورد درست است؟\n‎R: R= {Al, ۸2, ۸3, A4}‏ شمای رابطه مفروض ۲ است. ابر کلید : ‎super key‏ کلید نامزد: ‎candidate key‏\nو مجموعه وابستگی‌ها: ‎{A4}‏ - ۸3-1 و ۵3-۸4 و1 — ۸4\n\\( فقط ۸4 اب رکلید است.\n۲ ۸4 ابر کلید و ۸3 کلید نامزد است.\n‎AZ ۳‏ ابرکلید و ۸4 کلید نامزد است.\n۴ ۸3 و۸4 هر دو ابرکلید و هر دو ‎WS‏ نامزد هستند.\n۴- کدام‌یک در مورد شاخص ‎(Index)‏ در پابگاه ‎colo‏ رابطه‌ای درست است؟\n)( در سطح پیاده‌سازی تعریف می‌شود و بخشی از مدل رابطه‌ای نیست.\n۲) در سطح مفهومی تعریف می‌شود و جزئی از مدل رابطه‌ای است.\n۳ به روزرسانی داده‌ها در پایگاه داده. تأثیری در کارایی آن ندارد.\n۴ حاوی داده‌های اصلی پایگاه داده به‌صورت کدشده است.\n۵- باقی‌مانده تقسیم جدول ‎Tr‏ بر حدول 12 با داده‌های زير کدام است؟\n‎T, )9#, ۲#( T,(P#)‏\n‎oO‏\n‎Sl P2 Fz‏\n‎Sl P3‏\n‎Pl‏ 82\n‎P2‏ 82\n‎Pl‏ 83\n‎P,P, ۲ 5. 0‏\n‎SP, ,S\\Py ۴ Sy 5S, ۲‏"
+        },
+        {
+          "page": 27,
+          "method": "ocr_fas_eng",
+          "text": "مهندسی کامپیوتر (کد ۱۲۷۷ 135۸ صفحه ۲۷"
+        },
+        {
+          "page": 28,
+          "method": "ocr_fas_eng",
+          "text": ""
+        }
+      ],
+      "marker_pages": [
+        {
+          "page": 2,
+          "markers": [
+            {
+              "top": 1016,
+              "left": 192,
+              "right": 1764,
+              "text": "1- His words should be understood in .................... in order to be correctly interpreted.",
+              "normalized": "1- His words should be understood in .................... in order to be correctly interpreted.",
+              "candidates": [
+                1
+              ]
+            },
+            {
+              "top": 1103,
+              "left": 190,
+              "right": 1796,
+              "text": "2- She told her friends about her intention to go abroad, changing her first decision to keep it",
+              "normalized": "2- She told her friends about her intention to go abroad, changing her first decision to keep it",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 1232,
+              "left": 190,
+              "right": 1795,
+              "text": "3- She has .................. in her library the complete works of many Persian poets such as",
+              "normalized": "3- She has .................. in her library the complete works of many Persian poets such as",
+              "candidates": [
+                3
+              ]
+            },
+            {
+              "top": 1357,
+              "left": 191,
+              "right": 1795,
+              "text": "4- A defining .................... of online art is that it can be seen anywhere by anyone with",
+              "normalized": "4- A defining .................... of online art is that it can be seen anywhere by anyone with",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 1490,
+              "left": 191,
+              "right": 1795,
+              "text": "5- For decades, the hygiene hypothesis has posited that the germs we are exposed to in",
+              "normalized": "5- For decades, the hygiene hypothesis has posited that the germs we are exposed to in",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1619,
+              "left": 191,
+              "right": 1796,
+              "text": "6- I was in need of money and not at all .................... about experiments, so I concurred",
+              "normalized": "6- I was in need of money and not at all .................... about experiments, so I concurred",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1747,
+              "left": 191,
+              "right": 1795,
+              "text": "7- Some people suffer from a chronic case of rabid chauvinism; they brandish the banners",
+              "normalized": "7- Some people suffer from a chronic case of rabid chauvinism; they brandish the banners",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 2438,
+              "left": 191,
+              "right": 1631,
+              "text": "8- 1) that studies 2) studies 3) studying 4) and study",
+              "normalized": "8- 1) that studies 2) studies 3) studying 4) and study",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 2483,
+              "left": 191,
+              "right": 1554,
+              "text": "9-1) Unlike 2) Although 3) However 4) Even",
+              "normalized": "9-1) Unlike 2) Although 3) However 4) Even",
+              "candidates": [
+                9
+              ]
+            },
+            {
+              "top": 2528,
+              "left": 192,
+              "right": 1518,
+              "text": "10- 1) is cognitive with nature 2) being in cognitive nature",
+              "normalized": "10- 1) is cognitive with nature 2) being in cognitive nature",
+              "candidates": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "markers": [
+            {
+              "top": 1361,
+              "left": 192,
+              "right": 1764,
+              "text": "11- The underlined word “substantial” in paragraph 1 is closest in meaning to ...............605 +",
+              "normalized": "11- The underlined word “substantial” in paragraph 1 is closest in meaning to ...............605 +",
+              "candidates": [
+                11
+              ]
+            },
+            {
+              "top": 1458,
+              "left": 192,
+              "right": 1382,
+              "text": "12- The underlined word “its” in paragraph 1 refers to ..............4.",
+              "normalized": "12- The underlined word “its” in paragraph 1 refers to ..............4.",
+              "candidates": [
+                12
+              ]
+            },
+            {
+              "top": 1559,
+              "left": 192,
+              "right": 1748,
+              "text": "13- According to paragraph 1, which of the following is true about the game known as “Go”?",
+              "normalized": "13- According to paragraph 1, which of the following is true about the game known as “Go”?",
+              "candidates": [
+                13
+              ]
+            },
+            {
+              "top": 1706,
+              "left": 192,
+              "right": 1668,
+              "text": "14- All of the following words are mentioned in the passage EXCEPT .................008",
+              "normalized": "14- All of the following words are mentioned in the passage EXCEPT .................008",
+              "candidates": [
+                14
+              ]
+            },
+            {
+              "top": 1802,
+              "left": 192,
+              "right": 1242,
+              "text": "15- According to the passage, which of the following is true?",
+              "normalized": "15- According to the passage, which of the following is true?",
+              "candidates": [
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "markers": [
+            {
+              "top": 941,
+              "left": 193,
+              "right": 1760,
+              "text": "16- The underlined word “improper” in paragraph 1 is closest in meaning to ................00068",
+              "normalized": "16- The underlined word “improper” in paragraph 1 is closest in meaning to ................00068",
+              "candidates": [
+                16
+              ]
+            },
+            {
+              "top": 1042,
+              "left": 193,
+              "right": 1418,
+              "text": "17- Which of the following best describes the function of paragraph 2?",
+              "normalized": "17- Which of the following best describes the function of paragraph 2?",
+              "candidates": [
+                17
+              ]
+            },
+            {
+              "top": 1390,
+              "left": 192,
+              "right": 1255,
+              "text": "18- Which of the following techniques is used in the passage?",
+              "normalized": "18- Which of the following techniques is used in the passage?",
+              "candidates": [
+                18
+              ]
+            },
+            {
+              "top": 1537,
+              "left": 192,
+              "right": 1781,
+              "text": "19- The passage provides sufficient information to answer which of the following questions?",
+              "normalized": "19- The passage provides sufficient information to answer which of the following questions?",
+              "candidates": [
+                19
+              ]
+            },
+            {
+              "top": 1824,
+              "left": 190,
+              "right": 1459,
+              "text": "20- Which of the following best describes the overall tone of the passage?",
+              "normalized": "20- Which of the following best describes the overall tone of the passage?",
+              "candidates": [
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "markers": [
+            {
+              "top": 941,
+              "left": 190,
+              "right": 1795,
+              "text": "21- Which of the following is NOT mentioned with reference to the Von Neumann",
+              "normalized": "21- Which of the following is NOT mentioned with reference to the Von Neumann",
+              "candidates": [
+                21
+              ]
+            },
+            {
+              "top": 1135,
+              "left": 190,
+              "right": 1800,
+              "text": "22- Which of the following best expresses the writer’s opinion about the inclusion of",
+              "normalized": "22- Which of the following best expresses the writer’s opinion about the inclusion of",
+              "candidates": [
+                22
+              ]
+            },
+            {
+              "top": 1476,
+              "left": 190,
+              "right": 946,
+              "text": "23- What does the passage mainly discuss?",
+              "normalized": "23- What does the passage mainly discuss?",
+              "candidates": [
+                23
+              ]
+            },
+            {
+              "top": 1723,
+              "left": 190,
+              "right": 1242,
+              "text": "24- According to the passage, which of the following is true?",
+              "normalized": "24- According to the passage, which of the following is true?",
+              "candidates": [
+                24
+              ]
+            },
+            {
+              "top": 2223,
+              "left": 190,
+              "right": 1796,
+              "text": "25- In which position marked by [1], [2], [3] or [4], can the following sentence best be",
+              "normalized": "25- In which position marked by [1], [2], [3] or [4], can the following sentence best be",
+              "candidates": [
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "markers": [
+            {
+              "top": 283,
+              "left": 771,
+              "right": 1798,
+              "text": "گسسته): رباضیات مهندسییء احتمال و آمار ۲), و (| عمومی (ریاضی ریاضیات",
+              "normalized": "گسسته): رباضیات مهندسییء احتمال و آمار 2), و (| عمومی (ریاضی ریاضیات",
+              "candidates": []
+            },
+            {
+              "top": 1061,
+              "left": 380,
+              "right": 1794,
+              "text": "است؟ plas‏ ۲۷۳[ ۰۲۷۲ | بازه در 2 x\" =fy‏ منحنی‌های به محصور ناحیه مساحت ۸-",
+              "normalized": "است؟ plas‏ 273[ 0272 | بازه در 2 x\" =fy‏ منحنی‌های به محصور ناحیه مساحت 8-",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 1515,
+              "left": 1442,
+              "right": 1699,
+              "text": "+ ۲-۴",
+              "normalized": "+ 2-4",
+              "candidates": [
+                2,
+                4
+              ]
+            },
+            {
+              "top": 1594,
+              "left": 887,
+              "right": 1794,
+              "text": "است؟ کدام ] F(x) dx‏ مقدار آنگاه FQ) - f e- dt 51 -¥4‏",
+              "normalized": "است؟ کدام ] F(x) dx‏ مقدار آنگاه FQ) - f e- dt 51 -¥4‏",
+              "candidates": [
+                51
+              ]
+            },
+            {
+              "top": 1699,
+              "left": 1573,
+              "right": 1695,
+              "text": "۱-6 0",
+              "normalized": "1-6 0",
+              "candidates": [
+                1,
+                6
+              ]
+            },
+            {
+              "top": 1774,
+              "left": 1582,
+              "right": 1648,
+              "text": "۱-6",
+              "normalized": "1-6",
+              "candidates": [
+                1,
+                6
+              ]
+            },
+            {
+              "top": 1801,
+              "left": 1577,
+              "right": 1699,
+              "text": "— ۲",
+              "normalized": "- 2",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 1882,
+              "left": 1582,
+              "right": 1648,
+              "text": "6-۱",
+              "normalized": "6-1",
+              "candidates": [
+                6,
+                1
+              ]
+            },
+            {
+              "top": 1982,
+              "left": 1566,
+              "right": 1699,
+              "text": "آه ۱- ۶",
+              "normalized": "آه 1- 6",
+              "candidates": [
+                1,
+                6
+              ]
+            },
+            {
+              "top": 2057,
+              "left": 193,
+              "right": 1794,
+              "text": "+۰1 ۲۷ 7+ 2۱ و + +z\"‏ )= رویه‌های مشترک فصل خم روی ,)1 (۱2 < +۷ ۲۲ + ۳7 ali‏ مقدار کمترین ۰-",
+              "normalized": "+01 27 7+ 21 و + +z\"‏ )= رویه‌های مشترک فصل خم روی ,)1 (12 < +7 22 + 37 ali‏ مقدار کمترین 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 2533,
+              "left": 1538,
+              "right": 1699,
+              "text": "۲ - حم ۴",
+              "normalized": "2 - حم 4",
+              "candidates": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "markers": [
+            {
+              "top": 321,
+              "left": 472,
+              "right": 1794,
+              "text": "است؟‎ کدام ] ۱۳۳ ای ۳ xy dydx مقدار‎ -۲۱",
+              "normalized": "است؟‎ کدام ] 133 ای 3 xy dydx مقدار‎ -21",
+              "candidates": [
+                21
+              ]
+            },
+            {
+              "top": 881,
+              "left": 193,
+              "right": 1794,
+              "text": "توسط‎ انجام‌شده کار اندازه باشد. x’ +۲۲ -77 =) VS 7 > ۳ یک‌پارچه‎ هذلولی‌گون مرز C aes فرض‎ -۲",
+              "normalized": "توسط‎ انجام‌شده کار اندازه باشد. x’ +22 -77 =) VS 7 > 3 یک‌پارچه‎ هذلولی‌گون مرز C aes فرض‎ -2",
+              "candidates": [
+                77,
+                2
+              ]
+            },
+            {
+              "top": 1279,
+              "left": 377,
+              "right": 1794,
+              "text": "است؟‎ کدام نماند. خالی قفسه‌ای هیچ که به‌طوری قفسه. ۳ در مختلف کتاب ۵ چیدمان راه‌های تعداد -۳",
+              "normalized": "است؟‎ کدام نماند. خالی قفسه‌ای هیچ که به‌طوری قفسه. 3 در مختلف کتاب 5 چیدمان راه‌های تعداد -3",
+              "candidates": [
+                3
+              ]
+            },
+            {
+              "top": 1604,
+              "left": 193,
+              "right": 1794,
+              "text": "مساوی‎ بااندازه گروه دو به را است پسر دانشجوی ۱۰ و دختر دانشجوی ۱۰ شامل که نفری ۲۰ کلاس یک -۴",
+              "normalized": "مساوی‎ بااندازه گروه دو به را است پسر دانشجوی 10 و دختر دانشجوی 10 شامل که نفری 20 کلاس یک -4",
+              "candidates": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "markers": [
+            {
+              "top": 291,
+              "left": 193,
+              "right": 1794,
+              "text": "تعداه نشان‌دهنده ۷ اگر می‌شود. تاب پر دوباره باشد. آمده شیر که سکه‌ای هر و می‌شوند تاب پر سالم سکه چهار ۵-",
+              "normalized": "تعداه نشان‌دهنده 7 اگر می‌شود. تاب پر دوباره باشد. آمده شیر که سکه‌ای هر و می‌شوند تاب پر سالم سکه چهار 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 872,
+              "left": 193,
+              "right": 1794,
+              "text": "مراحل واربانس و « 2۱۰۲۴ اگر می‌کند. پیدا را پاسخ مرحله 1087 در متوسط به‌طور جستجو الگوریتم یک ۶-",
+              "normalized": "مراحل واربانس و « 21024 اگر می‌کند. پیدا را پاسخ مرحله 1087 در متوسط به‌طور جستجو الگوریتم یک 6-",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1188,
+              "left": 1503,
+              "right": 1700,
+              "text": "۲ ۱-6۳",
+              "normalized": "2 1-63",
+              "candidates": [
+                1,
+                63
+              ]
+            },
+            {
+              "top": 1247,
+              "left": 1476,
+              "right": 1699,
+              "text": "-۱ ۲ )\\-( ۴",
+              "normalized": "-1 2 )\\-( 4",
+              "candidates": [
+                1
+              ]
+            },
+            {
+              "top": 1807,
+              "left": 193,
+              "right": 1794,
+              "text": "به‌صورت بحرانی ناحیه اگر باشد. ),٩(‏ جامعه از ۱<:,]] مقابل در :,]] 2 ۰ آزمون انجام Sur wus‏ فرض ۸-",
+              "normalized": "به‌صورت بحرانی ناحیه اگر باشد. ),9(‏ جامعه از 1<:,]] مقابل در :,]] 2 0 آزمون انجام Sur wus‏ فرض 8-",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 1872,
+              "left": 442,
+              "right": 1693,
+              "text": "است؟ کدام مقدار —p .-۷۵ 7 ۲۵ Vd‏ ۰/۷۵ تابی. ۴ نمونه براساس شود. تعریف K 2k‏",
+              "normalized": "است؟ کدام مقدار -p .-75 7 25 Vd‏ 0/75 تابی. 4 نمونه براساس شود. تعریف K 2k‏",
+              "candidates": [
+                75
+              ]
+            },
+            {
+              "top": 2167,
+              "left": 1495,
+              "right": 1700,
+              "text": ")1-0 ۲",
+              "normalized": ")1-0 2",
+              "candidates": [
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "markers": [
+            {
+              "top": 297,
+              "left": 193,
+              "right": 1794,
+              "text": "برای درصدی VD‏ اطمینان فاصله است. ۰,۸ تست. نمونه FOO‏ روی مدل دقت ماشین. بادگیری سیستم یک در ۹-",
+              "normalized": "برای درصدی VD‏ اطمینان فاصله است. 0,8 تست. نمونه FOO‏ روی مدل دقت ماشین. بادگیری سیستم یک در 9-",
+              "candidates": [
+                9
+              ]
+            },
+            {
+              "top": 693,
+              "left": 263,
+              "right": 1794,
+              "text": "است؟ طبیعی عدد بک از یک از بزرگ‌تر توانی به‌صورت با ... با کامل مکعب با کامل مربع ۱۰۰۰ تا ۲ اعداد از تا چند ۰-",
+              "normalized": "است؟ طبیعی عدد بک از یک از بزرگ‌تر توانی به‌صورت با ... با کامل مکعب با کامل مربع 1000 تا 2 اعداد از تا چند 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1009,
+              "left": 193,
+              "right": 1794,
+              "text": "قطری ماتریس ) و وقوع ماتربس B‏ مجاورت. ماتریس ۸ به‌علاوه و باشد رأسی 9 ساده گراف SG‏ کنید فرض ۴۱-",
+              "normalized": "قطری ماتریس ) و وقوع ماتربس B‏ مجاورت. ماتریس 8 به‌علاوه و باشد رأسی 9 ساده گراف SG‏ کنید فرض 41-",
+              "candidates": [
+                41
+              ]
+            },
+            {
+              "top": 2137,
+              "left": 636,
+              "right": 1794,
+              "text": "است؟ درست همواره زیر گزاره‌های از کدام‌یک باشند. دلخواه گزاره دو 0 9p‏ اگر ۳-",
+              "normalized": "است؟ درست همواره زیر گزاره‌های از کدام‌یک باشند. دلخواه گزاره دو 0 9p‏ اگر 3-",
+              "candidates": [
+                3
+              ]
+            },
+            {
+              "top": 2260,
+              "left": 1427,
+              "right": 1699,
+              "text": "2 25-0۷ 6",
+              "normalized": "2 25-07 6",
+              "candidates": [
+                25,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "markers": [
+            {
+              "top": 701,
+              "left": 192,
+              "right": 1794,
+              "text": "برابر نیستند متوالی دوصفری هیچ آنها در و دارند صفر تا »1 Lido‏ که یک و صفر ارقام بیتی رشته‌های ‏ تعداد ۵-",
+              "normalized": "برابر نیستند متوالی دوصفری هیچ آنها در و دارند صفر تا »1 Lido‏ که یک و صفر ارقام بیتی رشته‌های ‏ تعداد 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1973,
+              "left": 818,
+              "right": 1794,
+              "text": "است؟ درست مورد کدام بگیربد. نظر در را زير Ly‏ و Ly‏ زبان‌های ۷-",
+              "normalized": "است؟ درست مورد کدام بگیربد. نظر در را زير Ly‏ و Ly‏ زبان‌های 7-",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 2127,
+              "left": 196,
+              "right": 594,
+              "text": "۳ - ۳ 2۳ 3۳ له | < ]۰",
+              "normalized": "3 - 3 23 33 له | < ]0",
+              "candidates": [
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "markers": [
+            {
+              "top": 297,
+              "left": 1058,
+              "right": 1794,
+              "text": "است؟ درست مورد چند زبر ادعای چهار میان از ۸-",
+              "normalized": "است؟ درست مورد چند زبر ادعای چهار میان از 8-",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 1348,
+              "left": 191,
+              "right": 1794,
+              "text": "Deterministic Context Free Languages (DCFL)‏ قطعی متن از مستقل زبان‌های GUS‏ درخصوص ۰-",
+              "normalized": "Deterministic Context Free Languages (DCFL)‏ قطعی متن از مستقل زبان‌های GUS‏ درخصوص 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1743,
+              "left": 193,
+              "right": 1794,
+              "text": "دوره با [7]0 سیگنال فوربه سری باشد. z[n] = x[n].y[n]‏ و y[n]=‏ ۵+۲ و x{n] =sin =n‏ اگر ۵۱-",
+              "normalized": "دوره با [7]0 سیگنال فوربه سری باشد. z[n] = x[n].y[n]‏ و y[n]=‏ 5+2 و x{n] =sin =n‏ اگر 51-",
+              "candidates": [
+                51
+              ]
+            },
+            {
+              "top": 2165,
+              "left": 1190,
+              "right": 1794,
+              "text": "است؟ نادرست زیر جملات از کدام‌یک ۵۳-",
+              "normalized": "است؟ نادرست زیر جملات از کدام‌یک 53-",
+              "candidates": [
+                53
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "markers": [
+            {
+              "top": 425,
+              "left": 1369,
+              "right": 1695,
+              "text": "00- > Re(s) > -۱ 0‏",
+              "normalized": "00- > Re(s) > -1 0‏",
+              "candidates": [
+                0,
+                1
+              ]
+            },
+            {
+              "top": 555,
+              "left": 1367,
+              "right": 1700,
+              "text": "۲- > 6 (8) > 90+ ۲",
+              "normalized": "2- > 6 (8) > 90+ 2",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 716,
+              "left": 197,
+              "right": 1794,
+              "text": "H(z)‏ = .— ار ااست. 11 (2) آن 2 تبدیل و hin]‏ برابر علی LTT‏ سیستم یک ضربه پاسخ ۴-",
+              "normalized": "H(z)‏ = .- ار ااست. 11 (2) آن 2 تبدیل و hin]‏ برابر علی LTT‏ سیستم یک ضربه پاسخ 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 751,
+              "left": 320,
+              "right": 578,
+              "text": "۴-۲۳۵۲",
+              "normalized": "4-2352",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 912,
+              "left": 1625,
+              "right": 1695,
+              "text": "— 0",
+              "normalized": "- 0",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1347,
+              "left": 299,
+              "right": 1794,
+              "text": "است؟ plas eal X\"(j@)‏ 00 مقدار بنامیم. X (JO)‏ را زیر شکل در x(t)‏ سیگنال فوریه تبدیل اگر ۵-",
+              "normalized": "است؟ plas eal X\"(j@)‏ 00 مقدار بنامیم. X (JO)‏ را زیر شکل در x(t)‏ سیگنال فوریه تبدیل اگر 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1945,
+              "left": 483,
+              "right": 1794,
+              "text": "اتابی\n5\t1\t1\t1\t34\t19\t401\t1965\t69\t33\t68.123718\tایجاد\n5\t1\t1\t1\t34\t20\t318\t1965\t71\t35\t84.653381\tکنیم.\n5\t1\t1\t1\t34\t21\t248\t1965\t57\t35\t87.987518\tبرای\n5\t1\t1\t1\t34\t22\t193\t1965\t41\t35\t79.055687\tاين\n4\t1\t1\t1\t35\t0\t193\t2047\t1510\t37\t-1\t\n5\t1\t1\t1\t35\t1\t1662\t2043\t41\t45\t93.143730\tکار\n5\t1\t1\t1\t35\t2\t1594\t2043\t56\t45\t77.477493\tابندا\n5\t1\t1\t1\t35\t3\t1512\t2043\t61\t45\t75.928299\tلیست\n5\t1\t1\t1\t35\t4\t1482\t2048\t3\t26\t52.182838\t۱\n5\t1\t1\t1\t35\t5\t1445\t2047\t19\t35\t95.310333\tرا\n5\t1\t1\t1\t35\t6\t1407\t2043\t24\t45\t95.896751\tبا\n5\t1\t1\t1\t35\t7\t1332\t2043\t61\t45\t71.321106\tلیست\n5\t1\t1\t1\t35\t8\t1299\t2048\t8\t26\t93.172264\t۲\n5\t1\t1\t1\t35\t9\t1209\t2043\t70\t45\t89.426239\tادغام\n5\t1\t1\t1\t35\t10\t1083\t2043\t108\t45\t37.648487\tمی‌کنيم.\n5\t1\t1\t1\t35\t11\t1006\t2043\t53\t45\t93.266541\tسپس\n5\t1\t1\t1\t35\t12\t912\t2043\t76\t45\t48.866409\tلیست\n5\t1\t1\t1\t35\t13\t822\t2043\t66\t45\t69.607391\trole‏\n5\t1\t1\t1\t35\t14\t777\t2047\t16\t35\t92.955635\tرا\n5\t1\t1\t1\t35\t15\t740\t2043\t20\t45\t96.887520\tبا\n5\t1\t1\t1\t35\t16\t661\t2043\t65\t45\t60.574020\tلیست\n5\t1\t1\t1\t35\t17\t624\t2048\t12\t26\t91.379356\t۳\n5\t1\t1\t1\t35\t18\t597\t2060\t9\t22\t95.871521\tو\n5\t1\t1\t1\t35\t19\t552\t2043\t28\t45\t92.145660\tبه\n5\t1\t1\t1\t35\t20\t477\t2043\t61\t45\t84.978180\tهمین\n5\t1\t1\t1\t35\t21\t402\t2043\t55\t45\t93.051147\tروند\n5\t1\t1\t1\t35\t22\t320\t2043\t67\t45\t91.917297\tادامه\n5\t1\t1\t1\t35\t23\t193\t2043\t113\t45\t60.568382\tمی‌دهيم.\n4\t1\t1\t1\t36\t0\t974\t2110\t728\t37\t-1\t\n5\t1\t1\t1\t36\t1\t1641\t2111\t61\t36\t92.776939\tزمان\n5\t1\t1\t1\t36\t2\t1549\t2111\t80\t35\t89.933411\tاجرای\n5\t1\t1\t1\t36\t3\t1496\t2111\t42\t36\t64.313416\tاین\n5\t1\t1\t1\t36\t4\t1372\t2110\t112\t37\t50.622784\tالگوریتم\n5\t1\t1\t1\t36\t5\t1330\t2119\t30\t27\t93.195969\tدر\n5\t1\t1\t1\t36\t6\t1226\t2115\t93\t32\t73.800095\tبدترین\n5\t1\t1\t1\t36\t7\t1136\t2112\t79\t25\t63.736069\tحالت.\n5\t1\t1\t1\t36\t8\t1062\t2111\t62\t36\t56.386143\tIAS‏\n5\t1\t1\t1\t36\t9\t974\t2111\t76\t26\t89.214340\tاست؟\n4\t1\t1\t1\t37\t0\t812\t2169\t883\t41\t-1\t\n5\t1\t1\t1\t37\t1\t1478\t2169\t172\t41\t90.102959\tO(klogn)\n5\t1\t1\t1\t37\t2\t1673\t2176\t22\t30\t77.913330\t0‏\n5\t1\t1\t1\t37\t3\t812\t2169\t131\t41\t60.998272\t9000\n4\t1\t1\t1\t38\t0\t789\t2234\t911\t41\t-1\t\n5\t1\t1\t1\t38\t1\t789\t2234\t105\t41\t92.226547\tO(nk)\n5\t1\t1\t1\t38\t2\t916\t2240\t27\t32\t45.675117\tcf\n5\t1\t1\t1\t38\t3\t1478\t2234\t172\t41\t16.838669\tO(nlogk)\n5\t1\t1\t1\t38\t4\t1673\t2241\t27\t30\t92.514397\t۳‏\n4\t1\t1\t1\t39\t0\t193\t2300\t1601\t42\t-1\t\n5\t1\t1\t1\t39\t1\t1735\t2306\t59\t26\t80.388878\t۷-\n5\t1\t1\t1\t39\t2\t1639\t2300\t63\t40\t68.192871\tآرایه\n5\t1\t1\t1\t39\t3\t1599\t2303\t27\t27\t93.269608\t۸\n5\t1\t1\t1\t39\t4\t1565\t2313\t23\t26\t92.756882\tبه\n5\t1\t1\t1\t39\t5\t1494\t2306\t58\t34\t88.854340\tطول\n5\t1\t1\t1\t39\t6\t1460\t2311\t20\t19\t67.872444 مرتب لیست و کنیم ادغام هم در را عنصر ۳ با هرکدام مرتب. Comal‏ »1 می‌خواهیم ۶-",
+              "normalized": "اتابی\n5\t1\t1\t1\t34\t19\t401\t1965\t69\t33\t68.123718\tایجاد\n5\t1\t1\t1\t34\t20\t318\t1965\t71\t35\t84.653381\tکنیم.\n5\t1\t1\t1\t34\t21\t248\t1965\t57\t35\t87.987518\tبرای\n5\t1\t1\t1\t34\t22\t193\t1965\t41\t35\t79.055687\tاين\n4\t1\t1\t1\t35\t0\t193\t2047\t1510\t37\t-1\t\n5\t1\t1\t1\t35\t1\t1662\t2043\t41\t45\t93.143730\tکار\n5\t1\t1\t1\t35\t2\t1594\t2043\t56\t45\t77.477493\tابندا\n5\t1\t1\t1\t35\t3\t1512\t2043\t61\t45\t75.928299\tلیست\n5\t1\t1\t1\t35\t4\t1482\t2048\t3\t26\t52.182838\t1\n5\t1\t1\t1\t35\t5\t1445\t2047\t19\t35\t95.310333\tرا\n5\t1\t1\t1\t35\t6\t1407\t2043\t24\t45\t95.896751\tبا\n5\t1\t1\t1\t35\t7\t1332\t2043\t61\t45\t71.321106\tلیست\n5\t1\t1\t1\t35\t8\t1299\t2048\t8\t26\t93.172264\t2\n5\t1\t1\t1\t35\t9\t1209\t2043\t70\t45\t89.426239\tادغام\n5\t1\t1\t1\t35\t10\t1083\t2043\t108\t45\t37.648487\tمی‌کنيم.\n5\t1\t1\t1\t35\t11\t1006\t2043\t53\t45\t93.266541\tسپس\n5\t1\t1\t1\t35\t12\t912\t2043\t76\t45\t48.866409\tلیست\n5\t1\t1\t1\t35\t13\t822\t2043\t66\t45\t69.607391\trole‏\n5\t1\t1\t1\t35\t14\t777\t2047\t16\t35\t92.955635\tرا\n5\t1\t1\t1\t35\t15\t740\t2043\t20\t45\t96.887520\tبا\n5\t1\t1\t1\t35\t16\t661\t2043\t65\t45\t60.574020\tلیست\n5\t1\t1\t1\t35\t17\t624\t2048\t12\t26\t91.379356\t3\n5\t1\t1\t1\t35\t18\t597\t2060\t9\t22\t95.871521\tو\n5\t1\t1\t1\t35\t19\t552\t2043\t28\t45\t92.145660\tبه\n5\t1\t1\t1\t35\t20\t477\t2043\t61\t45\t84.978180\tهمین\n5\t1\t1\t1\t35\t21\t402\t2043\t55\t45\t93.051147\tروند\n5\t1\t1\t1\t35\t22\t320\t2043\t67\t45\t91.917297\tادامه\n5\t1\t1\t1\t35\t23\t193\t2043\t113\t45\t60.568382\tمی‌دهيم.\n4\t1\t1\t1\t36\t0\t974\t2110\t728\t37\t-1\t\n5\t1\t1\t1\t36\t1\t1641\t2111\t61\t36\t92.776939\tزمان\n5\t1\t1\t1\t36\t2\t1549\t2111\t80\t35\t89.933411\tاجرای\n5\t1\t1\t1\t36\t3\t1496\t2111\t42\t36\t64.313416\tاین\n5\t1\t1\t1\t36\t4\t1372\t2110\t112\t37\t50.622784\tالگوریتم\n5\t1\t1\t1\t36\t5\t1330\t2119\t30\t27\t93.195969\tدر\n5\t1\t1\t1\t36\t6\t1226\t2115\t93\t32\t73.800095\tبدترین\n5\t1\t1\t1\t36\t7\t1136\t2112\t79\t25\t63.736069\tحالت.\n5\t1\t1\t1\t36\t8\t1062\t2111\t62\t36\t56.386143\tIAS‏\n5\t1\t1\t1\t36\t9\t974\t2111\t76\t26\t89.214340\tاست؟\n4\t1\t1\t1\t37\t0\t812\t2169\t883\t41\t-1\t\n5\t1\t1\t1\t37\t1\t1478\t2169\t172\t41\t90.102959\tO(klogn)\n5\t1\t1\t1\t37\t2\t1673\t2176\t22\t30\t77.913330\t0‏\n5\t1\t1\t1\t37\t3\t812\t2169\t131\t41\t60.998272\t9000\n4\t1\t1\t1\t38\t0\t789\t2234\t911\t41\t-1\t\n5\t1\t1\t1\t38\t1\t789\t2234\t105\t41\t92.226547\tO(nk)\n5\t1\t1\t1\t38\t2\t916\t2240\t27\t32\t45.675117\tcf\n5\t1\t1\t1\t38\t3\t1478\t2234\t172\t41\t16.838669\tO(nlogk)\n5\t1\t1\t1\t38\t4\t1673\t2241\t27\t30\t92.514397\t3‏\n4\t1\t1\t1\t39\t0\t193\t2300\t1601\t42\t-1\t\n5\t1\t1\t1\t39\t1\t1735\t2306\t59\t26\t80.388878\t7-\n5\t1\t1\t1\t39\t2\t1639\t2300\t63\t40\t68.192871\tآرایه\n5\t1\t1\t1\t39\t3\t1599\t2303\t27\t27\t93.269608\t8\n5\t1\t1\t1\t39\t4\t1565\t2313\t23\t26\t92.756882\tبه\n5\t1\t1\t1\t39\t5\t1494\t2306\t58\t34\t88.854340\tطول\n5\t1\t1\t1\t39\t6\t1460\t2311\t20\t19\t67.872444 مرتب لیست و کنیم ادغام هم در را عنصر 3 با هرکدام مرتب. Comal‏ »1 می‌خواهیم 6-",
+              "candidates": [
+                37,
+                37,
+                41,
+                41,
+                42,
+                7,
+                6,
+                1,
+                1,
+                1,
+                1,
+                1,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "markers": [
+            {
+              "top": 286,
+              "left": 638,
+              "right": 1794,
+              "text": "می‌دهد؟ نشان را T(n)‏ = ۲۲0۰ +| 10217 بازگشتی رابطه مرتبه گزینه کدام ۸-",
+              "normalized": "می‌دهد؟ نشان را T(n)‏ = 2200 +| 10217 بازگشتی رابطه مرتبه گزینه کدام 8-",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 1165,
+              "left": 193,
+              "right": 1794,
+              "text": "پیروی ٩‏ < ۲ نسبت قدر و ۸ اول جمله با هندسی تصاعد از آن‌ها فراوانی که دارد وجود کاراکتر 0 متن. یک در ۰-",
+              "normalized": "پیروی 9‏ < 2 نسبت قدر و 8 اول جمله با هندسی تصاعد از آن‌ها فراوانی که دارد وجود کاراکتر 0 متن. یک در 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1368,
+              "left": 655,
+              "right": 1700,
+              "text": "2)۲۲ + ۳( ۴ 2)۲۳ ۲۲-۲۱ -۲( ۳",
+              "normalized": "2)22 + 3( 4 2)23 22-21 -2( 3",
+              "candidates": [
+                22,
+                21
+              ]
+            },
+            {
+              "top": 1437,
+              "left": 888,
+              "right": 1794,
+              "text": "داریم: زیر ویژگی‌های با ,]۸۷ درخت ساختار یک کنید فرض ۶۱-",
+              "normalized": "داریم: زیر ویژگی‌های با ,]87 درخت ساختار یک کنید فرض 61-",
+              "candidates": [
+                61
+              ]
+            },
+            {
+              "top": 1883,
+              "left": 193,
+              "right": 1794,
+              "text": "ایجادشده کمینه پوشای درخت مورد در زیر گزینه‌های از کدام‌یک وزن‌دار و جهت بدون همبند گراف یک در ۲-",
+              "normalized": "ایجادشده کمینه پوشای درخت مورد در زیر گزینه‌های از کدام‌یک وزن‌دار و جهت بدون همبند گراف یک در 2-",
+              "candidates": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "markers": [
+            {
+              "top": 286,
+              "left": 193,
+              "right": 1794,
+              "text": "می‌دهد. نشان را مجزا صحبح ous ۲۰ fold‏ دودویی min-heap‏ یک A=‏ ] 3 ...وهی آرایه wus‏ فرض ۴-",
+              "normalized": "می‌دهد. نشان را مجزا صحبح ous 20 fold‏ دودویی min-heap‏ یک A=‏ ] 3 ...وهی آرایه wus‏ فرض 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 681,
+              "left": 193,
+              "right": 1795,
+              "text": "می‌شوند. Jo‏ زنجیره‌ای روش با تصادم‌ها آن در بگیربدکه نظر در را اسلات) خانه 9 با درهم‌سازی جدول یک ۵-",
+              "normalized": "می‌شوند. Jo‏ زنجیره‌ای روش با تصادم‌ها آن در بگیربدکه نظر در را اسلات) خانه 9 با درهم‌سازی جدول یک 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1434,
+              "left": 1583,
+              "right": 1699,
+              "text": "|— ۶",
+              "normalized": "|- 6",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1559,
+              "left": 193,
+              "right": 1794,
+              "text": "بخش چند به را منطقه گروه رهبر کنند. جست‌وجو گمشدگان یافتن برای را بزرگی کوه WL‏ نجاتگران از تیمی ۶-",
+              "normalized": "بخش چند به را منطقه گروه رهبر کنند. جست‌وجو گمشدگان یافتن برای را بزرگی کوه WL‏ نجاتگران از تیمی 6-",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1862,
+              "left": 193,
+              "right": 1795,
+              "text": "1۵۰0 ۰۸۰۰ ۰۱۲۰۵ و ۱۰۵6 به‌ترتیسب تکرار دفعات Lf ge 0 6 ba‏ حروف از حرف ۷۰۰۰ شامل متنی ۷-",
+              "normalized": "1500 0800 01205 و 1056 به‌ترتیسب تکرار دفعات Lf ge 0 6 ba‏ حروف از حرف 7000 شامل متنی 7-",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 2331,
+              "left": 1073,
+              "right": 1794,
+              "text": "نیست؟ SVM‏ روش وبژگی‌های جزو مورد کدام ۸-",
+              "normalized": "نیست؟ SVM‏ روش وبژگی‌های جزو مورد کدام 8-",
+              "candidates": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "markers": [
+            {
+              "top": 295,
+              "left": 193,
+              "right": 1794,
+              "text": "داشته وحود (Categorical)‏ دسته‌ای ویژگی زبادی تعداد که است مناسب زمانی زبر الگوربتم‌های از کدام‌یک ۹-",
+              "normalized": "داشته وحود (Categorical)‏ دسته‌ای ویژگی زبادی تعداد که است مناسب زمانی زبر الگوربتم‌های از کدام‌یک 9-",
+              "candidates": [
+                9
+              ]
+            },
+            {
+              "top": 553,
+              "left": 399,
+              "right": 1794,
+              "text": "نیست؟ (Sequence — to —sequence) Noi‏ به توالی زبانی مدل‌های کاستی‌های جزو مورد کدام ۰-",
+              "normalized": "نیست؟ (Sequence - to -sequence) Noi‏ به توالی زبانی مدل‌های کاستی‌های جزو مورد کدام 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 863,
+              "left": 704,
+              "right": 1794,
+              "text": "دارد؟ بستگی عاملی چه به کند. رفتار خوب بتواند اندازه چه کارگزار که این ۱-",
+              "normalized": "دارد؟ بستگی عاملی چه به کند. رفتار خوب بتواند اندازه چه کارگزار که این 1-",
+              "candidates": [
+                1
+              ]
+            },
+            {
+              "top": 1069,
+              "left": 193,
+              "right": 1794,
+              "text": "چند در را حالت 9 با محیط یک می‌تواند حالت بدترین در (LRTA\")‏ یادگیرنده بی‌درنگ *۸ کارگزار یک برای ۲-",
+              "normalized": "چند در را حالت 9 با محیط یک می‌تواند حالت بدترین در (LRTA\")‏ یادگیرنده بی‌درنگ *8 کارگزار یک برای 2-",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 1353,
+              "left": 894,
+              "right": 1794,
+              "text": "است؟ درست A’‏ الگوربتم درخصوص زیر موارد از تعداد چه ۳-",
+              "normalized": "است؟ درست A’‏ الگوربتم درخصوص زیر موارد از تعداد چه 3-",
+              "candidates": [
+                3
+              ]
+            },
+            {
+              "top": 1888,
+              "left": 191,
+              "right": 1794,
+              "text": "4 می‌تواند متغیر 18 از یک هر آن در که معکوس به‌صورت کمان سازگاری وارسی اجزای با CSP‏ مسئله Jo‏ در ۴-",
+              "normalized": "4 می‌تواند متغیر 18 از یک هر آن در که معکوس به‌صورت کمان سازگاری وارسی اجزای با CSP‏ مسئله Jo‏ در 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 2170,
+              "left": 193,
+              "right": 1795,
+              "text": "این نوع Wh‏ بهبود ماشین بادگیری از استفاده با می‌تواند (Agent Program)‏ عامل برنامه یک از بخش هر ۵-",
+              "normalized": "این نوع Wh‏ بهبود ماشین بادگیری از استفاده با می‌تواند (Agent Program)‏ عامل برنامه یک از بخش هر 5-",
+              "candidates": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "markers": [
+            {
+              "top": 409,
+              "left": 742,
+              "right": 1794,
+              "text": "است؟ زير حالت جدول ساده‌شده با متناظر حالت. نمودارهای از کدام‌یک ۶-",
+              "normalized": "است؟ زير حالت جدول ساده‌شده با متناظر حالت. نمودارهای از کدام‌یک 6-",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 529,
+              "left": 417,
+              "right": 707,
+              "text": "x=0 21 2-0 x=1‏",
+              "normalized": "x=0 21 2-0 x=1‏",
+              "candidates": [
+                2,
+                0
+              ]
+            },
+            {
+              "top": 1063,
+              "left": 585,
+              "right": 1695,
+              "text": "۱ ۱ ۱/۸ ۳ ]10 — ۸۵ fr (\\‏",
+              "normalized": "1 1 1/8 3 ]10 - 85 fr (\\‏",
+              "candidates": [
+                85
+              ]
+            },
+            {
+              "top": 1704,
+              "left": 239,
+              "right": 1794,
+              "text": "است؟ نیاز NOR CoS‏ تعداد چه حداقل به زیر رابطه ساخت برای است. موجود آن نقیض و prio‏ هر که فرض این با ۷-",
+              "normalized": "است؟ نیاز NOR CoS‏ تعداد چه حداقل به زیر رابطه ساخت برای است. موجود آن نقیض و prio‏ هر که فرض این با 7-",
+              "candidates": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "markers": [
+            {
+              "top": 295,
+              "left": 193,
+              "right": 1794,
+              "text": "ساخته Carry-Look Ahead‏ روش مبنای بر که می‌دهد نشان را چهاربیتی ترکیبی جمع‌کننده بک زیر شکل ۹-",
+              "normalized": "ساخته Carry-Look Ahead‏ روش مبنای بر که می‌دهد نشان را چهاربیتی ترکیبی جمع‌کننده بک زیر شکل 9-",
+              "candidates": [
+                9
+              ]
+            },
+            {
+              "top": 1265,
+              "left": 193,
+              "right": 1794,
+              "text": "خروجی به‌ترتیب Q,‏ و Qh‏ مدا ورودی X‏ اگر می‌سازيم. D-FF‏ دو با را زیر حالت نمودار با متناظر مدار ۰-",
+              "normalized": "خروجی به‌ترتیب Q,‏ و Qh‏ مدا ورودی X‏ اگر می‌سازيم. D-FF‏ دو با را زیر حالت نمودار با متناظر مدار 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1574,
+              "left": 214,
+              "right": 1550,
+              "text": "C Gir) (con) 7-0‏",
+              "normalized": "C Gir) (con) 7-0‏",
+              "candidates": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "markers": [
+            {
+              "top": 291,
+              "left": 193,
+              "right": 1794,
+              "text": "جدول که کنید فرض می‌توانید می‌دهد. نشان را (LUT: Look-Up Table)‏ جستجو حدول دو زین مدار ۱-",
+              "normalized": "جدول که کنید فرض می‌توانید می‌دهد. نشان را (LUT: Look-Up Table)‏ جستجو حدول دو زین مدار 1-",
+              "candidates": [
+                1
+              ]
+            },
+            {
+              "top": 2178,
+              "left": 192,
+              "right": 1794,
+              "text": "9 )/¥ GHz‏ کاری فرکانس دارای B‏ پردازنده و IPC=\\‏ و ۲ GHz‏ کاری انس فرک دارای ۸ پردازنده ۴-",
+              "normalized": "9 )/¥ GHz‏ کاری فرکانس دارای B‏ پردازنده و IPC=\\‏ و 2 GHz‏ کاری انس فرک دارای 8 پردازنده 4-",
+              "candidates": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "markers": [
+            {
+              "top": 289,
+              "left": 1019,
+              "right": 1795,
+              "text": "است؟ درست 1/00 روش‌های درخصوص مورد کدام ۵-",
+              "normalized": "است؟ درست 1/00 روش‌های درخصوص مورد کدام 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 749,
+              "left": 193,
+              "right": 1794,
+              "text": "AEX) ALU‏ در اجرا (ID)‏ عملوندها واکشی (IF)‏ دستور واکشی شامل مرحله‌ای پنج پایپ‌لاین پردازنده یک در ۶-",
+              "normalized": "AEX) ALU‏ در اجرا (ID)‏ عملوندها واکشی (IF)‏ دستور واکشی شامل مرحله‌ای پنج پایپ‌لاین پردازنده یک در 6-",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1395,
+              "left": 1033,
+              "right": 1794,
+              "text": "است؟ درست حافظه معماری درخصوص مورد کدام ۷-",
+              "normalized": "است؟ درست حافظه معماری درخصوص مورد کدام 7-",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 1910,
+              "left": 196,
+              "right": 1794,
+              "text": "۲۵۶ 1 آن ظرفیت که شده استفاده ۴-۱۵۷ انجمنی نهان حافظه از ۱6 حافظه ظرفیت با پردازنده یک در ۸-",
+              "normalized": "256 1 آن ظرفیت که شده استفاده 4-157 انجمنی نهان حافظه از 16 حافظه ظرفیت با پردازنده یک در 8-",
+              "candidates": [
+                4,
+                8,
+                157
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "markers": [
+            {
+              "top": 297,
+              "left": 313,
+              "right": 1794,
+              "text": "بو B,B, Agy A, Ag‏ می‌دهد؟ انجام را عملی چه روبه‌رو مدار ۹-",
+              "normalized": "بو B,B, Agy A, Ag‏ می‌دهد؟ انجام را عملی چه روبه‌رو مدار 9-",
+              "candidates": [
+                9
+              ]
+            },
+            {
+              "top": 888,
+              "left": 273,
+              "right": 865,
+              "text": "٩-۱ see ٩ 5.‏",
+              "normalized": "9-1 see 9 5.‏",
+              "candidates": [
+                9,
+                1
+              ]
+            },
+            {
+              "top": 1540,
+              "left": 566,
+              "right": 1794,
+              "text": "است؟ درست ایستا CMOS‏ فناوری در منطقی دروازه‌های برای زیر موارد از کدام‌یک 4—",
+              "normalized": "است؟ درست ایستا CMOS‏ فناوری در منطقی دروازه‌های برای زیر موارد از کدام‌یک 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 1857,
+              "left": 192,
+              "right": 1794,
+              "text": "ولتاژ کنید (فرض می‌شود؟ چقدر Out‏ گره نهایی ولتاژ «Vp‏ > ۲۷ < ,۲۷ فرض با و بدنه اثر از صرف‌نظر با ۱-",
+              "normalized": "ولتاژ کنید (فرض می‌شود؟ چقدر Out‏ گره نهایی ولتاژ «Vp‏ > 27 < ,27 فرض با و بدنه اثر از صرف‌نظر با 1-",
+              "candidates": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "page": 21,
+          "markers": [
+            {
+              "top": 297,
+              "left": 299,
+              "right": 1794,
+              "text": "A A‏ می‌کند؟ پیاده‌سازی را منطقی تابع چه yj‏ ترانزیستوری ساختار ۲-",
+              "normalized": "A A‏ می‌کند؟ پیاده‌سازی را منطقی تابع چه yj‏ ترانزیستوری ساختار 2-",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 1189,
+              "left": 477,
+              "right": 1699,
+              "text": "0-۸ می‌یابد. افزایش ۴",
+              "normalized": "0-8 می‌یابد. افزایش 4",
+              "candidates": [
+                0,
+                8
+              ]
+            },
+            {
+              "top": 1713,
+              "left": 193,
+              "right": 1794,
+              "text": "ورودی‌های دنباله از کدام‌یک ازای به گیت. ورودی‌های خازن‌های دشارژ و شارژ برای مصرفی انرژی از صرف‌نظر با ۴-",
+              "normalized": "ورودی‌های دنباله از کدام‌یک ازای به گیت. ورودی‌های خازن‌های دشارژ و شارژ برای مصرفی انرژی از صرف‌نظر با 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 2316,
+              "left": 217,
+              "right": 281,
+              "text": "ل-8",
+              "normalized": "ل-8",
+              "candidates": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "page": 22,
+          "markers": [
+            {
+              "top": 320,
+              "left": 192,
+              "right": 1795,
+              "text": "و صفر بین (رقابت fight‏ آبا و Come (latch)‏ لچ این نوع باشد. زیر به‌شرح ترانزیستورها G)‏ کنید فرض ۵-",
+              "normalized": "و صفر بین (رقابت fight‏ آبا و Come (latch)‏ لچ این نوع باشد. زیر به‌شرح ترانزیستورها G)‏ کنید فرض 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1274,
+              "left": 579,
+              "right": 1794,
+              "text": "نمی‌باشد؟ عامل سیستم یک بنیادین وظایف از زبر موارد از کدام‌یک تعربف. براساس ۶-",
+              "normalized": "نمی‌باشد؟ عامل سیستم یک بنیادین وظایف از زبر موارد از کدام‌یک تعربف. براساس 6-",
+              "candidates": [
+                6
+              ]
+            },
+            {
+              "top": 1596,
+              "left": 736,
+              "right": 1794,
+              "text": "چیست؟ ناهمگام برنامه‌نوبسی روش از برنامه‌نوبسی زبان‌های اصلی هدف ۷-",
+              "normalized": "چیست؟ ناهمگام برنامه‌نوبسی روش از برنامه‌نوبسی زبان‌های اصلی هدف 7-",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 1785,
+              "left": 800,
+              "right": 1794,
+              "text": "می‌شود؟ میسر چگونه فرایندها آدرس glad‏ از محافظت پیاده‌سازی ۸-",
+              "normalized": "می‌شود؟ میسر چگونه فرایندها آدرس glad‏ از محافظت پیاده‌سازی 8-",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 2115,
+              "left": 199,
+              "right": 1794,
+              "text": "دارد؟ مزیتی چه کاربری سطح ربسمان‌های با برنامه‌ها چندربسمانی پیاده‌سازی تک‌پردازنده تک‌هسته سیستم یک در 9۹-",
+              "normalized": "دارد؟ مزیتی چه کاربری سطح ربسمان‌های با برنامه‌ها چندربسمانی پیاده‌سازی تک‌پردازنده تک‌هسته سیستم یک در 99-",
+              "candidates": [
+                99
+              ]
+            }
+          ]
+        },
+        {
+          "page": 23,
+          "markers": [
+            {
+              "top": 295,
+              "left": 316,
+              "right": 1794,
+              "text": "بود؟ خواهد زیر گزینه plus shared‏ متغیر نهایی مقدار نماید. اجرا را زیر تابع ریسمان یک صورتیکه در ۰-",
+              "normalized": "بود؟ خواهد زیر گزینه plus shared‏ متغیر نهایی مقدار نماید. اجرا را زیر تابع ریسمان یک صورتیکه در 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1211,
+              "left": 352,
+              "right": 1699,
+              "text": "[quantum -16 (Shortest Remaining First)‏ باقی‌مانده کار کمترین ۴",
+              "normalized": "[quantum -16 (Shortest Remaining First)‏ باقی‌مانده کار کمترین 4",
+              "candidates": [
+                16
+              ]
+            },
+            {
+              "top": 1518,
+              "left": 193,
+              "right": 1794,
+              "text": "صفحه‌بندی و (Segmentation)‏ قطعه‌بندی سطحی دو حافظه مدیریت مکانیزم و بیتی ۱۶ معماری با پردازنده یک در ۲--",
+              "normalized": "صفحه‌بندی و (Segmentation)‏ قطعه‌بندی سطحی دو حافظه مدیریت مکانیزم و بیتی 16 معماری با پردازنده یک در 2--",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 1967,
+              "left": 193,
+              "right": 1794,
+              "text": "آهسته شروع آستانه مقدار و ۱1613 ly‏ اولیه 008651107) Window‏ اندازهُ TCP‏ اتصال یک در ۳-",
+              "normalized": "آهسته شروع آستانه مقدار و 11613 ly‏ اولیه 008651107) Window‏ اندازهُ TCP‏ اتصال یک در 3-",
+              "candidates": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "page": 24,
+          "markers": [
+            {
+              "top": 295,
+              "left": 947,
+              "right": 1794,
+              "text": "باشند: موجود زبر رکوردهای DNS‏ سامانة در کنید فرض ۴-",
+              "normalized": "باشند: موجود زبر رکوردهای DNS‏ سامانة در کنید فرض 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 981,
+              "left": 190,
+              "right": 1795,
+              "text": "Match Prefix Longest‏ قاعده از 1۳ Routing‏ فرایند در کنید فرض دارد. را زبر ارسال Jone‏ مسیریاب یک ۵-",
+              "normalized": "Match Prefix Longest‏ قاعده از 13 Routing‏ فرایند در کنید فرض دارد. را زبر ارسال Jone‏ مسیریاب یک 5-",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1763,
+              "left": 192,
+              "right": 1794,
+              "text": "مرورگر در کنید فرض می‌کند. وارد را WWW.example.com‏ نشانی خود مرورگر در بار نخستین برای کاربری ۶-",
+              "normalized": "مرورگر در کنید فرض می‌کند. وارد را WWW.example.com‏ نشانی خود مرورگر در بار نخستین برای کاربری 6-",
+              "candidates": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "page": 25,
+          "markers": [
+            {
+              "top": 295,
+              "left": 254,
+              "right": 1794,
+              "text": "است: کرده نقسیم زیر صورت به Segment‏ شش به را بایتی ۳۰۰۰ ply‏ یک فرستنده TCP‏ اتصال یک در ۷-",
+              "normalized": "است: کرده نقسیم زیر صورت به Segment‏ شش به را بایتی 3000 ply‏ یک فرستنده TCP‏ اتصال یک در 7-",
+              "candidates": [
+                7
+              ]
+            },
+            {
+              "top": 424,
+              "left": 1171,
+              "right": 1703,
+              "text": "۹۹٩‏ تا ۵۰۰ بابت‌های :Segment ۲ -‏",
+              "normalized": "999‏ تا 500 بابت‌های :Segment 2 -‏",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 488,
+              "left": 1143,
+              "right": 1703,
+              "text": "۱۴۹۹ تا ۱۰۰۰ بایت‌های :Segment ۲ —‏",
+              "normalized": "1499 تا 1000 بایت‌های :Segment 2 -‏",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 616,
+              "left": 1135,
+              "right": 1703,
+              "text": "۲۴۹۹ تا ۲۰۰۰ بایت‌های :Segment ۵ —‏",
+              "normalized": "2499 تا 2000 بایت‌های :Segment 5 -‏",
+              "candidates": [
+                5
+              ]
+            },
+            {
+              "top": 1257,
+              "left": 192,
+              "right": 1783,
+              "text": "صف این به را خود بسته‌های انبه. در درخواست ۱۰ نرخ با olay‏ هر . کاربر ۵ کنید فرض router‏ یک صف در ۸--",
+              "normalized": "صف این به را خود بسته‌های انبه. در درخواست 10 نرخ با olay‏ هر . کاربر 5 کنید فرض router‏ یک صف در 8--",
+              "candidates": [
+                8
+              ]
+            },
+            {
+              "top": 1518,
+              "left": 761,
+              "right": 1700,
+              "text": "0-۰۳۸۵ ۴ 2۲",
+              "normalized": "0-0385 4 22",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 1580,
+              "left": 769,
+              "right": 1794,
+              "text": "نیست؟ *71] مدل در (specialization)‏ ویژه‌سازی قابلیت از کدام‌یک 4-",
+              "normalized": "نیست؟ *71] مدل در (specialization)‏ ویژه‌سازی قابلیت از کدام‌یک 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 1643,
+              "left": 471,
+              "right": 1695,
+              "text": "15-۸ نوع از خاص ارتباط تعریف ) واقعی. دنیای وضعیت با داده پایگاه طراحی تناسب ۱)",
+              "normalized": "15-8 نوع از خاص ارتباط تعریف ) واقعی. دنیای وضعیت با داده پایگاه طراحی تناسب 1)",
+              "candidates": [
+                15,
+                8
+              ]
+            },
+            {
+              "top": 1775,
+              "left": 939,
+              "right": 1793,
+              "text": "است؟ رابطه‌ای. جبر عملگر چند ترکیب معادل زیر دستور ۰-",
+              "normalized": "است؟ رابطه‌ای. جبر عملگر چند ترکیب معادل زیر دستور 0-",
+              "candidates": [
+                0
+              ]
+            },
+            {
+              "top": 2155,
+              "left": 192,
+              "right": 1793,
+              "text": "این‌صورت در باشد. برقرار RyRy =D‏ رابطه و دهیم نمایش Ry‏ و ,13 با متناظراً را ۲7 و 17 رابطه‌های lod‏ اگر ۱-",
+              "normalized": "این‌صورت در باشد. برقرار RyRy =D‏ رابطه و دهیم نمایش Ry‏ و ,13 با متناظراً را 27 و 17 رابطه‌های lod‏ اگر 1-",
+              "candidates": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "page": 26,
+          "markers": [
+            {
+              "top": 293,
+              "left": 242,
+              "right": 1794,
+              "text": "است؟ درست مورد plas (A, B,C, D,‏ ما (۲ جدول برای داده‌شده تابعی وابستگی‌های مجموعه به توجه با ۲-",
+              "normalized": "است؟ درست مورد plas (A, B,C, D,‏ ما (2 جدول برای داده‌شده تابعی وابستگی‌های مجموعه به توجه با 2-",
+              "candidates": [
+                2
+              ]
+            },
+            {
+              "top": 780,
+              "left": 839,
+              "right": 1794,
+              "text": "است؟ درست مورد کدام داده‌شده. تابعی وابستگی‌های به توجه با ۳-",
+              "normalized": "است؟ درست مورد کدام داده‌شده. تابعی وابستگی‌های به توجه با 3-",
+              "candidates": [
+                3
+              ]
+            },
+            {
+              "top": 907,
+              "left": 809,
+              "right": 1702,
+              "text": "A4—> 1+, ۸3-۸۵4 , ۸3-1 - {A4}‏ وابستگی‌ها: مجموعه و",
+              "normalized": "A4-> 1+, 83-854 , 83-1 - {A4}‏ وابستگی‌ها: مجموعه و",
+              "candidates": [
+                83,
+                83,
+                854,
+                1
+              ]
+            },
+            {
+              "top": 1230,
+              "left": 743,
+              "right": 1794,
+              "text": "است؟ درست رابطه‌ای داده پایگاه در (Index)‏ شاخص مورد در کدام‌یک ۴-",
+              "normalized": "است؟ درست رابطه‌ای داده پایگاه در (Index)‏ شاخص مورد در کدام‌یک 4-",
+              "candidates": [
+                4
+              ]
+            },
+            {
+              "top": 1550,
+              "left": 800,
+              "right": 1795,
+              "text": "است؟ کدام زير داده‌های با 12 جدول بر 11 جدول تقسیم باقی‌مانده ۵-",
+              "normalized": "است؟ کدام زير داده‌های با 12 جدول بر 11 جدول تقسیم باقی‌مانده 5-",
+              "candidates": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "page": 27,
+          "markers": []
+        },
+        {
+          "page": 28,
+          "markers": []
+        }
+      ]
+    },
+    "computer_key": {
+      "name": "computer_key",
+      "path": "assets/source/answer_key_computer_1405.pdf",
+      "size_bytes": 115563,
+      "page_count": 1,
+      "pages": [
+        {
+          "page": 1,
+          "method": "ocr_fas_eng",
+          "text": "۱۴۰۵ ‏کلید سوالات آژ[مون کارشناسی ارشد - سال‎\n‏دفترچه‎ SS ‏مجموعه امتحانی عنوان دفترچه‎\n۱۳۵/۵ ‏مهندسی کامپیوتر دروس اختصاصی‎ - ۷\n‏گزینه شماره گزینه شماره گزینه شماره‎\n‏صحیح سوال صحیح سوال صحیح سوال‎\n۱ ۲ ۴۱ ۴ ۸۱ ۱\n۳ ۱ ۴۳ ۳ AY ۴\n۳ ۳ ۴۳ ۳ AY ۱\n۴ ۱ ۴۴ ۱ AF ۳\n۵ ۴ ۴۵ ۲ ۸۵ ۲\n۶ ۴ ۴۶ ۱ ۸۶ ۳\n۷ ۲ ۴۷ ۳ AV ۴\n۸ ۳ ۴۸ ۱ AA ۳\n٩ | ۴۹ ۴ Aa ۱\n۱۰ ۳ ۵۰ ۲ qo ۲\n۱۱ ۴ ۵۱ ۳ ٩۱ ۴\n۱۲ | or ۴ qr ۱\n۱۳ ۳ ۵۳ ۳ ۹۳ ۴\n۱۴ 1 or ۱ ۹۴ ۳\n10 1 oo ۳ ۹۵ ۳\n۱۶ ۴ oF ۴ 1 ۳\n۱۷ ۳ ov ۳ av ۴\n1A 1 OA ۱ ۹۸ ۳\n14 ۳ o4 ۴ ۹۹ ۱\nPo ۳ Fo ۲ loo ۱\n۳۱ ۴ ۶۱ ۳ lol ۴\nPP ۳ 2 ۱ ۱۰۲ ۳\n۳۳ 1 ۶۳ ۳ ۱۰۳ ۳\n۳۴ ۴ ۶۴ ۴ Jo ۱\nro ۳ ۶۵ ۱ loo OP\n۳۶ ۳ 2 ۳ ۱۰۶ ۴\n۳۷ 1 ۶۷ ۳ ley ۱\n۳۸ ۳ oA ۳ ۱۰۸ ۲\n۳۹ ۳ 2 ۱ ۱۰٩ ۴\nPo ۳ Yo ۴ ۱۱۰ ۲\n۳۱ | vi ۳ i 1\n۳۲ ۴ vr ۳ ۱۱۲ ۳\n۳۳ ۱ ۷۳ ۳ ۱۱۳ ۴\n۳۴ ۳ ۷۴ ۴ ۱۴ ۱\n۳۵ ۴ ۷۵ ۲ ۱۱۵ ۴\n۳۶ | ۷۶ ۱\n۳۷ ۴ vv ۳\n۳۸ ۳ ۷۸ ۳\n۳۹ ۴ ۷۹ ۳\n۴۰ 1 Ao ۴\n‏سازمان سنجش آموزش کشور‎"
+        }
+      ],
+      "marker_pages": []
+    },
+    "electrical_key": {
+      "name": "electrical_key",
+      "path": "assets/source/answer_key_electrical_1405.pdf",
+      "size_bytes": 131577,
+      "page_count": 1,
+      "pages": [
+        {
+          "page": 1,
+          "method": "ocr_fas_eng",
+          "text": "کلید سوالات آژ[مون کارشناسی ارشد - سال ۱۴۰۵\nمجموعه امتحانی عنوان دفترچه ‎SS‏ دفترچه\n۵۱ - مهندسی برق دروس اختصاصی ۳۳۵۸۵\nگزینه شماره گزینه شماره گزینه شماره گزینه شماره\nصحیح سوال صحیح سوال صحیح سوال صحیح سوال\n‎Al ۳ ۱۳۱ ۴‏ ۳ ۴۱ ۲ 1\n‎AP ۲۳ ۱۳۳ ۳‏ ۲۳ ۴۲ ۴ ۲۳\n۱ ۱۳۳ 1 ۸۳ 1 ۴۳ ۱ ۳\n‎AF ۴ ۱۳۴ ۲‏ ۴ ۴۴ ۳ ۴\n۳ ۱۳۵ ۲ ۸۵ 1 ۴۵ ۱ ۵\n۱ ۱۳۶ ۴ ۸۶ ۴ ۴۶ ۲ ۶\n‎AV 1 ۱۳۷ ۲۳‏ ۲۳ ۴۷ ۲ ۷\n‎AA ۳ ۱۳۸ ۴‏ ۳ ۴۸ ۱ ۸\n۳ ۱۳۹ ۲ ۸۹ ۲ ۴9 ۴ ۹\n‎lo ۳ Bo ۳ qo ۴ ۱۳۰ ۴‏\n۲۳ ۹۱ 1 ۵۱ ۳ ۱1\n‎iP ۱ ۵۲ ۳ ۹۲ !‏\n‎or ۴ qr 1‏ ۴ ۱۳\n‎or 1 ۹۴ ۴‏ ۲ ۱۴\n1 ۹۵ ۴ ۵۵ ۱ ۱۵\n1 ۹۶ ۳ ۵۶ ۳ ۳\n‎lv ۴ ۵۷ 1 qv ۳‏\n‎1A ۱ OA ۲ ۹۸ ۳‏\n۲۳ ۹۹ ۴ ۵۹ ۲ 14\n‎Po ۴ go ۲ loo ۴‏\n‎ri ۳ ۶۱ ۳ lol 1‏\n‎lor ۴‏ ۲۳ 2 ۲ ۳۲\n‎lor ۳‏ 1 2 | ۳۳\n‎lor 1‏ 1 ۶۴ ۳ ۳۴\n۲۳ 108 ۲ ۶۵ ۴ ۳۵\n۴ ۱۰۶ 1 2 ۴ ۳۶\n‎lov ۳‏ ۴ ۶۷ ۲ ۳۷\n‎oA ۳ ۱۰۸ ۲‏ ۳ ۳۸\n۲ 104 ۴ 749 | ۳۹\n‎Po ۲ Yo ۳ ۱۱۰ ۳‏\n۴ ۱۱۱ ۴ ۷1 ۳ ۳۱\n‎ve ۲ lip ۳‏ ۴ ۳۲\n1 ۱۱۳ ۳ ۷۳ ۱ ۳۳\n۲ ۱۱۴ 1 ۷۴ ۳ ۳۴\n۳ ۱۱۵ ۲ ۷۵ ۲ ۳۵\n۴ ۱۱۶ ۴ ۷۶ ۴ ۳۶\n‎liv ۲۳‏ ۳ ۷۷ ۱ ۳۷\n‎PA ۳ VA | ۱۳۱۸ ۲‏\n۲ ۳۱9 ۴ ۷۹ | ۳۹\n۱ ۱۲۰ ۲ ۸۰ ۲ ۴۰\nسازمان سنجش آموزش کشور"
+        }
+      ],
+      "marker_pages": []
+    }
   },
-  "computer_key": {
-    "name": "computer_key",
-    "path": "assets/source/answer_key_computer_1405.pdf",
-    "size_bytes": 115563,
-    "page_count": 1,
-    "pages": [
-      {
-        "page": 1,
-        "method": "ocr_fas_eng",
-        "text": "۱۴۰۵ ‏کلید سوالات آژ[مون کارشناسی ارشد - سال‎\n‏دفترچه‎ SS ‏مجموعه امتحانی عنوان دفترچه‎\n۱۳۵/۵ ‏مهندسی کامپیوتر دروس اختصاصی‎ - ۷\n‏گزینه شماره گزینه شماره گزینه شماره‎\n‏صحیح سوال صحیح سوال صحیح سوال‎\n۱ ۲ ۴۱ ۴ ۸۱ ۱\n۳ ۱ ۴۳ ۳ AY ۴\n۳ ۳ ۴۳ ۳ AY ۱\n۴ ۱ ۴۴ ۱ AF ۳\n۵ ۴ ۴۵ ۲ ۸۵ ۲\n۶ ۴ ۴۶ ۱ ۸۶ ۳\n۷ ۲ ۴۷ ۳ AV ۴\n۸ ۳ ۴۸ ۱ AA ۳\n٩ | ۴۹ ۴ Aa ۱\n۱۰ ۳ ۵۰ ۲ qo ۲\n۱۱ ۴ ۵۱ ۳ ٩۱ ۴\n۱۲ | or ۴ qr ۱\n۱۳ ۳ ۵۳ ۳ ۹۳ ۴\n۱۴ 1 or ۱ ۹۴ ۳\n10 1 oo ۳ ۹۵ ۳\n۱۶ ۴ oF ۴ 1 ۳\n۱۷ ۳ ov ۳ av ۴\n1A 1 OA ۱ ۹۸ ۳\n14 ۳ o4 ۴ ۹۹ ۱\nPo ۳ Fo ۲ loo ۱\n۳۱ ۴ ۶۱ ۳ lol ۴\nPP ۳ 2 ۱ ۱۰۲ ۳\n۳۳ 1 ۶۳ ۳ ۱۰۳ ۳\n۳۴ ۴ ۶۴ ۴ Jo ۱\nro ۳ ۶۵ ۱ loo OP\n۳۶ ۳ 2 ۳ ۱۰۶ ۴\n۳۷ 1 ۶۷ ۳ ley ۱\n۳۸ ۳ oA ۳ ۱۰۸ ۲\n۳۹ ۳ 2 ۱ ۱۰٩ ۴\nPo ۳ Yo ۴ ۱۱۰ ۲\n۳۱ | vi ۳ i 1\n۳۲ ۴ vr ۳ ۱۱۲ ۳\n۳۳ ۱ ۷۳ ۳ ۱۱۳ ۴\n۳۴ ۳ ۷۴ ۴ ۱۴ ۱\n۳۵ ۴ ۷۵ ۲ ۱۱۵ ۴\n۳۶ | ۷۶ ۱\n۳۷ ۴ vv ۳\n۳۸ ۳ ۷۸ ۳\n۳۹ ۴ ۷۹ ۳\n۴۰ 1 Ao ۴\n‏سازمان سنجش آموزش کشور‎"
-      }
-    ]
-  },
-  "electrical_key": {
-    "name": "electrical_key",
-    "path": "assets/source/answer_key_electrical_1405.pdf",
-    "size_bytes": 131577,
-    "page_count": 1,
-    "pages": [
-      {
-        "page": 1,
-        "method": "ocr_fas_eng",
-        "text": "کلید سوالات آژ[مون کارشناسی ارشد - سال ۱۴۰۵\nمجموعه امتحانی عنوان دفترچه ‎SS‏ دفترچه\n۵۱ - مهندسی برق دروس اختصاصی ۳۳۵۸۵\nگزینه شماره گزینه شماره گزینه شماره گزینه شماره\nصحیح سوال صحیح سوال صحیح سوال صحیح سوال\n‎Al ۳ ۱۳۱ ۴‏ ۳ ۴۱ ۲ 1\n‎AP ۲۳ ۱۳۳ ۳‏ ۲۳ ۴۲ ۴ ۲۳\n۱ ۱۳۳ 1 ۸۳ 1 ۴۳ ۱ ۳\n‎AF ۴ ۱۳۴ ۲‏ ۴ ۴۴ ۳ ۴\n۳ ۱۳۵ ۲ ۸۵ 1 ۴۵ ۱ ۵\n۱ ۱۳۶ ۴ ۸۶ ۴ ۴۶ ۲ ۶\n‎AV 1 ۱۳۷ ۲۳‏ ۲۳ ۴۷ ۲ ۷\n‎AA ۳ ۱۳۸ ۴‏ ۳ ۴۸ ۱ ۸\n۳ ۱۳۹ ۲ ۸۹ ۲ ۴9 ۴ ۹\n‎lo ۳ Bo ۳ qo ۴ ۱۳۰ ۴‏\n۲۳ ۹۱ 1 ۵۱ ۳ ۱1\n‎iP ۱ ۵۲ ۳ ۹۲ !‏\n‎or ۴ qr 1‏ ۴ ۱۳\n‎or 1 ۹۴ ۴‏ ۲ ۱۴\n1 ۹۵ ۴ ۵۵ ۱ ۱۵\n1 ۹۶ ۳ ۵۶ ۳ ۳\n‎lv ۴ ۵۷ 1 qv ۳‏\n‎1A ۱ OA ۲ ۹۸ ۳‏\n۲۳ ۹۹ ۴ ۵۹ ۲ 14\n‎Po ۴ go ۲ loo ۴‏\n‎ri ۳ ۶۱ ۳ lol 1‏\n‎lor ۴‏ ۲۳ 2 ۲ ۳۲\n‎lor ۳‏ 1 2 | ۳۳\n‎lor 1‏ 1 ۶۴ ۳ ۳۴\n۲۳ 108 ۲ ۶۵ ۴ ۳۵\n۴ ۱۰۶ 1 2 ۴ ۳۶\n‎lov ۳‏ ۴ ۶۷ ۲ ۳۷\n‎oA ۳ ۱۰۸ ۲‏ ۳ ۳۸\n۲ 104 ۴ 749 | ۳۹\n‎Po ۲ Yo ۳ ۱۱۰ ۳‏\n۴ ۱۱۱ ۴ ۷1 ۳ ۳۱\n‎ve ۲ lip ۳‏ ۴ ۳۲\n1 ۱۱۳ ۳ ۷۳ ۱ ۳۳\n۲ ۱۱۴ 1 ۷۴ ۳ ۳۴\n۳ ۱۱۵ ۲ ۷۵ ۲ ۳۵\n۴ ۱۱۶ ۴ ۷۶ ۴ ۳۶\n‎liv ۲۳‏ ۳ ۷۷ ۱ ۳۷\n‎PA ۳ VA | ۱۳۱۸ ۲‏\n۲ ۳۱9 ۴ ۷۹ | ۳۹\n۱ ۱۲۰ ۲ ۸۰ ۲ ۴۰\nسازمان سنجش آموزش کشور"
-      }
-    ]
-  }
+  "errors": {}
 }

@@ -1,0 +1,55 @@
+{
+  "page": 5,
+  "markers": [
+    {
+      "top": 941,
+      "left": 190,
+      "right": 1795,
+      "text": "21- Which of the following is NOT mentioned with reference to the Von Neumann",
+      "normalized": "21- Which of the following is NOT mentioned with reference to the Von Neumann",
+      "candidates": [
+        21
+      ]
+    },
+    {
+      "top": 1135,
+      "left": 190,
+      "right": 1800,
+      "text": "22- Which of the following best expresses the writer’s opinion about the inclusion of",
+      "normalized": "22- Which of the following best expresses the writer’s opinion about the inclusion of",
+      "candidates": [
+        22
+      ]
+    },
+    {
+      "top": 1476,
+      "left": 190,
+      "right": 946,
+      "text": "23- What does the passage mainly discuss?",
+      "normalized": "23- What does the passage mainly discuss?",
+      "candidates": [
+        23
+      ]
+    },
+    {
+      "top": 1723,
+      "left": 190,
+      "right": 1242,
+      "text": "24- According to the passage, which of the following is true?",
+      "normalized": "24- According to the passage, which of the following is true?",
+      "candidates": [
+        24
+      ]
+    },
+    {
+      "top": 2223,
+      "left": 190,
+      "right": 1796,
+      "text": "25- In which position marked by [1], [2], [3] or [4], can the following sentence best be",
+      "normalized": "25- In which position marked by [1], [2], [3] or [4], can the following sentence best be",
+      "candidates": [
+        25
+      ]
+    }
+  ]
+}

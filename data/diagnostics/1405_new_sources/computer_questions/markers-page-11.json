@@ -1,0 +1,45 @@
+{
+  "page": 11,
+  "markers": [
+    {
+      "top": 297,
+      "left": 1058,
+      "right": 1794,
+      "text": "است؟ درست مورد چند زبر ادعای چهار میان از ۸-",
+      "normalized": "است؟ درست مورد چند زبر ادعای چهار میان از 8-",
+      "candidates": [
+        8
+      ]
+    },
+    {
+      "top": 1348,
+      "left": 191,
+      "right": 1794,
+      "text": "Deterministic Context Free Languages (DCFL)‏ قطعی متن از مستقل زبان‌های GUS‏ درخصوص ۰-",
+      "normalized": "Deterministic Context Free Languages (DCFL)‏ قطعی متن از مستقل زبان‌های GUS‏ درخصوص 0-",
+      "candidates": [
+        0
+      ]
+    },
+    {
+      "top": 1743,
+      "left": 193,
+      "right": 1794,
+      "text": "دوره با [7]0 سیگنال فوربه سری باشد. z[n] = x[n].y[n]‏ و y[n]=‏ ۵+۲ و x{n] =sin =n‏ اگر ۵۱-",
+      "normalized": "دوره با [7]0 سیگنال فوربه سری باشد. z[n] = x[n].y[n]‏ و y[n]=‏ 5+2 و x{n] =sin =n‏ اگر 51-",
+      "candidates": [
+        51
+      ]
+    },
+    {
+      "top": 2165,
+      "left": 1190,
+      "right": 1794,
+      "text": "است؟ نادرست زیر جملات از کدام‌یک ۵۳-",
+      "normalized": "است؟ نادرست زیر جملات از کدام‌یک 53-",
+      "candidates": [
+        53
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page": 4,
+  "markers": [
+    {
+      "top": 941,
+      "left": 193,
+      "right": 1760,
+      "text": "16- The underlined word “improper” in paragraph 1 is closest in meaning to ................00068",
+      "normalized": "16- The underlined word “improper” in paragraph 1 is closest in meaning to ................00068",
+      "candidates": [
+        16
+      ]
+    },
+    {
+      "top": 1042,
+      "left": 193,
+      "right": 1418,
+      "text": "17- Which of the following best describes the function of paragraph 2?",
+      "normalized": "17- Which of the following best describes the function of paragraph 2?",
+      "candidates": [
+        17
+      ]
+    },
+    {
+      "top": 1390,
+      "left": 192,
+      "right": 1255,
+      "text": "18- Which of the following techniques is used in the passage?",
+      "normalized": "18- Which of the following techniques is used in the passage?",
+      "candidates": [
+        18
+      ]
+    },
+    {
+      "top": 1537,
+      "left": 192,
+      "right": 1781,
+      "text": "19- The passage provides sufficient information to answer which of the following questions?",
+      "normalized": "19- The passage provides sufficient information to answer which of the following questions?",
+      "candidates": [
+        19
+      ]
+    },
+    {
+      "top": 1824,
+      "left": 190,
+      "right": 1459,
+      "text": "20- Which of the following best describes the overall tone of the passage?",
+      "normalized": "20- Which of the following best describes the overall tone of the passage?",
+      "candidates": [
+        20
+      ]
+    }
+  ]
+}
