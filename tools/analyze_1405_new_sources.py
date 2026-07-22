@@ -5,6 +5,7 @@ import re
 import shutil
 import subprocess
 import tempfile
+import traceback
 from collections import defaultdict
 from pathlib import Path
 
@@ -142,12 +143,23 @@ def analyze(name: str, pdf: Path) -> dict:
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
-    results = {name: analyze(name, path) for name, path in SOURCES.items()}
+    results = {}
+    errors = {}
+    for name, path in SOURCES.items():
+        try:
+            results[name] = analyze(name, path)
+        except Exception:
+            errors[name] = traceback.format_exc()
+    payload = {"results": results, "errors": errors}
     (OUT / "analysis.json").write_text(
-        json.dumps(results, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(json.dumps({name: item["page_count"] for name, item in results.items()}))
+    (OUT / "errors.txt").write_text(
+        "\n\n".join(f"[{name}]\n{error}" for name, error in errors.items()) or "No errors\n",
+        encoding="utf-8",
+    )
+    print(json.dumps({"results": list(results), "errors": list(errors)}))
 
 
 if __name__ == "__main__":
