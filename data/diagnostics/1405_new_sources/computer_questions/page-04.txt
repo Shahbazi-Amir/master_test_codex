@@ -1,0 +1,49 @@
+PAGE: 4
+METHOD: ocr_fas_eng
+
+۴ ‏صفحه‎ 135A (YVY ‏مهندسی کامپیوتر (کد‎
+resources, protecting hardware, software, and data from improper use, loading programs
+and functions into main storage as required, passing control from one job to another under
+priority systems, providing error correction routines, maintaining a complete record of all
+process activities, and communicating with the computer operator.
+
+Operating systems have evolved over time, driven by hardware advancements and
+application needs. Initially, computers were programmed directly with machine
+instructions or assembly code, with no controls over system use. The first OS challenge
+was to enable transitioning from one job to another without stopping the machine,
+entering a new program, and restarting. The batch operating system concept provided a
+solution by allowing operators to load several jobs at once, which the system then
+executed sequentially, taking control between jobs to set up hardware and release control
+to the next job.
+
+16- The underlined word “improper” in paragraph 1 is closest in meaning to ..............seeee0e
+1) potential 2) peripheral 3) consequent 4) inappropriate
+17- Which of the following best describes the function of paragraph 2?
+1) It explains a fact which in a way undermines the main argument of the previous
+paragraph.
+2) It elaborates on the potential of a computer system to pave the way for future
+advancements.
+3) It refers to the historical development of a computer system mentioned in paragraph 1.
+4) It demonstrates the initial steps taken for the manufacturing of computer hardwares.
+18- Which of the following techniques is used in the passage?
+1) Cause and effect 2) Irony
+3) Direct quotation 4) Statistics
+19- The passage provides sufficient information to answer which of the following questions?
+I. In which country was the first computer introduced?
+II. What is the name of the most common error in computer systems?
+III. What was among the first problems operating systems needed to solve?
+1) Land II 2) ] and III
+3) Only I 4) Only II
+20- Which of the following best describes the overall tone of the passage?
+1) Passionate 2) Objective
+3) Humorous 4) Ambivalent
+PASSAGE 3:
+Named after mathematician and computer scientist John von Neumann, the Von
+Neumann architecture features a single memory space for both data and instructions,
+which are fetched and executed sequentially. This means that programs and data are
+stored in the same memory, allowing for flexible and easy modification of programs. But
+instructions are also fetched and executed one at a time, which creates a bottleneck where
+the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von
+Neumann bottleneck. To address this, modern CPUs employ techniques like caching and
+pipelining to improve efficiency. Still, the Von Neumann architecture remains highly
+relevant and influential in computer design. [2] Von Neumann’s architecture introduced
