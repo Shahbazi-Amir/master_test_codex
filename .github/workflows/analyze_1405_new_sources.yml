@@ -8,6 +8,7 @@ on:
       - assets/source/answer_key_computer_1405.pdf
       - assets/source/answer_key_electrical_1405.pdf
       - tools/analyze_1405_new_sources.py
+      - tools/scan_1405_key_tables.py
       - .github/workflows/analyze_1405_new_sources.yml
   pull_request:
     branches: [main]
@@ -16,6 +17,7 @@ on:
       - assets/source/answer_key_computer_1405.pdf
       - assets/source/answer_key_electrical_1405.pdf
       - tools/analyze_1405_new_sources.py
+      - tools/scan_1405_key_tables.py
       - .github/workflows/analyze_1405_new_sources.yml
       - data/diagnostics/1405_new_sources/.trigger
   workflow_dispatch:
@@ -39,7 +41,9 @@ jobs:
           sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-fas
 
       - name: Analyze sources
-        run: python tools/analyze_1405_new_sources.py
+        run: |
+          python tools/analyze_1405_new_sources.py
+          python tools/scan_1405_key_tables.py
 
       - name: Commit diagnostics
         run: |
