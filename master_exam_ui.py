@@ -69,7 +69,6 @@ html, body, [class*="css"] { direction: rtl; text-align: right; }
 """, unsafe_allow_html=True)
 
 
-@st.cache_data
 def load_exams():
     result = []
     for path in sorted((ROOT / "data/questions").rglob("exam_*.json")):
