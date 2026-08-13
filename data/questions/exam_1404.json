@@ -1,0 +1,2372 @@
+{
+  "exam_code": "1251",
+  "year": 1404,
+  "title": "آزمون کارشناسی ارشد مهندسی برق ۱۴۰۴",
+  "booklet_code": "535C",
+  "total_questions": 125,
+  "duration_minutes": 250,
+  "source_pdf": "assets/source/arshad_bargh_1404_1251.pdf",
+  "image_policy": "Each question has a lossless copy of its complete official source page to avoid cutting formulas, diagrams, passages, or choices.",
+  "questions": [
+    {
+      "number": 1,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲، independent.** صفت *independent* به معنی «مستقل» است و با توصیف زنی قوی و ماجراجو سازگار است. سه گزینهٔ دیگر از نظر معنا در این بافت مناسب نیستند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "My mother was a very strong, .......... woman who was a real adventurer in love with the arts and sports.",
+      "choice_texts": [
+        "consecutive",
+        "independent",
+        "enforced",
+        "subsequent"
+      ]
+    },
+    {
+      "number": 2,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، layer.** ترکیب ثابت *ozone layer* به معنی «لایهٔ اوزون» است؛ این لایه از حیات روی زمین محافظت می‌کند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "The weakened ozone .........., which is vital to protecting life on Earth, is on track to be restored to full strength within decades.",
+      "choice_texts": [
+        "layer",
+        "level",
+        "brim",
+        "ingredient"
+      ]
+    },
+    {
+      "number": 3,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴، a guilty.** ترکیب درست *guilty feelings* یعنی «احساس عذاب وجدان»؛ فهرست دستورها قرار است احساس گناه والدین از سپردن کودک به دیگری را کاهش دهد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Reading about the extensive food directives some parents leave for their babysitters, I was wondering if these lists are meant to ease .......... feeling for leaving the children in someone else’s care.",
+      "choice_texts": [
+        "an affectionate",
+        "a misguided",
+        "an undisturbed",
+        "a guilty"
+      ]
+    },
+    {
+      "number": 4,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": "**گزینهٔ ۳، handicap.** ناشنوایی یک محدودیت یا *handicap* است که شخصیت داستان باید بر آن غلبه کند. *ambition* هدف اوست، نه مانع او.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "He is struck deaf by disease at an early age, but in rigorous and refreshingly unsentimental fashion, he learns to overcome his .......... so that he can keep alive the dream of becoming a physician like his father.",
+      "choice_texts": [
+        "ambition",
+        "incompatibility",
+        "handicap",
+        "roughness"
+      ]
+    },
+    {
+      "number": 5,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، anticipate.** تولیدکنندگان با پیش‌بینی نیازهای فصل پاییز خرید می‌کنند؛ بنابراین *anticipate their needs* از نظر معنا و ساختار درست است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "With cloak and suit manufacturers beginning to .......... their needs for the fall season, trading in the wool goods market showed signs of improvement this week.",
+      "choice_texts": [
+        "anticipate",
+        "nullify",
+        "revile",
+        "compliment"
+      ]
+    },
+    {
+      "number": 6,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": "**گزینهٔ ۳، conspicuous.** مجسمه‌ها ردپایی آشکار و قابل‌مشاهده در تاریخ می‌گذارند؛ *conspicuous* دقیقاً همین معنا را می‌رساند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Sculptors leave highly .......... footprints in the sand of time, and millions of people who never heard the name of Augustus Saint-Gaudens are well-acquainted with his two statues of Lincoln.",
+      "choice_texts": [
+        "insipid",
+        "sinister",
+        "conspicuous",
+        "reclusive"
+      ]
+    },
+    {
+      "number": 7,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴، adhere.** ساخت درست *adhere closely to rules* یعنی «دقیقاً به مقررات پایبند بودن» است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "To avoid liability, officers were told that they need to .......... closely to established department rules and demonstrate that probable cause for an arrest or the issuance of a summons existed.",
+      "choice_texts": [
+        "recapitulate",
+        "confide",
+        "hinder",
+        "adhere"
+      ]
+    },
+    {
+      "number": 8,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲، was introduced.** مسابقه «معرفی/برگزار شد»، پس جمله به مجهول گذشتهٔ ساده نیاز دارد: *was introduced*.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Choose the best option for blank (8).",
+      "choice_texts": [
+        "was introducing",
+        "was introduced",
+        "introduced",
+        "has been introducing"
+      ],
+      "context": "The first organized international competition involving winter sports .......... (8) just five years after the birth of the modern Olympics in 1896. Known as the Nordic Games, this competition included athletes predominantly from countries such as Norway and Sweden. It was held eight times between 1901 and 1926, .......... (9) all but one time. Figure skating was included in the Olympics for the first time in the 1908 Summer Games in London. .......... (10) the skating competition was not actually held until October, some three months after the other events were over."
+    },
+    {
+      "number": 9,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، with Stockholm hosting.** ساخت *with + noun + -ing* یک عبارت همراهی می‌سازد و اطلاعات تکمیلی دربارهٔ میزبانی استکهلم می‌دهد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Choose the best option for blank (9).",
+      "choice_texts": [
+        "with Stockholm hosting",
+        "and Stockholm hosting",
+        "that Stockholm hosted",
+        "Stockholm hosted"
+      ],
+      "context": "The first organized international competition involving winter sports .......... (8) just five years after the birth of the modern Olympics in 1896. Known as the Nordic Games, this competition included athletes predominantly from countries such as Norway and Sweden. It was held eight times between 1901 and 1926, .......... (9) all but one time. Figure skating was included in the Olympics for the first time in the 1908 Summer Games in London. .......... (10) the skating competition was not actually held until October, some three months after the other events were over."
+    },
+    {
+      "number": 10,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲، although.** پس از جای خالی یک بند کامل می‌آید و رابطهٔ معنایی تضاد است؛ *although* هم حرف ربط تضاد است و هم می‌تواند بند کامل را معرفی کند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Choose the best option for blank (10).",
+      "choice_texts": [
+        "despite",
+        "although",
+        "otherwise",
+        "notwithstanding"
+      ],
+      "context": "The first organized international competition involving winter sports .......... (8) just five years after the birth of the modern Olympics in 1896. Known as the Nordic Games, this competition included athletes predominantly from countries such as Norway and Sweden. It was held eight times between 1901 and 1926, .......... (9) all but one time. Figure skating was included in the Olympics for the first time in the 1908 Summer Games in London. .......... (10) the skating competition was not actually held until October, some three months after the other events were over."
+    },
+    {
+      "number": 11,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": "**گزینهٔ ۳، produced.** در متن، *generated by currents* یعنی میدان‌های مغناطیسی «تولیدشده» به‌وسیلهٔ جریان‌ها؛ نزدیک‌ترین هم‌معنا *produced* است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "The underlined word “generated” in paragraph 1 is closest in meaning to ..........",
+      "choice_texts": [
+        "identified",
+        "controlled",
+        "produced",
+        "analyzed"
+      ],
+      "context": "Electricity and magnetism were regarded as distinct phenomena for quite a while. However, as scientists started studying electrodynamics, they noticed that current-carrying wires could be affected by magnets, and also that magnetic fields could be generated by currents. Somehow electricity and magnetism were linked. Formally, electromagnetism is the field of physics that looks at how magnetic fields can affect moving electric charges and how changing magnetic fields can induce electric currents. It also looks at how magnetic fields can be generated by electric fields or electric currents. It even explains the origin of electromagnetic radiation. Ultimately, electromagnetism describes electricity and magnetism within one single framework as two manifestations of the same fundamental electromagnetic force.\n\nWhen learning about electricity and magnetism, you might hear the term “field” come up a lot. But what is an electric field or a magnetic field? A field is a way to describe the effects or influence that a particular type of force has in a way that is independent of what that force might act upon. For example, the effect of the gravitational force that the Earth exerts on objects in its vicinity can be represented by a vector at each point in space around Earth."
+    },
+    {
+      "number": 12,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴، electromagnetism.** ضمیر *it* فاعل جملهٔ بعدی است و به موضوع اصلی جمله‌های قبل، یعنی *electromagnetism*، برمی‌گردد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "The underlined word “it” in paragraph 1 refers to ..........",
+      "choice_texts": [
+        "electricity",
+        "radiation",
+        "origin",
+        "electromagnetism"
+      ],
+      "context": "Electricity and magnetism were regarded as distinct phenomena for quite a while. However, as scientists started studying electrodynamics, they noticed that current-carrying wires could be affected by magnets, and also that magnetic fields could be generated by currents. Somehow electricity and magnetism were linked. Formally, electromagnetism is the field of physics that looks at how magnetic fields can affect moving electric charges and how changing magnetic fields can induce electric currents. It also looks at how magnetic fields can be generated by electric fields or electric currents. It even explains the origin of electromagnetic radiation. Ultimately, electromagnetism describes electricity and magnetism within one single framework as two manifestations of the same fundamental electromagnetic force.\n\nWhen learning about electricity and magnetism, you might hear the term “field” come up a lot. But what is an electric field or a magnetic field? A field is a way to describe the effects or influence that a particular type of force has in a way that is independent of what that force might act upon. For example, the effect of the gravitational force that the Earth exerts on objects in its vicinity can be represented by a vector at each point in space around Earth."
+    },
+    {
+      "number": 13,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲، Studying electrodynamics.** متن می‌گوید دانشمندان هنگام مطالعهٔ الکترودینامیک اثر متقابل جریان و میدان مغناطیسی را دیدند؛ همین مشاهده پیوند دو پدیده را نشان داد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to paragraph 1, which of the following in a way demonstrated that electricity and magnetism are not unrelated?",
+      "choice_texts": [
+        "Discovery of current-carrying wires",
+        "Studying electrodynamics",
+        "Further progress in electromagnetism",
+        "Discovery of electromagnetic radiation"
+      ],
+      "context": "Electricity and magnetism were regarded as distinct phenomena for quite a while. However, as scientists started studying electrodynamics, they noticed that current-carrying wires could be affected by magnets, and also that magnetic fields could be generated by currents. Somehow electricity and magnetism were linked. Formally, electromagnetism is the field of physics that looks at how magnetic fields can affect moving electric charges and how changing magnetic fields can induce electric currents. It also looks at how magnetic fields can be generated by electric fields or electric currents. It even explains the origin of electromagnetic radiation. Ultimately, electromagnetism describes electricity and magnetism within one single framework as two manifestations of the same fundamental electromagnetic force.\n\nWhen learning about electricity and magnetism, you might hear the term “field” come up a lot. But what is an electric field or a magnetic field? A field is a way to describe the effects or influence that a particular type of force has in a way that is independent of what that force might act upon. For example, the effect of the gravitational force that the Earth exerts on objects in its vicinity can be represented by a vector at each point in space around Earth."
+    },
+    {
+      "number": 14,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، circuits.** واژه‌های *wires*، *framework* و *vector* صریحاً در متن آمده‌اند، اما *circuits* ذکر نشده است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "All of the following words are mentioned in the passage EXCEPT ..........",
+      "choice_texts": [
+        "circuits",
+        "wires",
+        "framework",
+        "vector"
+      ],
+      "context": "Electricity and magnetism were regarded as distinct phenomena for quite a while. However, as scientists started studying electrodynamics, they noticed that current-carrying wires could be affected by magnets, and also that magnetic fields could be generated by currents. Somehow electricity and magnetism were linked. Formally, electromagnetism is the field of physics that looks at how magnetic fields can affect moving electric charges and how changing magnetic fields can induce electric currents. It also looks at how magnetic fields can be generated by electric fields or electric currents. It even explains the origin of electromagnetic radiation. Ultimately, electromagnetism describes electricity and magnetism within one single framework as two manifestations of the same fundamental electromagnetic force.\n\nWhen learning about electricity and magnetism, you might hear the term “field” come up a lot. But what is an electric field or a magnetic field? A field is a way to describe the effects or influence that a particular type of force has in a way that is independent of what that force might act upon. For example, the effect of the gravitational force that the Earth exerts on objects in its vicinity can be represented by a vector at each point in space around Earth."
+    },
+    {
+      "number": 15,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": "**گزینهٔ ۳.** متن صریحاً می‌گوید الکترومغناطیس، الکتریسیته و مغناطیس را دو نمود یک نیروی بنیادی واحد توصیف می‌کند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to the passage, which of the following statements is true?",
+      "choice_texts": [
+        "The effect of the gravitational force that the Earth exerts is greater on the objects which are far away from it.",
+        "A field is said to be the influences of a specific kind of force, dependent on the objects upon which that force may act.",
+        "Electromagnetism presents electricity and magnetism as two aspects of the same fundamental electromagnetic force.",
+        "Electromagnetism is unable to explain the origin of electromagnetic radiation and the way currents are produced."
+      ],
+      "context": "Electricity and magnetism were regarded as distinct phenomena for quite a while. However, as scientists started studying electrodynamics, they noticed that current-carrying wires could be affected by magnets, and also that magnetic fields could be generated by currents. Somehow electricity and magnetism were linked. Formally, electromagnetism is the field of physics that looks at how magnetic fields can affect moving electric charges and how changing magnetic fields can induce electric currents. It also looks at how magnetic fields can be generated by electric fields or electric currents. It even explains the origin of electromagnetic radiation. Ultimately, electromagnetism describes electricity and magnetism within one single framework as two manifestations of the same fundamental electromagnetic force.\n\nWhen learning about electricity and magnetism, you might hear the term “field” come up a lot. But what is an electric field or a magnetic field? A field is a way to describe the effects or influence that a particular type of force has in a way that is independent of what that force might act upon. For example, the effect of the gravitational force that the Earth exerts on objects in its vicinity can be represented by a vector at each point in space around Earth."
+    },
+    {
+      "number": 16,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴، transform.** *convert ... into ...* یعنی چیزی را به چیز دیگری «تبدیل کردن»؛ نزدیک‌ترین گزینه *transform* است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "The underlined word “convert” in paragraph 1 is closest in meaning to ..........",
+      "choice_texts": [
+        "push",
+        "capture",
+        "carry",
+        "transform"
+      ],
+      "context": "Graphene could revolutionize future technologies making transparent and flexible solar panels, foldable mobile phones or ultrathin computers a reality. Now researchers from Spain, Germany, and the US think they have taken one of the first important steps along the way. Frank H. L. Koppens of the Institut de Ciències Fotòniques (ICFO) in Spain, along with colleagues from MIT and Harvard University, have found that graphene is able to convert a single absorbed photon into multiple electrons. Graphene is currently being employed as an alternative to semiconducting materials for light-to-electricity conversion, but the finding indicates that the material could be more efficient than thought.\n\n“In most materials, one absorbed photon generates one electron, but in the case of graphene, one absorbed photon is able to produce many excited electrons, and therefore generate larger electrical signals,” explains Koppens. “We have found that this process is very efficient: more than 80% of light energy is converted.” Instead of losing excess energy as heat when a photon is absorbed, graphene uses the extra to generate secondary ‘hot’ electrons. These ‘hot’ or excited electrons can drive a current, making graphene an alternative material for light harvesting photovoltaic devices or photodetection. The reason for graphene’s highly efficient extraction of light energy lies in its unique physical nature. Doped graphene can be thought of as a mixture of a semiconductor, where properties are determined by the behavior of electrons and holes in the conduction and valence bands, and a metal, in which they depend upon the Fermi level."
+    },
+    {
+      "number": 17,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱.** متن می‌گوید گرافن هم‌اکنون به‌عنوان جایگزین مواد نیمه‌رسانا در تبدیل نور به برق به کار می‌رود؛ پس این کاربرد از قبل برقرار بوده است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to paragraph 1, what is an already-established function of graphene?",
+      "choice_texts": [
+        "A replacement for semiconducting materials in certain cases",
+        "A new source of generating light without any necessary input",
+        "A new technology so efficient that it has replaced solar panels of any kind",
+        "An alternative way of producing mobile phones with minimal cost"
+      ],
+      "context": "Graphene could revolutionize future technologies making transparent and flexible solar panels, foldable mobile phones or ultrathin computers a reality. Now researchers from Spain, Germany, and the US think they have taken one of the first important steps along the way. Frank H. L. Koppens of the Institut de Ciències Fotòniques (ICFO) in Spain, along with colleagues from MIT and Harvard University, have found that graphene is able to convert a single absorbed photon into multiple electrons. Graphene is currently being employed as an alternative to semiconducting materials for light-to-electricity conversion, but the finding indicates that the material could be more efficient than thought.\n\n“In most materials, one absorbed photon generates one electron, but in the case of graphene, one absorbed photon is able to produce many excited electrons, and therefore generate larger electrical signals,” explains Koppens. “We have found that this process is very efficient: more than 80% of light energy is converted.” Instead of losing excess energy as heat when a photon is absorbed, graphene uses the extra to generate secondary ‘hot’ electrons. These ‘hot’ or excited electrons can drive a current, making graphene an alternative material for light harvesting photovoltaic devices or photodetection. The reason for graphene’s highly efficient extraction of light energy lies in its unique physical nature. Doped graphene can be thought of as a mixture of a semiconductor, where properties are determined by the behavior of electrons and holes in the conduction and valence bands, and a metal, in which they depend upon the Fermi level."
+    },
+    {
+      "number": 18,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲.** گرافن انرژی اضافی را که معمولاً به گرما تلف می‌شود برای ساخت الکترون‌های ثانویهٔ برانگیخته یا «داغ» مصرف می‌کند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to paragraph 2, ‘hot’ electrons ..........",
+      "choice_texts": [
+        "is the name applied to all electrons generated by graphene",
+        "are electrons generated by graphene from excess energy otherwise lost as heat",
+        "refers to a specific type of electron used as an input for graphene with an 80% efficiency",
+        "play an insignificant role in the final energy efficiency of the devices that use graphene"
+      ],
+      "context": "Graphene could revolutionize future technologies making transparent and flexible solar panels, foldable mobile phones or ultrathin computers a reality. Now researchers from Spain, Germany, and the US think they have taken one of the first important steps along the way. Frank H. L. Koppens of the Institut de Ciències Fotòniques (ICFO) in Spain, along with colleagues from MIT and Harvard University, have found that graphene is able to convert a single absorbed photon into multiple electrons. Graphene is currently being employed as an alternative to semiconducting materials for light-to-electricity conversion, but the finding indicates that the material could be more efficient than thought.\n\n“In most materials, one absorbed photon generates one electron, but in the case of graphene, one absorbed photon is able to produce many excited electrons, and therefore generate larger electrical signals,” explains Koppens. “We have found that this process is very efficient: more than 80% of light energy is converted.” Instead of losing excess energy as heat when a photon is absorbed, graphene uses the extra to generate secondary ‘hot’ electrons. These ‘hot’ or excited electrons can drive a current, making graphene an alternative material for light harvesting photovoltaic devices or photodetection. The reason for graphene’s highly efficient extraction of light energy lies in its unique physical nature. Doped graphene can be thought of as a mixture of a semiconductor, where properties are determined by the behavior of electrons and holes in the conduction and valence bands, and a metal, in which they depend upon the Fermi level."
+    },
+    {
+      "number": 19,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": "**گزینهٔ ۳، The advantage of graphene.** پاراگراف دوم بر بازده بالا، تولید چند الکترون و جلوگیری از اتلاف انرژی تمرکز دارد؛ همهٔ این موارد مزیت‌های گرافن‌اند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "What does paragraph 2 mainly discuss?",
+      "choice_texts": [
+        "The potential risks of graphene",
+        "The origin of graphene",
+        "The advantage of graphene",
+        "The challenge facing graphene technology"
+      ],
+      "context": "Graphene could revolutionize future technologies making transparent and flexible solar panels, foldable mobile phones or ultrathin computers a reality. Now researchers from Spain, Germany, and the US think they have taken one of the first important steps along the way. Frank H. L. Koppens of the Institut de Ciències Fotòniques (ICFO) in Spain, along with colleagues from MIT and Harvard University, have found that graphene is able to convert a single absorbed photon into multiple electrons. Graphene is currently being employed as an alternative to semiconducting materials for light-to-electricity conversion, but the finding indicates that the material could be more efficient than thought.\n\n“In most materials, one absorbed photon generates one electron, but in the case of graphene, one absorbed photon is able to produce many excited electrons, and therefore generate larger electrical signals,” explains Koppens. “We have found that this process is very efficient: more than 80% of light energy is converted.” Instead of losing excess energy as heat when a photon is absorbed, graphene uses the extra to generate secondary ‘hot’ electrons. These ‘hot’ or excited electrons can drive a current, making graphene an alternative material for light harvesting photovoltaic devices or photodetection. The reason for graphene’s highly efficient extraction of light energy lies in its unique physical nature. Doped graphene can be thought of as a mixture of a semiconductor, where properties are determined by the behavior of electrons and holes in the conduction and valence bands, and a metal, in which they depend upon the Fermi level."
+    },
+    {
+      "number": 20,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴، Only III.** متن کاشف گرافن یا کشورِ دارای بیشترین کاربرد صنعتی را مشخص نمی‌کند؛ اما با بیان بازده بیش از ۸۰٪ و توصیف فرایند به‌عنوان بسیار کارآمد، سؤال سوم را پاسخ می‌دهد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "The passage provides sufficient information to answer which of the following questions?\n\nI. Who discovered graphene?\nII. In which country is graphene more commonly used in the industry?\nIII. Does graphene’s failure to extract 100% of light energy make it an inefficient material?",
+      "choice_texts": [
+        "I and III",
+        "Only II",
+        "I and II",
+        "Only III"
+      ],
+      "context": "Graphene could revolutionize future technologies making transparent and flexible solar panels, foldable mobile phones or ultrathin computers a reality. Now researchers from Spain, Germany, and the US think they have taken one of the first important steps along the way. Frank H. L. Koppens of the Institut de Ciències Fotòniques (ICFO) in Spain, along with colleagues from MIT and Harvard University, have found that graphene is able to convert a single absorbed photon into multiple electrons. Graphene is currently being employed as an alternative to semiconducting materials for light-to-electricity conversion, but the finding indicates that the material could be more efficient than thought.\n\n“In most materials, one absorbed photon generates one electron, but in the case of graphene, one absorbed photon is able to produce many excited electrons, and therefore generate larger electrical signals,” explains Koppens. “We have found that this process is very efficient: more than 80% of light energy is converted.” Instead of losing excess energy as heat when a photon is absorbed, graphene uses the extra to generate secondary ‘hot’ electrons. These ‘hot’ or excited electrons can drive a current, making graphene an alternative material for light harvesting photovoltaic devices or photodetection. The reason for graphene’s highly efficient extraction of light energy lies in its unique physical nature. Doped graphene can be thought of as a mixture of a semiconductor, where properties are determined by the behavior of electrons and holes in the conduction and valence bands, and a metal, in which they depend upon the Fermi level."
+    },
+    {
+      "number": 21,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲.** متن کشف ابررسانایی، تغییر خواص جیوه و جایزهٔ نوبل اونِس را تأیید می‌کند، اما نمی‌گوید او واحد یا «شاخص اهم» را ابداع کرده است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to paragraph 1, all of the following is true about Heike Kamerlingh Onnes EXCEPT that ..........",
+      "choice_texts": [
+        "the research leading to his Nobel Prize in Physics was conducted sometime in the early 20th century",
+        "after succeeding in discovering the invaluable properties of superconductors, he coined the index ohm to describe one of them",
+        "his studies showed that mercury could transition into a new state, which may be called the superconductive state due to its electrical properties",
+        "when he submerged mercury wire in liquid helium, reducing its temperature to only a few degrees above Absolute Zero, its electrical properties suddenly changed"
+      ],
+      "context": "Let’s start with the basics. A superconductor is a material where electrical resistance disappears and a magnetic field is created. More simply, when you put electricity into a superconductor, you do not lose any energy—a multimeter would register zero volts and zero ohms on a live circuit—and it becomes a magnet. [1] We have known about superconductors since 1911, when a Dutch physicist named Heike Kamerlingh Onnes observed that when he immersed mercury wire in liquid helium, bringing its temperature down to within just a few degrees of Absolute Zero (-273.15°C or 4.2 Kelvin, to be precise), its electrical properties abruptly changed. He wrote, “Mercury has passed into a new state, which on account of its extraordinary electrical properties may be called the superconductive state.” [2] In 1913, he won the Nobel Prize in Physics for his work.\n\nThis will not be the only Nobel Prize related to superconductors you will hear about. [3] When experimental physicists prove that something happens, theoretical physicists have to figure out the why of it. A lot of hypotheses were kicked around about superconductivity, as well as suggestions for practical applications. By the 1950s, the US physicists John Bardeen, Leon Cooper, and John Robert Schrieffer had an explanation for low-temperature superconductivity that everyone seems to agree on. [4] Electrons moving through a superconductor can pair up using quantum properties to evade the normal barriers to free movement through a solid. They proved mathematically that this pairing was possible in many substances up to a temperature of around 40 Kelvin, but higher than that the pairs of electrons would be shaken apart by the energy of the warm solid matter. Their work earned them the Nobel Prize in Physics in 1972."
+    },
+    {
+      "number": 22,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، Definition.** پاراگراف نخست با توضیح اینکه ابررسانا چیست و چه ویژگی‌هایی دارد، از روش تعریف استفاده می‌کند.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Which of the following techniques is used in paragraph 1?",
+      "choice_texts": [
+        "Definition",
+        "Comparison",
+        "Classification",
+        "Exemplification"
+      ],
+      "context": "Let’s start with the basics. A superconductor is a material where electrical resistance disappears and a magnetic field is created. More simply, when you put electricity into a superconductor, you do not lose any energy—a multimeter would register zero volts and zero ohms on a live circuit—and it becomes a magnet. [1] We have known about superconductors since 1911, when a Dutch physicist named Heike Kamerlingh Onnes observed that when he immersed mercury wire in liquid helium, bringing its temperature down to within just a few degrees of Absolute Zero (-273.15°C or 4.2 Kelvin, to be precise), its electrical properties abruptly changed. He wrote, “Mercury has passed into a new state, which on account of its extraordinary electrical properties may be called the superconductive state.” [2] In 1913, he won the Nobel Prize in Physics for his work.\n\nThis will not be the only Nobel Prize related to superconductors you will hear about. [3] When experimental physicists prove that something happens, theoretical physicists have to figure out the why of it. A lot of hypotheses were kicked around about superconductivity, as well as suggestions for practical applications. By the 1950s, the US physicists John Bardeen, Leon Cooper, and John Robert Schrieffer had an explanation for low-temperature superconductivity that everyone seems to agree on. [4] Electrons moving through a superconductor can pair up using quantum properties to evade the normal barriers to free movement through a solid. They proved mathematically that this pairing was possible in many substances up to a temperature of around 40 Kelvin, but higher than that the pairs of electrons would be shaken apart by the energy of the warm solid matter. Their work earned them the Nobel Prize in Physics in 1972."
+    },
+    {
+      "number": 23,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": "**گزینهٔ ۴.** پاراگراف دوم می‌گوید بالاتر از حدود ۴۰ کلوین، انرژی مادهٔ گرم جفت‌الکترون‌ها را از هم می‌گسلد؛ این همان مضمون گزینهٔ چهار است.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "According to paragraph 2, which of the following statements is true?",
+      "choice_texts": [
+        "Quantum properties prevent electrons moving through a superconductor from pairing up, resulting in their free movement through a solid.",
+        "When theoretical physicists establish that a phenomenon takes place, experimental physicists enter to clarify the reasons behind it.",
+        "The explanation offered by the three US physicists for low-temperature superconductivity was quickly rejected by physicists in the 1950s.",
+        "It was mathematically demonstrated that above 40 Kelvin, the energy from the warm solid matter would disrupt the pairs of electrons."
+      ],
+      "context": "Let’s start with the basics. A superconductor is a material where electrical resistance disappears and a magnetic field is created. More simply, when you put electricity into a superconductor, you do not lose any energy—a multimeter would register zero volts and zero ohms on a live circuit—and it becomes a magnet. [1] We have known about superconductors since 1911, when a Dutch physicist named Heike Kamerlingh Onnes observed that when he immersed mercury wire in liquid helium, bringing its temperature down to within just a few degrees of Absolute Zero (-273.15°C or 4.2 Kelvin, to be precise), its electrical properties abruptly changed. He wrote, “Mercury has passed into a new state, which on account of its extraordinary electrical properties may be called the superconductive state.” [2] In 1913, he won the Nobel Prize in Physics for his work.\n\nThis will not be the only Nobel Prize related to superconductors you will hear about. [3] When experimental physicists prove that something happens, theoretical physicists have to figure out the why of it. A lot of hypotheses were kicked around about superconductivity, as well as suggestions for practical applications. By the 1950s, the US physicists John Bardeen, Leon Cooper, and John Robert Schrieffer had an explanation for low-temperature superconductivity that everyone seems to agree on. [4] Electrons moving through a superconductor can pair up using quantum properties to evade the normal barriers to free movement through a solid. They proved mathematically that this pairing was possible in many substances up to a temperature of around 40 Kelvin, but higher than that the pairs of electrons would be shaken apart by the energy of the warm solid matter. Their work earned them the Nobel Prize in Physics in 1972."
+    },
+    {
+      "number": 24,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": "**گزینهٔ ۲، جایگاه [2].** جملهٔ پیشنهادی ادامهٔ زمانی کشف اولیهٔ اونِس است و باید پس از شرح کشف جیوه و پیش از جملهٔ دریافت نوبل در ۱۹۱۳ قرار گیرد.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "In which position marked by [1], [2], [3] or [4], can the following sentence best be inserted in the passage?\n\nOver the next two years, he discovered similar properties in tin, lead, then other metals and alloys including niobium-tin, all when cooled down to almost Absolute Zero.",
+      "choice_texts": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+      ],
+      "context": "Let’s start with the basics. A superconductor is a material where electrical resistance disappears and a magnetic field is created. More simply, when you put electricity into a superconductor, you do not lose any energy—a multimeter would register zero volts and zero ohms on a live circuit—and it becomes a magnet. [1] We have known about superconductors since 1911, when a Dutch physicist named Heike Kamerlingh Onnes observed that when he immersed mercury wire in liquid helium, bringing its temperature down to within just a few degrees of Absolute Zero (-273.15°C or 4.2 Kelvin, to be precise), its electrical properties abruptly changed. He wrote, “Mercury has passed into a new state, which on account of its extraordinary electrical properties may be called the superconductive state.” [2] In 1913, he won the Nobel Prize in Physics for his work.\n\nThis will not be the only Nobel Prize related to superconductors you will hear about. [3] When experimental physicists prove that something happens, theoretical physicists have to figure out the why of it. A lot of hypotheses were kicked around about superconductivity, as well as suggestions for practical applications. By the 1950s, the US physicists John Bardeen, Leon Cooper, and John Robert Schrieffer had an explanation for low-temperature superconductivity that everyone seems to agree on. [4] Electrons moving through a superconductor can pair up using quantum properties to evade the normal barriers to free movement through a solid. They proved mathematically that this pairing was possible in many substances up to a temperature of around 40 Kelvin, but higher than that the pairs of electrons would be shaken apart by the energy of the warm solid matter. Their work earned them the Nobel Prize in Physics in 1972."
+    },
+    {
+      "number": 25,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": "**گزینهٔ ۱، Objective.** نویسنده تاریخچه، شواهد و توضیح علمی را با لحن اطلاع‌رسان و بی‌طرف ارائه می‌کند؛ لحن طنز، کنایه یا هیجان شخصی غالب نیست.",
+      "explanation_status": "verified",
+      "explanation_sources": [
+        {
+          "title": "دفترچه و کلید رسمی آزمون ارشد برق ۱۴۰۴",
+          "url": "https://www.modaresanesharif.ac.ir/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A8%D8%B1%D9%82/"
+        },
+        "حل و بازبینی مستقل بر پایهٔ متن سؤال و کلید رسمی"
+      ],
+      "text": "Which of the following best describes the writer’s overall tone in the passage?",
+      "choice_texts": [
+        "Objective",
+        "Passionate",
+        "Humorous",
+        "Ironic"
+      ],
+      "context": "Let’s start with the basics. A superconductor is a material where electrical resistance disappears and a magnetic field is created. More simply, when you put electricity into a superconductor, you do not lose any energy—a multimeter would register zero volts and zero ohms on a live circuit—and it becomes a magnet. [1] We have known about superconductors since 1911, when a Dutch physicist named Heike Kamerlingh Onnes observed that when he immersed mercury wire in liquid helium, bringing its temperature down to within just a few degrees of Absolute Zero (-273.15°C or 4.2 Kelvin, to be precise), its electrical properties abruptly changed. He wrote, “Mercury has passed into a new state, which on account of its extraordinary electrical properties may be called the superconductive state.” [2] In 1913, he won the Nobel Prize in Physics for his work.\n\nThis will not be the only Nobel Prize related to superconductors you will hear about. [3] When experimental physicists prove that something happens, theoretical physicists have to figure out the why of it. A lot of hypotheses were kicked around about superconductivity, as well as suggestions for practical applications. By the 1950s, the US physicists John Bardeen, Leon Cooper, and John Robert Schrieffer had an explanation for low-temperature superconductivity that everyone seems to agree on. [4] Electrons moving through a superconductor can pair up using quantum properties to evade the normal barriers to free movement through a solid. They proved mathematically that this pairing was possible in many substances up to a temperature of around 40 Kelvin, but higher than that the pairs of electrons would be shaken apart by the energy of the warm solid matter. Their work earned them the Nobel Prize in Physics in 1972."
+    },
+    {
+      "number": 26,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_026.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 27,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_027.png",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 28,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_028.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 29,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_029.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 30,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_030.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 31,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_031.png",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 32,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_032.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 33,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_033.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 34,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_034.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 35,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_035.png",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 36,
+      "subject": "ریاضیات",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "یک تاس چهارطرفه پرتاب می‌شود. اگر نتیجه پرتاب یک یا دو باشد، تاس دوباره پرتاب می‌شود. در غیر این صورت، پرتاب تاس متوقف می‌شود. اگر مجموع اعداد روی تاس در دو پرتاب حداقل چهار باشد، با چه احتمالی نتیجه پرتاب اول تاس، یک بوده است؟",
+      "choice_texts": [
+        "۲/۹",
+        "۴/۹",
+        "۵/۹",
+        "۷/۹"
+      ]
+    },
+    {
+      "number": 37,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_037.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 38,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_038.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 39,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_039.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 40,
+      "subject": "ریاضیات",
+      "image": "assets/questions/1404/question_040.png",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 41,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_041.png",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 42,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_042.png",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 43,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_043.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 44,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_044.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 45,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_045.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 46,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_046.png",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 47,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_047.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 48,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_048.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 49,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_049.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 50,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_050.png",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 51,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_051.png",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 52,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_052.png",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 53,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_053.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 54,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_054.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 55,
+      "subject": "مدارهای الکتریکی ۱ و ۲",
+      "image": "assets/questions/1404/question_055.png",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 56,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_056.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 57,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_057.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 58,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_058.png",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 59,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_059.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 60,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_060.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 61,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_061.png",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 62,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_062.png",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 63,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_063.png",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 64,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_064.png",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 65,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_065.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 66,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_066.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 67,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_067.png",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 68,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_068.png",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 69,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_069.png",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 70,
+      "subject": "الکترونیک ۱ و ۲ و سیستم‌های دیجیتال ۱",
+      "image": "assets/questions/1404/question_070.png",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 71,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_071.png",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 72,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_072.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 73,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_073.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 74,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_074.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 75,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_075.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 76,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_076.png",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 77,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_077.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 78,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_078.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 79,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_079.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 80,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_080.png",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 81,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_081.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 82,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_082.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 83,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_083.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 84,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_084.png",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 85,
+      "subject": "ماشین‌های الکتریکی ۱ و ۲ و تحلیل سیستم‌های انرژی الکتریکی ۱",
+      "image": "assets/questions/1404/question_085.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 86,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_086.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 87,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_087.png",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 88,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_088.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 89,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_089.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 90,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_090.png",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 91,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_091.png",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 92,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_092.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 93,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_093.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 94,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_094.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 95,
+      "subject": "سیستم‌های کنترل خطی",
+      "image": "assets/questions/1404/question_095.png",
+      "source_page": 27,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 96,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_096.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 97,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_097.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 98,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_098.png",
+      "source_page": 28,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 99,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_099.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 100,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_100.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 101,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_101.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 102,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_102.png",
+      "source_page": 29,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 103,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_103.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 104,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_104.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 105,
+      "subject": "سیگنال‌ها و سیستم‌ها",
+      "image": "assets/questions/1404/question_105.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 106,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_106.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 107,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_107.png",
+      "source_page": 30,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 108,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_108.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 109,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_109.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 110,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_110.png",
+      "source_page": 31,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 111,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_111.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 112,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_112.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 113,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_113.png",
+      "source_page": 32,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 114,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_114.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 115,
+      "subject": "الکترومغناطیس",
+      "image": "assets/questions/1404/question_115.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 116,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "به‌خطربودن کاشتنی‌های ارتوپدی در بدن از لحاظ بیولوژیکی در مدت‌زمان عملکرد آن، نشانگر کدام مفهوم است؟",
+      "choice_texts": [
+        "Bio inert",
+        "Bio adhesion",
+        "Blood Compatibility",
+        "Bio Compatibility"
+      ]
+    },
+    {
+      "number": 117,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_117.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 118,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_118.png",
+      "source_page": 33,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 119,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "در ثبت سیگنال در الکتروانسفالوگرام، تقویت‌کننده باید کدام مشخصات را داشته باشد؟",
+      "choice_texts": [
+        "CMRR بالا ـ بهره زیاد",
+        "CMRR بالا ـ بهره کم",
+        "CMRR کم ـ بهره زیاد",
+        "CMRR کم ـ بهره کم"
+      ]
+    },
+    {
+      "number": 120,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "استرین گیج براساس کدام مورد کار می‌کند؟",
+      "choice_texts": [
+        "خازن متغیر",
+        "سطح تماس متغیر",
+        "اندوکتانس متغیر",
+        "مقاومت متغیر"
+      ]
+    },
+    {
+      "number": 121,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_121.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 122,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "تغییر اندوکتانس یک سنسور القایی با کدام عامل رابطه غیرخطی دارد؟",
+      "choice_texts": [
+        "شکل هندسی",
+        "تعداد دور سیم‌پیچ",
+        "نفوذپذیری محیط",
+        "عایق‌کاری سیم‌ها"
+      ]
+    },
+    {
+      "number": 123,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "مهم‌ترین دلیل استفاده از تقویت‌کننده‌های با CMRR بالا کدام است؟",
+      "choice_texts": [
+        "بهره بالا",
+        "حذف نویز مشترک",
+        "حذف کلیه نویزها",
+        "امپدانس ورودی تفاضلی بالا"
+      ]
+    },
+    {
+      "number": 124,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "image": "assets/questions/1404/question_124.png",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": []
+    },
+    {
+      "number": 125,
+      "subject": "مقدمه‌ای بر مهندسی زیست‌پزشکی",
+      "source_page": 34,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "امپدانس تماسی در الکترودهای مکشی چه وضعیتی دارد؟",
+      "choice_texts": [
+        "بالا",
+        "پایین",
+        "صفر",
+        "قابل صرف‌نظرکردن"
+      ]
+    }
+  ]
+}

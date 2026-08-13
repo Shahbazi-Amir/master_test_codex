@@ -1,0 +1,2140 @@
+{
+  "title": "آزمون کارشناسی ارشد مهندسی کامپیوتر ۱۴۰۵",
+  "field": "مهندسی کامپیوتر",
+  "year": 1405,
+  "exam_code": "1277",
+  "booklet_code": "135A",
+  "duration_minutes": 250,
+  "total_questions": 115,
+  "source": {
+    "questions_pdf": "assets/source/arshad_computer_1405.pdf",
+    "answer_key_pdf": "assets/source/answer_key_computer_1405.pdf",
+    "key_status": "official"
+  },
+  "image_policy": "English questions are structured text. Other questions use adaptive crops containing at most three consecutive questions.",
+  "questions": [
+    {
+      "number": 1,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "His words should be understood in ______ in order to be correctly interpreted.",
+      "choice_texts": [
+        "direction",
+        "context",
+        "expert",
+        "interest"
+      ]
+    },
+    {
+      "number": 2,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "She told her friends about her intention to go abroad, changing her first decision to keep it ______.",
+      "choice_texts": [
+        "secret",
+        "familiar",
+        "final",
+        "positive"
+      ]
+    },
+    {
+      "number": 3,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "She has ______ in her library the complete works of many Persian poets such as Hafez, Mowlana, Sa’di, Nezami and Ferdowsi.",
+      "choice_texts": [
+        "defended",
+        "arrived",
+        "collected",
+        "caused"
+      ]
+    },
+    {
+      "number": 4,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "A defining ______ of online art is that it can be seen anywhere by anyone with an Internet-connected computer.",
+      "choice_texts": [
+        "characteristic",
+        "inspiration",
+        "spectator",
+        "artifact"
+      ]
+    },
+    {
+      "number": 5,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "For decades, the hygiene hypothesis has posited that the germs we are exposed to in early childhood can ______ us from developing allergies.",
+      "choice_texts": [
+        "desist",
+        "prescribe",
+        "cease",
+        "prevent"
+      ]
+    },
+    {
+      "number": 6,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "I was in need of money and not at all ______ about experiments, so I concurred and received the new medicine at the local hospital.",
+      "choice_texts": [
+        "affluent",
+        "plausible",
+        "respective",
+        "apprehensive"
+      ]
+    },
+    {
+      "number": 7,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Some people suffer from a chronic case of rabid chauvinism; they brandish the banners and shields of their own tribe and ______ those of the others.",
+      "choice_texts": [
+        "exculpate",
+        "excoriate",
+        "extrapolate",
+        "expatiate"
+      ]
+    },
+    {
+      "number": 8,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Choose the best option for blank (8).",
+      "choice_texts": [
+        "that studies",
+        "studies",
+        "studying",
+        "and study"
+      ],
+      "context": "Cognitive psychology focuses on how people perceive, store, and interpret information, ________ (8) processes like perception, reasoning, and problem solving. ________ (9) behaviorists, cognitive psychologists believe it is necessary to look at internal mental processes in order to understand behavior. Cognitive psychology has been extremely influential, and much contemporary research ________ (10)."
+    },
+    {
+      "number": 9,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Choose the best option for blank (9).",
+      "choice_texts": [
+        "Unlike",
+        "Although",
+        "However",
+        "Even"
+      ],
+      "context": "Cognitive psychology focuses on how people perceive, store, and interpret information, ________ (8) processes like perception, reasoning, and problem solving. ________ (9) behaviorists, cognitive psychologists believe it is necessary to look at internal mental processes in order to understand behavior. Cognitive psychology has been extremely influential, and much contemporary research ________ (10)."
+    },
+    {
+      "number": 10,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 2,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Choose the best option for blank (10).",
+      "choice_texts": [
+        "is cognitive with nature",
+        "being in cognitive nature",
+        "is cognitive in nature",
+        "being naturally cognitive"
+      ],
+      "context": "Cognitive psychology focuses on how people perceive, store, and interpret information, ________ (8) processes like perception, reasoning, and problem solving. ________ (9) behaviorists, cognitive psychologists believe it is necessary to look at internal mental processes in order to understand behavior. Cognitive psychology has been extremely influential, and much contemporary research ________ (10)."
+    },
+    {
+      "number": 11,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "The word ‘substantial’ in paragraph 1 is closest in meaning to ______.",
+      "choice_texts": [
+        "minimal",
+        "new",
+        "original",
+        "significant"
+      ],
+      "context": "Based on exponentially increasing computing power and big data availability, artificial intelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep reinforcement learning algorithm developed by Google, was able to beat Lee Sedol, arguably one of the most renowned players of the board game ‘Go’, which is considered to be multiple times more complex than chess. With the introduction of ChatGPT, AI has made its way to a broad common perception, raising promising expectations about impactful AI use cases in business research and practice. Although AI-related literature is rich, we currently lack a comprehensive understanding of the use of AI algorithms. The absence of a concise AI definition and taxonomy in business results in a dispersed knowledge base, which has two critical implications. First, it currently seems challenging to assess the extent to which management research has exploited the potential of AI algorithms. Second, an overview of current trends as well as future potentials of applied AI remains vague."
+    },
+    {
+      "number": 12,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "The word ‘its’ in paragraph 1 refers to ______.",
+      "choice_texts": [
+        "AI",
+        "ChatGPT",
+        "introduction",
+        "way"
+      ],
+      "context": "Based on exponentially increasing computing power and big data availability, artificial intelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep reinforcement learning algorithm developed by Google, was able to beat Lee Sedol, arguably one of the most renowned players of the board game ‘Go’, which is considered to be multiple times more complex than chess. With the introduction of ChatGPT, AI has made its way to a broad common perception, raising promising expectations about impactful AI use cases in business research and practice. Although AI-related literature is rich, we currently lack a comprehensive understanding of the use of AI algorithms. The absence of a concise AI definition and taxonomy in business results in a dispersed knowledge base, which has two critical implications. First, it currently seems challenging to assess the extent to which management research has exploited the potential of AI algorithms. Second, an overview of current trends as well as future potentials of applied AI remains vague."
+    },
+    {
+      "number": 13,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "According to paragraph 1, which statement is true about the game known as ‘Go’?",
+      "choice_texts": [
+        "It was first created by AlphaGo.",
+        "It was developed by Google.",
+        "AI is good at playing it.",
+        "It is simpler than chess."
+      ],
+      "context": "Based on exponentially increasing computing power and big data availability, artificial intelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep reinforcement learning algorithm developed by Google, was able to beat Lee Sedol, arguably one of the most renowned players of the board game ‘Go’, which is considered to be multiple times more complex than chess. With the introduction of ChatGPT, AI has made its way to a broad common perception, raising promising expectations about impactful AI use cases in business research and practice. Although AI-related literature is rich, we currently lack a comprehensive understanding of the use of AI algorithms. The absence of a concise AI definition and taxonomy in business results in a dispersed knowledge base, which has two critical implications. First, it currently seems challenging to assess the extent to which management research has exploited the potential of AI algorithms. Second, an overview of current trends as well as future potentials of applied AI remains vague."
+    },
+    {
+      "number": 14,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "All of the following words are mentioned in the passage EXCEPT ______.",
+      "choice_texts": [
+        "circuit",
+        "dispersed",
+        "exponentially",
+        "reinforcement"
+      ],
+      "context": "Based on exponentially increasing computing power and big data availability, artificial intelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep reinforcement learning algorithm developed by Google, was able to beat Lee Sedol, arguably one of the most renowned players of the board game ‘Go’, which is considered to be multiple times more complex than chess. With the introduction of ChatGPT, AI has made its way to a broad common perception, raising promising expectations about impactful AI use cases in business research and practice. Although AI-related literature is rich, we currently lack a comprehensive understanding of the use of AI algorithms. The absence of a concise AI definition and taxonomy in business results in a dispersed knowledge base, which has two critical implications. First, it currently seems challenging to assess the extent to which management research has exploited the potential of AI algorithms. Second, an overview of current trends as well as future potentials of applied AI remains vague."
+    },
+    {
+      "number": 15,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 3,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "According to the passage, which statement is true?",
+      "choice_texts": [
+        "It is difficult now to evaluate how much management research has employed the potentials offered by AI algorithms.",
+        "Our understanding of the use of AI algorithms is currently limited, primarily because of a lack of AI-related literature.",
+        "Current evaluations show that there are no optimistic prospects regarding the application of AI in business research.",
+        "A comprehensive overview of present trends and future possibilities in applied AI is currently made available."
+      ],
+      "context": "Based on exponentially increasing computing power and big data availability, artificial intelligence (AI) has gained substantial traction in recent years. In 2016, AlphaGo, a deep reinforcement learning algorithm developed by Google, was able to beat Lee Sedol, arguably one of the most renowned players of the board game ‘Go’, which is considered to be multiple times more complex than chess. With the introduction of ChatGPT, AI has made its way to a broad common perception, raising promising expectations about impactful AI use cases in business research and practice. Although AI-related literature is rich, we currently lack a comprehensive understanding of the use of AI algorithms. The absence of a concise AI definition and taxonomy in business results in a dispersed knowledge base, which has two critical implications. First, it currently seems challenging to assess the extent to which management research has exploited the potential of AI algorithms. Second, an overview of current trends as well as future potentials of applied AI remains vague."
+    },
+    {
+      "number": 16,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "The word ‘improper’ in paragraph 1 is closest in meaning to ______.",
+      "choice_texts": [
+        "potential",
+        "peripheral",
+        "consequent",
+        "inappropriate"
+      ],
+      "context": "The operating system (OS) operates and controls the various units of a computer, managing how software uses hardware to ensure the computer functions as intended in a systematic, reliable, and efficient manner. The kernel, the controlling part of the OS, remains in the main storage permanently during the computer’s operation. Principal functions of an OS include scheduling and loading programs, controlling hardware resources, protecting hardware, software, and data from improper use, loading programs and functions into main storage as required, passing control from one job to another under priority systems, providing error correction routines, maintaining a complete record of all process activities, and communicating with the computer operator. Operating systems have evolved over time, driven by hardware advancements and application needs. Initially, computers were programmed directly with machine instructions or assembly code, with no controls over system use. The first OS challenge was to enable transitioning from one job to another without stopping the machine, entering a new program, and restarting. The batch operating system concept provided a solution by allowing operators to load several jobs at once, which the system then executed sequentially, taking control between jobs to set up hardware and release control to the next job."
+    },
+    {
+      "number": 17,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Which option best describes the function of paragraph 2?",
+      "choice_texts": [
+        "It explains a fact which in a way undermines the main argument of the previous paragraph.",
+        "It elaborates on the potential of a computer system to pave the way for future advancements.",
+        "It refers to the historical development of a computer system mentioned in paragraph 1.",
+        "It demonstrates the initial steps taken for the manufacturing of computer hardware."
+      ],
+      "context": "The operating system (OS) operates and controls the various units of a computer, managing how software uses hardware to ensure the computer functions as intended in a systematic, reliable, and efficient manner. The kernel, the controlling part of the OS, remains in the main storage permanently during the computer’s operation. Principal functions of an OS include scheduling and loading programs, controlling hardware resources, protecting hardware, software, and data from improper use, loading programs and functions into main storage as required, passing control from one job to another under priority systems, providing error correction routines, maintaining a complete record of all process activities, and communicating with the computer operator. Operating systems have evolved over time, driven by hardware advancements and application needs. Initially, computers were programmed directly with machine instructions or assembly code, with no controls over system use. The first OS challenge was to enable transitioning from one job to another without stopping the machine, entering a new program, and restarting. The batch operating system concept provided a solution by allowing operators to load several jobs at once, which the system then executed sequentially, taking control between jobs to set up hardware and release control to the next job."
+    },
+    {
+      "number": 18,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Which technique is used in the passage?",
+      "choice_texts": [
+        "Cause and effect",
+        "Irony",
+        "Direct quotation",
+        "Statistics"
+      ],
+      "context": "The operating system (OS) operates and controls the various units of a computer, managing how software uses hardware to ensure the computer functions as intended in a systematic, reliable, and efficient manner. The kernel, the controlling part of the OS, remains in the main storage permanently during the computer’s operation. Principal functions of an OS include scheduling and loading programs, controlling hardware resources, protecting hardware, software, and data from improper use, loading programs and functions into main storage as required, passing control from one job to another under priority systems, providing error correction routines, maintaining a complete record of all process activities, and communicating with the computer operator. Operating systems have evolved over time, driven by hardware advancements and application needs. Initially, computers were programmed directly with machine instructions or assembly code, with no controls over system use. The first OS challenge was to enable transitioning from one job to another without stopping the machine, entering a new program, and restarting. The batch operating system concept provided a solution by allowing operators to load several jobs at once, which the system then executed sequentially, taking control between jobs to set up hardware and release control to the next job."
+    },
+    {
+      "number": 19,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "The passage provides sufficient information to answer which question(s)? I. In which country was the first computer introduced? II. What is the name of the most common error in computer systems? III. What was among the first problems operating systems needed to solve?",
+      "choice_texts": [
+        "I and II",
+        "I and III",
+        "Only III",
+        "Only II"
+      ],
+      "context": "The operating system (OS) operates and controls the various units of a computer, managing how software uses hardware to ensure the computer functions as intended in a systematic, reliable, and efficient manner. The kernel, the controlling part of the OS, remains in the main storage permanently during the computer’s operation. Principal functions of an OS include scheduling and loading programs, controlling hardware resources, protecting hardware, software, and data from improper use, loading programs and functions into main storage as required, passing control from one job to another under priority systems, providing error correction routines, maintaining a complete record of all process activities, and communicating with the computer operator. Operating systems have evolved over time, driven by hardware advancements and application needs. Initially, computers were programmed directly with machine instructions or assembly code, with no controls over system use. The first OS challenge was to enable transitioning from one job to another without stopping the machine, entering a new program, and restarting. The batch operating system concept provided a solution by allowing operators to load several jobs at once, which the system then executed sequentially, taking control between jobs to set up hardware and release control to the next job."
+    },
+    {
+      "number": 20,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 4,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Which option best describes the overall tone of the passage?",
+      "choice_texts": [
+        "Passionate",
+        "Objective",
+        "Humorous",
+        "Ambivalent"
+      ],
+      "context": "The operating system (OS) operates and controls the various units of a computer, managing how software uses hardware to ensure the computer functions as intended in a systematic, reliable, and efficient manner. The kernel, the controlling part of the OS, remains in the main storage permanently during the computer’s operation. Principal functions of an OS include scheduling and loading programs, controlling hardware resources, protecting hardware, software, and data from improper use, loading programs and functions into main storage as required, passing control from one job to another under priority systems, providing error correction routines, maintaining a complete record of all process activities, and communicating with the computer operator. Operating systems have evolved over time, driven by hardware advancements and application needs. Initially, computers were programmed directly with machine instructions or assembly code, with no controls over system use. The first OS challenge was to enable transitioning from one job to another without stopping the machine, entering a new program, and restarting. The batch operating system concept provided a solution by allowing operators to load several jobs at once, which the system then executed sequentially, taking control between jobs to set up hardware and release control to the next job."
+    },
+    {
+      "number": 21,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Which option is NOT mentioned with reference to the Von Neumann architecture in paragraph 1?",
+      "choice_texts": [
+        "A limitation observed in its function",
+        "A development associated with it",
+        "One of the features that it enjoys",
+        "The century when it was designed"
+      ],
+      "context": "Named after mathematician and computer scientist John von Neumann, the Von Neumann architecture features a single memory space for both data and instructions, which are fetched and executed sequentially. This means that programs and data are stored in the same memory, allowing for flexible and easy modification of programs. But instructions are also fetched and executed one at a time, which creates a bottleneck where the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von Neumann bottleneck. To address this, modern CPUs employ techniques like caching and pipelining to improve efficiency. Still, the Von Neumann architecture remains highly relevant and influential in computer design. [2] Von Neumann’s architecture introduced the concept of stored-program computers, where both instructions and data are stored in the same memory, allowing for flexible program execution. Unlike the Von Neumann architecture where instructions and data share the same memory and data paths, Harvard architecture is a type of computer architecture that has separate storage units and dedicated pathways for instructions and data. [3] By having separate pathways, the CPU can fetch instructions and access data at the same time, without waiting for each other, leading to faster program execution, especially for tasks that involve a lot of data movement. Separate memory units can be optimized for their specific purposes. For example, instruction memory might be read-only, while data memory might be optimized for fast read/write operations. Still, implementing separate storage and pathways can be more complex than the simpler Von Neumann architecture and having separate memory units can increase the overall cost of the system. [4]"
+    },
+    {
+      "number": 22,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "Which option best expresses the writer’s opinion about dedicated pathways for instructions and data in Harvard architecture?",
+      "choice_texts": [
+        "He completely confirms this solution unequivocally.",
+        "He acknowledges its efficacy with some reservations.",
+        "He rejects its suitability entirely.",
+        "He remains silent on this point."
+      ],
+      "context": "Named after mathematician and computer scientist John von Neumann, the Von Neumann architecture features a single memory space for both data and instructions, which are fetched and executed sequentially. This means that programs and data are stored in the same memory, allowing for flexible and easy modification of programs. But instructions are also fetched and executed one at a time, which creates a bottleneck where the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von Neumann bottleneck. To address this, modern CPUs employ techniques like caching and pipelining to improve efficiency. Still, the Von Neumann architecture remains highly relevant and influential in computer design. [2] Von Neumann’s architecture introduced the concept of stored-program computers, where both instructions and data are stored in the same memory, allowing for flexible program execution. Unlike the Von Neumann architecture where instructions and data share the same memory and data paths, Harvard architecture is a type of computer architecture that has separate storage units and dedicated pathways for instructions and data. [3] By having separate pathways, the CPU can fetch instructions and access data at the same time, without waiting for each other, leading to faster program execution, especially for tasks that involve a lot of data movement. Separate memory units can be optimized for their specific purposes. For example, instruction memory might be read-only, while data memory might be optimized for fast read/write operations. Still, implementing separate storage and pathways can be more complex than the simpler Von Neumann architecture and having separate memory units can increase the overall cost of the system. [4]"
+    },
+    {
+      "number": 23,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "What does the passage mainly discuss?",
+      "choice_texts": [
+        "Two different computer architectures",
+        "The function of memory in computers",
+        "Von Neumann’s role in the development of computers",
+        "The influence of mathematics on computer technology"
+      ],
+      "context": "Named after mathematician and computer scientist John von Neumann, the Von Neumann architecture features a single memory space for both data and instructions, which are fetched and executed sequentially. This means that programs and data are stored in the same memory, allowing for flexible and easy modification of programs. But instructions are also fetched and executed one at a time, which creates a bottleneck where the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von Neumann bottleneck. To address this, modern CPUs employ techniques like caching and pipelining to improve efficiency. Still, the Von Neumann architecture remains highly relevant and influential in computer design. [2] Von Neumann’s architecture introduced the concept of stored-program computers, where both instructions and data are stored in the same memory, allowing for flexible program execution. Unlike the Von Neumann architecture where instructions and data share the same memory and data paths, Harvard architecture is a type of computer architecture that has separate storage units and dedicated pathways for instructions and data. [3] By having separate pathways, the CPU can fetch instructions and access data at the same time, without waiting for each other, leading to faster program execution, especially for tasks that involve a lot of data movement. Separate memory units can be optimized for their specific purposes. For example, instruction memory might be read-only, while data memory might be optimized for fast read/write operations. Still, implementing separate storage and pathways can be more complex than the simpler Von Neumann architecture and having separate memory units can increase the overall cost of the system. [4]"
+    },
+    {
+      "number": 24,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "According to the passage, which statement is true?",
+      "choice_texts": [
+        "Harvard architecture is widely regarded as more cost-effective than alternative designs.",
+        "In Von Neumann architecture, instructions and data are stored in separate memory spaces.",
+        "Von Neumann architecture is no longer relevant because of modern alternatives.",
+        "In Harvard architecture, the CPU can simultaneously fetch instructions and access data."
+      ],
+      "context": "Named after mathematician and computer scientist John von Neumann, the Von Neumann architecture features a single memory space for both data and instructions, which are fetched and executed sequentially. This means that programs and data are stored in the same memory, allowing for flexible and easy modification of programs. But instructions are also fetched and executed one at a time, which creates a bottleneck where the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von Neumann bottleneck. To address this, modern CPUs employ techniques like caching and pipelining to improve efficiency. Still, the Von Neumann architecture remains highly relevant and influential in computer design. [2] Von Neumann’s architecture introduced the concept of stored-program computers, where both instructions and data are stored in the same memory, allowing for flexible program execution. Unlike the Von Neumann architecture where instructions and data share the same memory and data paths, Harvard architecture is a type of computer architecture that has separate storage units and dedicated pathways for instructions and data. [3] By having separate pathways, the CPU can fetch instructions and access data at the same time, without waiting for each other, leading to faster program execution, especially for tasks that involve a lot of data movement. Separate memory units can be optimized for their specific purposes. For example, instruction memory might be read-only, while data memory might be optimized for fast read/write operations. Still, implementing separate storage and pathways can be more complex than the simpler Von Neumann architecture and having separate memory units can increase the overall cost of the system. [4]"
+    },
+    {
+      "number": 25,
+      "subject": "زبان عمومی و تخصصی (انگلیسی)",
+      "source_page": 5,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "text": "At which position [1], [2], [3], or [4] can this sentence best be inserted: ‘This allows for simultaneous access to instructions and data, potentially improving performance.’",
+      "choice_texts": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+      ],
+      "context": "Named after mathematician and computer scientist John von Neumann, the Von Neumann architecture features a single memory space for both data and instructions, which are fetched and executed sequentially. This means that programs and data are stored in the same memory, allowing for flexible and easy modification of programs. But instructions are also fetched and executed one at a time, which creates a bottleneck where the CPU cannot fetch instructions and data simultaneously. [1] This is known as the Von Neumann bottleneck. To address this, modern CPUs employ techniques like caching and pipelining to improve efficiency. Still, the Von Neumann architecture remains highly relevant and influential in computer design. [2] Von Neumann’s architecture introduced the concept of stored-program computers, where both instructions and data are stored in the same memory, allowing for flexible program execution. Unlike the Von Neumann architecture where instructions and data share the same memory and data paths, Harvard architecture is a type of computer architecture that has separate storage units and dedicated pathways for instructions and data. [3] By having separate pathways, the CPU can fetch instructions and access data at the same time, without waiting for each other, leading to faster program execution, especially for tasks that involve a lot of data movement. Separate memory units can be optimized for their specific purposes. For example, instruction memory might be read-only, while data memory might be optimized for fast read/write operations. Still, implementing separate storage and pathways can be more complex than the simpler Von Neumann architecture and having separate memory units can increase the overall cost of the system. [4]"
+    },
+    {
+      "number": 26,
+      "subject": "ریاضیات",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_026.png"
+    },
+    {
+      "number": 27,
+      "subject": "ریاضیات",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_027.png"
+    },
+    {
+      "number": 28,
+      "subject": "ریاضیات",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_028.png"
+    },
+    {
+      "number": 29,
+      "subject": "ریاضیات",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_029.png"
+    },
+    {
+      "number": 30,
+      "subject": "ریاضیات",
+      "source_page": 6,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_030.png"
+    },
+    {
+      "number": 31,
+      "subject": "ریاضیات",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_031.png"
+    },
+    {
+      "number": 32,
+      "subject": "ریاضیات",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_032.png"
+    },
+    {
+      "number": 33,
+      "subject": "ریاضیات",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_033.png"
+    },
+    {
+      "number": 34,
+      "subject": "ریاضیات",
+      "source_page": 7,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_034.png"
+    },
+    {
+      "number": 35,
+      "subject": "ریاضیات",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_035.png"
+    },
+    {
+      "number": 36,
+      "subject": "ریاضیات",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_036.png"
+    },
+    {
+      "number": 37,
+      "subject": "ریاضیات",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_037.png"
+    },
+    {
+      "number": 38,
+      "subject": "ریاضیات",
+      "source_page": 8,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_038.png"
+    },
+    {
+      "number": 39,
+      "subject": "ریاضیات",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_039.png"
+    },
+    {
+      "number": 40,
+      "subject": "ریاضیات",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_040.png"
+    },
+    {
+      "number": 41,
+      "subject": "ریاضیات",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_041.png"
+    },
+    {
+      "number": 42,
+      "subject": "ریاضیات",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_042.png"
+    },
+    {
+      "number": 43,
+      "subject": "ریاضیات",
+      "source_page": 9,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_043.png"
+    },
+    {
+      "number": 44,
+      "subject": "ریاضیات",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_044.png"
+    },
+    {
+      "number": 45,
+      "subject": "ریاضیات",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_045.png"
+    },
+    {
+      "number": 46,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_046.png"
+    },
+    {
+      "number": 47,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 10,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_047.png"
+    },
+    {
+      "number": 48,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_048.png"
+    },
+    {
+      "number": 49,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_049.png"
+    },
+    {
+      "number": 50,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_050.png"
+    },
+    {
+      "number": 51,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_051.png"
+    },
+    {
+      "number": 52,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 11,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_052.png"
+    },
+    {
+      "number": 53,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_053.png"
+    },
+    {
+      "number": 54,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_054.png"
+    },
+    {
+      "number": 55,
+      "subject": "مجموعه دروس تخصصی ۱ (نظریه زبان‌ها و ماشین‌ها، سیگنال‌ها و سیستم‌ها)",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_055.png"
+    },
+    {
+      "number": 56,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_056.png"
+    },
+    {
+      "number": 57,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 12,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_057.png"
+    },
+    {
+      "number": 58,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_058.png"
+    },
+    {
+      "number": 59,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_059.png"
+    },
+    {
+      "number": 60,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_060.png"
+    },
+    {
+      "number": 61,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_061.png"
+    },
+    {
+      "number": 62,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_062.png"
+    },
+    {
+      "number": 63,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 13,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_063.png"
+    },
+    {
+      "number": 64,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_064.png"
+    },
+    {
+      "number": 65,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_065.png"
+    },
+    {
+      "number": 66,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_066.png"
+    },
+    {
+      "number": 67,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_067.png"
+    },
+    {
+      "number": 68,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 14,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_068.png"
+    },
+    {
+      "number": 69,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_069.png"
+    },
+    {
+      "number": 70,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_070.png"
+    },
+    {
+      "number": 71,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_071.png"
+    },
+    {
+      "number": 72,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_072.png"
+    },
+    {
+      "number": 73,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_073.png"
+    },
+    {
+      "number": 74,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_074.png"
+    },
+    {
+      "number": 75,
+      "subject": "مجموعه دروس تخصصی ۲ (ساختمان داده‌ها، طراحی الگوریتم و هوش مصنوعی)",
+      "source_page": 15,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_075.png"
+    },
+    {
+      "number": 76,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_076.png"
+    },
+    {
+      "number": 77,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_077.png"
+    },
+    {
+      "number": 78,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 16,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_078.png"
+    },
+    {
+      "number": 79,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_079.png"
+    },
+    {
+      "number": 80,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 17,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_080.png"
+    },
+    {
+      "number": 81,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_081.png"
+    },
+    {
+      "number": 82,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_082.png"
+    },
+    {
+      "number": 83,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_083.png"
+    },
+    {
+      "number": 84,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 18,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_084.png"
+    },
+    {
+      "number": 85,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_085.png"
+    },
+    {
+      "number": 86,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_086.png"
+    },
+    {
+      "number": 87,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_087.png"
+    },
+    {
+      "number": 88,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 19,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_088.png"
+    },
+    {
+      "number": 89,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_089.png"
+    },
+    {
+      "number": 90,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_090.png"
+    },
+    {
+      "number": 91,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 20,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_091.png"
+    },
+    {
+      "number": 92,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_092.png"
+    },
+    {
+      "number": 93,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_093.png"
+    },
+    {
+      "number": 94,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_094.png"
+    },
+    {
+      "number": 95,
+      "subject": "مجموعه دروس تخصصی ۳ (مدار منطقی، معماری کامپیوتر و الکترونیک دیجیتال)",
+      "source_page": 21,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_095.png"
+    },
+    {
+      "number": 96,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_096.png"
+    },
+    {
+      "number": 97,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_097.png"
+    },
+    {
+      "number": 98,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_098.png"
+    },
+    {
+      "number": 99,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 22,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_099.png"
+    },
+    {
+      "number": 100,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_100.png"
+    },
+    {
+      "number": 101,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_101.png"
+    },
+    {
+      "number": 102,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_102.png"
+    },
+    {
+      "number": 103,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 23,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_103.png"
+    },
+    {
+      "number": 104,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_104.png"
+    },
+    {
+      "number": 105,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_105.png"
+    },
+    {
+      "number": 106,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 24,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_106.png"
+    },
+    {
+      "number": 107,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_107.png"
+    },
+    {
+      "number": 108,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_108.png"
+    },
+    {
+      "number": 109,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_109.png"
+    },
+    {
+      "number": 110,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_110.png"
+    },
+    {
+      "number": 111,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 25,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_111.png"
+    },
+    {
+      "number": 112,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 3,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_112.png"
+    },
+    {
+      "number": 113,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_113.png"
+    },
+    {
+      "number": 114,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 1,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_114.png"
+    },
+    {
+      "number": 115,
+      "subject": "مجموعه دروس تخصصی ۴ (سیستم‌های عامل، شبکه‌های کامپیوتری و پایگاه داده‌ها)",
+      "source_page": 26,
+      "choices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 4,
+      "answer_status": "official",
+      "explanation": null,
+      "explanation_status": "pending_review",
+      "explanation_sources": [],
+      "image": "assets/questions/computer_engineering/1405/question_115.png"
+    }
+  ]
+}
