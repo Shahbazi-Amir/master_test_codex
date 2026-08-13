@@ -6,3 +6,4 @@ work/
 .pytest_cache/
 *.log
 data/diagnostics/
+data/local_duplicate_backup/
