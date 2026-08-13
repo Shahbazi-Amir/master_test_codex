@@ -1,0 +1,90 @@
+name: Restore computer exams 1402-1404
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/restore-computer-1402-1404-once.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Restore verified computer exam data
+        run: |
+          set -euo pipefail
+          git fetch origin archive/computer-engineering-1402-1404-text-preview --depth=1
+          git checkout FETCH_HEAD -- \
+            assets/questions/computer_engineering/1402 \
+            assets/questions/computer_engineering/1403 \
+            assets/questions/computer_engineering/1404 \
+            assets/contexts/computer_engineering/1404 \
+            assets/source/computer_engineering/1402 \
+            assets/source/computer_engineering/1403 \
+            assets/source/computer_engineering/1404 \
+            data/answer_keys/computer_engineering/key_1402.json \
+            data/answer_keys/computer_engineering/key_1403.json \
+            data/answer_keys/computer_engineering/key_1404.json \
+            data/questions/computer_engineering/exam_1402.json \
+            data/questions/computer_engineering/exam_1403.json \
+            data/questions/computer_engineering/exam_1404.json
+      - name: Validate restored exams
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import json
+
+          root = Path('.')
+          years = (1402, 1403, 1404, 1405)
+          total = 0
+          image_refs = 0
+          for year in years:
+              exam_path = root / f'data/questions/computer_engineering/exam_{year}.json'
+              key_path = root / f'data/answer_keys/computer_engineering/key_{year}.json'
+              assert exam_path.is_file(), exam_path
+              assert key_path.is_file(), key_path
+              exam = json.loads(exam_path.read_text(encoding='utf-8'))
+              questions = exam.get('questions', [])
+              assert len(questions) == 115, (year, len(questions))
+              assert exam.get('year') == year, (year, exam.get('year'))
+              assert exam.get('field') == 'مهندسی کامپیوتر', (year, exam.get('field'))
+              numbers = [q.get('number') for q in questions]
+              assert numbers == list(range(1, 116)), (year, numbers[:5], numbers[-5:])
+              for q in questions:
+                  image = q.get('image')
+                  if image:
+                      assert (root / image).is_file(), (year, q.get('number'), image)
+                      image_refs += 1
+                  for context_image in q.get('context_images', []) or []:
+                      assert (root / context_image).is_file(), (year, q.get('number'), context_image)
+              source = exam.get('source', {})
+              for key in ('questions_pdf', 'answer_key_pdf'):
+                  value = source.get(key)
+                  assert value and (root / value).is_file(), (year, key, value)
+              total += len(questions)
+              print('YEAR', year, 'QUESTIONS', len(questions))
+          assert (root / 'assets/questions/computer_engineering/1405').is_dir()
+          print('TOTAL_COMPUTER_QUESTIONS', total)
+          print('VALIDATED_IMAGE_REFS', image_refs)
+          PY
+          python -m py_compile master_exam_ui.py
+          if git diff --name-only HEAD | grep -E '(^|/)1405(/|$)|exam_1405\.json|key_1405\.json|arshad_computer_1405\.pdf|answer_key_computer_1405\.pdf'; then
+            echo 'Unexpected 1405 changes detected'
+            exit 1
+          fi
+      - name: Commit restored computer exams
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/questions/computer_engineering/1402 assets/questions/computer_engineering/1403 assets/questions/computer_engineering/1404 assets/contexts/computer_engineering/1404 assets/source/computer_engineering/1402 assets/source/computer_engineering/1403 assets/source/computer_engineering/1404 data/answer_keys/computer_engineering/key_1402.json data/answer_keys/computer_engineering/key_1403.json data/answer_keys/computer_engineering/key_1404.json data/questions/computer_engineering/exam_1402.json data/questions/computer_engineering/exam_1403.json data/questions/computer_engineering/exam_1404.json
+          git commit -m 'Restore computer engineering exams 1402-1404'
+          git push origin HEAD:main
